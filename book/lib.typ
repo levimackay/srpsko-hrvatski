@@ -22,6 +22,15 @@
   set text(font: bookfont, size: 9.6pt, lang: "en", hyphenate: true)
   set par(justify: true, leading: 0.52em, spacing: 0.62em)
   show heading: set text(font: bookfont)
+  // Chapter openers. Defined inline because Typst resolves identifiers at
+  // definition order within a module.
+  show heading.where(level: 1): it => {
+    pagebreak(weak: true, to: "odd")
+    v(1.0in)
+    block(below: 0.3em)[#text(size: 20pt, weight: "bold")[#it.body]]
+    line(length: 100%, stroke: 0.9pt)
+    v(0.85em)
+  }
   body
 }
 
@@ -40,20 +49,14 @@
 }
 
 // ---- chapter opener ------------------------------------------------------
+// Emits a real level-1 heading so #outline() can find it; the visual
+// treatment lives in the show rule below.
 #let chapter(title, sub: none) = {
-  pagebreak(weak: true, to: "odd")
-  v(1.1in)
-  block[
-    #set text(size: 20pt, weight: "bold")
-    #title
-  ]
+  heading(level: 1, outlined: true, bookmarked: true, numbering: none)[#title]
   if sub != none {
-    v(0.15em)
-    block[#set text(size: 10pt, style: "italic", fill: luma(90)); #sub]
+    v(-0.5em)
+    block[#text(size: 10pt, style: "italic", fill: luma(90))[#sub]]
   }
-  v(0.3em)
-  line(length: 100%, stroke: 0.9pt)
-  v(0.9em)
 }
 
 // ---- the ° provenance marker --------------------------------------------

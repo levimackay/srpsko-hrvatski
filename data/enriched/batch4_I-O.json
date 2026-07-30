@@ -1,0 +1,3056 @@
+[
+ {
+  "pos": "(Conj)",
+  "example": "i ja i ti idemo - both you and I are going",
+  "id": 2244
+ },
+ {
+  "stress": "i*A*ko",
+  "example": "iako je hladno, idemo napolje - although it's cold, we're going outside",
+  "note": "Everything after \"(Conj)\" in this entry is bleed from a different entry (the long hvatati/uhvatiti dictionary dump: \"bandit) 2. to catch; to trap...\"). It does not belong to iako.",
+  "id": 2247
+ },
+ {
+  "stress": "*I*čiji",
+  "pos": "(adj)",
+  "resolves": "ičiji = anyone's",
+  "note": "It is a real word - the i- series (ikakav, ikada, igdje) applied to čiji. Rare, mostly in questions and negatives, but it exists.",
+  "id": 2248
+ },
+ {
+  "pos": "(Verb)",
+  "stress": "*I*ći",
+  "example": "moramo ići kući - we need to go home",
+  "id": 2249
+ },
+ {
+  "pos": "(adj)",
+  "note": "\"igdje?\" at the end of this line is a stray headword that got merged in - igdje = anywhere.",
+  "id": 2250
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*I*gla",
+  "id": 2251
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*I*gra",
+  "example": "ova igra je zabavna - this game is fun",
+  "id": 2252
+ },
+ {
+  "pos": "(Verb)",
+  "stress": "*I*grati",
+  "example": "djeca igraju fudbal u parku - the kids are playing soccer in the park",
+  "id": 2253
+ },
+ {
+  "pos": "(Verb)",
+  "note": "Worth double-checking: igrati se is normally \"to play\" (kids, playing around), and plain igrati is the one that also means \"to dance\" (igrati kolo). The two definitions here may be swapped.",
+  "id": 2254
+ },
+ {
+  "pos": "(Conj)",
+  "stress": "*I*li",
+  "example": "čaj ili kafa? - tea or coffee?",
+  "id": 2255
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*I*me",
+  "example": "moje ime je Levi - my name is Levi",
+  "id": 2256
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "i*ME*nica",
+  "id": 2257
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*IN*dija",
+  "id": 2258
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(a)",
+  "note": "Gen. Pl. is Indijaca, so the \"a\" stays - (a) confirmed.",
+  "id": 2259
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2260
+ },
+ {
+  "pos": "(adj)",
+  "id": 2261
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "trebam više informacija - I need more information",
+  "id": 2262
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2263
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2264
+ },
+ {
+  "pos": "(Verb)",
+  "note": "Headword looks off - I can't find \"intiratirati\" anywhere. The word you probably want is interagirati (Hrv) / interreagovati (Srp). Worth checking the original page.",
+  "id": 2265
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2266
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*I*rac",
+  "id": 2268
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*IR*kinja",
+  "id": 2269
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2270
+ },
+ {
+  "pos": "(adj)",
+  "id": 2271
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "example": "isključi svjetlo prije spavanja - turn off the light before bed",
+  "id": 2272
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2273
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2274
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2275
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2276
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2277
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "ispeći is perfective - peći is the imperfective it pairs with.",
+  "id": 2278
+ },
+ {
+  "example": "mačka je ispod stola - the cat is under the table",
+  "id": 2279
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2280
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2281
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(a) (k->c)",
+  "note": "-ak noun: Gen. Pl. ispravaka keeps the a, Nom. Pl. ispravci does the k->c. Both confirmed.",
+  "id": 2282
+ },
+ {
+  "pos": "(adj)",
+  "id": 2283
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Imp)",
+  "note": "ispričavati is the imperfective (ispričati is the perfective). Also worth a look at the gloss: ispričavati (se) is closer to \"to apologize / excuse oneself\" than \"to forgive\" - oprostiti is the one that means forgive.",
+  "id": 2284
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2285
+ },
+ {
+  "pos": "(adj)",
+  "stress": "*I*sti",
+  "example": "to je isti čovjek - that's the same man",
+  "id": 2287
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*I*stok",
+  "id": 2293
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "is*TO*rija",
+  "id": 2294
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*I*sus",
+  "example": "Isus Krist je naš Spasitelj - Jesus Christ is our Savior",
+  "id": 2295
+ },
+ {
+  "pos": "(excl)",
+  "id": 2296
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "I*TA*lija",
+  "id": 2297
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2298
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "itali*JAN*ka",
+  "id": 2299
+ },
+ {
+  "example": "ja sam iz Amerike - I'm from America",
+  "id": 2300
+ },
+ {
+  "stress": "*I*za",
+  "id": 2301
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2302
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Imp)",
+  "note": "izbjegavati is the imperfective of the pair.",
+  "id": 2304
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf) (rel: izbjegavati)",
+  "note": "izbjeći is the perfective, izbjegavati the imperfective - the pair is confirmed.",
+  "id": 2305
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2306
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2307
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "iz*DA*vač",
+  "id": 2308
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2309
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*IZ*gled",
+  "id": 2310
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "example": "izgledaš umorno - you look tired",
+  "id": 2311
+ },
+ {
+  "pos": "(adj)",
+  "resolves": "pronounced (passive participle of izgovoriti)",
+  "note": "Yes - izgovoren is the passive participle, \"pronounced / spoken (aloud)\".",
+  "id": 2312
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "resolves": "to pronounce (Perf)",
+  "note": "Confirmed: izgovoriti = to pronounce, to utter. Perfective; izgovarati is the imperfective.",
+  "example": "teško mi je izgovoriti ovu riječ - it's hard for me to pronounce this word",
+  "id": 2313
+ },
+ {
+  "pos": "(Verb)",
+  "example": "izgubio sam ključeve - I lost my keys",
+  "id": 2314
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2315
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2316
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2317
+ },
+ {
+  "example": "avion leti iznad grada - the plane is flying above the city",
+  "id": 2318
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2319
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*IZ*reka",
+  "resolves": "(k->c)",
+  "note": "D/L Sg. is izreci, so the k->c is confirmed.",
+  "id": 2320
+ },
+ {
+  "pos": "(Pron)",
+  "id": 2321
+ },
+ {
+  "stress": "*JA*dan",
+  "id": 2322
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2323
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*JAD*nik",
+  "declension": "(k->c)",
+  "note": "-nik noun, so (k->c) by your own rule: Nom. Pl. jadnici.",
+  "id": 2325
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "izrezati is perfective; rezati / izrezivati are the imperfectives.",
+  "id": 2326
+ },
+ {
+  "pos": "(Verb)",
+  "example": "izvini, nisam te čuo - sorry, I didn't hear you",
+  "id": 2328
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2329
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2330
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2331
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2332
+ },
+ {
+  "note": "This looks like a duplicate of the next entry (Jadran) that lost its capital letter - the sea is always capitalized.",
+  "id": 2333
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2336
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(a)",
+  "note": "Gen. Pl. jaganjaca - the a stays.",
+  "id": 2337
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*JA*goda",
+  "id": 2338
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*JA*hač",
+  "id": 2339
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*JAH*ta",
+  "id": 2340
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*JAJ*nik",
+  "declension": "(k->c)",
+  "note": "-nik noun, so (k->c): Nom. Pl. jajnici (which is exactly the next entry).",
+  "id": 2341
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2344
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*JAK*na",
+  "example": "obuci jaknu, hladno je - put on your jacket, it's cold",
+  "id": 2345
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2346
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(a)",
+  "note": "Gen. Pl. jazavaca.",
+  "id": 2347
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2348
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*JA*vor",
+  "id": 2349
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2353
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2354
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2355
+ },
+ {
+  "pos": "(excl)",
+  "id": 2356
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*JE*čam",
+  "id": 2357
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2358
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2359
+ },
+ {
+  "stress": "*JE*dan",
+  "id": 2360
+ },
+ {
+  "stress": "je*DA*naest",
+  "id": 2361
+ },
+ {
+  "stress": "jedno*STA*van",
+  "id": 2363
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*JE*dro",
+  "id": 2365
+ },
+ {
+  "pos": "(adv)",
+  "stress": "*JED*va",
+  "id": 2366
+ },
+ {
+  "stress": "*JEF*tin",
+  "example": "ovaj hotel je jeftin - this hotel is cheap",
+  "id": 2367
+ },
+ {
+  "gender": "(f)",
+  "id": 2372
+ },
+ {
+  "pos": "(Verb)",
+  "note": "I can't confirm jeftinovati / jeftinovanje / jeftinovatelj / jeftinovateljica (2373-2376) as real words - they look like they were built by analogy. The normal way to say it is pojeftiniti (to get cheaper) / pojeftinjenje, or sniziti cijenu. Worth checking these four with a native before they go in.",
+  "id": 2373
+ },
+ {
+  "gender": "(Noun)",
+  "note": "See the note on jeftinovati - this whole group of four needs verifying.",
+  "id": 2374
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "See the note on jeftinovati - this whole group of four needs verifying.",
+  "id": 2375
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "See the note on jeftinovati - this whole group of four needs verifying.",
+  "id": 2376
+ },
+ {
+  "pos": "(adv)",
+  "example": "jesi li još tu? - are you still there?",
+  "id": 2377
+ },
+ {
+  "stress": "*JU*čer",
+  "example": "jučer sam bio u Zagrebu - yesterday I was in Zagreb",
+  "id": 2380
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2381
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2382
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2383
+ },
+ {
+  "pos": "(adj)",
+  "id": 2384
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*JU*tro",
+  "example": "dobro jutro! - good morning!",
+  "id": 2385
+ },
+ {
+  "pos": "(adj)",
+  "id": 2386
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "ka*BA*nica",
+  "note": "Your -nica rule gives it: stress the syllable right before -nica, so ka*BA*nica is right.",
+  "id": 2390
+ },
+ {
+  "stress": "*KA*da",
+  "id": 2391
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KA*fa",
+  "example": "hoćeš li kafu? - do you want a coffee?",
+  "id": 2392
+ },
+ {
+  "pos": "(Pron)",
+  "stress": "*KA*kav",
+  "id": 2394
+ },
+ {
+  "stress": "*KA*ko",
+  "example": "kako si? - how are you?",
+  "id": 2395
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KA*men",
+  "id": 2396
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2397
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2398
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KA*nada",
+  "id": 2400
+ },
+ {
+  "pos": "(adj)",
+  "id": 2401
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2402
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "kana*ĐAN*ka",
+  "note": "Same shape as your meksi*KAN*ka, so kana*ĐAN*ka is right.",
+  "id": 2403
+ },
+ {
+  "pos": "(Conj)",
+  "example": "trči kao vjetar - he runs like the wind",
+  "id": 2404
+ },
+ {
+  "note": "Almost certainly should be \"kao što\" - the š lost its caron somewhere.",
+  "id": 2405
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2406
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Imp) (br: skapirati)",
+  "note": "kapirati is imperfective and skapirati is the perfective - both confirmed, both very much street language.",
+  "id": 2407
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2408
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2409
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KAR*lovac",
+  "id": 2410
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KAR*ta",
+  "example": "trebam kartu za autobus - I need a bus ticket",
+  "id": 2411
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KA*šika",
+  "declension": "(k->c)",
+  "note": "D/L Sg. kašici.",
+  "id": 2412
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2413
+ },
+ {
+  "pos": "(adv)",
+  "stress": "*KAT*kad",
+  "id": 2414
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KA*va",
+  "id": 2415
+ },
+ {
+  "pos": "(Verb)",
+  "note": "kazati is usually treated as perfective (kazivati is the imperfective), but you will hear it used both ways - I wouldn't lock it down without asking someone.",
+  "id": 2416
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Imp)",
+  "note": "kazivati is the imperfective of the pair.",
+  "id": 2417
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KĆER*ka",
+  "id": 2418
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2419
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KE*sa",
+  "id": 2421
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KIČ*ma",
+  "resolves": "(Bos) (Srp)",
+  "note": "kičma is the Bosnian/Serbian word, yes. Croatian standard prefers kralježnica.",
+  "id": 2422
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2423
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "peanut / peanuts - one singular masculine noun covering both",
+  "note": "kikiriki is a mass noun: \"peanuts\" as a substance. For one single peanut people say zrno kikirikija.",
+  "id": 2424
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KI*na",
+  "id": 2425
+ },
+ {
+  "pos": "(adj)",
+  "id": 2426
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2427
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2428
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2429
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KI*sik",
+  "note": "kisik is the Croatian word; in Serbian it's kiseonik. Might be worth marking (Hrv).",
+  "id": 2430
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KI*ša",
+  "example": "pada kiša - it's raining",
+  "id": 2431
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "ki*ŠO*bran",
+  "id": 2432
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2435
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2436
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Imp)",
+  "note": "kliziti is imperfective (kliznuti is the perfective).",
+  "id": 2437
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "gdje su mi ključevi? - where are my keys?",
+  "id": 2438
+ },
+ {
+  "note": "Two things here: the pronunciation drops a letter (the word is ključaonica), and the stress doesn't match your own -nica rule or your kladi*O*nica right above it. It should probably be ključa*O*nica.",
+  "id": 2439
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2440
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KNJI*ga",
+  "example": "čitam dobru knjigu - I'm reading a good book",
+  "id": 2441
+ },
+ {
+  "pos": "(Pron)",
+  "id": 2442
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KOČ*nica",
+  "id": 2446
+ },
+ {
+  "example": "bio sam kod doktora - I was at the doctor's",
+  "id": 2447
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2448
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KO*fer",
+  "id": 2449
+ },
+ {
+  "pos": "(Pron)",
+  "stress": "*KO*ji",
+  "id": 2450
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2454
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KO*lac",
+  "id": 2456
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KO*lač",
+  "resolves": "(e)",
+  "note": "Instrumental is kolačem, so (e) is right - č is a soft consonant.",
+  "id": 2457
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "On the (g->z?): it doesn't apply here. D/L Sg. is kolegi, not \"kolezi\". kolega declines like a feminine a-stem but takes masculine agreement.",
+  "id": 2458
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2459
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "koli*ČI*na",
+  "resolves": "not Croatian-only",
+  "note": "količina is standard everywhere - Srp, Hrv and Bos all use it. The (Hrv?) can come off.",
+  "id": 2462
+ },
+ {
+  "stress": "*KO*liko",
+  "example": "koliko ovo košta? - how much does this cost?",
+  "id": 2463
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*KO*lo",
+  "resolves": "wheel - and also the circle dance",
+  "note": "Yes, kolo = wheel. It's also the name of the circle folk dance everybody gets dragged into at weddings, which is the meaning you'll hear more often.",
+  "id": 2464
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KO*lovoz",
+  "id": 2465
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "ko*MA*rac",
+  "resolves": "(a)",
+  "note": "Gen. Pl. komaraca - the a stays.",
+  "id": 2467
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2468
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2472
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "*KOM*šija (Anim)",
+  "note": "Stress is on the first syllable, so *KOM*šija is right, and it is animate. It declines like a feminine a-stem (komšija, komšije, komšiji) but takes masculine agreement: dobar komšija.",
+  "id": 2474
+ },
+ {
+  "pos": "(adj)",
+  "id": 2475
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2477
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2478
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2479
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2480
+ },
+ {
+  "pos": "(Verb)",
+  "stress": "*KO*pati",
+  "id": 2481
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2482
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2483
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KO*rak",
+  "id": 2484
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KO*reja",
+  "id": 2485
+ },
+ {
+  "pos": "(adj)",
+  "id": 2486
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KO*rijen",
+  "id": 2487
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2488
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2489
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2490
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KO*rov",
+  "resolves": "(Unc)",
+  "note": "korov is a mass noun - \"weeds\" collectively. You'd say korovi only for different kinds of weed.",
+  "id": 2491
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KO*sa",
+  "example": "ima dugu kosu - she has long hair",
+  "id": 2492
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KO*sa",
+  "id": 2493
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2494
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KOŠ*nica",
+  "id": 2496
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "ko*VA*nica",
+  "resolves": "kovanica = a coin",
+  "note": "Two things: this line lost its \"|\" so the headword and definition ran together. And kovanica has a second meaning worth knowing - in grammar it's a coined/compound word.",
+  "id": 2497
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KOV*čeg",
+  "id": 2498
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KO*ža",
+  "id": 2500
+ },
+ {
+  "pos": "(adj)",
+  "id": 2501
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2502
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2503
+ },
+ {
+  "pos": "(adj)",
+  "id": 2504
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2506
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2507
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2508
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2509
+ },
+ {
+  "pos": "(adj)",
+  "stress": "*KRA*tak",
+  "id": 2510
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KRA*va",
+  "id": 2511
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "kra*VA*ta",
+  "note": "Stress on the middle syllable - kra*VA*ta is right.",
+  "id": 2512
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2513
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*KRE*vet",
+  "example": "idem u krevet - I'm going to bed",
+  "id": 2514
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "kri*JE*snica",
+  "id": 2515
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*KRI*lo",
+  "id": 2516
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2517
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "krme is one of those -e/-eta neuters: krme, krmeta, krmetu. Same pattern as dijete and june.",
+  "id": 2518
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2519
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2520
+ },
+ {
+  "example": "prošli smo kroz grad - we went through the city",
+  "id": 2521
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2522
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2523
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "kupio sam kruh - I bought bread",
+  "id": 2524
+ },
+ {
+  "pos": "(adj)",
+  "id": 2525
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KRU*ška",
+  "resolves": "(+a)",
+  "note": "Gen. Pl. is krušaka, so (+a) is confirmed. I left the (k->c?) alone on purpose - the books give D/L krušci but plenty of people say kruški, so that one's worth asking a native about.",
+  "id": 2526
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2527
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2528
+ },
+ {
+  "pos": "(adj)",
+  "id": 2530
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "(+a)",
+  "note": "Gen. Pl. krzana - it gains the a.",
+  "id": 2531
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "stress": "*KU*cati",
+  "id": 2532
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KU*ća",
+  "example": "njihova kuća je velika - their house is big",
+  "id": 2533
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KU*gla",
+  "id": 2537
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2538
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "stress": "*KU*hati",
+  "example": "moja mama odlično kuha - my mom cooks great",
+  "id": 2539
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*KU*la",
+  "id": 2540
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "kulen = a spiced dry-cured sausage, not pepperoni",
+  "note": "kulen is the Slavonian/Srijem paprika sausage - closer to a spicy salami than to pizza pepperoni. It's a regional pride thing, so people will correct you on it.",
+  "id": 2541
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(a) (k->c)",
+  "note": "Gen. Pl. kundaka keeps the a, Nom. Pl. kundaci does the k->c. Both confirmed.",
+  "id": 2542
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2543
+ },
+ {
+  "pos": "(Verb)",
+  "example": "moram kupiti hljeb - I need to buy bread",
+  "id": 2544
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2545
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(br: skužiti)",
+  "note": "skužiti is a real word and is the perfective - confirmed.",
+  "id": 2546
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2547
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LA*đa",
+  "id": 2548
+ },
+ {
+  "pos": "(adj)",
+  "id": 2549
+ },
+ {
+  "pos": "(adj)",
+  "id": 2551
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LAM*pa",
+  "id": 2552
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*LA*nac",
+  "note": "The \"laziti dolaziti\" hanging off the end of this line is the start of the laziti branch group bleeding in - it isn't part of lanac.",
+  "id": 2554
+ },
+ {
+  "note": "\"odlaziti polaziti\" at the end of this line belongs to the laziti group, not to izlaziti iz.",
+  "id": 2555
+ },
+ {
+  "note": "This one lost its definition. prelaziti preko = to cross over / to go over something (+ Instrumental or preko + Gen).",
+  "id": 2556
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2557
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "yes - always Neuter Plural",
+  "note": "leđa has no singular. Always neuter plural: leđa, leđa, leđima.",
+  "id": 2558
+ },
+ {
+  "pos": "(adj)",
+  "id": 2560
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*LEP*tir",
+  "id": 2562
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "stress": "*LE*tjeti",
+  "id": 2563
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*LI*ce",
+  "id": 2565
+ },
+ {
+  "pos": "(adj)",
+  "id": 2567
+ },
+ {
+  "pos": "(adj)",
+  "example": "danas je lijep dan - today is a beautiful day",
+  "id": 2569
+ },
+ {
+  "resolves": "\"kind regards\" / \"best wishes\" - how you sign off a message",
+  "note": "lijep pozdrav (lp.) is the standard sign-off at the bottom of an email or text. Literally \"a beautiful greeting\". You'll see it abbreviated lp. constantly.",
+  "id": 2570
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2571
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2574
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2575
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2576
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2577
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LI*sica",
+  "id": 2579
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2580
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*LI*stopad",
+  "id": 2581
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2583
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LI*tica",
+  "id": 2584
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "The (Srp) marker fights with the (ije) here - in Serbian Ekavian it's lepak. ljepak is the Ijekavian form you hear in Bosnia and Montenegro. Worth deciding which one you meant.",
+  "id": 2585
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2586
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "lje*PO*ta",
+  "id": 2587
+ },
+ {
+  "pos": "(adj)",
+  "note": "The root is probably meant to be lijep (your entry above), not \"ljep\" - ljep isn't a word on its own.",
+  "id": 2588
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2589
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*LJE*to",
+  "id": 2591
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LJU*bav",
+  "example": "ljubav je najvažnija - love is the most important thing",
+  "id": 2592
+ },
+ {
+  "pos": "(adj)",
+  "stress": "lju*BA*zan",
+  "id": 2593
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2594
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2595
+ },
+ {
+  "pos": "(adj)",
+  "stress": "lju*BI*čast",
+  "id": 2596
+ },
+ {
+  "pos": "(adj)",
+  "id": 2597
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2598
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2599
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LJU*ska",
+  "id": 2600
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2601
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "lju*LJA*čka",
+  "id": 2603
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2604
+ },
+ {
+  "pos": "(adj)",
+  "id": 2605
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2606
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*LO*kot",
+  "id": 2607
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*LO*nac",
+  "id": 2608
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2609
+ },
+ {
+  "pos": "(adj)",
+  "example": "vrijeme je danas loše - the weather is bad today",
+  "id": 2610
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*LO*vac",
+  "resolves": "(a)",
+  "note": "Gen. Pl. lovaca - the a stays.",
+  "id": 2611
+ },
+ {
+  "note": "\"ložiti\" on the end of this line is the head of the next branch group, not part of the chess entry.",
+  "id": 2612
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2613
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2614
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2615
+ },
+ {
+  "pos": "(Verb)",
+  "note": "Double-check this gloss: složiti se overwhelmingly means \"to agree (with someone)\". \"To boil down to\" is svesti se na / svoditi se na.",
+  "id": 2616
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LU*banja",
+  "note": "\"lučiti\" at the end is the head of the next branch group bleeding in.",
+  "id": 2617
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2618
+ },
+ {
+  "pos": "(adj)",
+  "example": "ti si lud! - you're crazy!",
+  "id": 2619
+ },
+ {
+  "pos": "(adj)",
+  "id": 2620
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(Unc)",
+  "note": "luk is a mass noun - one onion is glavica luka. Also worth knowing: crni luk = onion, bijeli luk = garlic (in Croatia you'll hear češnjak for garlic instead).",
+  "id": 2621
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2622
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LU*ka",
+  "id": 2623
+ },
+ {
+  "pos": "(adj)",
+  "resolves": "cunning, sly - confirmed",
+  "note": "Yep, lukav = sly/crafty. Same root as the fox's reputation.",
+  "id": 2625
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*LU*trija",
+  "id": 2626
+ },
+ {
+  "note": "Duplicate of the ljubav entry earlier in the L section - one of the two can probably go.",
+  "id": 2627
+ },
+ {
+  "pos": "(adj)",
+  "id": 2628
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2629
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2630
+ },
+ {
+  "pos": "(adj)",
+  "id": 2631
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2632
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Imp)",
+  "note": "ljuljati is imperfective; the perfective is zaljuljati.",
+  "id": 2634
+ },
+ {
+  "pos": "(adj)",
+  "id": 2636
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2638
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2639
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2641
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MAČ*ka",
+  "note": "Heads up for the K-section pattern: mačka does NOT sibilarize. D/L Sg. is mački, not \"mačci\".",
+  "id": 2642
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2644
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2645
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2646
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MA*jica",
+  "id": 2647
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MAJ*ka",
+  "example": "moja majka je iz Bosne - my mother is from Bosnia",
+  "id": 2648
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(Bos) (Srp)",
+  "note": "makaze is Serbian and Bosnian; Croatian uses škare. Both are feminine plural only.",
+  "id": 2651
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "Probably wants a capital M - Makedonka, since it's a nationality.",
+  "id": 2652
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "maknuti is perfective; micati / maknjivati is the imperfective side.",
+  "id": 2653
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2655
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MA*ma",
+  "id": 2657
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "ma*RA*ma",
+  "note": "Check this gloss - marama is a headscarf or kerchief (the kind baka wears), not a balaclava. A balaclava is fantomka / skijaška maska.",
+  "id": 2658
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "ma*RA*mica",
+  "note": "Stress stays where it is in marama, so ma*RA*mica is right. Gloss is worth a look too: maramica is a tissue or handkerchief - a table napkin is salveta.",
+  "id": 2659
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MAR*ka",
+  "id": 2660
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2661
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2662
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2663
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MA*ska",
+  "id": 2664
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2665
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "mate*MA*tika",
+  "id": 2666
+ },
+ {
+  "pos": "(adj)",
+  "id": 2669
+ },
+ {
+  "pos": "(adj)",
+  "id": 2670
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2671
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2672
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*MEK*siko",
+  "id": 2673
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2674
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*ME*tar",
+  "id": 2675
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*ME*tla",
+  "id": 2676
+ },
+ {
+  "note": "Big bleed on this line: everything after \"we (Pro)\" is the mijeniti branch group (mijeniti, izmijeniti, primijeniti, promijeniti, razmijeniti, zamijeniti, mijenjati...) that got flattened into the mi entry. That group needs to be pulled back out into its own entries.",
+  "id": 2677
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "mili*JAR*da",
+  "id": 2678
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2679
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2680
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2681
+ },
+ {
+  "pos": "(adj)",
+  "id": 2682
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*MI*ris",
+  "id": 2683
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2684
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MI*sa",
+  "id": 2686
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2687
+ },
+ {
+  "pos": "(Verb)",
+  "stress": "*MI*sliti",
+  "resolves": "(Imp)",
+  "note": "misliti is imperfective, not perfective - the (Perf?) should come off. The perfectives are the prefixed ones you already list (pomisliti, razmisliti, zamisliti).",
+  "example": "šta misliš o tome? - what do you think about that?",
+  "id": 2688
+ },
+ {
+  "pos": "(Verb)",
+  "note": "I can't confirm \"mišljati\" as a standalone word - the imperfective you actually hear is razmišljati (or promišljati). Worth checking whether this was meant to be razmišljati.",
+  "id": 2690
+ },
+ {
+  "gender": "(f)",
+  "id": 2691
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "id": 2693
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*MJE*sec",
+  "example": "koji je ovo mjesec? - what month is this?",
+  "id": 2694
+ },
+ {
+  "id": 2698,
+  "note": "The tail on this line (\"mjeti (ije) smjeti (ije) umjeti (ije)\") is the head of the next branch group bleeding in - it isn't part of mjesečni."
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "nominative is mlijeko",
+  "note": "The headword here is the genitive/partitive form. The dictionary form is mlijeko (neuter) - mlijeka is what you get after čaša (a glass of milk), which is probably how you first wrote it down.",
+  "example": "popio sam čašu mlijeka - I drank a glass of milk",
+  "id": 2699
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2700
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2702
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2703
+ },
+ {
+  "pos": "(Verb)",
+  "example": "ne mogu ti pomoći - I can't help you",
+  "id": 2704
+ },
+ {
+  "pos": "(adj)",
+  "id": 2705
+ },
+ {
+  "pos": "(adj)",
+  "id": 2706
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2707
+ },
+ {
+  "pos": "(Pron)",
+  "id": 2709
+ },
+ {
+  "pos": "(adj)",
+  "stress": "*MO*kar",
+  "id": 2710
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2711
+ },
+ {
+  "pos": "(Verb)",
+  "example": "molimo se svako jutro - we pray every morning",
+  "id": 2713
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*MO*re",
+  "example": "idemo na more - we're going to the seaside",
+  "id": 2714
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2716
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2717
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*MO*zak",
+  "id": 2718
+ },
+ {
+  "pos": "(adj)",
+  "stress": "*MRA*čan",
+  "id": 2719
+ },
+ {
+  "example": "knjiga je na stolu - the book is on the table",
+  "id": 2720
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2722
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2723
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2724
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*NA*čin",
+  "id": 2725
+ },
+ {
+  "resolves": "in that way - confirmed",
+  "note": "Yes, na taj način = in that way / like that. Very common.",
+  "id": 2726
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "načiniti is perfective (činiti is the imperfective).",
+  "id": 2727
+ },
+ {
+  "pos": "(Verb)",
+  "note": "Aspect looks flipped here: naći is perfective and nalaziti is the imperfective it pairs with. Worth fixing.",
+  "id": 2728
+ },
+ {
+  "note": "Two things: nad takes the Instrumental (nad stolom), or the Accusative with motion - not the Genitive. And the sentence cuts off mid-air; the rest of it ('\"above\" as it relates to superiority.)') ended up stuck on the muzika entry.",
+  "id": 2730
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2731
+ },
+ {
+  "pos": "(adj)",
+  "id": 2732
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MRK*va",
+  "id": 2733
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MRŽ*nja",
+  "id": 2734
+ },
+ {
+  "pos": "(Verb)",
+  "stress": "*MU*čiti",
+  "resolves": "(Imp)",
+  "note": "mučiti is imperfective. The perfective is izmučiti / namučiti.",
+  "id": 2735
+ },
+ {
+  "pos": "(adj)",
+  "id": 2736
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2737
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MU*ha",
+  "id": 2738
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*MU*nja",
+  "id": 2739
+ },
+ {
+  "pos": "(adj)",
+  "id": 2742
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "*MU*zika",
+  "note": "Stress is on the first syllable - *MU*zika is right. Separately, the '\"above\" as it relates to superiority.)' tail on this line is the end of your nad entry that got dragged down here.",
+  "id": 2743
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*NAF*ta",
+  "id": 2744
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2745
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "*NA*grada",
+  "note": "First syllable - *NA*grada is right.",
+  "id": 2746
+ },
+ {
+  "pos": "(adv)",
+  "resolves": "(Adv)",
+  "note": "naime works as an adverb/particle: \"namely, that is to say\". It doesn't decline.",
+  "id": 2747
+ },
+ {
+  "stress": "*NA*kon",
+  "id": 2750
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(Hrv) - and used in Bosnia too",
+  "note": "Sorting the three of them out: naočale is the Croatian standard, naočare the Serbian standard, naočari a colloquial Serbian/Montenegrin variant. All three are feminine plural.",
+  "id": 2752
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(Srp)",
+  "note": "naočare is the Serbian standard form - see the note on naočale.",
+  "id": 2753
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(Srp) colloquial",
+  "note": "naočari is the colloquial variant - see the note on naočale.",
+  "id": 2754
+ },
+ {
+  "resolves": "stays an adverb - it doesn't case",
+  "note": "To answer your own question: naopako is an adverb and doesn't decline. There is a separate adjective naopak (naopaka, naopako) that does.",
+  "id": 2755
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2756
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2757
+ },
+ {
+  "pos": "(Verb)",
+  "example": "moram napisati pismo - I need to write a letter",
+  "id": 2758
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2759
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(k->c) (-t)",
+  "note": "Gen. Sg. is napretka (that's your d->t), Nom. Pl. napreci - so both the k->c and the -t hold. The plural is rare in practice.",
+  "id": 2760
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2761
+ },
+ {
+  "pos": "(adv)",
+  "id": 2762
+ },
+ {
+  "gender": "(f)",
+  "note": "naranča is the Croatian form; Serbian is narandža (which matches your narandžast on the next line).",
+  "id": 2763
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(FE)",
+  "note": "narav is a feminine i-stem: narav, naravi, naravi. (FE) confirmed.",
+  "id": 2765
+ },
+ {
+  "pos": "(adj)",
+  "id": 2766
+ },
+ {
+  "pos": "(adj)",
+  "id": 2768
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2769
+ },
+ {
+  "pos": "(adj)",
+  "id": 2770
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2772
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2773
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2774
+ },
+ {
+  "pos": "(Pron)",
+  "id": 2775
+ },
+ {
+  "pos": "(Verb)",
+  "example": "želim naučiti hrvatski - I want to learn Croatian",
+  "id": 2777
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "naviknuti is perfective; navikavati is the imperfective.",
+  "id": 2778
+ },
+ {
+  "example": "ne, hvala - no, thank you",
+  "id": 2780
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*NE*bo",
+  "id": 2782
+ },
+ {
+  "id": 2783,
+  "gender": "(Noun)",
+  "note": "nebesa is the (elevated / religious) plural of nebo - neuter plural, nebesa/nebesa/nebesima."
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*NE*djelja",
+  "example": "u nedjelju idemo u crkvu - on Sunday we go to church",
+  "id": 2785
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "The (Srp) and (ije) clash a bit - Serbian Ekavian writes nedelja. nedjelja for \"week\" is what you hear in Bosnia and Montenegro. Croatian would use tjedan.",
+  "id": 2788
+ },
+ {
+  "pos": "(adj)",
+  "id": 2789
+ },
+ {
+  "pos": "(adv)",
+  "id": 2791
+ },
+ {
+  "pos": "(Conj)",
+  "stress": "*NE*go",
+  "id": 2792
+ },
+ {
+  "pos": "(adv)",
+  "id": 2796
+ },
+ {
+  "pos": "(adv)",
+  "id": 2797
+ },
+ {
+  "pos": "(Verb)",
+  "example": "nemam vremena - I don't have time",
+  "id": 2798
+ },
+ {
+  "pos": "(adj)",
+  "id": 2800
+ },
+ {
+  "pos": "(adj)",
+  "id": 2801
+ },
+ {
+  "pos": "(Conj)",
+  "id": 2802
+ },
+ {
+  "pos": "(adv)",
+  "id": 2804
+ },
+ {
+  "note": "\"nijeti donijeti\" on the end of this line is the head of the next branch group - it isn't part of nijedan.",
+  "id": 2805
+ },
+ {
+  "stress": "*NI*kada",
+  "example": "nikada nisam bio u Sarajevu - I have never been to Sarajevo",
+  "id": 2809
+ },
+ {
+  "pos": "(adj)",
+  "stress": "*NI*kakav",
+  "id": 2810
+ },
+ {
+  "pos": "(adj)",
+  "stress": "*NI*zak",
+  "id": 2812
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(Adj) - yes, it declines like an adjective",
+  "note": "Nizozemska takes adjective endings, same as your Irska and Norveška. Also note it's the Croatian name - Serbian says Holandija.",
+  "id": 2813
+ },
+ {
+  "pos": "(adj)",
+  "id": 2814
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "Headword looks like a typo: the Ijekavian nominative is Nijemac (which is why the accusative on your next line is Nijemca). Njemac isn't a form - the je only shows up in the oblique cases and in Njemica / Njemačka.",
+  "id": 2815
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2817
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2818
+ },
+ {
+  "pos": "(adj)",
+  "id": 2819
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2820
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*NO*ga",
+  "id": 2822
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2823
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*NO*kat",
+  "id": 2824
+ },
+ {
+  "resolves": "noktiju = of the nails (Gen. Pl.)",
+  "note": "This line lost its definition. noktiju is the genitive plural of nokat.",
+  "id": 2825
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2827
+ },
+ {
+  "pos": "(adj)",
+  "id": 2828
+ },
+ {
+  "pos": "(adj)",
+  "id": 2831
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2832
+ },
+ {
+  "pos": "(adj)",
+  "id": 2834
+ },
+ {
+  "pos": "(adj)",
+  "id": 2835
+ },
+ {
+  "pos": "(adj)",
+  "id": 2837
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2839
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2840
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "stress": "*NO*siti",
+  "example": "nosim naočale - I wear glasses",
+  "id": 2841
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2842
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*NO*vac",
+  "example": "nemam novca - I don't have any money",
+  "id": 2843
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2844
+ },
+ {
+  "pos": "(adj)",
+  "id": 2845
+ },
+ {
+  "pos": "(adj)",
+  "id": 2846
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2847
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2849
+ },
+ {
+  "id": 2850,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "novosti is the plural of novost and is the ordinary word for \"the news\"."
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2851
+ },
+ {
+  "pos": "(Verb)",
+  "stress": "*NU*diti",
+  "id": 2852
+ },
+ {
+  "gender": "(f)",
+  "stress": "*NU*la",
+  "id": 2853
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "Just so it's on record: the plain meaning of njuh is the sense of smell (a dog's njuh). The \"flair / good instincts\" meaning you describe is the figurative one - imati njuh za nešto.",
+  "id": 2857
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*NJU*ška",
+  "id": 2858
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "The pronunciation and the headword don't match - the notation spells obavjest but the word is obavijest. Also the stressed syllable looks off by one; I'd check it out loud before trusting it.",
+  "id": 2859
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(a) (k->c) (z->s)",
+  "note": "All three hold, exactly like your odlazak entry: Gen. Sg. obilaska (z->s), Nom. Pl. obilasci (k->c), Gen. Pl. obilazaka (keeps the a).",
+  "id": 2860
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "moja obitelj živi u Americi - my family lives in America",
+  "id": 2861
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2862
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*O*braz",
+  "id": 2863
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2864
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "obrt = a registered trade / craft business",
+  "note": "It's the legal form a one-person tradesman operates under - a plumber, baker or barber signs their shop as an obrt. That's why it only ever shows up on business signs.",
+  "id": 2867
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "ocean is the Croatian spelling; Serbian writes okean.",
+  "id": 2868
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*O*cjena",
+  "note": "Besides a school grade it also means a rating or assessment generally. Ekavian form is ocena.",
+  "id": 2869
+ },
+ {
+  "pos": "(adj)",
+  "id": 2870
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(h->s)",
+  "note": "Nom. Pl. očusi, same change as your orah -> orasi. Confirmed, though you'll rarely need the plural.",
+  "id": 2872
+ },
+ {
+  "example": "ovo je pismo od moje majke - this is a letter from my mother",
+  "id": 2873
+ },
+ {
+  "pos": "(adj)",
+  "id": 2874
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "resolves": "odbijati = to refuse, reject, turn down (Imp)",
+  "note": "This line lost its definition. odbijati is the imperfective of odbiti, right below it.",
+  "id": 2875
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2877
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*OD*bojka",
+  "id": 2878
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*OD*govor",
+  "example": "ne znam odgovor - I don't know the answer",
+  "id": 2879
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2880
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2881
+ },
+ {
+  "note": "I didn't want to guess the stress here - I've heard it both ways. Worth pinning down with a native, since you left it with a question mark.",
+  "id": 2883
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2884
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2885
+ },
+ {
+  "stress": "*OD*mah",
+  "id": 2886
+ },
+ {
+  "pos": "(adj)",
+  "id": 2887
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "odrasti is perfective; odrastati is the imperfective.",
+  "id": 2889
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2890
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2891
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2892
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2893
+ },
+ {
+  "pos": "(adj)",
+  "stress": "o*GRO*man",
+  "id": 2894
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2895
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2897
+ },
+ {
+  "example": "sjedili smo oko stola - we sat around the table",
+  "id": 2898
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "stress": "*O*ko",
+  "note": "Worth flagging in the entry: the plural oči is feminine (lijepe oči), even though the singular oko is neuter. Same deal with uho/uši.",
+  "id": 2899
+ },
+ {
+  "id": 2900,
+  "gender": "(f)",
+  "note": "Worth marking: oči takes feminine agreement (lijepe oči, plave oči) even though singular oko is neuter."
+ },
+ {
+  "pos": "(adv)",
+  "id": 2902
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2903
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "id": 2904
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2906
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*O*lovka",
+  "id": 2907
+ },
+ {
+  "stress": "o*NA*ko",
+  "id": 2908
+ },
+ {
+  "stress": "o*NO*liko",
+  "id": 2909
+ },
+ {
+  "pos": "(adj)",
+  "id": 2910
+ },
+ {
+  "pos": "(adj)",
+  "id": 2911
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2912
+ },
+ {
+  "resolves": "op*ĆE*nito (Adv)",
+  "note": "Both confirmed - stress on ĆE, and it's an adverb. It's the Croatian word; Serbian says uopšteno / uopšte.",
+  "id": 2913
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(s->š) (e)",
+  "note": "Present tense is opišem, so the s->š holds - exactly the same pattern as your napisati entry.",
+  "id": 2914
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2915
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2916
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*O*prema",
+  "resolves": "no - it's singular",
+  "note": "oprema is a singular feminine collective noun (\"gear, kit\"). It takes a singular verb: oprema je spremna.",
+  "id": 2917
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2918
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "oprostiti is perfective; opraštati is the imperfective.",
+  "example": "oprosti mi, kasnim - forgive me, I'm late",
+  "id": 2919
+ },
+ {
+  "pos": "(adj)",
+  "id": 2921
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2922
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "orah on its own is a walnut. A pecan is pekan orah / pekan - might be worth splitting the two glosses.",
+  "id": 2923
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*O*rao",
+  "id": 2924
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2925
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*OR*mar",
+  "id": 2926
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "or*MA*rić",
+  "id": 2927
+ },
+ {
+  "pos": "(Num)",
+  "stress": "*O*sam",
+  "id": 2928
+ },
+ {
+  "pos": "(Num)",
+  "id": 2929
+ },
+ {
+  "pos": "(Num)",
+  "id": 2930
+ },
+ {
+  "pos": "(Num)",
+  "id": 2931
+ },
+ {
+  "pos": "(Num)",
+  "id": 2932
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*O*sijek",
+  "id": 2933
+ },
+ {
+  "stress": "*O*sim",
+  "id": 2934
+ },
+ {
+  "pos": "(Verb)",
+  "example": "kako se osjećaš? - how are you feeling?",
+  "id": 2937
+ },
+ {
+  "pos": "(Verb)",
+  "id": 2939
+ },
+ {
+  "pos": "(Num)",
+  "id": 2941
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "nominative is osoblje",
+  "note": "Same thing as the mlijeka entry - this is the genitive form. The dictionary form is osoblje (neuter), and it's a singular collective: osoblje je ljubazno.",
+  "id": 2942
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2943
+ },
+ {
+  "pos": "(adj)",
+  "stress": "*O*štar",
+  "id": 2944
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "moj otac je učitelj - my father is a teacher",
+  "id": 2945
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "otjerati is perfective; tjerati is the imperfective underneath it.",
+  "id": 2946
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2947
+ },
+ {
+  "pos": "(adj)",
+  "id": 2948
+ },
+ {
+  "pos": "(adv)",
+  "stress": "ot*PRI*like",
+  "resolves": "otprilike = approximately, roughly, about - and yes, it's built on prilika",
+  "note": "This line never got a definition. otprilike = about / roughly, as in otprilike sat vremena (about an hour).",
+  "id": 2950
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "stress": "*O*trov",
+  "id": 2951
+ },
+ {
+  "pos": "(adj)",
+  "id": 2952
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Perf)",
+  "note": "Spelling check: the standard form is odslušati - the prefix od- keeps its d in writing even before s.",
+  "id": 2953
+ },
+ {
+  "pos": "(Verb)",
+  "note": "The aspects on otvarati and otvoriti look swapped: otvarati is the imperfective (repeated/ongoing) and otvoriti is the perfective. Same pair shape as your kupovati/kupiti.",
+  "id": 2954
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "otvaranje = opening (the act of), verbal noun of otvarati",
+  "note": "Confirmed - it's the -nje verbal noun, neuter, and it's the word used for the opening of an event too.",
+  "id": 2955
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "otvorenje = the (formal) opening, the opening ceremony",
+  "note": "This line lost its definition. otvorenje is the noun from otvoriti - the ceremonial opening of a building, exhibition, shop.",
+  "id": 2956
+ },
+ {
+  "pos": "(Verb)",
+  "example": "možeš li otvoriti prozor? - can you open the window?",
+  "note": "See the note on otvarati - the (Imp) here should probably be (Perf).",
+  "id": 2957
+ },
+ {
+  "stress": "o*VA*ko",
+  "id": 2958
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*OV*ca",
+  "id": 2960
+ },
+ {
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "id": 2961
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2963
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "id": 2964
+ },
+ {
+  "stress": "o*VO*liko",
+  "id": 2965
+ },
+ {
+  "pos": "(adj)",
+  "id": 2966
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "stress": "*O*zljeda",
+  "id": 2968
+ },
+ {
+  "pos": "(Verb)",
+  "resolves": "(Perf)",
+  "note": "oživjeti is perfective; oživljavati is the imperfective. And yes, oživjeti se exists but is much rarer than the plain form.",
+  "id": 2969
+ },
+ {
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "id": 2970
+ }
+]

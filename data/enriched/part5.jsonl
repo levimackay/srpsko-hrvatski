@@ -1,0 +1,113 @@
+{"id": 1964, "stress": "gr*DO*sija", "gender": "(f)"}
+{"id": 1965, "stress": "*GRE*ben", "gender": "(m)"}
+{"id": 1966, "stress": "gre*BE*nast"}
+{"id": 1967, "stress": "*GRE*da", "gender": "(f)"}
+{"id": 1968, "gender": "(m)", "declension": "(h->s)", "example": "to nije greh - that's not a sin", "note": "greh is [E], grijeh is [J]. Plural gresi (also grehovi) - the h softens to s."}
+{"id": 1969, "stress": "gre*JA*lica", "gender": "(f)", "note": "grejalica is [E], grijalica is [J]."}
+{"id": 1970, "stress": "*GRE*janje", "gender": "(Noun)", "example": "grejanje ne radi - the heating isn't working", "note": "grejanje is [E], grijanje is [J]."}
+{"id": 1971, "stress": "*GREN*land", "gender": "(m)"}
+{"id": 1972, "aspect": "(Imp)", "note": "Present tense is grebem, not grepam - and the perfective is ogrepsti, ogrebem. Worth fixing."}
+{"id": 1973, "stress": "*GRE*šan", "note": "This entry runs into the next one on the page - grešiti/griješiti/pogrešiti/pogriješiti got split across two lines."}
+{"id": 1974, "aspect": "(Imp)", "example": "pogrešio sam, izvini - I made a mistake, sorry", "note": "This is the tail of the previous entry. grešiti/griješiti are imperfective, pogrešiti/pogriješiti perfective; the griješiti pair is [J], grešiti [E]."}
+{"id": 1975, "stress": "*GREŠ*ka", "gender": "(f)", "declension": "(k->c)", "example": "to je bila moja greška - that was my mistake"}
+{"id": 1976, "stress": "*GREŠ*nik", "gender": "(m)", "declension": "(Anim) (k->c)"}
+{"id": 1977, "gender": "(m)", "declension": "(Anim) (e)", "note": "Headword came through garbled - the fish is grgeč."}
+{"id": 1978, "gender": "(m)", "note": "Headword came through garbled - gurgle is grgot (matches grgotati right below)."}
+{"id": 1979, "aspect": "(Imp)"}
+{"id": 1980, "aspect": "(Imp)"}
+{"id": 1981, "stress": "*GRIC*kati", "aspect": "(Imp)"}
+{"id": 1982, "stress": "gri*MA*sa", "gender": "(f)"}
+{"id": 1983, "aspect": "(Imp)", "note": "Usual form is grimasirati, or just praviti grimase - grimaserati looks off."}
+{"id": 1984, "gender": "(m)", "example": "ležao je nedelju dana od gripa - he was down with the flu for a week"}
+{"id": 1985, "stress": "*GRIS*ti", "aspect": "(Imp)"}
+{"id": 1986, "stress": "*GRI*va", "gender": "(f)"}
+{"id": 1987, "gender": "(m)"}
+{"id": 1988, "stress": "*GRI*ža", "gender": "(f)"}
+{"id": 1989, "stress": "*GRK*ljan", "gender": "(m)"}
+{"id": 1990, "stress": "*GR*len"}
+{"id": 1991, "stress": "*GR*lo", "gender": "(Noun)", "example": "boli me grlo - my throat hurts"}
+{"id": 1992, "stress": "*GR*liti", "aspect": "(Imp)", "example": "zagrlio je majku - he hugged his mother", "note": "grliti is imperfective, zagrliti perfective."}
+{"id": 1993, "gender": "(m)"}
+{"id": 1994, "stress": "*GR*meti", "aspect": "(Imp)", "note": "Present tense is grmim, not grmetim/grmjetim. grmeti is [E], grmjeti is [J]."}
+{"id": 1995, "stress": "grmlja*VI*na", "gender": "(f)"}
+{"id": 1996, "stress": "*GRN*čar", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1997, "stress": "grn*ČA*rija", "gender": "(f)"}
+{"id": 1998, "stress": "*GR*nuti", "aspect": "(Perf)"}
+{"id": 1999, "gender": "(m)"}
+{"id": 2000, "stress": "*GROB*ni"}
+{"id": 2001, "stress": "*GRO*bar", "gender": "(m)", "declension": "(Anim)"}
+{"id": 2002, "stress": "*GROB*lje", "gender": "(Noun)"}
+{"id": 2003, "stress": "*GROB*nica", "gender": "(f)"}
+{"id": 2004, "gender": "(m)", "declension": "(Anim)", "note": "Headword should be grof - the f came out as t."}
+{"id": 2005, "stress": "gro*FO*vija", "gender": "(f)"}
+{"id": 2006, "stress": "*GRO*hot", "gender": "(m)"}
+{"id": 2007, "aspect": "(Imp)"}
+{"id": 2008, "note": "groknuti is the perfective (one grunt), groktati the imperfective (going at it)."}
+{"id": 2009, "gender": "(m)"}
+{"id": 2010, "stress": "gro*MA*da", "gender": "(f)"}
+{"id": 2011, "stress": "gro*MO*bran", "gender": "(m)"}
+{"id": 2012, "stress": "gro*TES*kan"}
+{"id": 2013, "stress": "*GRO*zan", "example": "vreme je grozno danas - the weather is awful today", "note": "Headword should be grozan - grozana isn't a form."}
+{"id": 2014, "gender": "(m)"}
+{"id": 2015, "stress": "*GRO*ziti", "aspect": "(Imp)", "note": "groziti is imperfective, ugroziti perfective."}
+{"id": 2016, "stress": "*GROZ*nica", "gender": "(f)"}
+{"id": 2017, "stress": "*GROZ*ničav"}
+{"id": 2018, "stress": "gro*ZO*ta", "gender": "(f)"}
+{"id": 2019, "gender": "(Noun)", "example": "kupio sam grožđe na pijaci - I bought grapes at the market", "note": "Spelling should be grožđe - the đ dropped out. It's a collective, so it's singular: grožđe je slatko."}
+{"id": 2020, "example": "nemoj biti grub prema njoj - don't be rude to her"}
+{"id": 2021, "stress": "gru*BI*jan", "gender": "(m)", "declension": "(Anim)"}
+{"id": 2022, "stress": "*GRU*di", "gender": "(f)", "note": "Plural only."}
+{"id": 2023, "stress": "*GRUD*ni"}
+{"id": 2024, "stress": "gru*DO*bran", "gender": "(m)"}
+{"id": 2025, "stress": "*GRUD*va", "gender": "(f)"}
+{"id": 2026, "stress": "*GRU*men", "gender": "(m)"}
+{"id": 2027, "stress": "*GRU*nuti", "aspect": "(Perf)"}
+{"id": 2028, "stress": "*GU*ba", "gender": "(f)"}
+{"id": 2029, "stress": "*GU*bav"}
+{"id": 2030, "stress": "*GU*bica", "gender": "(f)"}
+{"id": 2031, "stress": "gubi*LIŠ*te", "gender": "(Noun)"}
+{"id": 2032, "stress": "*GU*bitak", "gender": "(m)", "declension": "(a) (+a)"}
+{"id": 2033, "stress": "*GU*biti", "aspect": "(Imp)", "example": "stalno gubim ključeve - I'm always losing my keys", "note": "gubiti is imperfective, izgubiti perfective."}
+{"id": 2034, "stress": "*GU*dački"}
+{"id": 2035, "stress": "gu*DA*lo", "gender": "(Noun)"}
+{"id": 2036, "aspect": "(Imp)", "note": "Present is gudim. gudeti is [E], gudjeti is [J]."}
+{"id": 2037, "aspect": "(Imp)"}
+{"id": 2038, "stress": "*GU*ja", "gender": "(f)"}
+{"id": 2039, "stress": "*GU*laš", "gender": "(m)", "declension": "(e)", "example": "gulaš je bio odličan - the goulash was excellent"}
+{"id": 2040, "gender": "(m)", "declension": "(Anim)", "note": "Ends in -a but refers to a person, so it behaves masculine like gazda - though you'll hear it used of women too."}
+{"id": 2041, "stress": "*GU*liti", "aspect": "(Imp)", "note": "guliti is imperfective, oguliti perfective."}
+{"id": 2042, "stress": "*GU*ma", "gender": "(f)", "example": "pukla mi je guma na putu - I got a flat tire on the way"}
+{"id": 2044, "stress": "*GU*mica", "gender": "(f)"}
+{"id": 2045, "gender": "(Noun)", "note": "Headword should be gunđalo - the đ dropped out."}
+{"id": 2046, "aspect": "(Imp)", "note": "Headword should be gunđati - the đ dropped out."}
+{"id": 2047, "stress": "gun*GU*la", "gender": "(f)"}
+{"id": 2048, "stress": "*GU*rati", "aspect": "(Imp)", "example": "guraj jače! - push harder!", "note": "gurati is imperfective, gurnuti perfective."}
+{"id": 2049, "aspect": "(Imp)"}
+{"id": 2050, "stress": "*GUR*kati", "aspect": "(Imp)"}
+{"id": 2051, "stress": "*GUR*man", "gender": "(m)", "declension": "(Anim)"}
+{"id": 2052, "stress": "*GUR*njava", "gender": "(f)"}
+{"id": 2053, "stress": "*GU*san", "gender": "(m)", "declension": "(Anim)"}
+{"id": 2054, "gender": "(m)", "declension": "(Anim)", "note": "Headword should be gusar - the extra n is a slip."}
+{"id": 2055, "stress": "*GU*sarski"}
+{"id": 2056, "stress": "*GUS*ka", "gender": "(f)", "declension": "(k->c)"}
+{"id": 2057, "stress": "*GUS*le", "gender": "(f)", "note": "Plural only."}
+{"id": 2058, "pos": "(adj)", "note": "Headword should be gust - gusta is the feminine form."}
+{"id": 2059, "stress": "gus*TI*na", "gender": "(f)"}
+{"id": 2060, "stress": "*GU*ša", "gender": "(f)"}
+{"id": 2061, "stress": "*GUŠ*če", "gender": "(Noun)"}
+{"id": 2062, "stress": "*GU*šiti", "aspect": "(Imp)"}
+{"id": 2063, "aspect": "(Imp)"}
+{"id": 2064, "stress": "gušo*BO*lja", "gender": "(f)"}
+{"id": 2065, "stress": "gušte*RA*ča", "gender": "(f)"}
+{"id": 2066, "stress": "*GU*tati", "aspect": "(Imp)", "note": "Present forms should read gutam, progutam - the second one got typed twice."}
+{"id": 2067, "stress": "*GUT*ljaj", "gender": "(m)"}
+{"id": 2068, "stress": "guver*NAN*ta", "gender": "(f)"}
+{"id": 2069, "stress": "gu*VER*ner", "gender": "(m)", "declension": "(Anim)"}
+{"id": 2070, "stress": "*GUŽ*va", "gender": "(f)", "example": "gužva je u centru svaki dan - the center is packed every day"}
+{"id": 2071, "stress": "*GUŽ*vati", "aspect": "(Imp)"}
+{"id": 2072, "stress": "*GVOZ*den"}
+{"id": 2073, "note": "Spelling should be gvožđa - it's the plural of gvožđe used for irons/fetters."}
+{"id": 2074, "gender": "(m)", "declension": "(Anim)", "note": "Spelling should be gvožđar - the đ dropped out."}
+{"id": 2075, "gender": "(f)", "note": "Spelling should be gvožđarnica - the đ dropped out."}
+{"id": 2076, "note": "Spelling should be gvožđarski - the đ dropped out."}
+{"id": 2077, "gender": "(Noun)", "note": "Spelling should be gvožđe - the đ dropped out."}

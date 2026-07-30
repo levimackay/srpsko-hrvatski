@@ -1,0 +1,2850 @@
+[
+ {
+  "id": 720,
+  "note": "Chakavian 'what' is normally spelled ča (as in čakavski / ča-kaj-što) — ća on its own usually means 'away, off'. Worth checking whether these first two entries should be ča."
+ },
+ {
+  "id": 721,
+  "pos": "(Pron)",
+  "note": "same spelling question as the entry above — ča vs ća."
+ },
+ {
+  "id": 722,
+  "stress": "*ĆA*ća",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "masculine even though it ends in -a, and it declines like a feminine noun (ćaće, ćaći)."
+ },
+ {
+  "id": 723,
+  "stress": "*ĆAK*nut",
+  "pos": "(adj)"
+ },
+ {
+  "id": 724,
+  "stress": "*ĆA*kula",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "Dalmatian, from Italian chiacchiera."
+ },
+ {
+  "id": 725,
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 726,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 727,
+  "stress": "*ĆAS*kati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "example": "volim da ćaskam sa komšijama - I like to chat with the neighbors"
+ },
+ {
+  "id": 728,
+  "stress": "*ĆE*be",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "example": "daj mi ćebe, hladno mi je - give me a blanket, I'm cold",
+  "note": "neuter of the -et- type: ćebe, ćebeta, ćebad (coll. pl.)."
+ },
+ {
+  "id": 729,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 730,
+  "stress": "*ĆE*lav",
+  "pos": "(adj)"
+ },
+ {
+  "id": 731,
+  "stress": "*ĆE*lavac",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 732,
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "resolves": "rt: ćelav",
+  "note": "the truncated '(rel: ć..)' is almost certainly ćelav — that's the adjective this verb is built on."
+ },
+ {
+  "id": 733,
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "all -nje verbal nouns are neuter."
+ },
+ {
+  "id": 734,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "'(FE)' isn't one of your markers anywhere else — did you mean (f)? All -ost nouns are feminine."
+ },
+ {
+  "id": 735,
+  "stress": "*ĆE*lija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 736,
+  "stress": "*ĆE*mer",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 737,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "ćer is the colloquial short form of kći/kćer — heard in Croatia and Bosnia and plenty in Serbia too, so the (Hrv?) may be too narrow."
+ },
+ {
+  "id": 738,
+  "stress": "*ĆE*rati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "note": "this is the Montenegrin/southern form of terati [E] / tjerati [J]."
+ },
+ {
+  "id": 739,
+  "stress": "*ĆER*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "declension": "(+a)",
+  "example": "njihova ćerka ide u školu - their daughter goes to school"
+ },
+ {
+  "id": 740,
+  "stress": "ćevab*DŽI*nica",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "not just (Hrv) — ćevabdžinica is the normal word in Bosnia and Serbia as well."
+ },
+ {
+  "id": 741,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "idemo na ćevape u grad - let's go get ćevapi in town",
+  "note": "ćevapi is the plural; one of them is a ćevap."
+ },
+ {
+  "id": 742,
+  "stress": "će*VAP*čići",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 743,
+  "stress": "*ĆIF*ta",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 744,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 745,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 746,
+  "stress": "*ĆI*kati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 747,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 748,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "the pronunciation gloss reads 'či*RI*lici' — that looks like two slips: č for ć, and the dative ćirilici instead of the headword ćirilica. Expected ći*RI*lica."
+ },
+ {
+  "id": 749,
+  "pos": "(adj)"
+ },
+ {
+  "id": 750,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 751,
+  "pos": "(adj)"
+ },
+ {
+  "id": 752,
+  "stress": "*ĆO*pav"
+ },
+ {
+  "id": 753,
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 754,
+  "stress": "*ĆO*rav",
+  "resolves": "yes — blind in one eye",
+  "note": "ćorav literally is blind in one eye / one-eyed, but people use it loosely for blind in general (and for 'you're blind' when somebody can't find something)."
+ },
+ {
+  "id": 755,
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 756,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 757,
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "note": "double-check this one — in everyday Serbian slang ćoriti (ćorim) much more often means to doze / catch some sleep."
+ },
+ {
+  "id": 758,
+  "example": "rekao sam ti da dođeš - I told you to come"
+ },
+ {
+  "id": 759,
+  "example": "da, naravno - yes, of course",
+  "note": "the mark you're describing is the circumflex (ˆ), which marks the long-falling accent: dâ 'he gives' vs. plain da."
+ },
+ {
+  "id": 761,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "trčao sam dok nisam ostao bez daha - I ran until I was out of breath"
+ },
+ {
+  "id": 762,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 763,
+  "stress": "*ĆO*šak",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "prodavnica je odmah iza ćoška - the store is just around the corner"
+ },
+ {
+  "id": 764,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 765,
+  "stress": "*ĆU*prija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 766,
+  "stress": "*ĆU*ran",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 767,
+  "stress": "*ĆUŠ*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 768,
+  "stress": "*ĆUŠ*nuti",
+  "pos": "(Verb)",
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 769,
+  "stress": "*ĆU*tati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "example": "bolje ćuti nego da kažeš nešto glupo - better to keep quiet than to say something dumb",
+  "note": "the [C] equivalent is šutjeti/šutiti — worth a cross-reference."
+ },
+ {
+  "id": 770,
+  "stress": "*DAH*nuti",
+  "pos": "(Verb)",
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 771,
+  "stress": "*DAH*tati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 772,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 773,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "usually written daidžinica (from daidža) — check whether the missing -i- is a typo."
+ },
+ {
+  "id": 774,
+  "stress": "*DA*kle",
+  "pos": "(Conj)",
+  "example": "dakle, idemo sutra - so, we're going tomorrow"
+ },
+ {
+  "id": 775,
+  "stress": "da*LE*ko",
+  "pos": "(adv)",
+  "example": "crkva nije daleko odavde - the church isn't far from here"
+ },
+ {
+  "id": 776,
+  "stress": "dal*MA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 777,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 778,
+  "pos": "(adj)"
+ },
+ {
+  "id": 779,
+  "stress": "*DA*lji",
+  "pos": "(adj)"
+ },
+ {
+  "id": 781,
+  "stress": "da*LJI*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 782,
+  "stress": "*DA*ma",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 783,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "danas je lep dan - today is a nice day"
+ },
+ {
+  "id": 784,
+  "stress": "*DA*nac",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(a)",
+  "note": "Danac – Danca – gen. pl. Danaca, so yes, it keeps the a. Nom. pl. is Danci."
+ },
+ {
+  "id": 785,
+  "stress": "*DA*nas",
+  "example": "danas imamo sastanak - we have a meeting today"
+ },
+ {
+  "id": 786,
+  "pos": "(adj)"
+ },
+ {
+  "id": 787,
+  "note": "danguba works for a man or a woman — (m) or (f) depending on who you're calling one, like other -a person nouns (pijanica, ubica)."
+ },
+ {
+  "id": 788,
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 789,
+  "stress": "*DAN*ska",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "you marked it (Adj) — it is an adjectival form historically, but it works as a feminine noun (u Danskoj, iz Danske)."
+ },
+ {
+  "id": 790,
+  "pos": "(adj)"
+ },
+ {
+  "id": 792,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 793,
+  "pos": "(adj)"
+ },
+ {
+  "id": 795,
+  "note": "darovan is the passive participle of darovati — closer to 'given (as a gift), gifted' than to the noun 'gift'. The -a- drops in the rest of the forms: darovna, darovno."
+ },
+ {
+  "id": 796,
+  "pos": "(Verb)"
+ },
+ {
+  "id": 798,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 799,
+  "stress": "*DAS*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 800,
+  "stress": "*DA*šak",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "note": "dašak is the diminutive of dah — a puff/whiff of it (dašak vetra, a breath of wind). The plural is rare enough that I wouldn't commit to the (k->c); dašci is what you'd expect if it does."
+ },
+ {
+  "id": 801,
+  "pos": "(Verb)",
+  "example": "možeš li da mi daš olovku? - can you give me a pen?"
+ },
+ {
+  "id": 802,
+  "pos": "(Verb)"
+ },
+ {
+  "id": 803,
+  "stress": "*DA*tum",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "koji je danas datum? - what's the date today?"
+ },
+ {
+  "id": 804,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 805,
+  "pos": "(Verb)",
+  "resolves": "br: izdavati, prodavati",
+  "note": "'bran:' looks like a typo for 'br:' — it lines up with the br: list on dati."
+ },
+ {
+  "id": 806,
+  "stress": "*DA*viti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 808,
+  "pos": "(Verb)",
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 809,
+  "stress": "da*VLJE*nik",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 810,
+  "stress": "*DAV*ni",
+  "pos": "(adj)"
+ },
+ {
+  "id": 811,
+  "stress": "daž*BI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 812,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "the salamander is daždevnjak — 'daždernjak' looks like a slip of the pen."
+ },
+ {
+  "id": 813,
+  "stress": "de*BA*ta",
+  "gender": "(f)"
+ },
+ {
+  "id": 815,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 816,
+  "stress": "*DE*beo",
+  "example": "ovaj rečnik je debeo - this dictionary is thick"
+ },
+ {
+  "id": 818,
+  "stress": "de*BLJI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 819,
+  "stress": "*DE*ca",
+  "gender": "(f)",
+  "example": "deca se igraju napolju - the kids are playing outside",
+  "note": "collective noun — it declines like a feminine singular (dece, deci, decom) but takes plural agreement."
+ },
+ {
+  "id": 820,
+  "gender": "(m)",
+  "declension": "(a)",
+  "example": "u decembru pada sneg - it snows in December"
+ },
+ {
+  "id": 821,
+  "stress": "de*CE*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 822,
+  "stress": "decentrali*ZA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 824,
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 825,
+  "gender": "(f)",
+  "note": "the usual noun is decimala (f) — 'decimal' by itself mostly shows up as the adjective decimalni."
+ },
+ {
+  "id": 826,
+  "stress": "*DE*čak",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)",
+  "example": "taj dečak igra fudbal - that boy plays soccer"
+ },
+ {
+  "id": 828,
+  "stress": "*DEČ*ko",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "example": "ona ima dečka - she has a boyfriend"
+ },
+ {
+  "id": 829,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "in speech you'll hear deda [S] and djed/dida [C] far more than bare ded."
+ },
+ {
+  "id": 830,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 831,
+  "stress": "de*FEK*tan"
+ },
+ {
+  "id": 832,
+  "stress": "defi*NI*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 834,
+  "stress": "defini*TI*van"
+ },
+ {
+  "id": 835,
+  "stress": "def*LA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 837,
+  "stress": "*DEJ*stvo",
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 838,
+  "stress": "de*KA*da",
+  "gender": "(f)"
+ },
+ {
+  "id": 839,
+  "gender": "(m)",
+  "declension": "(a) (Inan)"
+ },
+ {
+  "id": 840,
+  "gender": "(m)",
+  "declension": "(a) (Inan)"
+ },
+ {
+  "id": 841,
+  "stress": "*DE*kan",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 842,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 844,
+  "stress": "dekla*RA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 845,
+  "note": "the [C] form is deklarirati – deklariram; -isati/-ovati verbs like this are the [S] pattern."
+ },
+ {
+  "id": 846,
+  "stress": "dekli*NA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 847,
+  "resolves": "dekliniram",
+  "note": "everywhere else you give the 1st person singular — 'dekliniramo' is 1st person plural, so this should probably read deklinirati – dekliniram. The [S] form is deklinirati/deklinovati too."
+ },
+ {
+  "id": 848,
+  "stress": "deko*RA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 849,
+  "stress": "deko*RA*ter",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 850,
+  "stress": "dekora*TI*van"
+ },
+ {
+  "id": 852,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 854,
+  "gender": "(f)"
+ },
+ {
+  "id": 855,
+  "stress": "dele*GA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 856,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 857,
+  "stress": "*DEL*fin",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 858,
+  "stress": "deli*KA*tan"
+ },
+ {
+  "id": 859,
+  "gender": "(f)",
+  "note": "the everyday noun is delikatesa (f), usually in the plural: delikatese."
+ },
+ {
+  "id": 862,
+  "gender": "(m)",
+  "note": "the line break ate a headword here — 'deliti, dijeliti, podeliti,' at the end of this entry belongs with the podijeliti entry that follows."
+ },
+ {
+  "id": 863,
+  "aspect": "(Imp)",
+  "note": "the headword is really deliti/dijeliti (Imp) with podeliti/podijeliti as the (Perf) partner — the first half of it got attached to the delirijum entry above."
+ },
+ {
+  "id": 864,
+  "stress": "*DE*lo",
+  "gender": "(Noun)",
+  "example": "dela govore više od reči - actions speak louder than words"
+ },
+ {
+  "id": 865,
+  "gender": "(m)",
+  "declension": "(g->z) (Inan)"
+ },
+ {
+  "id": 867,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 868,
+  "gender": "(m)",
+  "declension": "(Anim) (g->z)"
+ },
+ {
+  "id": 869,
+  "stress": "dema*GO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 871,
+  "note": "[C] would say demobilizirati – demobiliziram."
+ },
+ {
+  "id": 872,
+  "stress": "demobili*ZA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 873,
+  "stress": "demo*KRA*tija",
+  "gender": "(f)"
+ },
+ {
+  "id": 874,
+  "stress": "demo*KRA*ta",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "demokrata [S] / demokrat [C] — masculine even though the [S] form ends in -a."
+ },
+ {
+  "id": 876,
+  "stress": "*DE*mon",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 877,
+  "stress": "demon*STRA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 878,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 882,
+  "stress": "*DE*o",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "ovo je najbolji deo - this is the best part",
+  "note": "the a drops out as soon as you decline it: deo – dela – delu."
+ },
+ {
+  "id": 883,
+  "gender": "(f)"
+ },
+ {
+  "id": 884,
+  "stress": "de*O*nica",
+  "gender": "(f)"
+ },
+ {
+  "id": 885,
+  "stress": "de*PE*ša",
+  "gender": "(f)"
+ },
+ {
+  "id": 887,
+  "stress": "de*PRE*sija",
+  "gender": "(f)"
+ },
+ {
+  "id": 889,
+  "stress": "depu*TA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 890,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 891,
+  "stress": "*DE*rati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 892,
+  "gender": "(m)",
+  "declension": "(Anim) (g->z)"
+ },
+ {
+  "id": 893,
+  "stress": "dermato*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 894,
+  "stress": "*DE*sert",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 895,
+  "stress": "de*SE*tar",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 896,
+  "stress": "*DE*set",
+  "example": "imam deset minuta - I have ten minutes"
+ },
+ {
+  "id": 898,
+  "stress": "dese*TI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 901,
+  "note": "this should be desetoro — same pattern as devetoro further down. 'deretoro' looks like a typo."
+ },
+ {
+  "id": 902,
+  "aspect": "(Perf)",
+  "note": "desiti se is the (Perf), dešavati se the (Imp) — the pair is already sitting in the headword."
+ },
+ {
+  "id": 903,
+  "gender": "(f)",
+  "note": "gums is plural-only: desni (f. pl.), gen. desni. Don't confuse it with desni 'right' in the next entry — that's exactly why you numbered them I and II."
+ },
+ {
+  "id": 905,
+  "stress": "*DES*nica",
+  "gender": "(f)"
+ },
+ {
+  "id": 906,
+  "stress": "des*NI*čar",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 909,
+  "stress": "*DES*pot",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 910,
+  "stress": "despo*TI*zam",
+  "gender": "(m)"
+ },
+ {
+  "id": 911,
+  "stress": "desti*LA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 914,
+  "stress": "de*TA*ljan"
+ },
+ {
+  "id": 915,
+  "stress": "*DET*lić",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 916,
+  "stress": "*DE*te",
+  "gender": "(Noun)",
+  "example": "njihovo dete ima pet godina - their child is five years old",
+  "note": "the plural of dete is deca — a whole different word."
+ },
+ {
+  "id": 917,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 918,
+  "gender": "(f)"
+ },
+ {
+  "id": 919,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 920,
+  "stress": "deti*NJA*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 922,
+  "gender": "(Noun)",
+  "declension": "(+a)",
+  "example": "moje detinjstvo je bilo srećno - my childhood was happy"
+ },
+ {
+  "id": 923,
+  "gender": "(f)",
+  "note": "watch this one — in [S] deva usually means camel. The maiden sense really lives in djeva / djevojka."
+ },
+ {
+  "id": 926,
+  "stress": "*DE*ver",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 927,
+  "stress": "deve*RU*ša",
+  "gender": "(f)"
+ },
+ {
+  "id": 928,
+  "stress": "*DE*vet"
+ },
+ {
+  "id": 930,
+  "stress": "deve*TI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 931,
+  "stress": "de*VET*naest"
+ },
+ {
+  "id": 935,
+  "gender": "(f)"
+ },
+ {
+  "id": 937,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 938,
+  "stress": "de*VI*za",
+  "gender": "(f)"
+ },
+ {
+  "id": 940,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 941,
+  "gender": "(f)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 942,
+  "gender": "(f)",
+  "declension": "(+a)",
+  "example": "ta devojka govori engleski - that girl speaks English",
+  "note": "gen. pl. is devojaka."
+ },
+ {
+  "id": 943,
+  "stress": "dezin*FEK*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 946,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 948,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 950,
+  "stress": "*DI*čiti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 951,
+  "stress": "*DI*zati",
+  "aspect": "(Imp)",
+  "example": "diži ruku ako znaš odgovor - raise your hand if you know the answer",
+  "note": "the (Perf) partner is dići / dignuti. Heads up: dizati shows up twice in this letter — here, and again later as 'dizati | see dići'."
+ },
+ {
+  "id": 952,
+  "stress": "dif*TE*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 953,
+  "aspect": "(Perf)",
+  "note": "dignuti/dići is the (Perf) partner of dizati (Imp)."
+ },
+ {
+  "id": 954,
+  "stress": "dija*BE*tes",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 955,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 956,
+  "gender": "(f)"
+ },
+ {
+  "id": 957,
+  "stress": "dija*GNO*za",
+  "gender": "(f)"
+ },
+ {
+  "id": 958,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 959,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 960,
+  "gender": "(m)",
+  "declension": "(Inan) (g->z)"
+ },
+ {
+  "id": 961,
+  "stress": "di*JA*mant",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 962,
+  "stress": "di*JA*metar",
+  "gender": "(m)",
+  "declension": "(a) (Inan)"
+ },
+ {
+  "id": 963,
+  "stress": "dijame*TRA*lan"
+ },
+ {
+  "id": 964,
+  "stress": "di*JE*ta",
+  "gender": "(f)"
+ },
+ {
+  "id": 965,
+  "stress": "*DI*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 966,
+  "stress": "*DIK*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 967,
+  "stress": "dik*TA*tor",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 968,
+  "stress": "dikta*TU*ra",
+  "gender": "(f)"
+ },
+ {
+  "id": 970,
+  "stress": "di*LE*ma",
+  "gender": "(f)"
+ },
+ {
+  "id": 971,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 972,
+  "stress": "di*MEN*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 973,
+  "stress": "*DI*miti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 974,
+  "stress": "dim*NI*čar",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 975,
+  "stress": "*DIM*njak",
+  "gender": "(m)",
+  "declension": "(k->c) (Inan)"
+ },
+ {
+  "id": 976,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 978,
+  "stress": "*DI*nar",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "koliko dinara košta ovo? - how many dinars does this cost?"
+ },
+ {
+  "id": 979,
+  "stress": "di*NAS*tija",
+  "gender": "(f)"
+ },
+ {
+  "id": 980,
+  "stress": "*DI*nja",
+  "gender": "(f)"
+ },
+ {
+  "id": 981,
+  "stress": "di*PLO*ma",
+  "gender": "(f)"
+ },
+ {
+  "id": 982,
+  "stress": "diplo*MA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 983,
+  "stress": "diplo*MA*ta",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "masculine even though it ends in -a; [C] says diplomat."
+ },
+ {
+  "id": 986,
+  "stress": "*DI*rati",
+  "aspect": "(Imp)",
+  "note": "dirati is the (Imp), dirnuti the (Perf) — one touch versus touching."
+ },
+ {
+  "id": 987,
+  "stress": "di*REK*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 988,
+  "stress": "di*REK*tan"
+ },
+ {
+  "id": 989,
+  "stress": "di*REK*tor",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 990,
+  "stress": "di*RI*gent",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 992,
+  "stress": "*DIR*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 993,
+  "stress": "*DIR*ljiv"
+ },
+ {
+  "id": 994,
+  "stress": "*DI*sati",
+  "aspect": "(Imp)",
+  "example": "teško diše kad trči - he breathes heavily when he runs"
+ },
+ {
+  "id": 995,
+  "stress": "disci*PLI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 997,
+  "stress": "diser*TA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 998,
+  "stress": "dis*KRE*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1000,
+  "stress": "diskrimi*NA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1002,
+  "stress": "dis*KU*sija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1005,
+  "stress": "diskvalifi*KA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1006,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1007,
+  "stress": "dis*TAN*ca",
+  "gender": "(f)"
+ },
+ {
+  "id": 1008,
+  "stress": "distri*BU*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1009,
+  "stress": "distri*BU*ter",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1010,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1011,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1012,
+  "stress": "*DI*van"
+ },
+ {
+  "id": 1013,
+  "stress": "*DI*van",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1014,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1015,
+  "stress": "di*VER*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1016,
+  "stress": "divi*DEN*da",
+  "gender": "(f)"
+ },
+ {
+  "id": 1017,
+  "stress": "*DI*viti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1018,
+  "stress": "di*VI*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1019,
+  "gender": "(f)",
+  "note": "i-stem feminine like stvar: divljač, divljači, divljaču."
+ },
+ {
+  "id": 1020,
+  "stress": "*DIV*ljak",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1021,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1022,
+  "stress": "*DIV*lji"
+ },
+ {
+  "id": 1023,
+  "gender": "(f)"
+ },
+ {
+  "id": 1024,
+  "stress": "di*VO*ta",
+  "gender": "(f)"
+ },
+ {
+  "id": 1025,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1026,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1027,
+  "gender": "(f)"
+ },
+ {
+  "id": 1028,
+  "aspect": "(Imp)",
+  "note": "this is the second dizati entry in the letter — the earlier one has the full definition. Also worth picking one direction for the cross-reference: this one says 'see dići', the other one is the full entry."
+ },
+ {
+  "id": 1029,
+  "stress": "*DI*zel",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1030,
+  "stress": "dizen*TE*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1031,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1033,
+  "stress": "*DLA*ka",
+  "gender": "(f)",
+  "note": "the phrase you're circling is 'ne imati dlake na jeziku' — literally to not have a hair on your tongue, i.e. to say exactly what you think, no filter."
+ },
+ {
+  "id": 1034,
+  "stress": "*DLA*kav"
+ },
+ {
+  "id": 1035,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1036,
+  "stress": "*DLE*to",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1037,
+  "stress": "*DNEV*ni"
+ },
+ {
+  "id": 1038,
+  "stress": "*DNEV*nica",
+  "gender": "(f)"
+ },
+ {
+  "id": 1039,
+  "stress": "*DNEV*nik",
+  "gender": "(m)",
+  "declension": "(k->c) (Inan)",
+  "example": "gledamo dnevnik u sedam - we watch the evening news at seven"
+ },
+ {
+  "id": 1040,
+  "gender": "(Noun)",
+  "example": "ključevi su na dnu torbe - the keys are at the bottom of the bag"
+ },
+ {
+  "id": 1041,
+  "example": "idem do prodavnice - I'm going as far as the store"
+ },
+ {
+  "id": 1042,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1043,
+  "gender": "(Noun)",
+  "note": "doba is neuter and doesn't decline — u to doba, tog doba, sva doba."
+ },
+ {
+  "id": 1044,
+  "aspect": "(Perf)",
+  "note": "dobaciti (Perf) / dobacivati (Imp)."
+ },
+ {
+  "id": 1045,
+  "stress": "*DO*bar",
+  "example": "on je dobar čovek - he's a good man"
+ },
+ {
+  "id": 1046,
+  "aspect": "(Perf)",
+  "example": "dobio sam pismo od kuće - I got a letter from home",
+  "note": "dobiti (Perf) / dobijati (Imp)."
+ },
+ {
+  "id": 1047,
+  "gender": "(m)",
+  "declension": "(Anim) (e)"
+ },
+ {
+  "id": 1048,
+  "note": "dobar shows up twice in this letter — this shorter entry and the numbered one a few lines up. Might be worth folding the comparative bolji into the fuller one."
+ },
+ {
+  "id": 1049,
+  "aspect": "(Perf)",
+  "note": "second copy of dobiti/dobijati — the fuller entry with the three numbered senses is just above."
+ },
+ {
+  "id": 1050,
+  "gender": "(f)",
+  "note": "i-stem feminine: dobit, dobiti, dobiću."
+ },
+ {
+  "id": 1051,
+  "stress": "do*BIT*nik",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1052,
+  "gender": "(m)",
+  "declension": "(Inan) (e)"
+ },
+ {
+  "id": 1053,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1054,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1055,
+  "example": "dobro sam, hvala - I'm good, thanks"
+ },
+ {
+  "id": 1057,
+  "gender": "(f)"
+ },
+ {
+  "id": 1059,
+  "note": "the two forms printed here are identical — the [J] partner should be dobrosusjedski."
+ },
+ {
+  "id": 1060,
+  "stress": "do*BRO*ta",
+  "gender": "(f)"
+ },
+ {
+  "id": 1061,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1063,
+  "stress": "dobro*VO*ljac",
+  "gender": "(m)",
+  "declension": "(Anim) (a)"
+ },
+ {
+  "id": 1066,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1067,
+  "note": "docan/dockan is old-fashioned — in normal speech it's kasno."
+ },
+ {
+  "id": 1068,
+  "aspect": "(Imp)",
+  "note": "docniti (Imp) / zadocniti (Perf)."
+ },
+ {
+  "id": 1069,
+  "aspect": "(Perf)",
+  "note": "dočarati (Perf) / dočaravati (Imp)."
+ },
+ {
+  "id": 1070,
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "doček Nove godine je u centru - the New Year's celebration is downtown"
+ },
+ {
+  "id": 1071,
+  "aspect": "(Perf)",
+  "note": "dočekati (Perf) / dočekivati (Imp)."
+ },
+ {
+  "id": 1072,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1073,
+  "aspect": "(Perf)",
+  "example": "dođi kod nas na večeru - come over to our place for dinner",
+  "note": "doći (Perf) / dolaziti (Imp)."
+ },
+ {
+  "id": 1074,
+  "gender": "(m)",
+  "declension": "(a) (+a) (k->c) (Inan)"
+ },
+ {
+  "id": 1075,
+  "aspect": "(Perf)",
+  "note": "dodati (Perf) / dodavati (Imp)."
+ },
+ {
+  "id": 1076,
+  "aspect": "(Perf)",
+  "note": "the (Imp) partner is dodeljivati / dodjeljivati."
+ },
+ {
+  "id": 1077,
+  "stress": "*DO*dir",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1078,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1079,
+  "stress": "do*GA*đaj",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "to je bio veliki događaj za selo - that was a big event for the village"
+ },
+ {
+  "id": 1080,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1081,
+  "stress": "*DOG*ma",
+  "gender": "(f)"
+ },
+ {
+  "id": 1083,
+  "stress": "dogma*TI*zam",
+  "gender": "(m)"
+ },
+ {
+  "id": 1084,
+  "aspect": "(Perf)",
+  "note": "dogoditi se (Perf) / događati se (Imp)."
+ },
+ {
+  "id": 1085,
+  "stress": "*DO*govor",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "imamo dogovor u pet - we have an arrangement at five"
+ },
+ {
+  "id": 1086,
+  "aspect": "(Perf)",
+  "note": "dogovoriti se (Perf) / dogovarati se (Imp)."
+ },
+ {
+  "id": 1087,
+  "gender": "(m)",
+  "declension": "(a) (k->c) (Inan)"
+ },
+ {
+  "id": 1088,
+  "aspect": "(Perf)",
+  "note": "dohvatiti (Perf) / dohvatati (Imp)."
+ },
+ {
+  "id": 1090,
+  "gender": "(f)"
+ },
+ {
+  "id": 1091,
+  "aspect": "(Imp)",
+  "note": "the English on the second sense reads backwards — 'dete doji majku' is the child nursing at the mother, not the mother nursing the baby."
+ },
+ {
+  "id": 1092,
+  "gender": "(f)"
+ },
+ {
+  "id": 1093,
+  "gender": "(f)"
+ },
+ {
+  "id": 1094,
+  "example": "čekaj dok se ne vratim - wait until I get back"
+ },
+ {
+  "id": 1095,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1096,
+  "stress": "*DO*kaz",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "nemaš dokaz za to - you don't have proof of that"
+ },
+ {
+  "id": 1097,
+  "aspect": "(Perf)",
+  "note": "dokazati (Perf) / dokazivati (Imp)."
+ },
+ {
+  "id": 1099,
+  "gender": "(f)"
+ },
+ {
+  "id": 1100,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1101,
+  "stress": "*DOK*tor",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "example": "moram kod doktora - I have to go to the doctor"
+ },
+ {
+  "id": 1102,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1104,
+  "stress": "dok*TRI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 1105,
+  "aspect": "(Perf)",
+  "note": "dokučiti (Perf) / dokučivati (Imp)."
+ },
+ {
+  "id": 1107,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1108,
+  "stress": "dokumen*TA*cija",
+  "gender": "(f)",
+  "note": "this one and dokumentaran came through green, but neither is a city name or a question word — looks like the highlighting slipped a couple of lines."
+ },
+ {
+  "id": 1110,
+  "stress": "*DO*lar",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1111,
+  "stress": "*DO*lazak",
+  "gender": "(m)",
+  "declension": "(a) (Inan)"
+ },
+ {
+  "id": 1112,
+  "stress": "*DO*le",
+  "example": "siđi dole, čekamo te - come downstairs, we're waiting for you"
+ },
+ {
+  "id": 1115,
+  "stress": "do*LI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 1116,
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "studentski dom je blizu fakulteta - the dorm is near the university"
+ },
+ {
+  "id": 1118,
+  "stress": "do*MA*ćica",
+  "gender": "(f)"
+ },
+ {
+  "id": 1119,
+  "stress": "do*MA*ćin",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1120,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1121,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1122,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1123,
+  "stress": "domi*NA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1126,
+  "gender": "(m)",
+  "declension": "(Anim) (a)"
+ },
+ {
+  "id": 1127,
+  "stress": "domo*VI*na",
+  "gender": "(f)",
+  "example": "vratio se u domovinu posle rata - he came back to his homeland after the war"
+ },
+ {
+  "id": 1129,
+  "aspect": "(Perf)",
+  "note": "the (Imp) partner is donositi — worth adding, since doneti/donijeti alone only covers the one-time act."
+ },
+ {
+  "id": 1130,
+  "gender": "(m)",
+  "declension": "(Anim) (a)"
+ },
+ {
+  "id": 1131,
+  "stress": "*DO*nji"
+ },
+ {
+  "id": 1132,
+  "aspect": "(Perf)",
+  "example": "dopada mi se ova pesma - I like this song",
+  "note": "dopasti se (Perf) / dopadati se (Imp)."
+ },
+ {
+  "id": 1133,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1134,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1135,
+  "gender": "(f)"
+ },
+ {
+  "id": 1136,
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1137,
+  "gender": "(f)"
+ },
+ {
+  "id": 1138,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1139,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1140,
+  "gender": "(f)"
+ },
+ {
+  "id": 1141,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1142,
+  "aspect": "(Perf)",
+  "note": "dopreti/doprijeti (Perf) / dopirati (Imp)."
+ },
+ {
+  "id": 1143,
+  "aspect": "(Perf)",
+  "note": "the headword prints doprineti twice — the [J] partner should be doprinijeti."
+ },
+ {
+  "id": 1144,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1145,
+  "gender": "(f)"
+ },
+ {
+  "id": 1146,
+  "aspect": "(Perf)",
+  "note": "the (Imp) partner is dopunjavati."
+ },
+ {
+  "id": 1147,
+  "aspect": "(Perf)",
+  "note": "dopustiti (Perf) / dopuštati (Imp)."
+ },
+ {
+  "id": 1149,
+  "stress": "*DO*ručak",
+  "gender": "(m)",
+  "declension": "(a) (k->c) (Inan)"
+ },
+ {
+  "id": 1150,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1151,
+  "stress": "do*SA*da",
+  "gender": "(f)"
+ },
+ {
+  "id": 1152,
+  "stress": "do*SA*dan",
+  "example": "film je bio dosadan - the movie was boring"
+ },
+ {
+  "id": 1153,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1154,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1155,
+  "stress": "dose*LJE*nik",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1156,
+  "aspect": "(Perf)",
+  "note": "closer to 'to think of, hit on an idea' than to plain remembering — setiti se/sjetiti se is the one for recalling something. dosećati se is the (Imp)."
+ },
+ {
+  "id": 1157,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1158,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1161,
+  "aspect": "(Perf)",
+  "note": "the (Imp) partner is dospevati/dospijevati."
+ },
+ {
+  "id": 1162,
+  "stress": "*DOS*ta"
+ },
+ {
+  "id": 1163,
+  "aspect": "(Perf)",
+  "note": "dostati (Perf) / dostajati (Imp)."
+ },
+ {
+  "id": 1164,
+  "gender": "(f)"
+ },
+ {
+  "id": 1165,
+  "aspect": "(Perf)",
+  "note": "dostaviti (Perf) / dostavljati (Imp)."
+ },
+ {
+  "id": 1166,
+  "aspect": "(Perf)",
+  "note": "the (Imp) partner is dostizati."
+ },
+ {
+  "id": 1167,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1170,
+  "note": "nothing tricky here despite the ??? — dostojanstven is just the adjective off dostojanstvo: carrying yourself with dignity."
+ },
+ {
+  "id": 1171,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1172,
+  "aspect": "(Perf)",
+  "note": "dosuditi (Perf) / dosuđivati (Imp)."
+ },
+ {
+  "id": 1173,
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1174,
+  "aspect": "(Perf)",
+  "note": "dotaći (Perf) / doticati (Imp)."
+ },
+ {
+  "id": 1176,
+  "aspect": "(Perf)",
+  "note": "doterati/dotjerati (Perf) / doterivati (Imp)."
+ },
+ {
+  "id": 1178,
+  "stress": "*DOT*le"
+ },
+ {
+  "id": 1179,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1180,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1181,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1183,
+  "aspect": "(Perf)",
+  "note": "dovesti (Perf) / dovoditi (Imp)."
+ },
+ {
+  "id": 1184,
+  "aspect": "(Perf)",
+  "note": "the present tense on this one should be dovezem, not dovedem — dovedem belongs to dovesti I (to lead). That's the only thing keeping the two apart."
+ },
+ {
+  "id": 1186,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1187,
+  "stress": "do*VO*ljan"
+ },
+ {
+  "id": 1188,
+  "example": "imamo dovoljno vremena - we have enough time"
+ },
+ {
+  "id": 1189,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1190,
+  "aspect": "(Perf)",
+  "note": "dovršiti (Perf) / dovršavati (Imp)."
+ },
+ {
+  "id": 1191,
+  "aspect": "(Perf)",
+  "note": "dovući (Perf) / dovlačiti (Imp)."
+ },
+ {
+  "id": 1192,
+  "stress": "*DO*za",
+  "gender": "(f)"
+ },
+ {
+  "id": 1193,
+  "aspect": "(Perf)",
+  "note": "the present tense should be doznačim — 'doznatim' looks like a slip."
+ },
+ {
+  "id": 1194,
+  "gender": "(f)"
+ },
+ {
+  "id": 1195,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1196,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1197,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1198,
+  "stress": "doz*VO*la",
+  "gender": "(f)"
+ },
+ {
+  "id": 1199,
+  "aspect": "(Perf)",
+  "note": "dozvoliti (Perf) / dozvoljavati (Imp)."
+ },
+ {
+  "id": 1200,
+  "aspect": "(Perf)",
+  "note": "doživeti/doživjeti (Perf) / doživljavati (Imp)."
+ },
+ {
+  "id": 1201,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1203,
+  "example": "on mi je jako drag - I'm really fond of him"
+ },
+ {
+  "id": 1205,
+  "example": "drago mi je - nice to meet you"
+ },
+ {
+  "id": 1207,
+  "stress": "*DRA*ma",
+  "gender": "(f)"
+ },
+ {
+  "id": 1208,
+  "stress": "dra*MA*tičan"
+ },
+ {
+  "id": 1209,
+  "stress": "dra*MA*tičar",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1212,
+  "stress": "*DRAS*tičan"
+ },
+ {
+  "id": 1214,
+  "aspect": "(Imp)",
+  "note": "dražiti (Imp) / razdražiti (Perf)."
+ },
+ {
+  "id": 1215,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1217,
+  "stress": "*DRE*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 1218,
+  "stress": "*DRE*mati",
+  "aspect": "(Imp)",
+  "note": "everywhere else you list the 1st person singular — 'dremaš' is 2nd person. It should be dremati – dremam (drijemati – drijemam)."
+ },
+ {
+  "id": 1219,
+  "gender": "(m)",
+  "declension": "(Inan) (e)"
+ },
+ {
+  "id": 1221,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1223,
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "nosi dres reprezentacije - he's wearing the national team jersey"
+ },
+ {
+  "id": 1225,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1226,
+  "stress": "*DRH*tati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1228,
+  "gender": "(f)"
+ },
+ {
+  "id": 1229,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1230,
+  "aspect": "(Imp)",
+  "note": "the present tense of drmati is drmam — drmnem is the (Perf) drmnuti."
+ },
+ {
+  "id": 1231,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1232,
+  "aspect": "(Imp)",
+  "note": "drobiti (Imp) / zdrobiti (Perf)."
+ },
+ {
+  "id": 1233,
+  "stress": "*DRO*ga",
+  "gender": "(f)"
+ },
+ {
+  "id": 1234,
+  "stress": "dro*GE*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1235,
+  "gender": "(f)"
+ },
+ {
+  "id": 1236,
+  "gender": "(m)",
+  "declension": "(a) (k->c) (Inan)"
+ },
+ {
+  "id": 1238,
+  "gender": "(m)",
+  "declension": "(Anim) (a)",
+  "note": "the thrush is usually just drozd — drozdak reads like a diminutive of it. Worth checking which one you heard."
+ },
+ {
+  "id": 1239,
+  "gender": "(f)"
+ },
+ {
+  "id": 1240,
+  "gender": "(f)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1241,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "example": "on mi je najbolji drug - he's my best friend"
+ },
+ {
+  "id": 1242,
+  "gender": "(f)",
+  "example": "moja drugarica iz škole - my friend from school"
+ },
+ {
+  "id": 1244,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1246,
+  "stress": "*DRU*gi",
+  "example": "drugi put ćemo doći ranije - next time we'll come earlier"
+ },
+ {
+  "id": 1247,
+  "stress": "*DRUK*čiji"
+ },
+ {
+  "id": 1248,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1250,
+  "stress": "druma*RI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 1252,
+  "stress": "*DRUŠ*tvo",
+  "gender": "(Noun)",
+  "declension": "(+a)",
+  "example": "volim da budem u društvu - I like being around people"
+ },
+ {
+  "id": 1254,
+  "stress": "dru*ŽI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 1255,
+  "aspect": "(Imp)",
+  "example": "družimo se posle crkve - we hang out after church"
+ },
+ {
+  "id": 1256,
+  "gender": "(Noun)",
+  "note": "drva is the plural of drvo used for firewood — cut wood, not trees."
+ },
+ {
+  "id": 1257,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1258,
+  "stress": "dr*VAR*nica",
+  "gender": "(f)"
+ },
+ {
+  "id": 1260,
+  "stress": "*DR*vo",
+  "gender": "(Noun)",
+  "example": "ispod drveta ima hlada - there's shade under the tree",
+  "note": "two plurals doing two jobs: drveta/drveće for trees, drva for firewood."
+ },
+ {
+  "id": 1261,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1262,
+  "gender": "(m)",
+  "declension": "(Anim) (a)"
+ },
+ {
+  "id": 1263,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "this is the [J] spelling — the [E] form is drvoseča."
+ },
+ {
+  "id": 1264,
+  "stress": "*DR*zak"
+ },
+ {
+  "id": 1265,
+  "gender": "(m)",
+  "declension": "(Inan) (e)"
+ },
+ {
+  "id": 1266,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1267,
+  "stress": "*DR*žati",
+  "aspect": "(Imp)",
+  "example": "drži ovo, molim te - hold this, please"
+ },
+ {
+  "id": 1268,
+  "stress": "dr*ŽA*va",
+  "gender": "(f)",
+  "example": "u kojoj državi živiš? - what country do you live in?"
+ },
+ {
+  "id": 1270,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "loses the -in in the plural: državljanin, državljani."
+ },
+ {
+  "id": 1271,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1272,
+  "stress": "dr*ŽAV*nik",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1273,
+  "stress": "du*BI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 1275,
+  "stress": "*DU*bok"
+ },
+ {
+  "id": 1277,
+  "stress": "*DU*ćan",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "idem u dućan po hleb - I'm going to the shop for bread",
+  "note": "dućan is the everyday word in [C] and [B]; in Serbia you'll mostly hear prodavnica."
+ },
+ {
+  "id": 1278,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1281,
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "moram da vratim dug - I have to pay back the debt"
+ },
+ {
+  "id": 1282,
+  "stress": "*DU*ga",
+  "gender": "(f)"
+ },
+ {
+  "id": 1283,
+  "gender": "(f)"
+ },
+ {
+  "id": 1285,
+  "stress": "*DUG*me",
+  "gender": "(Noun)",
+  "note": "-et- neuter like ćebe: dugme, dugmeta, and the collective plural dugmad."
+ },
+ {
+  "id": 1286,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1289,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1290,
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "Sveti Duh svedoči o istini - the Holy Ghost testifies of truth",
+  "note": "small thing — you call it a verb in the aside, but duh is a noun."
+ },
+ {
+  "id": 1291,
+  "note": "duvački covers wind instruments in general (flute, clarinet, trumpet), not brass specifically — duvački orkestar is a wind band."
+ },
+ {
+  "id": 1292,
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "note": "duhan is [C] and [B]; [S] is duvan, which you have two entries down."
+ },
+ {
+  "id": 1293,
+  "stress": "du*HO*vit"
+ },
+ {
+  "id": 1294,
+  "example": "to je bilo duhovno iskustvo - that was a spiritual experience"
+ },
+ {
+  "id": 1295,
+  "stress": "*DU*nav",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1296,
+  "stress": "*DU*nja",
+  "gender": "(f)"
+ },
+ {
+  "id": 1298,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1299,
+  "gender": "(f)"
+ },
+ {
+  "id": 1300,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1301,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1302,
+  "stress": "*DU*ša",
+  "gender": "(f)",
+  "example": "dušo, dođi ovamo - sweetheart, come here"
+ },
+ {
+  "id": 1303,
+  "gender": "(m)",
+  "declension": "(a) (k->c) (Inan)"
+ },
+ {
+  "id": 1306,
+  "gender": "(m)",
+  "declension": "(k->c) (Inan)"
+ },
+ {
+  "id": 1307,
+  "note": "duvački already has its own full entry higher up in the letter — and the cross-reference points at 'duhački', which isn't spelled that way anywhere else here."
+ },
+ {
+  "id": 1308,
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "note": "duvan is [S], duhan is [C]/[B]."
+ },
+ {
+  "id": 1309,
+  "stress": "*DU*vati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1311,
+  "stress": "*DU*žan",
+  "example": "dužan sam ti pet evra - I owe you five euros"
+ },
+ {
+  "id": 1313,
+  "gender": "(f)"
+ },
+ {
+  "id": 1314,
+  "stress": "du*ŽI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 1315,
+  "stress": "*DUŽ*nik",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1316,
+  "stress": "*DUŽ*nost",
+  "gender": "(f)",
+  "example": "to je naša dužnost - that's our duty"
+ },
+ {
+  "id": 1317,
+  "example": "imam dva brata - I have two brothers"
+ },
+ {
+  "id": 1318,
+  "stress": "*DVA*deset"
+ },
+ {
+  "id": 1320,
+  "stress": "*DVA*naest"
+ },
+ {
+  "id": 1323,
+  "note": "the line break split a headword again — 'dvestagodišnjica,' hanging off the end of this entry belongs with the entry below."
+ },
+ {
+  "id": 1324,
+  "gender": "(f)",
+  "note": "the usual spelling has the linking -o-: dvestogodišnjica / dvjestogodišnjica."
+ },
+ {
+  "id": 1326,
+  "stress": "*DVO*boj",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1327,
+  "gender": "(f)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1333,
+  "gender": "(f)",
+  "note": "dvojica is feminine in form but refers to two males, and it takes the genitive plural after it: dvojica prijatelja."
+ },
+ {
+  "id": 1335,
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1340,
+  "gender": "(m)",
+  "declension": "(k->c) (Inan)"
+ },
+ {
+  "id": 1341,
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1343,
+  "stress": "dvo*RA*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 1344,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "drops the -in in the plural: dvorani."
+ },
+ {
+  "id": 1345,
+  "gender": "(Noun)",
+  "example": "deca se igraju u dvorištu - the kids are playing in the yard"
+ },
+ {
+  "id": 1346,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1350,
+  "gender": "(f)"
+ },
+ {
+  "id": 1355,
+  "gender": "(m)",
+  "declension": "(Anim) (a)"
+ },
+ {
+  "id": 1356,
+  "gender": "(Noun)",
+  "declension": "(+a)",
+  "note": "the stray 'Dž' at the end of this line is the heading for the next letter — it got pulled into the entry."
+ },
+ {
+  "id": 1357,
+  "stress": "*DŽA*ba",
+  "pos": "(adv)",
+  "example": "sve je bilo džaba - it was all for nothing"
+ },
+ {
+  "id": 1358,
+  "pos": "(adv)",
+  "example": "dobio sam to džabe - I got it for free"
+ },
+ {
+  "id": 1359,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(k->c) (Inan)"
+ },
+ {
+  "id": 1360,
+  "stress": "*DŽA*mija",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "džamija je u starom delu grada - the mosque is in the old part of town"
+ },
+ {
+  "id": 1361,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "note": "džam is a Turkism you'll hear in Bosnia — the standard word is staklo."
+ },
+ {
+  "id": 1362,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "hleb sa džemom za doručak - bread with jam for breakfast"
+ },
+ {
+  "id": 1363,
+  "stress": "*DŽEM*per",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "obuci džemper, hladno je - put on a sweater, it's cold"
+ },
+ {
+  "id": 1364,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "example": "ključevi su mi u džepu - my keys are in my pocket"
+ },
+ {
+  "id": 1366,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1367,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1368,
+  "stress": "*DŽEZ*va",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "kafa se kuva u džezvi - the coffee gets made in a džezva"
+ },
+ {
+  "id": 1369,
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "note": "I can't find džezvati in normal use — people just say kuvati kafu. If you picked it up from somebody, keep it, but it's worth a second ear."
+ },
+ {
+  "id": 1370,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1371,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "worth splitting: crna džigerica is the liver, bela džigerica is the lungs. If somebody offers you džigerica, ask which one."
+ },
+ {
+  "id": 1372,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)",
+  "note": "džin is also 'giant' (same idea as div) — two different words that landed on the same spelling."
+ },
+ {
+  "id": 1373,
+  "pos": "(adj)"
+ },
+ {
+  "id": 1374,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1375,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1376,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1377,
+  "note": "flagging the whole džubrav- run here (džubrav through džubravštvenik): I can't place these in standard use. The bush word is žbun / džbun, and the -štvenost / -štvenik forms in particular don't look like words anybody says. Worth checking the source before this block goes in the book."
+ },
+ {
+  "id": 1378,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1379,
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1380,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 1381,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 1382,
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1383,
+  "pos": "(adj)"
+ },
+ {
+  "id": 1384,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 1385,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 1386,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "on je dobar đak - he's a good student"
+ },
+ {
+  "id": 1387,
+  "stress": "*ĐA*kon",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "example": "đakon deli sakrament - the deacon passes the sacrament"
+ },
+ {
+  "id": 1388,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 1390,
+  "stress": "*ĐA*vo",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "on je pravi đavo od deteta - he's a real little devil of a kid"
+ },
+ {
+  "id": 1391,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1392,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "same pot as džezva up in Dž — đezva is the [B] spelling, džezva the [S] one. Might be worth cross-referencing the two entries."
+ },
+ {
+  "id": 1393,
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1394,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim) (e)"
+ },
+ {
+  "id": 1395,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 1396,
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1397,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1398,
+  "stress": "*ĐUB*re",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "example": "baci ovo u đubre - throw this in the trash"
+ },
+ {
+  "id": 1399,
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1400,
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1401,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan)"
+ },
+ {
+  "id": 1402,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(a) (k->c) (Inan)",
+  "note": "named for Đurđevdan (St. George's Day, 6 May) — it's the flower of that holiday."
+ },
+ {
+  "id": 1403,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Inan) (e)"
+ }
+]

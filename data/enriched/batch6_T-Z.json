@@ -1,0 +1,1815 @@
+[
+  {
+    "id": 3684,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3685,
+    "stress": "*TA*čan",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3686,
+    "stress": "*TAČ*no"
+  },
+  {
+    "id": 3687,
+    "stress": "*TAČ*ka",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "(+a)",
+    "note": "Gen. Pl. is 'tačaka', so the (+a?) is a yes. The (i?) doesn't apply — 'tačaka', not 'tački'."
+  },
+  {
+    "id": 3688,
+    "stress": "*TA*ko",
+    "pos": "(adv)",
+    "example": "nemoj tako da pričaš sa mnom - don't talk to me like that"
+  },
+  {
+    "id": 3689,
+    "pos": "(Conj)"
+  },
+  {
+    "id": 3690,
+    "stress": "*TA*kođe",
+    "pos": "(adv)",
+    "example": "i ja takođe - me too"
+  },
+  {
+    "id": 3691,
+    "stress": "*TA*kođer",
+    "pos": "(adv)"
+  },
+  {
+    "id": 3692,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3693,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3694,
+    "stress": "*TA*man",
+    "pos": "(adj)",
+    "note": "'taman' also does duty as an adverb meaning 'exactly / just right' — might be worth its own sub-entry."
+  },
+  {
+    "id": 3695,
+    "stress": "*TAM*niji",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3696,
+    "stress": "*TA*mo",
+    "example": "idi tamo i čekaj me - go over there and wait for me"
+  },
+  {
+    "id": 3697,
+    "pos": "(adv)"
+  },
+  {
+    "id": 3698,
+    "stress": "*TA*nak",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3699,
+    "stress": "*TA*njir",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "stavi tanjir na sto - put the plate on the table"
+  },
+  {
+    "id": 3700,
+    "stress": "*TA*njur",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3701,
+    "stress": "*TA*ta",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3702,
+    "stress": "*TA*va",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3703,
+    "stress": "*TE*čaj",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "course, class (Hrv)",
+    "note": "Your 'class?' is right — 'tečaj' is a course/class in Croatian. Heads up that it also means 'exchange rate' (tečaj eura), which is honestly the more common use in the news."
+  },
+  {
+    "id": 3704,
+    "pos": "(adv)"
+  },
+  {
+    "id": 3705,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "daj mi svoj broj telefona - give me your phone number"
+  },
+  {
+    "id": 3706,
+    "stress": "*TE*žak",
+    "pos": "(adj)",
+    "example": "ispit je bio jako težak - the test was really hard"
+  },
+  {
+    "id": 3708,
+    "pos": "(Noun)",
+    "gender": "(Noun)",
+    "example": "cijelo tijelo me boli - my whole body hurts"
+  },
+  {
+    "id": 3709,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(+ov)",
+    "note": "Plural is 'timovi', so the (+ov?) is a yes."
+  },
+  {
+    "id": 3710,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3711,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "I'd guess Gen. Pl. is 'tinejdžerki' rather than 'tinejdžeraka', but I'm not sure enough to mark (+a) or (i) — worth asking someone."
+  },
+  {
+    "id": 3712,
+    "stress": "*TI*sak",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3713,
+    "note": "'tiša' for a thousand doesn't ring a bell — is this maybe 'tisuća' shortened, or a different spelling? Worth checking against wherever you heard it."
+  },
+  {
+    "id": 3714,
+    "stress": "*TJE*dan",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "vidimo se sljedeći tjedan - see you next week"
+  },
+  {
+    "id": 3715,
+    "stress": "*TJE*me",
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 3717,
+    "pos": "(Pron)"
+  },
+  {
+    "id": 3718,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3719,
+    "stress": "*TO*čak",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3720,
+    "stress": "*TO*čan",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3721,
+    "stress": "*TOČ*no"
+  },
+  {
+    "id": 3722,
+    "stress": "*TOČ*ka",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "(+a)",
+    "note": "Gen. Pl. 'točaka' — the (+a?) is a yes."
+  },
+  {
+    "id": 3723,
+    "note": "Worth a line noting that the native noun 'top' means 'cannon' — this pink entry is the borrowed 'top' as in top-tier."
+  },
+  {
+    "id": 3724,
+    "stress": "*TO*kom"
+  },
+  {
+    "id": 3725,
+    "stress": "*TO*liko",
+    "pos": "(adv)"
+  },
+  {
+    "id": 3726,
+    "stress": "*TO*nuti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3727,
+    "stress": "*TO*ranj",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3728,
+    "pos": "(Verb)",
+    "aspect": "(Perf)"
+  },
+  {
+    "id": 3729,
+    "stress": "*TI*suća",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3730,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "trace, track, trail",
+    "note": "The core sense is a physical trace/track/footprint; 'clue' works figuratively ('na tragu sam' = I'm on the trail of it). And yes, 'natrag' (back, backwards) is a real branch off it."
+  },
+  {
+    "id": 3731,
+    "stress": "*TRA*jekt",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(+a)",
+    "note": "Two things: your pipe note reads |tr*AJ*kt| which looks like an 'e' got dropped — should be tra-jekt. Gen. Pl. is 'trajekata', so the (+a?) is a yes."
+  },
+  {
+    "id": 3732,
+    "stress": "*TRAM*vaj",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "tramvaj broj dva ide do centra - the number two tram goes downtown"
+  },
+  {
+    "id": 3733,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3734,
+    "stress": "*TRA*vanj",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3736,
+    "stress": "*TRA*žiti",
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "example": "šta tražiš ovdje - what are you looking for here"
+  },
+  {
+    "id": 3737,
+    "stress": "*TR*buh",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3738,
+    "stress": "*TRE*bati",
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "example": "treba mi pomoć - I need help"
+  },
+  {
+    "id": 3739,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3740,
+    "note": "This entry has no English gloss at all — just markers. It's 'trend', same as English, but you probably want to write something in there."
+  },
+  {
+    "id": 3741,
+    "stress": "*TRE*ner",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3742,
+    "stress": "*TRE*šnja",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3744,
+    "stress": "tr*GO*vina",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3756,
+    "stress": "*TU*ljan",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3757,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3759,
+    "stress": "*TU*ra",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3760,
+    "stress": "*TUR*čin",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3761,
+    "stress": "*TUR*kinja",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3763,
+    "stress": "*TUR*ski",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3764,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3765,
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "note": "Almost always shows up reflexive — 'tuširati se'. Might belong bulleted that way."
+  },
+  {
+    "id": 3766,
+    "pos": "(Pron)",
+    "example": "je li ovo tvoj telefon - is this your phone"
+  },
+  {
+    "id": 3746,
+    "pos": "(Num)"
+  },
+  {
+    "id": 3748,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3749,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3750,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3751,
+    "pos": "(Num)"
+  },
+  {
+    "id": 3753,
+    "stress": "*TR*ka",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3754,
+    "stress": "*TRO*šak",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3755,
+    "stress": "*TRO*šiti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3771,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "resolves": "to toss in, throw in, insert",
+    "note": "'ubaciti' is literally to throw/toss something in — 'ubaci to u torbu'. 'To interject' works for cutting into a conversation ('ubacio se u razgovor') but that's the reflexive."
+  },
+  {
+    "id": 3772,
+    "stress": "*U*biti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3773,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3774,
+    "pos": "(Noun)",
+    "note": "Masculine when it's a man, even though it declines like 'tata' — this is your (ME) type. Might be worth the marker."
+  },
+  {
+    "id": 3775,
+    "stress": "*U*činiti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3776,
+    "stress": "*U*čiti",
+    "pos": "(Verb)",
+    "example": "učim srpski već godinu dana - I've been learning Serbian for a year now"
+  },
+  {
+    "id": 3777,
+    "stress": "*U*ći",
+    "pos": "(Verb)",
+    "example": "uđi, vrata su otvorena - come in, the door is open"
+  },
+  {
+    "id": 3778,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3779,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3780,
+    "stress": "*U*dariti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3781,
+    "stress": "*U*gao",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "note": "Plural goes 'uglovi / uglova', so I don't think (+a) applies — it's the (+ov) pattern instead."
+  },
+  {
+    "id": 3782,
+    "stress": "u*GA*siti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3783,
+    "stress": "u*GLAV*nom",
+    "pos": "(adv)"
+  },
+  {
+    "id": 3785,
+    "resolves": "u*GO*dan",
+    "pos": "(adj)",
+    "note": "Your stress guess was right — u*GO*dan."
+  },
+  {
+    "id": 3787,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3788,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3789,
+    "pos": "(adj)",
+    "note": "This is the Croatian one (from 'uhititi'). In Serbia you'd hear 'uhapšen'. Might want the (Hrv) marker."
+  },
+  {
+    "id": 3790,
+    "stress": "*U*ho",
+    "pos": "(Noun)",
+    "gender": "(Noun)",
+    "example": "boli me uho - my ear hurts"
+  },
+  {
+    "id": 3792,
+    "stress": "u*JU*tro",
+    "pos": "(adv)"
+  },
+  {
+    "id": 3793,
+    "stress": "u*JU*tru",
+    "pos": "(adv)"
+  },
+  {
+    "id": 3794,
+    "stress": "u*KLJU*čiti",
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "example": "možeš li uključiti svjetlo - can you turn on the light"
+  },
+  {
+    "id": 3795,
+    "stress": "*U*krasti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3796,
+    "stress": "*U*laziti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3798,
+    "stress": "*U*lica",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "example": "u kojoj ulici živiš - what street do you live on"
+  },
+  {
+    "id": 3800,
+    "stress": "umiva*O*nik",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3801,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3803,
+    "pos": "(adv)"
+  },
+  {
+    "id": 3804,
+    "pos": "(Noun)",
+    "gender": "(Noun)",
+    "note": "(Anim) is a masculine-only marker in your system — 'unuče' is neuter, so it doesn't take it."
+  },
+  {
+    "id": 3808,
+    "stress": "*U*paljač",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3809,
+    "stress": "*U*pitati",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3810,
+    "pos": "(adj)",
+    "note": "English side reads 'payed' — should be 'paid'."
+  },
+  {
+    "id": 3811,
+    "pos": "(excl)",
+    "resolves": "help! (a shout for help)",
+    "note": "It's the thing you actually yell — 'Upomoć!' = 'Help!'. Not really a noun."
+  },
+  {
+    "id": 3812,
+    "pos": "(Verb)",
+    "example": "drago mi je što smo se upoznali - nice to meet you"
+  },
+  {
+    "id": 3813,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3814,
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "resolves": "(Imp)"
+  },
+  {
+    "id": 3815,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "resolves": "(Perf)"
+  },
+  {
+    "id": 3816,
+    "stress": "*U*pravo",
+    "pos": "(adv)"
+  },
+  {
+    "id": 3818,
+    "stress": "*U*raditi",
+    "pos": "(Verb)",
+    "example": "moram da uradim domaći zadatak - I have to do my homework"
+  },
+  {
+    "id": 3819,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "Not confident on the Gen. Pl. — I've seen both 'uredaba' and 'uredbi'. Leaving (+a?) as you had it."
+  },
+  {
+    "id": 3820,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(No \"a\") and no (+ev)",
+    "note": "'uređaj -> uređaja -> uređaji' — the 'a' stays, and it's too long a word to take the -ev plural infix. So both of your question marks resolve to 'no'."
+  },
+  {
+    "id": 3821,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3822,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "resolves": "(Perf)"
+  },
+  {
+    "id": 3823,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "note": "This is the Croatian form; in Serbia it's 'uporediti' (no 's'). Might want (Hrv)."
+  },
+  {
+    "id": 3824,
+    "stress": "u*SPO*riti",
+    "pos": "(Verb)",
+    "aspect": "(Perf)"
+  },
+  {
+    "id": 3825,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(k->c)",
+    "note": "Plural is 'ustanci', so the (k->c?) is a yes."
+  },
+  {
+    "id": 3826,
+    "stress": "*U*stati",
+    "pos": "(Verb)",
+    "resolves": "(rel: ustajati)",
+    "note": "Yes — 'ustajati' is the imperfective partner, your guess was right."
+  },
+  {
+    "id": 3827,
+    "pos": "(adv)",
+    "resolves": "(Adv)",
+    "note": "Functions as an adverb, not a conjunction. Also commonly written as two words, 'u stvari'."
+  },
+  {
+    "id": 3828,
+    "stress": "*U*teg",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3829,
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "resolves": "(Srp)",
+    "note": "Yes — 'uticati' is the Bosnian/Serbian side, 'utjecati' the Croatian one."
+  },
+  {
+    "id": 3830,
+    "stress": "u*TIČ*nica",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3831,
+    "stress": "*U*tisak",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(a) (k->c)",
+    "note": "'utisak -> utiska' gives you the (a), and plural 'utisci' gives you the (k->c). Both yes.",
+    "example": "ostavio je dobar utisak - he made a good impression"
+  },
+  {
+    "id": 3832,
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "resolves": "(Hrv)",
+    "note": "Yes, this is the Croatian side of the pair."
+  },
+  {
+    "id": 3833,
+    "resolves": "to influence, to have an effect on (Acc)",
+    "note": "'utjecati na' takes Accusative — 'to utječe na mene'."
+  },
+  {
+    "id": 3834,
+    "stress": "*U*tjeha",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "(h->s) (ije)",
+    "note": "Dat./Loc. is 'utjesi' so (h->s) is a yes, and the Ekavian form is 'uteha' so the (ije) is a yes too."
+  },
+  {
+    "id": 3835,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "vidimo se u utorak - see you on Tuesday"
+  },
+  {
+    "id": 3842,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3843,
+    "stress": "*U*vijek",
+    "pos": "(adv)",
+    "example": "uvijek kasniš - you're always late"
+  },
+  {
+    "id": 3844,
+    "pos": "(Verb)",
+    "aspect": "(Perf)"
+  },
+  {
+    "id": 3846,
+    "stress": "*U*zeti",
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "example": "uzmi šta ti treba - take what you need"
+  },
+  {
+    "id": 3847,
+    "pos": "(Verb)",
+    "aspect": "(Perf)"
+  },
+  {
+    "id": 3848,
+    "stress": "*U*žas",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(No \"a\")",
+    "note": "'užas -> užasa' — the 'a' doesn't drop, so it's (No \"a\")."
+  },
+  {
+    "id": 3849,
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 3853,
+    "stress": "u*ŽI*tak",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(a) (+a)",
+    "note": "Standard -tak noun: 'užitak -> užitka' gives (a), Gen. Pl. 'užitaka' gives (+a)."
+  },
+  {
+    "id": 3854,
+    "stress": "u*ŽI*vati",
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "example": "uživam u ovoj knjizi - I'm enjoying this book"
+  },
+  {
+    "id": 3855,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3856,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3861,
+    "pos": "(adv)",
+    "resolves": "(Adv)",
+    "note": "It's an adverb ('idem van'), but it doubles as a preposition with Genitive — 'van grada' = outside the city."
+  },
+  {
+    "id": 3863,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "declension": "(a) (Anim)",
+    "note": "'vanzemaljac -> vanzemaljca', the usual -ac disappearing 'a'."
+  },
+  {
+    "id": 3865,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3867,
+    "pos": "(Pron)"
+  },
+  {
+    "id": 3868,
+    "stress": "*VA*tra",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "Not sure enough on the Gen. Pl. to call it — I lean 'vatri' over 'vatara', which would mean no (+a).",
+    "example": "vatra se ugasila - the fire went out"
+  },
+  {
+    "id": 3869,
+    "stress": "*VA*zduh",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "note": "Barely ever pluralized, so the (h->s?) is hard to confirm in the wild. Leaving it as you had it."
+  },
+  {
+    "id": 3870,
+    "note": "Worth adding that in Serbia 'važi' is mostly used for 'OK / deal / agreed' — 'važi, vidimo se' — as well as the 'get a move on' sense you have."
+  },
+  {
+    "id": 3836,
+    "stress": "*VA*ga",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "scale (for weighing); also Libra",
+    "note": "Your 'scale?' is right — it's the weighing kind (bathroom scale, kitchen scale), and the zodiac sign by extension."
+  },
+  {
+    "id": 3837,
+    "stress": "vak*CI*na",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3840,
+    "stress": "*U*trka",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3841,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3871,
+    "pos": "(adv)",
+    "note": "The pipe note reads |ve*ČE*as| — looks like the 'r' fell out, should be ve*ČE*ras."
+  },
+  {
+    "id": 3873,
+    "example": "već sam jeo, hvala - I already ate, thanks"
+  },
+  {
+    "id": 3874,
+    "pos": "(Noun)"
+  },
+  {
+    "id": 3875,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3876,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3877,
+    "stress": "*VE*ljača",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3879,
+    "pos": "(Noun)"
+  },
+  {
+    "id": 3880,
+    "stress": "*VE*par",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3881,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "always Feminine Plural",
+    "note": "Yes — 'verige' is plurale tantum, feminine. Your question mark resolves to a yes."
+  },
+  {
+    "id": 3882,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3883,
+    "stress": "*VE*slati",
+    "pos": "(Verb)",
+    "aspect": "(Imp)"
+  },
+  {
+    "id": 3884,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "resolves": "to bring (someone), to lead someone somewhere",
+    "note": "Yes — 'dovesti' is bringing a person/animal by leading or driving them. For objects you'd use 'donijeti'."
+  },
+  {
+    "id": 3885,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3886,
+    "stress": "*VE*za",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "example": "u vezi smo već dvije godine - we've been together for two years"
+  },
+  {
+    "id": 3890,
+    "resolves": "'u vezi s(a)' + Instrumental; colloquially 'u vezi' + Genitive",
+    "note": "Answering your question directly: neither dative. Prescriptively it's 'u vezi s tim' (Instrumental with s/sa). In everyday speech people drop the 's' and use Genitive — 'u vezi toga' — and everyone understands it, it's just the non-standard version."
+  },
+  {
+    "id": 3891,
+    "stress": "*VE*zica",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3893,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(+ov)",
+    "note": "'vidovi' — one-syllable noun, so (+ov) is a yes."
+  },
+  {
+    "id": 3895,
+    "stress": "*VI*djeti",
+    "pos": "(Verb)",
+    "note": "Two things worth a look: 'vidjeti' is really biaspectual — it works as both Imperfective and Perfective depending on context ('vidim ga' vs 'vidjet ću ga sutra'). And the Ekavian partner 'videti' isn't listed as its own entry anywhere in here.",
+    "example": "drago mi je što te vidim - I'm glad to see you"
+  },
+  {
+    "id": 3896,
+    "stress": "*VI*dra",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3897,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "note": "Two flags: 'vijek' is masculine, so the (FE?) marker looks wrong — that's your feminine i-declension class. Also '(bran: uvijek)' looks like a typo for '(br: uvijek)'."
+  },
+  {
+    "id": 3898,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3899,
+    "stress": "*VI*siti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3900,
+    "example": "ne mogu više - I can't take any more"
+  },
+  {
+    "id": 3903,
+    "stress": "*VI*tez",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3904,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3905,
+    "stress": "*VJE*ran",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3906,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3907,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3908,
+    "stress": "*VJE*rovati",
+    "pos": "(Verb)",
+    "example": "vjerujem ti - I believe you"
+  },
+  {
+    "id": 3911,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3912,
+    "stress": "vje*ŠTI*na",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3913,
+    "stress": "*VJE*tar",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "danas puše jak vjetar - a strong wind is blowing today"
+  },
+  {
+    "id": 3914,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3915,
+    "pos": "(adv)",
+    "note": "This is the adverb / impersonal form — 'vjetrovito je' = it's windy. The plain adjective is 'vjetrovit' (vjetrovit dan), which isn't in here yet."
+  },
+  {
+    "id": 3916,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3917,
+    "stress": "*VLA*dati",
+    "pos": "(Verb)",
+    "aspect": "(Imp)"
+  },
+  {
+    "id": 3918,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "vlak kasni pola sata - the train is half an hour late"
+  },
+  {
+    "id": 3922,
+    "pos": "(Noun)",
+    "gender": "(Noun)",
+    "resolves": "(Unc)",
+    "note": "Yes, uncountable — it's a collective, like 'fruit' in English. For one piece you say 'voćka' or name the fruit."
+  },
+  {
+    "id": 3923,
+    "stress": "*VOĆ*ka",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "fruit tree",
+    "note": "Your guess is right — primarily the tree. Colloquially people also use it for a single piece of fruit."
+  },
+  {
+    "id": 3925,
+    "stress": "*VO*da",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "example": "mogu li dobiti čašu vode - can I get a glass of water"
+  },
+  {
+    "id": 3926,
+    "stress": "*VO*diti",
+    "pos": "(Verb)",
+    "aspect": "(Imp)"
+  },
+  {
+    "id": 3927,
+    "stress": "*VO*dič",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3929,
+    "pos": "(Noun)"
+  },
+  {
+    "id": 3930,
+    "stress": "*VO*sak",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3931,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "voz za Beograd polazi u devet - the train to Belgrade leaves at nine"
+  },
+  {
+    "id": 3932,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3934,
+    "pos": "(Noun)",
+    "gender": "(Noun)",
+    "example": "zatvori vrata, molim te - close the door, please"
+  },
+  {
+    "id": 3935,
+    "stress": "*VRE*ćica",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3936,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3937,
+    "pos": "(Noun)",
+    "gender": "(Noun)",
+    "example": "kakvo je vrijeme danas - what's the weather like today"
+  },
+  {
+    "id": 3939,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3940,
+    "pos": "(adj)",
+    "note": "I can't find a word 'vruđ' anywhere — I think that branch is meant to be either the comparative 'vrući' or the noun 'vrućina' (heat). Worth checking your notes."
+  },
+  {
+    "id": 3941,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3944,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3946,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "resolves": "to have fun, to entertain oneself",
+    "note": "Your 'to have fun?' is right. It doesn't really take Instrumental on its own — you'd say 'zabaviti se s nekim' or just leave it intransitive."
+  },
+  {
+    "id": 3947,
+    "stress": "za*BO*raviti",
+    "pos": "(Verb)",
+    "example": "zaboravio sam ključeve - I forgot my keys"
+  },
+  {
+    "id": 3948,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3949,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "This line looks like two entries got mashed together — 'zadaća | homework' and a separate 'Zadar' entry with its (a) marker. Probably worth splitting."
+  },
+  {
+    "id": 3950,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3951,
+    "stress": "zado*VO*ljan",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3952,
+    "stress": "*ZA*grliti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3953,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3954,
+    "stress": "za*HVA*lan",
+    "pos": "(adj)"
+  },
+  {
+    "id": 3955,
+    "stress": "za*JED*nica",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3956,
+    "stress": "*ZA*jedno",
+    "pos": "(adv)",
+    "example": "idemo zajedno - let's go together"
+  },
+  {
+    "id": 3957,
+    "pos": "(Conj)",
+    "note": "Fair warning that 'zakaj' is Kajkavian — Zagreb and the north — rather than standard Croatian. Standard is 'zašto' either way."
+  },
+  {
+    "id": 3958,
+    "stress": "*ZA*kon",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "svi moraju poštovati zakon - everyone has to respect the law"
+  },
+  {
+    "id": 3960,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "zalaga*O*nica",
+    "note": "Your pipe note reads |zala*GO*nica| but the word is za-la-ga-o-ni-ca — looks like an 'a' got dropped. The -nica rule puts the stress on the 'o'."
+  },
+  {
+    "id": 3961,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3962,
+    "pos": "(Verb)",
+    "aspect": "(Perf)"
+  },
+  {
+    "id": 3963,
+    "stress": "za*MI*sliti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3964,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3965,
+    "stress": "za*MJE*nica",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3966,
+    "stress": "*ZAM*ka",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3967,
+    "stress": "*ZA*nat",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(No \"a\")",
+    "note": "'zanat -> zanata' — the 'a' stays put, so (No \"a\")."
+  },
+  {
+    "id": 3968,
+    "pos": "(Verb)",
+    "aspect": "(Perf)"
+  },
+  {
+    "id": 3969,
+    "stress": "*ZA*pad",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3970,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3972,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3973,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "note": "'zapeti' is normally not reflexive — 'zapeo sam' (I got stuck), no 'se'. I'd drop the 'zapeti se?'."
+  },
+  {
+    "id": 3974,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3975,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3976,
+    "stress": "zapos*LE*nik",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3977,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3978,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3979,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "The '(rt: zapovjest)' points the entry at itself — probably meant to be '(rt: zapovijediti)' or similar. Worth a look."
+  },
+  {
+    "id": 3980,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3981,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3982,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3983,
+    "example": "zar nisi znao - didn't you know?"
+  },
+  {
+    "id": 3984,
+    "pos": "(Verb)",
+    "aspect": "(Perf)",
+    "resolves": "(Perf)"
+  },
+  {
+    "id": 3986,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 3987,
+    "stress": "*ZA*što",
+    "example": "zašto nisi došao - why didn't you come"
+  },
+  {
+    "id": 3988,
+    "stress": "*ZA*tim"
+  },
+  {
+    "id": 3989,
+    "note": "Gloss reads 'however', but 'zato' is really 'therefore / that's why / for that reason' — 'zato sam došao' = that's why I came. The contrastive 'however' sense is 'ali' or 'međutim'. Might be worth revisiting."
+  },
+  {
+    "id": 3992,
+    "pos": "(adj)"
+  },
+  {
+    "id": 3993,
+    "pos": "(adv)"
+  },
+  {
+    "id": 3994,
+    "pos": "(Verb)",
+    "aspect": "(Imp)"
+  },
+  {
+    "id": 3996,
+    "stress": "*ZA*vjesa",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 3997,
+    "stress": "*ZA*vjet",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 3998,
+    "stress": "*ZA*voj",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4000,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 4001,
+    "stress": "za*VR*šiti",
+    "pos": "(Verb)",
+    "example": "kad završiš, javi mi - when you finish, let me know"
+  },
+  {
+    "id": 3920,
+    "resolves": "after me, behind me",
+    "note": "'za mnom' is 'after/behind me' — 'idi za mnom' = follow me. The 'za' + Instrumental combination."
+  },
+  {
+    "id": 3921,
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 4003,
+    "pos": "(adj)"
+  },
+  {
+    "id": 4004,
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 4005,
+    "stress": "*ZDRA*vo",
+    "pos": "(excl)"
+  },
+  {
+    "id": 4006,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4007,
+    "pos": "(adj)"
+  },
+  {
+    "id": 4008,
+    "pos": "(adj)",
+    "resolves": "earthly, terrestrial, of the land",
+    "note": "'zemaljski' is the adjective off 'zemlja' — earthly/terrestrial, and by extension 'of the country/land'."
+  },
+  {
+    "id": 4009,
+    "stress": "*ZE*mlja",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "example": "pao je na zemlju - he fell to the ground"
+  },
+  {
+    "id": 4011,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4012,
+    "pos": "(Verb)"
+  },
+  {
+    "id": 4013,
+    "stress": "*ZGRA*da",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4014,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4015,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4018,
+    "stress": "*ZI*ma",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "example": "zimi ovdje pada puno snijega - it snows a lot here in the winter"
+  },
+  {
+    "id": 4022,
+    "stress": "*ZLA*tan",
+    "pos": "(adj)"
+  },
+  {
+    "id": 4023,
+    "stress": "*ZLA*to",
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 4024,
+    "stress": "zli*KO*vac",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(a)",
+    "note": "'zlikovac -> zlikovca', standard -ac disappearing 'a'. It's also (Anim)."
+  },
+  {
+    "id": 4025,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4026,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4027,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4028,
+    "stress": "*ZMI*ja",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4029,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "note": "The (Ir) is doing a lot of work here — 'znak' has two plurals with different feel: 'znaci' (signs, indications) and 'znakovi' (signs, symbols/road signs). Might be worth spelling out."
+  },
+  {
+    "id": 4030,
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 4031,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "'znanost' is the Croatian word; in Bosnia/Serbia it's 'nauka'. Might want the (Hrv) marker."
+  },
+  {
+    "id": 4032,
+    "stress": "*ZNA*ti",
+    "pos": "(Verb)",
+    "example": "ne znam gdje je - I don't know where it is"
+  },
+  {
+    "id": 4033,
+    "note": "There's a stray 'ZO 0' hanging off the end of this line — looks like it came in from the page layout, not something you wrote."
+  },
+  {
+    "id": 4034,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4035,
+    "stress": "*PRO*zor",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4036,
+    "pos": "(adj)"
+  },
+  {
+    "id": 4037,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4038,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(Hrv)",
+    "note": "Yes — 'zrak' is the Croatian one, 'vazduh' is Bosnian/Serbian. Heads up that in Serbian 'zrak' exists but means 'ray/beam' instead."
+  },
+  {
+    "id": 4039,
+    "resolves": "the coast is clear",
+    "note": "Your translation is right — 'zrak je čist' is exactly 'the coast is clear', literally 'the air is clean'."
+  },
+  {
+    "id": 4040,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4041,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "example": "boli me zub - my tooth hurts"
+  },
+  {
+    "id": 4042,
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4043,
+    "stress": "*ZVA*ti",
+    "pos": "(Verb)",
+    "example": "kako se zoveš - what's your name"
+  },
+  {
+    "id": 4044,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "There's a 'cartwheel' sitting at the end of this line. That may actually be right — 'zvijezda' is the gymnastics move — but check it isn't a stray line that drifted in from somewhere else."
+  },
+  {
+    "id": 4045,
+    "stress": "*ZVO*nik",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4046,
+    "stress": "*ZVO*niti",
+    "pos": "(Verb)"
+  },
+  {
+    "id": 4047,
+    "stress": "*ŽA*ba",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4048,
+    "stress": "*ŽA*bica",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4049,
+    "stress": "*ZVO*no",
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 4050,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "This is one of your (FE) feminines — same class as 'vijest' and 'žeđ'. Probably wants the marker."
+  },
+  {
+    "id": 4051,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "(k->c)",
+    "note": "Dat./Loc. 'žbuci' — the (k->c?) is a yes."
+  },
+  {
+    "id": 4052,
+    "stress": "*ŽE*dan",
+    "pos": "(adj)",
+    "example": "žedan sam, mogu li dobiti vode - I'm thirsty, can I get some water"
+  },
+  {
+    "id": 4053,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4054,
+    "stress": "*ŽE*lja",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4056,
+    "pos": "(adj)"
+  },
+  {
+    "id": 4058,
+    "stress": "*ŽE*ljeti",
+    "pos": "(Verb)",
+    "example": "želim ti sve najbolje - I wish you all the best"
+  },
+  {
+    "id": 4059,
+    "pos": "(Noun)",
+    "gender": "(Noun)"
+  },
+  {
+    "id": 4060,
+    "stress": "že*LU*dac",
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "(a)",
+    "note": "'želudac -> želuca' — the (a?) is a yes."
+  },
+  {
+    "id": 4061,
+    "stress": "*ŽE*na",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "example": "ovo je moja žena - this is my wife"
+  },
+  {
+    "id": 4063,
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "resolves": "(Imp)"
+  },
+  {
+    "id": 4064,
+    "stress": "*ŽE*tva",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "Not confident on the Gen. Pl. — I've seen 'žetava' and 'žetvi' both. Leaving your question marks alone."
+  },
+  {
+    "id": 4065,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4066,
+    "stress": "*ŽI*ca",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4067,
+    "stress": "*ŽI*čara",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4068,
+    "pos": "(Noun)",
+    "gender": "(m)",
+    "resolves": "Židov",
+    "note": "The spelling is right — Židov, capital Ž, Croatian. In Bosnia/Serbia you'd hear 'Jevrejin'."
+  },
+  {
+    "id": 4069,
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4070,
+    "pos": "(adj)",
+    "note": "'živ' isn't really Bos/Srp-only — it's standard in Croatian too. The (Bos)(Srp) markers here look like they belong to something else on the line."
+  },
+  {
+    "id": 4071,
+    "stress": "*ŽI*vjeti",
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "example": "živim u Zagrebu već godinu dana - I've been living in Zagreb for a year"
+  },
+  {
+    "id": 4072,
+    "stress": "*ŽI*vot",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4073,
+    "stress": "ži*VO*tinja",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4074,
+    "pos": "(adj)"
+  },
+  {
+    "id": 4075,
+    "stress": "*ŽLI*ca",
+    "pos": "(Noun)",
+    "gender": "(f)"
+  },
+  {
+    "id": 4076,
+    "stress": "*ŽO*har",
+    "pos": "(Noun)",
+    "gender": "(m)"
+  },
+  {
+    "id": 4077,
+    "stress": "*ŽR*tva",
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "resolves": "(+a)",
+    "note": "Gen. Pl. 'žrtava' — the (+a?) is a yes."
+  },
+  {
+    "id": 4078,
+    "stress": "*ŽU*riti",
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "resolves": "no case — it's intransitive",
+    "note": "Answering your question: 'žuriti se' doesn't govern a case on its own. Where you're rushing to gets a preposition — 'žurim se na posao' (Acc with 'na'), 'žurim se kući'."
+  },
+  {
+    "id": 4079,
+    "pos": "(adj)"
+  },
+  {
+    "id": 4080,
+    "pos": "(Noun)",
+    "gender": "(f)",
+    "note": "I'd expect Dat./Loc. 'žvaci', which would make the (k->c?) a yes, but it's slangy enough that people mostly dodge those forms."
+  },
+  {
+    "id": 4081,
+    "pos": "(Verb)",
+    "aspect": "(Imp)",
+    "resolves": "(Imp)"
+  },
+  {
+    "id": 4082,
+    "pos": "(Noun)",
+    "gender": "(Noun)",
+    "note": "Big one: this entry has the entire 'ADDITIONAL TOOLS / Key to Dictionary Markings' appendix glued onto the end of it. That's a parsing artifact, not your text — the key needs pulling back out into its own section."
+  }
+]
