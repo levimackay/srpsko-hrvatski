@@ -1,0 +1,4 @@
+book/_*.typ
+book/_*.pdf
+book/_*.png
+build/*.pdf

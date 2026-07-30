@@ -1,0 +1,151 @@
+{"id": 1562, "stress": "*FA*brika", "gender": "(f)", "declension": "(k->c)", "example": "moj komšija radi u fabrici - my neighbor works in a factory"}
+{"id": 1563, "stress": "*FA*got", "gender": "(m)"}
+{"id": 1564, "gender": "(m)"}
+{"id": 1565, "gender": "(m)"}
+{"id": 1566, "stress": "*FAK*tor", "gender": "(m)"}
+{"id": 1567, "stress": "fak*TU*ra", "gender": "(f)"}
+{"id": 1568, "stress": "fakulta*TI*van"}
+{"id": 1569, "stress": "fa*KUL*tet", "gender": "(m)", "example": "on upisuje fakultet sledeće godine - he starts university next year"}
+{"id": 1570, "stress": "*FA*liti", "aspect": "(Imp)", "example": "fali mi jedna knjiga - I'm missing a book"}
+{"id": 1571, "pos": "(Verb)"}
+{"id": 1572, "stress": "falsifi*KA*cija", "gender": "(f)"}
+{"id": 1573, "stress": "falsifi*KA*tor", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1574, "stress": "fa*MI*lija", "gender": "(f)", "example": "cela familija se okupila - the whole family got together"}
+{"id": 1575, "stress": "famili*JA*ran"}
+{"id": 1576, "stress": "fa*NA*tičan"}
+{"id": 1577, "stress": "fana*TI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1578, "stress": "fan*TAS*tičan"}
+{"id": 1579, "stress": "fan*TA*zija", "gender": "(f)"}
+{"id": 1580, "gender": "(m)"}
+{"id": 1581, "stress": "*FAR*ba", "gender": "(f)", "example": "farba se još nije osušila - the paint hasn't dried yet"}
+{"id": 1582, "stress": "*FAR*ma", "gender": "(f)"}
+{"id": 1583, "stress": "farma*CE*ut", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1584, "gender": "(f)", "example": "kupio sam nove farmerke - I bought new jeans", "note": "Plural-only word, like pants in English. farmerke is the usual Serbian form, farmerice the Croatian one - might be worth an [S]/[C] tag."}
+{"id": 1585, "stress": "fa*SA*da", "gender": "(f)"}
+{"id": 1586, "pos": "(Verb)"}
+{"id": 1587, "stress": "fa*ŠIS*ta", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1588, "stress": "fa*ŠI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1589, "stress": "fata*LI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1590, "stress": "*FA*una", "gender": "(f)"}
+{"id": 1591, "stress": "fa*VO*rit", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1592, "stress": "*FA*za", "gender": "(f)"}
+{"id": 1593, "stress": "*FA*zan", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1594, "stress": "fe*BRU*ar", "gender": "(m)", "example": "februar je najkraći mesec - February is the shortest month"}
+{"id": 1595, "stress": "fede*RA*cija", "gender": "(f)"}
+{"id": 1596, "stress": "federa*LI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1597, "stress": "*FE*njer", "gender": "(m)"}
+{"id": 1598, "note": "Indeclinable - it never changes form, fer igra, fer čovek, bilo je fer."}
+{"id": 1599, "gender": "(m)"}
+{"id": 1600, "stress": "*FE*rije", "gender": "(f)", "note": "Plural only, and much more a Croatian word than a Serbian one - might deserve a (Hrv) tag."}
+{"id": 1601, "gender": "(m)"}
+{"id": 1602, "stress": "feuda*LI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1603, "stress": "*FI*ća", "gender": "(m)"}
+{"id": 1604, "stress": "fi*GU*ra", "gender": "(f)"}
+{"id": 1605, "stress": "figura*TI*van"}
+{"id": 1606, "stress": "fi*JAS*ko", "gender": "(m)"}
+{"id": 1607, "stress": "*FI*juk", "gender": "(m)"}
+{"id": 1608, "gender": "(m)"}
+{"id": 1609, "stress": "fi*LAN*trop", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1610, "stress": "fila*TE*lija", "gender": "(f)"}
+{"id": 1611, "gender": "(m)"}
+{"id": 1612, "stress": "filhar*MO*nija", "gender": "(f)"}
+{"id": 1613, "stress": "fili*JA*la", "gender": "(f)"}
+{"id": 1614, "stress": "fili*PI*ni", "gender": "(m)", "note": "Plural only, like most country names built this way."}
+{"id": 1615, "gender": "(m)", "example": "hoćeš da gledamo film večeras? - you want to watch a movie tonight?"}
+{"id": 1616, "stress": "fi*LO*log", "gender": "(m)", "declension": "(Anim) (g->z)"}
+{"id": 1617, "stress": "filo*LO*gija", "gender": "(f)"}
+{"id": 1618, "stress": "fi*LO*loški"}
+{"id": 1619, "stress": "fi*LO*zof", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1620, "stress": "filo*ZO*fija", "gender": "(f)"}
+{"id": 1621, "stress": "fi*LO*zofski"}
+{"id": 1622, "stress": "*FIL*ter", "gender": "(m)"}
+{"id": 1623, "example": "ovaj kolač je jako fin - this cake is really good", "note": "Also used about people, where it means nice/kind rather than fine - on je fin čovek."}
+{"id": 1624, "stress": "fi*NA*le"}
+{"id": 1625, "stress": "fi*NAN*sije", "gender": "(f)", "note": "Plural only. finansije is the Serbian spelling, financije the Croatian - could take [S]/[C]."}
+{"id": 1626, "stress": "*FI*niš", "gender": "(m)"}
+{"id": 1627, "stress": "fi*NO*ća", "gender": "(f)"}
+{"id": 1628, "stress": "*FIN*ska", "gender": "(f)", "note": "Declines like an adjective: u Finskoj, iz Finske."}
+{"id": 1629, "stress": "fi*O*ka", "gender": "(f)", "declension": "(k->c)", "example": "ključevi su u fioci - the keys are in the drawer"}
+{"id": 1630, "stress": "*FIR*ma", "gender": "(f)"}
+{"id": 1631, "stress": "*FI*sija", "gender": "(f)"}
+{"id": 1632, "stress": "fiskul*TU*ra", "gender": "(f)"}
+{"id": 1633, "stress": "*FI*šek", "gender": "(m)"}
+{"id": 1634, "stress": "*FI*zičar", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1635, "stress": "*FI*zički"}
+{"id": 1636, "stress": "*FI*zika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1637, "stress": "fizio*LO*gija", "gender": "(f)"}
+{"id": 1638, "stress": "fla*GRAN*tan"}
+{"id": 1639, "stress": "*FLA*nel", "gender": "(m)"}
+{"id": 1640, "stress": "*FLAS*ter", "gender": "(m)"}
+{"id": 1641, "stress": "*FLA*ša", "gender": "(f)", "example": "daj mi flašu vode - give me a bottle of water"}
+{"id": 1642, "stress": "*FLA*uta", "gender": "(f)"}
+{"id": 1643, "gender": "(m)"}
+{"id": 1644, "stress": "fleg*MA*tičan"}
+{"id": 1645, "stress": "*FLE*ka", "gender": "(f)", "declension": "(k->c)", "example": "imaš fleku na košulji - you've got a stain on your shirt"}
+{"id": 1646, "gender": "(m)"}
+{"id": 1647, "stress": "*FLO*ra", "gender": "(f)"}
+{"id": 1648, "stress": "*FLO*ta", "gender": "(f)"}
+{"id": 1649, "stress": "flo*TI*la", "gender": "(f)"}
+{"id": 1650, "stress": "fluores*CEN*tan"}
+{"id": 1651, "stress": "*FO*bija", "gender": "(f)"}
+{"id": 1652, "stress": "*FO*ka", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1653, "stress": "*FOL*klor", "gender": "(m)"}
+{"id": 1654, "gender": "(m)", "declension": "(Anim)"}
+{"id": 1655, "gender": "(m)"}
+{"id": 1656, "stress": "fo*NE*tika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1657, "stress": "fo*NO*log", "gender": "(m)", "declension": "(Anim) (g->z)"}
+{"id": 1658, "stress": "fono*LO*gija", "gender": "(f)"}
+{"id": 1659, "stress": "fon*TA*na", "gender": "(f)"}
+{"id": 1660, "gender": "(m)"}
+{"id": 1661, "stress": "*FOR*ma", "gender": "(f)"}
+{"id": 1662, "stress": "for*MA*lan"}
+{"id": 1663, "gender": "(m)", "declension": "(Anim)"}
+{"id": 1664, "stress": "forma*LI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1665, "stress": "for*MAL*nost", "gender": "(f)"}
+{"id": 1666, "pos": "(Verb)"}
+{"id": 1667, "stress": "*FOR*mula", "gender": "(f)"}
+{"id": 1668, "stress": "for*MU*lar", "gender": "(m)"}
+{"id": 1669, "pos": "(Verb)"}
+{"id": 1670, "pos": "(Verb)", "note": "Headword looks garbled - the verb for to force (and forsirati reku, to force a river) is forsirati. Check the page."}
+{"id": 1671, "stress": "*FO*rum", "gender": "(m)"}
+{"id": 1672, "stress": "*FOS*fat", "gender": "(m)"}
+{"id": 1673, "stress": "*FO*sil", "gender": "(m)"}
+{"id": 1674, "stress": "fotoa*PA*rat", "gender": "(m)"}
+{"id": 1675, "stress": "foto*GE*ničan"}
+{"id": 1676, "stress": "fo*TO*graf", "gender": "(m)", "declension": "(Anim)", "note": "English gloss says photograph, but fotograf is the person - the photograph is fotografija."}
+{"id": 1677, "stress": "foto*GRA*fija", "gender": "(f)", "example": "imaš li fotografiju svoje porodice? - do you have a photo of your family?"}
+{"id": 1678, "pos": "(Verb)"}
+{"id": 1679, "stress": "*FRAK*cija", "gender": "(f)"}
+{"id": 1680, "stress": "fran*CUS*ka", "gender": "(f)", "note": "Declines like an adjective: u Francuskoj, iz Francuske."}
+{"id": 1681, "stress": "fra*PAN*tan"}
+{"id": 1682, "gender": "(f)", "note": "Headword should probably read fraza - the gloss (phrase, idiom) is fraza, and frazan isn't a word."}
+{"id": 1683, "stress": "frazeo*LO*gija", "gender": "(f)"}
+{"id": 1684, "stress": "frazeo*LO*ški"}
+{"id": 1685, "stress": "fre*GA*ta", "gender": "(f)"}
+{"id": 1686, "stress": "frek*VEN*cija", "gender": "(f)"}
+{"id": 1687, "stress": "*FRES*ka", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1688, "stress": "fri*GI*dan"}
+{"id": 1689, "stress": "frigi*DI*tet", "gender": "(m)"}
+{"id": 1690, "stress": "*FRI*zer", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1691, "stress": "*FRI*zerski"}
+{"id": 1692, "stress": "fri*ZU*ra", "gender": "(f)"}
+{"id": 1693, "stress": "fri*ŽI*der", "gender": "(m)", "example": "mleko je u frižideru - the milk is in the fridge"}
+{"id": 1694, "stress": "froj*DI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1695, "gender": "(m)"}
+{"id": 1696, "stress": "fron*TA*lan"}
+{"id": 1697, "stress": "*FRU*la", "gender": "(f)"}
+{"id": 1698, "stress": "*FUD*bal", "gender": "(m)", "example": "igrali smo fudbal ceo dan - we played soccer all day"}
+{"id": 1699, "stress": "fud*BA*ler", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1700, "stress": "funda*ME*nat", "gender": "(m)", "declension": "(a)"}
+{"id": 1701, "stress": "fundamen*TA*lan"}
+{"id": 1702, "stress": "*FUNK*cija", "gender": "(f)"}
+{"id": 1703, "stress": "funkcio*NA*lan"}
+{"id": 1704, "gender": "(m)", "declension": "(Anim)"}
+{"id": 1705, "pos": "(Verb)"}
+{"id": 1706, "stress": "*FUN*ta", "gender": "(f)"}
+{"id": 1707, "stress": "*FUS*nota", "gender": "(f)"}
+{"id": 1708, "stress": "fu*TRO*la", "gender": "(f)"}
+{"id": 1709, "stress": "*FU*tur", "gender": "(m)"}
+{"id": 1710, "stress": "futu*RIS*tički"}
+{"id": 1711, "stress": "futu*RI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1712, "stress": "*FU*zija", "gender": "(f)"}

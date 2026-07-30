@@ -1,0 +1,270 @@
+Srpsko-Hrvatski
+Serbo-Croatian
+Table of Contents
+Key for dictionary and basics…3
+A………………………………………………………………………….8
+B…………………………………………………………………………13
+C…………………………………………………………………………18
+Č…………………………………………………………………………20
+Ć…………………………………………………………………………23
+D…………………………………………………………………………24
+Dž………………………………………………………………………38
+Đ…………………………………………………………………………39
+E…………………………………………………………………………40
+F…………………………………………………………………………43
+G…………………………………………………………………………46
+H…………………………………………………………………………53
+I…………………………………………………………………………57
+J…………………………………………………………………………59
+K…………………………………………………………………………61
+L…………………………………………………………………………65
+Lj………………………………………………………………………67
+M…………………………………………………………………………68
+N…………………………………………………………………………70
+Nj………………………………………………………………………72
+O…………………………………………………………………………73
+P…………………………………………………………………………76
+R…………………………………………………………………………83
+S…………………………………………………………………………85
+Š…………………………………………………………………………91
+T…………………………………………………………………………92
+U…………………………………………………………………………94
+V…………………………………………………………………………96
+Z…………………………………………………………………………98
+Ž………………………………………………………………………101
+Key to Dictionary Markings……103
+Common Questions………………………………106
+Elder Mackay's Random Notes…137
+Lang Tips/Accent………………………………142
+Croatian - Serbian diff.…………147
+Flirting……………………………………………………151
+Swearing……………………………………………………153
+Phrases and sayings………….…………165
+Daily Word List…………………………………174
+Final Thoughts……………………………………208
+《《Shout-out to Elder Jimmy Larson for this idea and letting me take some
+things from his own personal dictionary. I couldn't have done it without
+him, nor do I take credit for the entirety of this document. I have added
+to it as I have seen fit. This document consists of a few things. A
+dictionary, tips and tricks, grammar principles and rules, tongue
+placement for accent, etc. There’s a ton of stuff and I can’t write it all
+down. You get the picture. I don’t know if I will ever even show this to
+anyone. This is more just for me and to help me gauge my learning ability.
+But if someone does happen to see this, Uživajte! I started this during my
+second transfer and added words as I stumbled along them. I couldn't put
+all the words I know in here, but here's the majority of them. This also
+includes the glossary from the Red Book, which my MTC group and I started
+to memorize in my second transfer. Anyways, I hope this helps. Keep going
+strong till the end and hopefully this makes language study a little more
+interesting. Until we see each other again, Keep living the dream!》》-
+Elder Levi Mackay (July 2022-July 2024)
+(FYI, this dictionary includes many of the swear words from the Serbian
+swear words book I have. I have censored them a little, but read at your
+own risk.)
+(FYI pt2, I couldn't put everything in here. I apologize. As I got later
+int9 the mission, I didn't have as much time to go back and edit this, so
+all of the labeling isn't entirely complete. If something doesn't make
+sense, or you have any questions, please feel free to shoot me a text or a
+voice recording and ask about it. I always love answering language
+questions and I'll still be available to help when I'm at home.)
+THIS NEXT PART IS MAINLY FOR ME AND ORGANIZATION. DON’T WORRY ABOUT IT :)
+Hrvatski/Bosanski/Srpski -> Engleski
+Words' Types and Markers:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Different dialects/County
+Gender/Common Phrase/Part of Speech
+Things that help me remember the word
+Irregular casing/rules/Constant Softening
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+♤Words are placed from left to right base the most common
+definition/meaning♤
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hrvatski → Engleski
+[E] - Ekavian   (f) - Ženski
+[J] - Ijekavian  (m) - Muški
+[I] - Ikvian        (Noun) - Neuter
+[B] - Bosnian
+[C] - Croatian
+[S] - Serbian
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|Noun| |Verb| |Adjective| |Adverb form|
+|Irregular|
+|(Bosnia)(Croatia)(Serbia)|
+|(na/s(a))/(u/iz)|
+|Anim/Inan|
+|+ov/+ev|
+|(a)/(No "a")|
+|(g->z)/(h->s)/(k->c)/(o->l)/(z->ž)|
+|Imperfective/Perfective|
+|(k->č)/(h->š)|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If something is blue, it might need more love.
+If a word is gold that means it has many branches but is not its own root
+word. They are not counted in the word count.
+Words in pink are loan words used by natives. They are not counted in the
+word count. (LW)
+If something is green then it is the name of a city or a question word.
+(City names are not counted in the word count)
+Masculine nouns with an "(a)" marker will keep their "A" in the Genitive
+Plural Form i.e. "Metra" (CF) -> "Metara" (Gen Pl) (Like an "(+a)"
+marker.) (Some Masculine nouns have the "(+a)" marker by mistake.)
+A verb with "se" is bulleted underneath the unreflexive version, if there
+is no version that is non-reflexive, it is its own word, this is to reduce
+redundancy and also show the relationship between the reflexive and
+non-reflexive versions.
+Words that have a minimized extension like "brod -> brodić" have the
+minimized extension bulleted underneath with the minimized extension not
+in the word count, however words that do have a separate meaning are not
+bulleted underneath and are counted to the word count. (Not every word
+will have a minimization bulleted underneath, even if it might have one.
+Just words that make sense to have a bullet.) (Words in this category will
+not have the "(e)" marker because it is assumed.)
+Words ending in c,č,ć,dž,đ,j,š,ž most likely have (e), words ending in
+anything else are assumed to have (o).
+This isn't here shhhhh…
+Fleeting a reappearing a rule: when a word has fleeting a and is a noun,
+it is more likely to have reappearing a.)
+|Colors| boja
+●  White, bijel/beo ✅ whiter ✅
+●  Black, crn ✅ blacker
+●  Red, crven ✅ redder
+●  Yellow, žut ✅ yellower
+●  Blue, plav ✅ bluer
+●  Orange, narandžast ✅ Oranger
+●  Purple, ljubičast ✅
+●  Green, zelen ✅ greener
+●  Pink, roze?, ružičast? Pinker
+●  Light, lak? Lighter
+●  Dark, mrk, taman, mračan ✅?
+Darker
+●  Brown, braon?, smeđ? Browner
+●  Comparatives
+|Numbers|
+●  One - jedan (jedna, jedno,
+jedno, prva, prvo, prvoro,
+jedinica)
+●  Two - dva (dve, dvoje, drugo,
+druga, drugo, drugoro,
+dvojica, dvojka)
+●  Three - tri (troje, treći,
+treća, treće, troro, trojka)
+●  Four - četiri (četvoro,
+četvrti, četvrta, četvrto,
+četvororo, četvorka)
+●  Five - pet (petoro, peti,
+peta, peto, petoro, petica)
+●  Six - šest (šestoro, šesti,
+šesta, šesto, šestoro,
+šestica)
+●  Seven - sedam (sedmoro,
+sedmi, sedma, sedmo, sedmoro,
+sedmica)
+●  Eight - osam (osmoro, osmi,
+osma, osmo, osmoro, osmica)
+●  Nine - devet (devetoro,
+deveti, deveta, deveto,
+devetoro, devetka)
+●  Ten - deset (desetoro,
+deseti, deseta, deseto,
+desetoro, desetka)
+●  Eleven - jedanaest
+(jedanaestoro, jedanaesti,
+jedanaesta, jedanaesto,
+jedanaestoro, jedanaestica)
+●  Twelve - dvanaest
+(dvanaestoro, dvanaesti,
+dvanaesta, dvanaesto,
+dvanaestoro, dvanaestica)
+●  Thirteen - trinaest
+(trinaestoro, trinaesti,
+trinaesta, trinaesto,
+trinaestoro, trinaestica)
+●  Fourteen - četrnaest
+(četrnaestoro, četrnaesti,
+četrnaesta, četrnaesto,
+četrnaestoro, četrnaestica)
+●  Fifteen - petnaest
+(petnaestoro, petnaesti,
+petnaesta, petnaesto,
+petnaestoro, petnaestica)
+●  Sixteen - šesnaest
+(šesnaestoro, šesnaesti,
+šesnaesta, šesnaesto,
+šesnaestoro, šesnaestica)
+●  Seventeen - sedamnaest
+(sedamnaestoro, sedamnaesti,
+sedamnaesta, sedamnaesto,
+sedamnaestoro, sedamnaestica)
+●  Eighteen - osamnaest
+(osamnaestoro, osamnaesti,
+osamnaesta, osamnaesto,
+osamnaestoro, osamnaestica)
+●  Nineteen - devetnaest
+(devetnaestoro, devetnaesti,
+devetnaesta, devetnaesto,
+devetnaestoro, devetnaestica)
+●  Twenty - dvadeset
+(dvadesetoro, dvadeseti,
+dvadeseta, dvadeseto,
+dvadesetoro, dvadesetica)
+●  Note: The forms within
+parentheses are variations
+for groups, gendered ordinal
+forms, and colloquial or
+informal terms.
+|Measurement of Time|
+Listed along with the Croatian
+months is how Croatians actually
+say their months in conversation
+such as "First month" (January),
+"Second month" (February), etc.
+●  Jan ✅ siječanj, januar
+●  Feb ✅ veljača, februar
+●  Mar ✅ ožujak, mart
+●  Apr ✅ travanj, april
+●  May ✅ svibanj, maj
+●  Jun ✅ lipanj, jun
+●  Jul ✅ srpanj, jul
+●  Aug ✅ kolovoz, avgust
+●  Sep ✅ rujan, septembar
+●  Oct ✅ listopad, oktobar
+●  Nov ✅ studeni, novembar
+●  Dec ✅ prosinac, decembar
+●  Summer ✅ ljeto
+●  Winter ✅ zima
+●  Fall ✅ jesen
+●  Spring ✅ proljeće
+●  Mon ✅ponedeljak
+●  Tue ✅utorak
+●  Wed ✅sreda
+●  Thu ✅četvrtak
+●  Fri ✅petak
+●  Sat ✅subota
+●  Sun ✅nedelja
+●  Year ✅godina
+●  Month ✅mesec
+●  Week ✅nedelja, sedmica,
+tjedan
+●  Day ✅dan
+●  Hour ✅sat
+●  Minute ✅minut
+●  Second ✅sekund
+Go through and bullet redundant
+se verbs.
+X (x=letter 420=word count
+(bullet points are not counted,
+unfinished words are counted,
+city names are not counted.))
+If you have any questions about
+any of these words, feel free to
+look them up.
+I can’t put all of the words I
+know in here. It’s just not
+possible. If there is a word
+missing, just know that.
+If a definition has two words Npr:
+aktualan, aktuelan; then the first
+word is more Croatian and the
+second one is more Serbian.
+DICTIONARY
+A

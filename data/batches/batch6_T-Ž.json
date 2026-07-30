@@ -1,0 +1,7403 @@
+[
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tableta |ta*BLE*ta| tablet"
+  ],
+  "colors": {
+   "k": 24
+  },
+  "raw": "tableta |ta*BLE*ta| tablet",
+  "headword": "tableta",
+  "body": "ta*BLE*ta| tablet",
+  "tag": null,
+  "id": 3684
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tačan | exact (Bos) (Srp) (a)",
+   "(rel: točan)"
+  ],
+  "colors": {
+   "k": 11,
+   "BLUE": 5,
+   "mark": 19
+  },
+  "raw": "tačan | exact (Bos) (Srp) (a) (rel: točan)",
+  "headword": "tačan",
+  "body": "exact (Bos) (Srp) (a) (rel: točan)",
+  "tag": "BLUE",
+  "id": 3685
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "tačno | exactly (Adv)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 5
+  },
+  "raw": "tačno | exactly (Adv)",
+  "headword": "tačno",
+  "body": "exactly (Adv)",
+  "tag": null,
+  "id": 3686
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tačka | dot, point (Bos) (Srp)",
+   "(+a?) (i?) (rel: točka)"
+  ],
+  "colors": {
+   "BLUE": 45
+  },
+  "raw": "tačka | dot, point (Bos) (Srp) (+a?) (i?) (rel: točka)",
+  "headword": "tačka",
+  "body": "dot, point (Bos) (Srp) (+a?) (i?) (rel: točka)",
+  "tag": "BLUE",
+  "id": 3687
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tako | like that (Adv) (rel: kako,",
+   "ovako, onako)"
+  ],
+  "colors": {
+   "BLUE": 13,
+   "mark": 27
+  },
+  "raw": "tako | like that (Adv) (rel: kako, ovako, onako)",
+  "headword": "tako",
+  "body": "like that (Adv) (rel: kako, ovako, onako)",
+  "tag": "BLUE",
+  "id": 3688
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "tako da | so that (Conj)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 6
+  },
+  "raw": "tako da | so that (Conj)",
+  "headword": "tako da",
+  "body": "so that (Conj)",
+  "tag": null,
+  "id": 3689
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "takođe | also (Bos) (Srp) (rel:",
+   "također)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 23
+  },
+  "raw": "takođe | also (Bos) (Srp) (rel: također)",
+  "headword": "takođe",
+  "body": "also (Bos) (Srp) (rel: također)",
+  "tag": null,
+  "id": 3690
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "također | also (Hrv) (rel: takođe)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 17
+  },
+  "raw": "također | also (Hrv) (rel: takođe)",
+  "headword": "također",
+  "body": "also (Hrv) (rel: takođe)",
+  "tag": null,
+  "id": 3691
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Talijan | Italian person (Anim)",
+   "(a)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 9
+  },
+  "raw": "Talijan | Italian person (Anim) (a)",
+  "headword": "Talijan",
+  "body": "Italian person (Anim) (a)",
+  "tag": null,
+  "id": 3692
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "talijanski | italian (Hrv) (rel:",
+   "italijanski)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 22
+  },
+  "raw": "talijanski | italian (Hrv) (rel: italijanski)",
+  "headword": "talijanski",
+  "body": "italian (Hrv) (rel: italijanski)",
+  "tag": null,
+  "id": 3693
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "taman | dark (a) (br: tamniji)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 15
+  },
+  "raw": "taman | dark (a) (br: tamniji)",
+  "headword": "taman",
+  "body": "dark (a) (br: tamniji)",
+  "tag": null,
+  "id": 3694
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tamniji | darker (rt: taman)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 10
+  },
+  "raw": "tamniji | darker (rt: taman)",
+  "headword": "tamniji",
+  "body": "darker (rt: taman)",
+  "tag": null,
+  "id": 3695
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tamo | that way, there (Adv) (rel:",
+   "kamo, onamo, ovamo)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 27
+  },
+  "raw": "tamo | that way, there (Adv) (rel: kamo, onamo, ovamo)",
+  "headword": "tamo",
+  "body": "that way, there (Adv) (rel: kamo, onamo, ovamo)",
+  "tag": null,
+  "id": 3696
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "tamo-amo | this way and that",
+   "way, to and fro, here and",
+   "there"
+  ],
+  "colors": {
+   "k": 49
+  },
+  "raw": "tamo-amo | this way and that way, to and fro, here and there",
+  "headword": "tamo-amo",
+  "body": "this way and that way, to and fro, here and there",
+  "tag": null,
+  "id": 3697
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tanak | thin (a)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 3
+  },
+  "raw": "tanak | thin (a)",
+  "headword": "tanak",
+  "body": "thin (a)",
+  "tag": null,
+  "id": 3698
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tanjir  | plate (Bos) (Srp) (rel:",
+   "tanjur)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 22
+  },
+  "raw": "tanjir  | plate (Bos) (Srp) (rel: tanjur)",
+  "headword": "tanjir",
+  "body": "plate (Bos) (Srp) (rel: tanjur)",
+  "tag": null,
+  "id": 3699
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tanjur | plate (Hrv) (rel: tanjir)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 17
+  },
+  "raw": "tanjur | plate (Hrv) (rel: tanjir)",
+  "headword": "tanjur",
+  "body": "plate (Hrv) (rel: tanjir)",
+  "tag": null,
+  "id": 3700
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tata | dad (ME) (Anim)"
+  ],
+  "colors": {
+   "k": 8,
+   "mark": 10
+  },
+  "raw": "tata | dad (ME) (Anim)",
+  "headword": "tata",
+  "body": "dad (ME) (Anim)",
+  "tag": null,
+  "id": 3701
+ },
+ {
+  "page": 91,
+  "letter": "TA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tava | pan"
+  ],
+  "colors": {
+   "k": 8
+  },
+  "raw": "tava | pan",
+  "headword": "tava",
+  "body": "pan",
+  "tag": null,
+  "id": 3702
+ },
+ {
+  "page": 91,
+  "letter": "TE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tečaj | class? (Ir) (+ev)"
+  ],
+  "colors": {
+   "BLUE": 21
+  },
+  "raw": "tečaj | class? (Ir) (+ev)",
+  "headword": "tečaj",
+  "body": "class? (Ir) (+ev)",
+  "tag": "BLUE",
+  "id": 3703
+ },
+ {
+  "page": 91,
+  "letter": "TE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tek | only, just, barely"
+  ],
+  "colors": {
+   "k": 20
+  },
+  "raw": "tek | only, just, barely",
+  "headword": "tek",
+  "body": "only, just, barely",
+  "tag": null,
+  "id": 3704
+ },
+ {
+  "page": 91,
+  "letter": "TE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "telefon |te*LE*fon| phone (Bos)",
+   "(Srp) (rel: mobitel)"
+  ],
+  "colors": {
+   "k": 23,
+   "mark": 23
+  },
+  "raw": "telefon |te*LE*fon| phone (Bos) (Srp) (rel: mobitel)",
+  "headword": "telefon",
+  "body": "te*LE*fon| phone (Bos) (Srp) (rel: mobitel)",
+  "tag": null,
+  "id": 3705
+ },
+ {
+  "page": 91,
+  "letter": "TE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "težak | difficult, heavy (a)",
+   "(ž->š)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 9
+  },
+  "raw": "težak | difficult, heavy (a) (ž->š)",
+  "headword": "težak",
+  "body": "difficult, heavy (a) (ž->š)",
+  "tag": null,
+  "id": 3706
+ },
+ {
+  "page": 91,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tijekom | during (Prep) (Hrv) (G)",
+   "(ije) (rel: tokom, u tijeku)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 33,
+   "BLUE": 5
+  },
+  "raw": "tijekom | during (Prep) (Hrv) (G) (ije) (rel: tokom, u tijeku)",
+  "headword": "tijekom",
+  "body": "during (Prep) (Hrv) (G) (ije) (rel: tokom, u tijeku)",
+  "tag": "BLUE",
+  "id": 3707
+ },
+ {
+  "page": 91,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tijelo | body (ije)"
+  ],
+  "colors": {
+   "k": 11,
+   "BLUE": 5
+  },
+  "raw": "tijelo | body (ije)",
+  "headword": "tijelo",
+  "body": "body (ije)",
+  "tag": "BLUE",
+  "id": 3708
+ },
+ {
+  "page": 91,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tim | team (+ov?)"
+  ],
+  "colors": {
+   "BLUE": 14
+  },
+  "raw": "tim | team (+ov?)",
+  "headword": "tim",
+  "body": "team (+ov?)",
+  "tag": "BLUE",
+  "id": 3709
+ },
+ {
+  "page": 91,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tinejdžer | teenager (Anim) (br:",
+   "tinejdžerka)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 22
+  },
+  "raw": "tinejdžer | teenager (Anim) (br: tinejdžerka)",
+  "headword": "tinejdžer",
+  "body": "teenager (Anim) (br: tinejdžerka)",
+  "tag": null,
+  "id": 3710
+ },
+ {
+  "page": 91,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tinejdžerka | teenage girl (+a?)",
+   "(i?)"
+  ],
+  "colors": {
+   "BLUE": 32
+  },
+  "raw": "tinejdžerka | teenage girl (+a?) (i?)",
+  "headword": "tinejdžerka",
+  "body": "teenage girl (+a?) (i?)",
+  "tag": "BLUE",
+  "id": 3711
+ },
+ {
+  "page": 91,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tisak | press, printer (a) (+ov)",
+   "(br: pritisak)",
+   "Mile, nisi mi jasan sinoć,",
+   "mi se umuvali u onu gužvu,",
+   "igramo, pratimo ritam i",
+   "ništa a ti ladno izađe sa",
+   "dve ribe iz kluba?",
+   "Vi pajvani ste mi najbolji,",
+   "odete svi na sredinu i",
+   "saterate ribe na šank, onda",
+   "se ja samo parkiram tu tik",
+   "do tiška i samo pecam."
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 224
+  },
+  "raw": "tisak | press, printer (a) (+ov) (br: pritisak) Mile, nisi mi jasan sinoć, mi se umuvali u onu gužvu, igramo, pratimo ritam i ništa a ti ladno izađe sa dve ribe iz kluba? Vi pajvani ste mi najbolji, odete svi na sredinu i saterate ribe na šank, onda se ja samo parkiram tu tik do tiška i samo pecam.",
+  "headword": "tisak",
+  "body": "press, printer (a) (+ov) (br: pritisak) Mile, nisi mi jasan sinoć, mi se umuvali u onu gužvu, igramo, pratimo ritam i ništa a ti ladno izađe sa dve ribe iz kluba? Vi pajvani ste mi najbolji, odete svi na sredinu i saterate ribe na šank, onda se ja samo parkiram tu tik do tiška i samo pecam.",
+  "tag": null,
+  "id": 3712
+ },
+ {
+  "page": 91,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tiša | thousand (Hrv) (rel:",
+   "tisuća) (slang)"
+  ],
+  "colors": {
+   "BLUE": 37
+  },
+  "raw": "tiša | thousand (Hrv) (rel: tisuća) (slang)",
+  "headword": "tiša",
+  "body": "thousand (Hrv) (rel: tisuća) (slang)",
+  "tag": "BLUE",
+  "id": 3713
+ },
+ {
+  "page": 91,
+  "letter": "TJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tjedan | week (Hrv) (a) (+a) (ije)",
+   "(rel: nedjelja, sedmica)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 34,
+   "BLUE": 5
+  },
+  "raw": "tjedan | week (Hrv) (a) (+a) (ije) (rel: nedjelja, sedmica)",
+  "headword": "tjedan",
+  "body": "week (Hrv) (a) (+a) (ije) (rel: nedjelja, sedmica)",
+  "tag": "BLUE",
+  "id": 3714
+ },
+ {
+  "page": 91,
+  "letter": "TJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tjeme | scalp, vertex (+n) (ije)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 4,
+   "BLUE": 5
+  },
+  "raw": "tjeme | scalp, vertex (+n) (ije)",
+  "headword": "tjeme",
+  "body": "scalp, vertex (+n) (ije)",
+  "tag": "BLUE",
+  "id": 3715
+ },
+ {
+  "page": 91,
+  "letter": "TJ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "tjeme parabole | vertex of a",
+   "parabola"
+  ],
+  "colors": {
+   "k": 32
+  },
+  "raw": "tjeme parabole | vertex of a parabola",
+  "headword": "tjeme parabole",
+  "body": "vertex of a parabola",
+  "tag": null,
+  "id": 3716
+ },
+ {
+  "page": 91,
+  "letter": "TK",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tko | who (Hrv) (Anim) (br: itko,",
+   "netko, nitko) (rel: ko)"
+  ],
+  "colors": {
+   "GREEN": 7,
+   "mark": 40
+  },
+  "raw": "tko | who (Hrv) (Anim) (br: itko, netko, nitko) (rel: ko)",
+  "headword": "tko",
+  "body": "who (Hrv) (Anim) (br: itko, netko, nitko) (rel: ko)",
+  "tag": "GREEN",
+  "id": 3717
+ },
+ {
+  "page": 91,
+  "letter": "TL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tlak | pressure (rel: pritisak)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 14
+  },
+  "raw": "tlak | pressure (rel: pritisak)",
+  "headword": "tlak",
+  "body": "pressure (rel: pritisak)",
+  "tag": null,
+  "id": 3718
+ },
+ {
+  "page": 91,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "točak | wheel (Ir) (+ov) (a)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 12
+  },
+  "raw": "točak | wheel (Ir) (+ov) (a)",
+  "headword": "točak",
+  "body": "wheel (Ir) (+ov) (a)",
+  "tag": null,
+  "id": 3719
+ },
+ {
+  "page": 91,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "točan | exact (Hrv) (a) (rel:",
+   "tačan)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 19
+  },
+  "raw": "točan | exact (Hrv) (a) (rel: tačan)",
+  "headword": "točan",
+  "body": "exact (Hrv) (a) (rel: tačan)",
+  "tag": null,
+  "id": 3720
+ },
+ {
+  "page": 91,
+  "letter": "TO",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "točno | exactly (Adv)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 5
+  },
+  "raw": "točno | exactly (Adv)",
+  "headword": "točno",
+  "body": "exactly (Adv)",
+  "tag": null,
+  "id": 3721
+ },
+ {
+  "page": 91,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "točka | dot, point (Hrv) (+a?)",
+   "(rel: tačka)"
+  ],
+  "colors": {
+   "BLUE": 36
+  },
+  "raw": "točka | dot, point (Hrv) (+a?) (rel: tačka)",
+  "headword": "točka",
+  "body": "dot, point (Hrv) (+a?) (rel: tačka)",
+  "tag": "BLUE",
+  "id": 3722
+ },
+ {
+  "page": 91,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "top | (Adj) (LW)"
+  ],
+  "colors": {
+   "PINK": 13
+  },
+  "raw": "top | (Adj) (LW)",
+  "headword": "top",
+  "body": "(Adj) (LW)",
+  "tag": "PINK",
+  "id": 3723
+ },
+ {
+  "page": 91,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tokom | during (Prep) (Bos) (Srp)",
+   "(G) (rel: tijekom, u toku)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 38
+  },
+  "raw": "tokom | during (Prep) (Bos) (Srp) (G) (rel: tijekom, u toku)",
+  "headword": "tokom",
+  "body": "during (Prep) (Bos) (Srp) (G) (rel: tijekom, u toku)",
+  "tag": null,
+  "id": 3724
+ },
+ {
+  "page": 91,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "toliko | that much, that many (G)",
+   "(rel: koliko, onoliko, ovoliko)"
+  ],
+  "colors": {
+   "BLUE": 55
+  },
+  "raw": "toliko | that much, that many (G) (rel: koliko, onoliko, ovoliko)",
+  "headword": "toliko",
+  "body": "that much, that many (G) (rel: koliko, onoliko, ovoliko)",
+  "tag": "BLUE",
+  "id": 3725
+ },
+ {
+  "page": 92,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tonuti | to sink (Imp) (rel:",
+   "potonuti)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 19
+  },
+  "raw": "tonuti | to sink (Imp) (rel: potonuti)",
+  "headword": "tonuti",
+  "body": "to sink (Imp) (rel: potonuti)",
+  "tag": null,
+  "id": 3726
+ },
+ {
+  "page": 92,
+  "letter": "TO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "toranj | spire (a) (e) (rel: kula)",
+   "(This word more specifically",
+   "refers to a tall thin tower.)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 65
+  },
+  "raw": "toranj | spire (a) (e) (rel: kula) (This word more specifically refers to a tall thin tower.)",
+  "headword": "toranj",
+  "body": "spire (a) (e) (rel: kula) (This word more specifically refers to a tall thin tower.)",
+  "tag": null,
+  "id": 3727
+ },
+ {
+  "page": 92,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tisnuti | to press",
+   "otisnuti",
+   "pritisnuti",
+   "stisnuti"
+  ],
+  "colors": {
+   "GOLD": 44
+  },
+  "raw": "tisnuti | to press otisnuti pritisnuti stisnuti",
+  "headword": "tisnuti",
+  "body": "to press otisnuti pritisnuti stisnuti",
+  "tag": "GOLD",
+  "id": 3728
+ },
+ {
+  "page": 92,
+  "letter": "TI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tisuća | thousand (Hrv) (G) (rel:",
+   "hiljada)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 21
+  },
+  "raw": "tisuća | thousand (Hrv) (G) (rel: hiljada)",
+  "headword": "tisuća",
+  "body": "thousand (Hrv) (G) (rel: hiljada)",
+  "tag": null,
+  "id": 3729
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trag | clue? (+ov) (br: natrag?)"
+  ],
+  "colors": {
+   "BLUE": 27
+  },
+  "raw": "trag | clue? (+ov) (br: natrag?)",
+  "headword": "trag",
+  "body": "clue? (+ov) (br: natrag?)",
+  "tag": "BLUE",
+  "id": 3730
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trajekt |tr*AJ*kt| ferry (+a?)"
+  ],
+  "colors": {
+   "BLUE": 27
+  },
+  "raw": "trajekt |tr*AJ*kt| ferry (+a?)",
+  "headword": "trajekt",
+  "body": "tr*AJ*kt| ferry (+a?)",
+  "tag": "BLUE",
+  "id": 3731
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tramvaj | tram (e) (No \"a\") (u/iz)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 16
+  },
+  "raw": "tramvaj | tram (e) (No \"a\") (u/iz)",
+  "headword": "tramvaj",
+  "body": "tram (e) (No \"a\") (u/iz)",
+  "tag": null,
+  "id": 3732
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "traperice | jeans (F) (This word",
+   "is always Feminine Plural.)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 36
+  },
+  "raw": "traperice | jeans (F) (This word is always Feminine Plural.)",
+  "headword": "traperice",
+  "body": "jeans (F) (This word is always Feminine Plural.)",
+  "tag": null,
+  "id": 3733
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "travanj | April (Hrv) (a) (rel:",
+   "april)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 19
+  },
+  "raw": "travanj | April (Hrv) (a) (rel: april)",
+  "headword": "travanj",
+  "body": "April (Hrv) (a) (rel: april)",
+  "tag": null,
+  "id": 3734
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "četvrti mjesec | fourth month"
+  ],
+  "colors": {
+   "k": 26
+  },
+  "raw": "četvrti mjesec | fourth month",
+  "headword": "četvrti mjesec",
+  "body": "fourth month",
+  "tag": null,
+  "id": 3735
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tražiti | to search, to look for",
+   "(\"za\" is not used when saying \"to",
+   "look for\" or \"search for\",",
+   "instead the object being \"looked",
+   "for\" takes Accusative.)"
+  ],
+  "colors": {
+   "BLUE": 124
+  },
+  "raw": "tražiti | to search, to look for (\"za\" is not used when saying \"to look for\" or \"search for\", instead the object being \"looked for\" takes Accusative.)",
+  "headword": "tražiti",
+  "body": "to search, to look for (\"za\" is not used when saying \"to look for\" or \"search for\", instead the object being \"looked for\" takes Accusative.)",
+  "tag": "BLUE",
+  "id": 3736
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trbuh | belly (Hrv) (h->s) (rel:",
+   "želudac, stomak)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 31
+  },
+  "raw": "trbuh | belly (Hrv) (h->s) (rel: želudac, stomak)",
+  "headword": "trbuh",
+  "body": "belly (Hrv) (h->s) (rel: želudac, stomak)",
+  "tag": null,
+  "id": 3737
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trebati | to need (This word can",
+   "also be seen as \"tribati\" or",
+   "\"triba\" near the coast in",
+   "Dalmatia. That is the Dalmatian",
+   "form of the word.)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 98
+  },
+  "raw": "trebati | to need (This word can also be seen as \"tribati\" or \"triba\" near the coast in Dalmatia. That is the Dalmatian form of the word.)",
+  "headword": "trebati",
+  "body": "to need (This word can also be seen as \"tribati\" or \"triba\" near the coast in Dalmatia. That is the Dalmatian form of the word.)",
+  "tag": null,
+  "id": 3738
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "treći | third (rel: tri)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 9
+  },
+  "raw": "treći | third (rel: tri)",
+  "headword": "treći",
+  "body": "third (rel: tri)",
+  "tag": null,
+  "id": 3739
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trend | (+ov) (LW)"
+  ],
+  "colors": {
+   "PINK": 15
+  },
+  "raw": "trend | (+ov) (LW)",
+  "headword": "trend",
+  "body": "(+ov) (LW)",
+  "tag": "PINK",
+  "id": 3740
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trener | coach (Anim)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 6
+  },
+  "raw": "trener | coach (Anim)",
+  "headword": "trener",
+  "body": "coach (Anim)",
+  "tag": null,
+  "id": 3741
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trešnja | cherry (+a)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 4
+  },
+  "raw": "trešnja | cherry (+a)",
+  "headword": "trešnja",
+  "body": "cherry (+a)",
+  "tag": null,
+  "id": 3742
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "trešanja | of the cherries",
+   "(Gen Pl.)"
+  ],
+  "colors": {
+   "k": 23,
+   "mark": 8
+  },
+  "raw": "trešanja | of the cherries (Gen Pl.)",
+  "headword": "trešanja",
+  "body": "of the cherries (Gen Pl.)",
+  "tag": null,
+  "id": 3743
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trgovina | store (Hrv)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 5
+  },
+  "raw": "trgovina | store (Hrv)",
+  "headword": "trgovina",
+  "body": "store (Hrv)",
+  "tag": null,
+  "id": 3744
+ },
+ {
+  "page": 92,
+  "letter": "TR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tri | three (Prep) (CF) (rel:",
+   "treći)"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 21
+  },
+  "raw": "tri | three (Prep) (CF) (rel: treći)",
+  "headword": "tri",
+  "body": "three (Prep) (CF) (rel: treći)",
+  "tag": null,
+  "id": 3745
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tuljan | seal (animal) (No \"a\")",
+   "Osoba koja je dostigla",
+   "zadnji nivo debilizma."
+  ],
+  "colors": {
+   "BLUE": 66
+  },
+  "raw": "tuljan | seal (animal) (No \"a\") Osoba koja je dostigla zadnji nivo debilizma.",
+  "headword": "tuljan",
+  "body": "seal (animal) (No \"a\") Osoba koja je dostigla zadnji nivo debilizma.",
+  "tag": "BLUE",
+  "id": 3756
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tur | behind, rear (+ov?) (This is",
+   "a phrasal word.)"
+  ],
+  "colors": {
+   "BLUE": 42
+  },
+  "raw": "tur | behind, rear (+ov?) (This is a phrasal word.)",
+  "headword": "tur",
+  "body": "behind, rear (+ov?) (This is a phrasal word.)",
+  "tag": "BLUE",
+  "id": 3757
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "to mi je strašilo tur | that",
+   "scared the crap out of me"
+  ],
+  "colors": {
+   "k": 43
+  },
+  "raw": "to mi je strašilo tur | that scared the crap out of me",
+  "headword": "to mi je strašilo tur",
+  "body": "that scared the crap out of me",
+  "tag": null,
+  "id": 3758
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tura | tour"
+  ],
+  "colors": {
+   "k": 9
+  },
+  "raw": "tura | tour",
+  "headword": "tura",
+  "body": "tour",
+  "tag": null,
+  "id": 3759
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Turčin | Turk, Turkish person (Ir)",
+   "(Anim) (č->c) (č->k) (-n)"
+  ],
+  "colors": {
+   "BLUE": 51
+  },
+  "raw": "Turčin | Turk, Turkish person (Ir) (Anim) (č->c) (č->k) (-n)",
+  "headword": "Turčin",
+  "body": "Turk, Turkish person (Ir) (Anim) (č->c) (č->k) (-n)",
+  "tag": "BLUE",
+  "id": 3760
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Turkinja | Turkish woman (i?)"
+  ],
+  "colors": {
+   "BLUE": 25
+  },
+  "raw": "Turkinja | Turkish woman (i?)",
+  "headword": "Turkinja",
+  "body": "Turkish woman (i?)",
+  "tag": "BLUE",
+  "id": 3761
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Turska | Turkey (Adj)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 5
+  },
+  "raw": "Turska | Turkey (Adj)",
+  "headword": "Turska",
+  "body": "Turkey (Adj)",
+  "tag": null,
+  "id": 3762
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "turski | turkish"
+  ],
+  "colors": {
+   "k": 14
+  },
+  "raw": "turski | turkish",
+  "headword": "turski",
+  "body": "turkish",
+  "tag": null,
+  "id": 3763
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tuš | shower (+ev)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 5
+  },
+  "raw": "tuš | shower (+ev)",
+  "headword": "tuš",
+  "body": "shower (+ev)",
+  "tag": null,
+  "id": 3764
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tuširati | to shower"
+  ],
+  "colors": {
+   "k": 17
+  },
+  "raw": "tuširati | to shower",
+  "headword": "tuširati",
+  "body": "to shower",
+  "tag": null,
+  "id": 3765
+ },
+ {
+  "page": 92,
+  "letter": "T(X)",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "tvoj | your (e) (Informal)"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 13
+  },
+  "raw": "tvoj | your (e) (Informal)",
+  "headword": "tvoj",
+  "body": "your (e) (Informal)",
+  "tag": null,
+  "id": 3766
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trideset | thirty (Prep) (G) (rel:",
+   "trideseti)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 24
+  },
+  "raw": "trideset | thirty (Prep) (G) (rel: trideseti)",
+  "headword": "trideset",
+  "body": "thirty (Prep) (G) (rel: trideseti)",
+  "tag": null,
+  "id": 3746
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trideseti | thirtieth (Adj) (rel:",
+   "trideset)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 19
+  },
+  "raw": "trideseti | thirtieth (Adj) (rel: trideset)",
+  "headword": "trideseti",
+  "body": "thirtieth (Adj) (rel: trideset)",
+  "tag": null,
+  "id": 3747
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trijem | porch (+ov) (ije)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 5,
+   "BLUE": 5
+  },
+  "raw": "trijem | porch (+ov) (ije)",
+  "headword": "trijem",
+  "body": "porch (+ov) (ije)",
+  "tag": "BLUE",
+  "id": 3748
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trijezan | sober (a) (ije)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 3,
+   "BLUE": 5
+  },
+  "raw": "trijezan | sober (a) (ije)",
+  "headword": "trijezan",
+  "body": "sober (a) (ije)",
+  "tag": "BLUE",
+  "id": 3749
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trilion | trillion (Bos) (Srp) (G)",
+   "(rel: bilijun)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 26
+  },
+  "raw": "trilion | trillion (Bos) (Srp) (G) (rel: bilijun)",
+  "headword": "trilion",
+  "body": "trillion (Bos) (Srp) (G) (rel: bilijun)",
+  "tag": null,
+  "id": 3750
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trinaest | thirteen (Prep) (G)",
+   "(rel: trinaesti)"
+  ],
+  "colors": {
+   "k": 17,
+   "mark": 24
+  },
+  "raw": "trinaest | thirteen (Prep) (G) (rel: trinaesti)",
+  "headword": "trinaest",
+  "body": "thirteen (Prep) (G) (rel: trinaesti)",
+  "tag": null,
+  "id": 3751
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trinaesti | thirteenth (Adj) (rel:",
+   "trinaest)"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 19
+  },
+  "raw": "trinaesti | thirteenth (Adj) (rel: trinaest)",
+  "headword": "trinaesti",
+  "body": "thirteenth (Adj) (rel: trinaest)",
+  "tag": null,
+  "id": 3752
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trka | race (Bos) (Srp) (k->c)",
+   "(rel: utrka)"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 27
+  },
+  "raw": "trka | race (Bos) (Srp) (k->c) (rel: utrka)",
+  "headword": "trka",
+  "body": "race (Bos) (Srp) (k->c) (rel: utrka)",
+  "tag": null,
+  "id": 3753
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trošak | expense (Ir) (a) (+ov)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 12
+  },
+  "raw": "trošak | expense (Ir) (a) (+ov)",
+  "headword": "trošak",
+  "body": "expense (Ir) (a) (+ov)",
+  "tag": null,
+  "id": 3754
+ },
+ {
+  "page": 92,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "trošiti | to spend (Imp) (br:",
+   "potrošiti, utrošiti) (rel:",
+   "provoditi)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 43
+  },
+  "raw": "trošiti | to spend (Imp) (br: potrošiti, utrošiti) (rel: provoditi)",
+  "headword": "trošiti",
+  "body": "to spend (Imp) (br: potrošiti, utrošiti) (rel: provoditi)",
+  "tag": null,
+  "id": 3755
+ },
+ {
+  "page": 93,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "u | in (Prep) (L)"
+  ],
+  "colors": {
+   "k": 4,
+   "mark": 9
+  },
+  "raw": "u | in (Prep) (L)",
+  "headword": "u",
+  "body": "in (Prep) (L)",
+  "tag": null,
+  "id": 3767
+ },
+ {
+  "page": 93,
+  "letter": "U",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "u tijeku | in progress (Hrv)",
+   "(rel: tijekom, u toku)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 24
+  },
+  "raw": "u tijeku | in progress (Hrv) (rel: tijekom, u toku)",
+  "headword": "u tijeku",
+  "body": "in progress (Hrv) (rel: tijekom, u toku)",
+  "tag": null,
+  "id": 3768
+ },
+ {
+  "page": 93,
+  "letter": "U",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "u toku | in progress (Bos)",
+   "(Srp) (rel: tokom, u tijeku)"
+  ],
+  "colors": {
+   "k": 17,
+   "mark": 29
+  },
+  "raw": "u toku | in progress (Bos) (Srp) (rel: tokom, u tijeku)",
+  "headword": "u toku",
+  "body": "in progress (Bos) (Srp) (rel: tokom, u tijeku)",
+  "tag": null,
+  "id": 3769
+ },
+ {
+  "page": 93,
+  "letter": "U",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "u | into (Prep) (Acc)"
+  ],
+  "colors": {
+   "k": 6,
+   "mark": 11
+  },
+  "raw": "u | into (Prep) (Acc)",
+  "headword": "u",
+  "body": "into (Prep) (Acc)",
+  "tag": null,
+  "id": 3770
+ },
+ {
+  "page": 93,
+  "letter": "UB",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ubaciti |u*BA*citi| to interject?"
+  ],
+  "colors": {
+   "BLUE": 30
+  },
+  "raw": "ubaciti |u*BA*citi| to interject?",
+  "headword": "ubaciti",
+  "body": "u*BA*citi| to interject?",
+  "tag": "BLUE",
+  "id": 3771
+ },
+ {
+  "page": 93,
+  "letter": "UB",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ubiti | to kill (Perf) (rel:",
+   "ubijati)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 19
+  },
+  "raw": "ubiti | to kill (Perf) (rel: ubijati)",
+  "headword": "ubiti",
+  "body": "to kill (Perf) (rel: ubijati)",
+  "tag": null,
+  "id": 3772
+ },
+ {
+  "page": 93,
+  "letter": "UB",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ubijati | to kill (Imp) (rel:",
+   "ubiti)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 16
+  },
+  "raw": "ubijati | to kill (Imp) (rel: ubiti)",
+  "headword": "ubijati",
+  "body": "to kill (Imp) (rel: ubiti)",
+  "tag": null,
+  "id": 3773
+ },
+ {
+  "page": 93,
+  "letter": "UB",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ubojica | killer, assassin"
+  ],
+  "colors": {
+   "k": 23
+  },
+  "raw": "ubojica | killer, assassin",
+  "headword": "ubojica",
+  "body": "killer, assassin",
+  "tag": null,
+  "id": 3774
+ },
+ {
+  "page": 93,
+  "letter": "UČ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "učiniti | to do (Perf)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 6
+  },
+  "raw": "učiniti | to do (Perf)",
+  "headword": "učiniti",
+  "body": "to do (Perf)",
+  "tag": null,
+  "id": 3775
+ },
+ {
+  "page": 93,
+  "letter": "UČ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "učiti | to learn (Imp) (br:",
+   "naučiti, proučiti)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 26
+  },
+  "raw": "učiti | to learn (Imp) (br: naučiti, proučiti)",
+  "headword": "učiti",
+  "body": "to learn (Imp) (br: naučiti, proučiti)",
+  "tag": null,
+  "id": 3776
+ },
+ {
+  "page": 93,
+  "letter": "UĆ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ući | to enter (Perf) (rel:",
+   "ulaziti)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 19
+  },
+  "raw": "ući | to enter (Perf) (rel: ulaziti)",
+  "headword": "ući",
+  "body": "to enter (Perf) (rel: ulaziti)",
+  "tag": null,
+  "id": 3777
+ },
+ {
+  "page": 93,
+  "letter": "UD",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ud | limb (+ov)"
+  ],
+  "colors": {
+   "k": 7,
+   "mark": 5
+  },
+  "raw": "ud | limb (+ov)",
+  "headword": "ud",
+  "body": "limb (+ov)",
+  "tag": null,
+  "id": 3778
+ },
+ {
+  "page": 93,
+  "letter": "UD",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "udarati | to hit, kick (Imp) (rel:",
+   "udariti)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 18
+  },
+  "raw": "udarati | to hit, kick (Imp) (rel: udariti)",
+  "headword": "udarati",
+  "body": "to hit, kick (Imp) (rel: udariti)",
+  "tag": null,
+  "id": 3779
+ },
+ {
+  "page": 93,
+  "letter": "UD",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "udariti | to hit, kick (Perf)",
+   "(rel: udarati)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 19
+  },
+  "raw": "udariti | to hit, kick (Perf) (rel: udarati)",
+  "headword": "udariti",
+  "body": "to hit, kick (Perf) (rel: udarati)",
+  "tag": null,
+  "id": 3780
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ugao | corner (a) (+a?) (o->l)"
+  ],
+  "colors": {
+   "BLUE": 25
+  },
+  "raw": "ugao | corner (a) (+a?) (o->l)",
+  "headword": "ugao",
+  "body": "corner (a) (+a?) (o->l)",
+  "tag": "BLUE",
+  "id": 3781
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ugasiti | to extinguish (Perf)"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 6
+  },
+  "raw": "ugasiti | to extinguish (Perf)",
+  "headword": "ugasiti",
+  "body": "to extinguish (Perf)",
+  "tag": null,
+  "id": 3782
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uglavnom | in general"
+  ],
+  "colors": {
+   "BLUE": 18
+  },
+  "raw": "uglavnom | in general",
+  "headword": "uglavnom",
+  "body": "in general",
+  "tag": "BLUE",
+  "id": 3783
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "ugl. | (Abbreviation)"
+  ],
+  "colors": {
+   "BLUE": 20
+  },
+  "raw": "ugl. | (Abbreviation)",
+  "headword": "ugl.",
+  "body": "(Abbreviation)",
+  "tag": "BLUE",
+  "id": 3784
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ugodan |u*GO*dan?| comfortable (a)",
+   "(rel: neugodan)"
+  ],
+  "colors": {
+   "BLUE": 28,
+   "mark": 17
+  },
+  "raw": "ugodan |u*GO*dan?| comfortable (a) (rel: neugodan)",
+  "headword": "ugodan",
+  "body": "u*GO*dan?| comfortable (a) (rel: neugodan)",
+  "tag": "BLUE",
+  "id": 3785
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "ugodno | comfortably (Adv)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 5
+  },
+  "raw": "ugodno | comfortably (Adv)",
+  "headword": "ugodno",
+  "body": "comfortably (Adv)",
+  "tag": null,
+  "id": 3786
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ugovarati | to contract (Imp)",
+   "(rel: ugovoriti)"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 20
+  },
+  "raw": "ugovarati | to contract (Imp) (rel: ugovoriti)",
+  "headword": "ugovarati",
+  "body": "to contract (Imp) (rel: ugovoriti)",
+  "tag": null,
+  "id": 3787
+ },
+ {
+  "page": 93,
+  "letter": "UG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ugovoriti | to contract (Perf)",
+   "(rel: ugovarati)"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 21
+  },
+  "raw": "ugovoriti | to contract (Perf) (rel: ugovarati)",
+  "headword": "ugovoriti",
+  "body": "to contract (Perf) (rel: ugovarati)",
+  "tag": null,
+  "id": 3788
+ },
+ {
+  "page": 93,
+  "letter": "UH",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uhićen | arrested, under arrest"
+  ],
+  "colors": {
+   "k": 27
+  },
+  "raw": "uhićen | arrested, under arrest",
+  "headword": "uhićen",
+  "body": "arrested, under arrest",
+  "tag": null,
+  "id": 3789
+ },
+ {
+  "page": 93,
+  "letter": "UH",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uho | ear (Ir)"
+  ],
+  "colors": {
+   "BLUE": 11
+  },
+  "raw": "uho | ear (Ir)",
+  "headword": "uho",
+  "body": "ear (Ir)",
+  "tag": "BLUE",
+  "id": 3790
+ },
+ {
+  "page": 93,
+  "letter": "UJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Ujedinjeno Kraljevstvo | United",
+   "-Kingdom"
+  ],
+  "colors": {
+   "k": 36
+  },
+  "raw": "Ujedinjeno Kraljevstvo | United -Kingdom",
+  "headword": "Ujedinjeno Kraljevstvo",
+  "body": "United -Kingdom",
+  "tag": null,
+  "id": 3791
+ },
+ {
+  "page": 93,
+  "letter": "UJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ujutro | in the morning (Bos)",
+   "(Hrv) (rel: jutro, ujutru)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 28
+  },
+  "raw": "ujutro | in the morning (Bos) (Hrv) (rel: jutro, ujutru)",
+  "headword": "ujutro",
+  "body": "in the morning (Bos) (Hrv) (rel: jutro, ujutru)",
+  "tag": null,
+  "id": 3792
+ },
+ {
+  "page": 93,
+  "letter": "UJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ujutru | in the morning (Srp)",
+   "(rel: jutro, ujutro)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 23
+  },
+  "raw": "ujutru | in the morning (Srp) (rel: jutro, ujutro)",
+  "headword": "ujutru",
+  "body": "in the morning (Srp) (rel: jutro, ujutro)",
+  "tag": null,
+  "id": 3793
+ },
+ {
+  "page": 93,
+  "letter": "UK",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uključiti | to turn on, plug in,",
+   "(rel: isključiti)"
+  ],
+  "colors": {
+   "BLUE": 42
+  },
+  "raw": "uključiti | to turn on, plug in, (rel: isključiti)",
+  "headword": "uključiti",
+  "body": "to turn on, plug in, (rel: isključiti)",
+  "tag": "BLUE",
+  "id": 3794
+ },
+ {
+  "page": 93,
+  "letter": "UK",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ukrasti | to steal (Perf) (rel:",
+   "krasti)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 18
+  },
+  "raw": "ukrasti | to steal (Perf) (rel: krasti)",
+  "headword": "ukrasti",
+  "body": "to steal (Perf) (rel: krasti)",
+  "tag": null,
+  "id": 3795
+ },
+ {
+  "page": 93,
+  "letter": "UL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ulaziti | to enter (Ir) (Imp)",
+   "(rel: ući)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 18
+  },
+  "raw": "ulaziti | to enter (Ir) (Imp) (rel: ući)",
+  "headword": "ulaziti",
+  "body": "to enter (Ir) (Imp) (rel: ući)",
+  "tag": null,
+  "id": 3796
+ },
+ {
+  "page": 93,
+  "letter": "UL",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "ulaziti u | to enter into",
+   "(Acc)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 5
+  },
+  "raw": "ulaziti u | to enter into (Acc)",
+  "headword": "ulaziti u",
+  "body": "to enter into (Acc)",
+  "tag": null,
+  "id": 3797
+ },
+ {
+  "page": 93,
+  "letter": "UL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ulica | street, road"
+  ],
+  "colors": {
+   "k": 17
+  },
+  "raw": "ulica | street, road",
+  "headword": "ulica",
+  "body": "street, road",
+  "tag": null,
+  "id": 3798
+ },
+ {
+  "page": 93,
+  "letter": "UL",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "slijepa ulica | dead end",
+   "(more literally a road that",
+   "ends)"
+  ],
+  "colors": {
+   "k": 49
+  },
+  "raw": "slijepa ulica | dead end (more literally a road that ends)",
+  "headword": "slijepa ulica",
+  "body": "dead end (more literally a road that ends)",
+  "tag": null,
+  "id": 3799
+ },
+ {
+  "page": 93,
+  "letter": "UM",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "umivaonik | bathroom sink (k->c)"
+  ],
+  "colors": {
+   "k": 22,
+   "mark": 6
+  },
+  "raw": "umivaonik | bathroom sink (k->c)",
+  "headword": "umivaonik",
+  "body": "bathroom sink (k->c)",
+  "tag": null,
+  "id": 3800
+ },
+ {
+  "page": 93,
+  "letter": "UM",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "umjeti | to know how, be able",
+   "(Imp) (ije)"
+  ],
+  "colors": {
+   "k": 23,
+   "mark": 5,
+   "BLUE": 5
+  },
+  "raw": "umjeti | to know how, be able (Imp) (ije)",
+  "headword": "umjeti",
+  "body": "to know how, be able (Imp) (ije)",
+  "tag": "BLUE",
+  "id": 3801
+ },
+ {
+  "page": 93,
+  "letter": "UN",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "unaprijed | in advance (Adv) (ije)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 5,
+   "BLUE": 5
+  },
+  "raw": "unaprijed | in advance (Adv) (ije)",
+  "headword": "unaprijed",
+  "body": "in advance (Adv) (ije)",
+  "tag": "BLUE",
+  "id": 3802
+ },
+ {
+  "page": 93,
+  "letter": "UN",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "unazad | backwards"
+  ],
+  "colors": {
+   "k": 16
+  },
+  "raw": "unazad | backwards",
+  "headword": "unazad",
+  "body": "backwards",
+  "tag": null,
+  "id": 3803
+ },
+ {
+  "page": 93,
+  "letter": "UN",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "unuče | grandchild (Anim?)"
+  ],
+  "colors": {
+   "BLUE": 23
+  },
+  "raw": "unuče | grandchild (Anim?)",
+  "headword": "unuče",
+  "body": "grandchild (Anim?)",
+  "tag": "BLUE",
+  "id": 3804
+ },
+ {
+  "page": 93,
+  "letter": "UN",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "unučad | grandchildren"
+  ],
+  "colors": {
+   "BLUE": 21
+  },
+  "raw": "unučad | grandchildren",
+  "headword": "unučad",
+  "body": "grandchildren",
+  "tag": "BLUE",
+  "id": 3805
+ },
+ {
+  "page": 93,
+  "letter": "UO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uopće | at all, generally (Adv)",
+   "(Hrv) (rel: uopšte)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 22
+  },
+  "raw": "uopće | at all, generally (Adv) (Hrv) (rel: uopšte)",
+  "headword": "uopće",
+  "body": "at all, generally (Adv) (Hrv) (rel: uopšte)",
+  "tag": null,
+  "id": 3806
+ },
+ {
+  "page": 93,
+  "letter": "UO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uopšte | at all, generally (Adv)",
+   "(Srp) (rel: uopće)"
+  ],
+  "colors": {
+   "k": 22,
+   "mark": 21
+  },
+  "raw": "uopšte | at all, generally (Adv) (Srp) (rel: uopće)",
+  "headword": "uopšte",
+  "body": "at all, generally (Adv) (Srp) (rel: uopće)",
+  "tag": null,
+  "id": 3807
+ },
+ {
+  "page": 93,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upaljač | lighter (for cigarettes)"
+  ],
+  "colors": {
+   "k": 30
+  },
+  "raw": "upaljač | lighter (for cigarettes)",
+  "headword": "upaljač",
+  "body": "lighter (for cigarettes)",
+  "tag": null,
+  "id": 3808
+ },
+ {
+  "page": 93,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upitati | to ask (Perf)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 6
+  },
+  "raw": "upitati | to ask (Perf)",
+  "headword": "upitati",
+  "body": "to ask (Perf)",
+  "tag": null,
+  "id": 3809
+ },
+ {
+  "page": 93,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uplaćen | payed"
+  ],
+  "colors": {
+   "k": 13
+  },
+  "raw": "uplaćen | payed",
+  "headword": "uplaćen",
+  "body": "payed",
+  "tag": null,
+  "id": 3810
+ },
+ {
+  "page": 93,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upomoć | urgent help?"
+  ],
+  "colors": {
+   "BLUE": 18
+  },
+  "raw": "upomoć | urgent help?",
+  "headword": "upomoć",
+  "body": "urgent help?",
+  "tag": "BLUE",
+  "id": 3811
+ },
+ {
+  "page": 93,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upoznati se | to become acquainted",
+   "(Perf) (rel: upoznavati se)"
+  ],
+  "colors": {
+   "k": 29,
+   "mark": 24
+  },
+  "raw": "upoznati se | to become acquainted (Perf) (rel: upoznavati se)",
+  "headword": "upoznati se",
+  "body": "to become acquainted (Perf) (rel: upoznavati se)",
+  "tag": null,
+  "id": 3812
+ },
+ {
+  "page": 93,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upoznavati se | to become",
+   "acquainted (Imp) (rel: upoznati",
+   "se)"
+  ],
+  "colors": {
+   "k": 31,
+   "mark": 21
+  },
+  "raw": "upoznavati se | to become acquainted (Imp) (rel: upoznati se)",
+  "headword": "upoznavati se",
+  "body": "to become acquainted (Imp) (rel: upoznati se)",
+  "tag": null,
+  "id": 3813
+ },
+ {
+  "page": 93,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upozoravati | to warn (Imp?) (rel:",
+   "upozoriti)"
+  ],
+  "colors": {
+   "BLUE": 39
+  },
+  "raw": "upozoravati | to warn (Imp?) (rel: upozoriti)",
+  "headword": "upozoravati",
+  "body": "to warn (Imp?) (rel: upozoriti)",
+  "tag": "BLUE",
+  "id": 3814
+ },
+ {
+  "page": 94,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upozoriti | to warn (Perf?) (rel:",
+   "upozoravati)"
+  ],
+  "colors": {
+   "BLUE": 40
+  },
+  "raw": "upozoriti | to warn (Perf?) (rel: upozoravati)",
+  "headword": "upozoriti",
+  "body": "to warn (Perf?) (rel: upozoravati)",
+  "tag": "BLUE",
+  "id": 3815
+ },
+ {
+  "page": 94,
+  "letter": "UP",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "upravo | just"
+  ],
+  "colors": {
+   "k": 11
+  },
+  "raw": "upravo | just",
+  "headword": "upravo",
+  "body": "just",
+  "tag": null,
+  "id": 3816
+ },
+ {
+  "page": 94,
+  "letter": "UP",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "upravo tako | just like that"
+  ],
+  "colors": {
+   "k": 24
+  },
+  "raw": "upravo tako | just like that",
+  "headword": "upravo tako",
+  "body": "just like that",
+  "tag": null,
+  "id": 3817
+ },
+ {
+  "page": 94,
+  "letter": "UR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uraditi | to do (Perf)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 6
+  },
+  "raw": "uraditi | to do (Perf)",
+  "headword": "uraditi",
+  "body": "to do (Perf)",
+  "tag": null,
+  "id": 3818
+ },
+ {
+  "page": 94,
+  "letter": "UR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uredba | regulation, ordinance",
+   "(Ir) (+a?)"
+  ],
+  "colors": {
+   "BLUE": 36
+  },
+  "raw": "uredba | regulation, ordinance (Ir) (+a?)",
+  "headword": "uredba",
+  "body": "regulation, ordinance (Ir) (+a?)",
+  "tag": "BLUE",
+  "id": 3819
+ },
+ {
+  "page": 94,
+  "letter": "UR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uređaj | device (No \"a\"?) (+ev?)"
+  ],
+  "colors": {
+   "BLUE": 27
+  },
+  "raw": "uređaj | device (No \"a\"?) (+ev?)",
+  "headword": "uređaj",
+  "body": "device (No \"a\"?) (+ev?)",
+  "tag": "BLUE",
+  "id": 3820
+ },
+ {
+  "page": 94,
+  "letter": "US",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "usamljen | lonely"
+  ],
+  "colors": {
+   "k": 15
+  },
+  "raw": "usamljen | lonely",
+  "headword": "usamljen",
+  "body": "lonely",
+  "tag": null,
+  "id": 3821
+ },
+ {
+  "page": 94,
+  "letter": "US",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "usmjeriti | to direct, steer, aim",
+   "(Perf?) (This is more like",
+   "literally directing a physical",
+   "object or thing somewhere.)"
+  ],
+  "colors": {
+   "BLUE": 101
+  },
+  "raw": "usmjeriti | to direct, steer, aim (Perf?) (This is more like literally directing a physical object or thing somewhere.)",
+  "headword": "usmjeriti",
+  "body": "to direct, steer, aim (Perf?) (This is more like literally directing a physical object or thing somewhere.)",
+  "tag": "BLUE",
+  "id": 3822
+ },
+ {
+  "page": 94,
+  "letter": "US",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "usporediti se | to compare"
+  ],
+  "colors": {
+   "k": 22
+  },
+  "raw": "usporediti se | to compare",
+  "headword": "usporediti se",
+  "body": "to compare",
+  "tag": null,
+  "id": 3823
+ },
+ {
+  "page": 94,
+  "letter": "US",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "usporiti | to slow down"
+  ],
+  "colors": {
+   "BLUE": 19
+  },
+  "raw": "usporiti | to slow down",
+  "headword": "usporiti",
+  "body": "to slow down",
+  "tag": "BLUE",
+  "id": 3824
+ },
+ {
+  "page": 94,
+  "letter": "US",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ustanak | rebellion, uprising (a)",
+   "(k->c?)"
+  ],
+  "colors": {
+   "BLUE": 36
+  },
+  "raw": "ustanak | rebellion, uprising (a) (k->c?)",
+  "headword": "ustanak",
+  "body": "rebellion, uprising (a) (k->c?)",
+  "tag": "BLUE",
+  "id": 3825
+ },
+ {
+  "page": 94,
+  "letter": "US",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ustati | to stand up (Perf) (br:",
+   "odustati) (rel: ustajati?)"
+  ],
+  "colors": {
+   "BLUE": 50
+  },
+  "raw": "ustati | to stand up (Perf) (br: odustati) (rel: ustajati?)",
+  "headword": "ustati",
+  "body": "to stand up (Perf) (br: odustati) (rel: ustajati?)",
+  "tag": "BLUE",
+  "id": 3826
+ },
+ {
+  "page": 94,
+  "letter": "US",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ustvari | actually, as a matter of",
+   "-fact (Adv, Conj?)"
+  ],
+  "colors": {
+   "BLUE": 44
+  },
+  "raw": "ustvari | actually, as a matter of -fact (Adv, Conj?)",
+  "headword": "ustvari",
+  "body": "actually, as a matter of -fact (Adv, Conj?)",
+  "tag": "BLUE",
+  "id": 3827
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uteg | dumbell",
+   "Iju, al si se uteg'o ko",
+   "praćka, di ćeš takav, si lud?",
+   "Matori, furaju se vesele",
+   "sedamdesete, šta da ti rečem!",
+   "-"
+  ],
+  "colors": {
+   "k": 103
+  },
+  "raw": "uteg | dumbell Iju, al si se uteg'o ko praćka, di ćeš takav, si lud? Matori, furaju se vesele sedamdesete, šta da ti rečem! -",
+  "headword": "uteg",
+  "body": "dumbell Iju, al si se uteg'o ko praćka, di ćeš takav, si lud? Matori, furaju se vesele sedamdesete, šta da ti rečem! -",
+  "tag": null,
+  "id": 3828
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uticati | to affect (Srp?)"
+  ],
+  "colors": {
+   "BLUE": 22
+  },
+  "raw": "uticati | to affect (Srp?)",
+  "headword": "uticati",
+  "body": "to affect (Srp?)",
+  "tag": "BLUE",
+  "id": 3829
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "utičnica | power outlet"
+  ],
+  "colors": {
+   "k": 20
+  },
+  "raw": "utičnica | power outlet",
+  "headword": "utičnica",
+  "body": "power outlet",
+  "tag": null,
+  "id": 3830
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "utisak | impression (a?) (k->c?)"
+  ],
+  "colors": {
+   "BLUE": 28
+  },
+  "raw": "utisak | impression (a?) (k->c?)",
+  "headword": "utisak",
+  "body": "impression (a?) (k->c?)",
+  "tag": "BLUE",
+  "id": 3831
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "utjecati | to affect (Hrv?)"
+  ],
+  "colors": {
+   "BLUE": 23
+  },
+  "raw": "utjecati | to affect (Hrv?)",
+  "headword": "utjecati",
+  "body": "to affect (Hrv?)",
+  "tag": "BLUE",
+  "id": 3832
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "utjecati na | ?"
+  ],
+  "colors": {
+   "BLUE": 13
+  },
+  "raw": "utjecati na | ?",
+  "headword": "utjecati na",
+  "body": "?",
+  "tag": "BLUE",
+  "id": 3833
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "utjeha | comfort, consolation,",
+   "-solace (h->s?) (ije?)"
+  ],
+  "colors": {
+   "BLUE": 47
+  },
+  "raw": "utjeha | comfort, consolation, -solace (h->s?) (ije?)",
+  "headword": "utjeha",
+  "body": "comfort, consolation, -solace (h->s?) (ije?)",
+  "tag": "BLUE",
+  "id": 3834
+ },
+ {
+  "page": 94,
+  "letter": "UT",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "utorak |*U*torak| Tuesday (a)"
+  ],
+  "colors": {
+   "k": 23,
+   "mark": 3
+  },
+  "raw": "utorak |*U*torak| Tuesday (a)",
+  "headword": "utorak",
+  "body": "*U*torak| Tuesday (a)",
+  "tag": null,
+  "id": 3835
+ },
+ {
+  "page": 94,
+  "letter": "UV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uvid | insight"
+  ],
+  "colors": {
+   "k": 12
+  },
+  "raw": "uvid | insight",
+  "headword": "uvid",
+  "body": "insight",
+  "tag": null,
+  "id": 3842
+ },
+ {
+  "page": 94,
+  "letter": "UV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uvijek | always (ije) (br:",
+   "zauvijek)"
+  ],
+  "colors": {
+   "k": 13,
+   "BLUE": 5,
+   "mark": 13
+  },
+  "raw": "uvijek | always (ije) (br: zauvijek)",
+  "headword": "uvijek",
+  "body": "always (ije) (br: zauvijek)",
+  "tag": "BLUE",
+  "id": 3843
+ },
+ {
+  "page": 94,
+  "letter": "UV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uvrtiti | to twist, crank (for",
+   "-something like a wheel on a water",
+   "-pressure valve)"
+  ],
+  "colors": {
+   "k": 68
+  },
+  "raw": "uvrtiti | to twist, crank (for -something like a wheel on a water -pressure valve)",
+  "headword": "uvrtiti",
+  "body": "to twist, crank (for -something like a wheel on a water -pressure valve)",
+  "tag": null,
+  "id": 3844
+ },
+ {
+  "page": 94,
+  "letter": "UZ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uz | alongside, along with (Prep)",
+   "(Acc)"
+  ],
+  "colors": {
+   "k": 22,
+   "mark": 11
+  },
+  "raw": "uz | alongside, along with (Prep) (Acc)",
+  "headword": "uz",
+  "body": "alongside, along with (Prep) (Acc)",
+  "tag": null,
+  "id": 3845
+ },
+ {
+  "page": 94,
+  "letter": "UZ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uzeti | to take (Ir) (br:",
+   "poduzeti, preuzeti)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 26
+  },
+  "raw": "uzeti | to take (Ir) (br: poduzeti, preuzeti)",
+  "headword": "uzeti",
+  "body": "to take (Ir) (br: poduzeti, preuzeti)",
+  "tag": null,
+  "id": 3846
+ },
+ {
+  "page": 94,
+  "letter": "UZ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uzvisiti | to exalt"
+  ],
+  "colors": {
+   "BLUE": 16
+  },
+  "raw": "uzvisiti | to exalt",
+  "headword": "uzvisiti",
+  "body": "to exalt",
+  "tag": "BLUE",
+  "id": 3847
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "užas | horror (a?)"
+  ],
+  "colors": {
+   "BLUE": 15
+  },
+  "raw": "užas | horror (a?)",
+  "headword": "užas",
+  "body": "horror (a?)",
+  "tag": "BLUE",
+  "id": 3848
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uže | rope (Ir) (e) (+t) (rel:",
+   "konop)"
+  ],
+  "colors": {
+   "k": 8,
+   "mark": 22
+  },
+  "raw": "uže | rope (Ir) (e) (+t) (rel: konop)",
+  "headword": "uže",
+  "body": "rope (Ir) (e) (+t) (rel: konop)",
+  "tag": null,
+  "id": 3849
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "užad | ropes (Neu Pl.)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 8
+  },
+  "raw": "užad | ropes (Neu Pl.)",
+  "headword": "užad",
+  "body": "ropes (Neu Pl.)",
+  "tag": null,
+  "id": 3850
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "užeta | of rope (Gen Sing.)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 10
+  },
+  "raw": "užeta | of rope (Gen Sing.)",
+  "headword": "užeta",
+  "body": "of rope (Gen Sing.)",
+  "tag": null,
+  "id": 3851
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "užetom | by rope (Ins Sing.)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 10
+  },
+  "raw": "užetom | by rope (Ins Sing.)",
+  "headword": "užetom",
+  "body": "by rope (Ins Sing.)",
+  "tag": null,
+  "id": 3852
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "užitak | (an) enjoyment, pleasure",
+   "(a?) (k->c)"
+  ],
+  "colors": {
+   "BLUE": 39
+  },
+  "raw": "užitak | (an) enjoyment, pleasure (a?) (k->c)",
+  "headword": "užitak",
+  "body": "(an) enjoyment, pleasure (a?) (k->c)",
+  "tag": "BLUE",
+  "id": 3853
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "uživati u | to enjoy (Ir) (Loc)"
+  ],
+  "colors": {
+   "BLUE": 25
+  },
+  "raw": "uživati u | to enjoy (Ir) (Loc)",
+  "headword": "uživati u",
+  "body": "to enjoy (Ir) (Loc)",
+  "tag": "BLUE",
+  "id": 3854
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vakcinacija |vakci*NA*cija|",
+   "-vaccination (Bos) (Hrv) (Srp)",
+   "(rel: cijepljenje)"
+  ],
+  "colors": {
+   "k": 38,
+   "mark": 32
+  },
+  "raw": "vakcinacija |vakci*NA*cija| -vaccination (Bos) (Hrv) (Srp) (rel: cijepljenje)",
+  "headword": "vakcinacija",
+  "body": "vakci*NA*cija| -vaccination (Bos) (Hrv) (Srp) (rel: cijepljenje)",
+  "tag": null,
+  "id": 3855
+ },
+ {
+  "page": 94,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "val | wave (+ov)"
+  ],
+  "colors": {
+   "k": 8,
+   "mark": 5
+  },
+  "raw": "val | wave (+ov)",
+  "headword": "val",
+  "body": "wave (+ov)",
+  "tag": null,
+  "id": 3856
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "valja | fine, good"
+  ],
+  "colors": {
+   "k": 15
+  },
+  "raw": "valja | fine, good",
+  "headword": "valja",
+  "body": "fine, good",
+  "tag": null,
+  "id": 3857
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "ne valja | not fine, not good"
+  ],
+  "colors": {
+   "k": 24
+  },
+  "raw": "ne valja | not fine, not good",
+  "headword": "ne valja",
+  "body": "not fine, not good",
+  "tag": null,
+  "id": 3858
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "valjda | supposedly (Adv) (This",
+   "word is often used in place of \"I",
+   "guess\" or \"I hope\")"
+  ],
+  "colors": {
+   "k": 17,
+   "mark": 52
+  },
+  "raw": "valjda | supposedly (Adv) (This word is often used in place of \"I guess\" or \"I hope\")",
+  "headword": "valjda",
+  "body": "supposedly (Adv) (This word is often used in place of \"I guess\" or \"I hope\")",
+  "tag": null,
+  "id": 3859
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Vama, vama (Vam, vam) | to you, to",
+   "-all you (Pro) (Formal) (D/L)",
+   "(Ins)"
+  ],
+  "colors": {
+   "k": 34,
+   "mark": 23
+  },
+  "raw": "Vama, vama (Vam, vam) | to you, to -all you (Pro) (Formal) (D/L) (Ins)",
+  "headword": "Vama, vama (Vam, vam)",
+  "body": "to you, to -all you (Pro) (Formal) (D/L) (Ins)",
+  "tag": null,
+  "id": 3860
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "van | outside (Adj?) (Adv?) (br:",
+   "izvan)"
+  ],
+  "colors": {
+   "BLUE": 33
+  },
+  "raw": "van | outside (Adj?) (Adv?) (br: izvan)",
+  "headword": "van",
+  "body": "outside (Adj?) (Adv?) (br: izvan)",
+  "tag": "BLUE",
+  "id": 3861
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "za van | to go (take-out",
+   "food) (Hrv) (rel: za",
+   "ponijeti)"
+  ],
+  "colors": {
+   "k": 25,
+   "mark": 21
+  },
+  "raw": "za van | to go (take-out food) (Hrv) (rel: za ponijeti)",
+  "headword": "za van",
+  "body": "to go (take-out food) (Hrv) (rel: za ponijeti)",
+  "tag": null,
+  "id": 3862
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vanzemaljac | alien (from space)",
+   "(rel: stranac)"
+  ],
+  "colors": {
+   "k": 28,
+   "mark": 13
+  },
+  "raw": "vanzemaljac | alien (from space) (rel: stranac)",
+  "headword": "vanzemaljac",
+  "body": "alien (from space) (rel: stranac)",
+  "tag": null,
+  "id": 3863
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vanzemaljski | alien (Adj)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 5
+  },
+  "raw": "vanzemaljski | alien (Adj)",
+  "headword": "vanzemaljski",
+  "body": "alien (Adj)",
+  "tag": null,
+  "id": 3864
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Varšava | Warsaw"
+  ],
+  "colors": {
+   "GREEN": 14
+  },
+  "raw": "Varšava | Warsaw",
+  "headword": "Varšava",
+  "body": "Warsaw",
+  "tag": "GREEN",
+  "id": 3865
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Vas, vas | you, you all (Pro)",
+   "(Formal)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 13
+  },
+  "raw": "Vas, vas | you, you all (Pro) (Formal)",
+  "headword": "Vas, vas",
+  "body": "you, you all (Pro) (Formal)",
+  "tag": null,
+  "id": 3866
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Vaš, vaš | your (Formal) (e)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 11
+  },
+  "raw": "Vaš, vaš | your (Formal) (e)",
+  "headword": "Vaš, vaš",
+  "body": "your (Formal) (e)",
+  "tag": null,
+  "id": 3867
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vatra | fire (+a?)"
+  ],
+  "colors": {
+   "BLUE": 15
+  },
+  "raw": "vatra | fire (+a?)",
+  "headword": "vatra",
+  "body": "fire (+a?)",
+  "tag": "BLUE",
+  "id": 3868
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vazduh | air (Bos) (Srp) (h->s?)",
+   "(rel: zrak)"
+  ],
+  "colors": {
+   "BLUE": 37
+  },
+  "raw": "vazduh | air (Bos) (Srp) (h->s?) (rel: zrak)",
+  "headword": "vazduh",
+  "body": "air (Bos) (Srp) (h->s?) (rel: zrak)",
+  "tag": "BLUE",
+  "id": 3869
+ },
+ {
+  "page": 95,
+  "letter": "UŽ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "važi | come on, get a move on",
+   "(rel: ajde, hajde)"
+  ],
+  "colors": {
+   "k": 22,
+   "mark": 16
+  },
+  "raw": "važi | come on, get a move on (rel: ajde, hajde)",
+  "headword": "važi",
+  "body": "come on, get a move on (rel: ajde, hajde)",
+  "tag": null,
+  "id": 3870
+ },
+ {
+  "page": 94,
+  "letter": "VA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vaga | scale?, Libra"
+  ],
+  "colors": {
+   "BLUE": 17
+  },
+  "raw": "vaga | scale?, Libra",
+  "headword": "vaga",
+  "body": "scale?, Libra",
+  "tag": "BLUE",
+  "id": 3836
+ },
+ {
+  "page": 94,
+  "letter": "VA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vakcina | vaccine (Bos) (Hrv)",
+   "(Srp) (rel: cjepivo)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 28
+  },
+  "raw": "vakcina | vaccine (Bos) (Hrv) (Srp) (rel: cjepivo)",
+  "headword": "vakcina",
+  "body": "vaccine (Bos) (Hrv) (Srp) (rel: cjepivo)",
+  "tag": null,
+  "id": 3837
+ },
+ {
+  "page": 94,
+  "letter": "VA",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "utorkom | on Tuesdays"
+  ],
+  "colors": {
+   "k": 19
+  },
+  "raw": "utorkom | on Tuesdays",
+  "headword": "utorkom",
+  "body": "on Tuesdays",
+  "tag": null,
+  "id": 3838
+ },
+ {
+  "page": 94,
+  "letter": "VA",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "u utorak | on Tuesday"
+  ],
+  "colors": {
+   "k": 18
+  },
+  "raw": "u utorak | on Tuesday",
+  "headword": "u utorak",
+  "body": "on Tuesday",
+  "tag": null,
+  "id": 3839
+ },
+ {
+  "page": 94,
+  "letter": "VA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "utrka | race (Hrv) (k->c) (rel:",
+   "trka)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 21
+  },
+  "raw": "utrka | race (Hrv) (k->c) (rel: trka)",
+  "headword": "utrka",
+  "body": "race (Hrv) (k->c) (rel: trka)",
+  "tag": null,
+  "id": 3840
+ },
+ {
+  "page": 94,
+  "letter": "VA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "utrošiti | to spend (Perf) (rel:",
+   "potrošiti, provesti) (This is",
+   "prefered over potrošiti when",
+   "talking about \"spending time\".)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 90
+  },
+  "raw": "utrošiti | to spend (Perf) (rel: potrošiti, provesti) (This is prefered over potrošiti when talking about \"spending time\".)",
+  "headword": "utrošiti",
+  "body": "to spend (Perf) (rel: potrošiti, provesti) (This is prefered over potrošiti when talking about \"spending time\".)",
+  "tag": null,
+  "id": 3841
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "večeras |ve*ČE*as| tonight (Adv)"
+  ],
+  "colors": {
+   "k": 29
+  },
+  "raw": "večeras |ve*ČE*as| tonight (Adv)",
+  "headword": "večeras",
+  "body": "ve*ČE*as| tonight (Adv)",
+  "tag": null,
+  "id": 3871
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "večernji | evening (Adj)"
+  ],
+  "colors": {
+   "k": 21
+  },
+  "raw": "večernji | evening (Adj)",
+  "headword": "večernji",
+  "body": "evening (Adj)",
+  "tag": null,
+  "id": 3872
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "već | already, but (Adv/Conj)"
+  ],
+  "colors": {
+   "BLUE": 25
+  },
+  "raw": "već | already, but (Adv/Conj)",
+  "headword": "već",
+  "body": "already, but (Adv/Conj)",
+  "tag": "BLUE",
+  "id": 3873
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "veče | evening (Bos) (Srp) (Neu)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 15
+  },
+  "raw": "veče | evening (Bos) (Srp) (Neu)",
+  "headword": "veče",
+  "body": "evening (Bos) (Srp) (Neu)",
+  "tag": null,
+  "id": 3874
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "večer | evening (Hrv) (FE)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 9
+  },
+  "raw": "večer | evening (Hrv) (FE)",
+  "headword": "večer",
+  "body": "evening (Hrv) (FE)",
+  "tag": null,
+  "id": 3875
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "veliki |*VE*liki| great, big"
+  ],
+  "colors": {
+   "k": 25
+  },
+  "raw": "veliki |*VE*liki| great, big",
+  "headword": "veliki",
+  "body": "*VE*liki| great, big",
+  "tag": null,
+  "id": 3876
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "veljača | February (Hrv) (rel:",
+   "februar)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 18
+  },
+  "raw": "veljača | February (Hrv) (rel: februar)",
+  "headword": "veljača",
+  "body": "February (Hrv) (rel: februar)",
+  "tag": null,
+  "id": 3877
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "drugi mjesec | second month"
+  ],
+  "colors": {
+   "k": 24
+  },
+  "raw": "drugi mjesec | second month",
+  "headword": "drugi mjesec",
+  "body": "second month",
+  "tag": null,
+  "id": 3878
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "veo | veil (M) (o->l)"
+  ],
+  "colors": {
+   "k": 8,
+   "mark": 9
+  },
+  "raw": "veo | veil (M) (o->l)",
+  "headword": "veo",
+  "body": "veil (M) (o->l)",
+  "tag": null,
+  "id": 3879
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vepar | boar (Anim) (a) (+ov)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 14
+  },
+  "raw": "vepar | boar (Anim) (a) (+ov)",
+  "headword": "vepar",
+  "body": "boar (Anim) (a) (+ov)",
+  "tag": null,
+  "id": 3880
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "verige | chains (This word is",
+   "always Feminine Plural?)"
+  ],
+  "colors": {
+   "BLUE": 46
+  },
+  "raw": "verige | chains (This word is always Feminine Plural?)",
+  "headword": "verige",
+  "body": "chains (This word is always Feminine Plural?)",
+  "tag": "BLUE",
+  "id": 3881
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vesel |*VE*sel| happy (Slovenian",
+   "word used in the Balkans. It can",
+   "almost be considered a Croatian",
+   "word.)"
+  ],
+  "colors": {
+   "PINK": 88
+  },
+  "raw": "vesel |*VE*sel| happy (Slovenian word used in the Balkans. It can almost be considered a Croatian word.)",
+  "headword": "vesel",
+  "body": "*VE*sel| happy (Slovenian word used in the Balkans. It can almost be considered a Croatian word.)",
+  "tag": "PINK",
+  "id": 3882
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "veslati | to row, paddle (Although",
+   "this word likes like it has a",
+   "root of \"slati\" it does not.)",
+   "vesti?"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 56,
+   "GOLD": 6
+  },
+  "raw": "veslati | to row, paddle (Although this word likes like it has a root of \"slati\" it does not.) vesti?",
+  "headword": "veslati",
+  "body": "to row, paddle (Although this word likes like it has a root of \"slati\" it does not.) vesti?",
+  "tag": "GOLD",
+  "id": 3883
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "dovesti | to bring a person?",
+   "izvesti",
+   "prevesti",
+   "provesti"
+  ],
+  "colors": {
+   "GOLD": 50
+  },
+  "raw": "dovesti | to bring a person? izvesti prevesti provesti",
+  "headword": "dovesti",
+  "body": "to bring a person? izvesti prevesti provesti",
+  "tag": "GOLD",
+  "id": 3884
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vešeraj | laundry room (e)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 3
+  },
+  "raw": "vešeraj | laundry room (e)",
+  "headword": "vešeraj",
+  "body": "laundry room (e)",
+  "tag": null,
+  "id": 3885
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "veza | relationship, connection"
+  ],
+  "colors": {
+   "BLUE": 28
+  },
+  "raw": "veza | relationship, connection",
+  "headword": "veza",
+  "body": "relationship, connection",
+  "tag": "BLUE",
+  "id": 3886
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "bez veze | nonsense"
+  ],
+  "colors": {
+   "BLUE": 17
+  },
+  "raw": "bez veze | nonsense",
+  "headword": "bez veze",
+  "body": "nonsense",
+  "tag": "BLUE",
+  "id": 3887
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 3,
+  "bullet": "○",
+  "lines": [
+   "bzvz | (Abbreviation)"
+  ],
+  "colors": {
+   "BLUE": 20
+  },
+  "raw": "bzvz | (Abbreviation)",
+  "headword": "bzvz",
+  "body": "(Abbreviation)",
+  "tag": "BLUE",
+  "id": 3888
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "Nema veze | doesn't matter,",
+   "no connection"
+  ],
+  "colors": {
+   "BLUE": 36
+  },
+  "raw": "Nema veze | doesn't matter, no connection",
+  "headword": "Nema veze",
+  "body": "doesn't matter, no connection",
+  "tag": "BLUE",
+  "id": 3889
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "u vezi | in connection, in a",
+   "relationship (Used as an",
+   "Adjective) (Is genitive used",
+   "with this, or dative?)"
+  ],
+  "colors": {
+   "BLUE": 88
+  },
+  "raw": "u vezi | in connection, in a relationship (Used as an Adjective) (Is genitive used with this, or dative?)",
+  "headword": "u vezi",
+  "body": "in connection, in a relationship (Used as an Adjective) (Is genitive used with this, or dative?)",
+  "tag": "BLUE",
+  "id": 3890
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vezica | shoelace"
+  ],
+  "colors": {
+   "BLUE": 15
+  },
+  "raw": "vezica | shoelace",
+  "headword": "vezica",
+  "body": "shoelace",
+  "tag": "BLUE",
+  "id": 3891
+ },
+ {
+  "page": 95,
+  "letter": "VE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "vezice | shoelaces"
+  ],
+  "colors": {
+   "BLUE": 17
+  },
+  "raw": "vezice | shoelaces",
+  "headword": "vezice",
+  "body": "shoelaces",
+  "tag": "BLUE",
+  "id": 3892
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vid | sight, vision (+ov?) (br:",
+   "uvid)"
+  ],
+  "colors": {
+   "BLUE": 31
+  },
+  "raw": "vid | sight, vision (+ov?) (br: uvid)",
+  "headword": "vid",
+  "body": "sight, vision (+ov?) (br: uvid)",
+  "tag": "BLUE",
+  "id": 3893
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "video |*VID*eo| (LW)"
+  ],
+  "colors": {
+   "PINK": 18
+  },
+  "raw": "video |*VID*eo| (LW)",
+  "headword": "video",
+  "body": "*VID*eo| (LW)",
+  "tag": "PINK",
+  "id": 3894
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vidjeti | to see (Imp) (ije) (br:",
+   "predvidjeti)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 21,
+   "BLUE": 5
+  },
+  "raw": "vidjeti | to see (Imp) (ije) (br: predvidjeti)",
+  "headword": "vidjeti",
+  "body": "to see (Imp) (ije) (br: predvidjeti)",
+  "tag": "BLUE",
+  "id": 3895
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vidra | otter (i)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 3
+  },
+  "raw": "vidra | otter (i)",
+  "headword": "vidra",
+  "body": "otter (i)",
+  "tag": null,
+  "id": 3896
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vijek | century (FE?) (bran:",
+   "uvijek)"
+  ],
+  "colors": {
+   "BLUE": 31
+  },
+  "raw": "vijek | century (FE?) (bran: uvijek)",
+  "headword": "vijek",
+  "body": "century (FE?) (bran: uvijek)",
+  "tag": "BLUE",
+  "id": 3897
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vijest | news (FE) (Count) (ije)",
+   "(br: povijest)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 24,
+   "BLUE": 5
+  },
+  "raw": "vijest | news (FE) (Count) (ije) (br: povijest)",
+  "headword": "vijest",
+  "body": "news (FE) (Count) (ije) (br: povijest)",
+  "tag": "BLUE",
+  "id": 3898
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "visiti | to hang (Imp) (br:",
+   "ovisiti, uzvisiti, zavisiti) (Can",
+   "also be seen as \"visjeti\".)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 62
+  },
+  "raw": "visiti | to hang (Imp) (br: ovisiti, uzvisiti, zavisiti) (Can also be seen as \"visjeti\".)",
+  "headword": "visiti",
+  "body": "to hang (Imp) (br: ovisiti, uzvisiti, zavisiti) (Can also be seen as \"visjeti\".)",
+  "tag": null,
+  "id": 3899
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "više | more (Adv) (Ir)"
+  ],
+  "colors": {
+   "BLUE": 18
+  },
+  "raw": "više | more (Adv) (Ir)",
+  "headword": "više",
+  "body": "more (Adv) (Ir)",
+  "tag": "BLUE",
+  "id": 3900
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "najviše | most"
+  ],
+  "colors": {
+   "BLUE": 13
+  },
+  "raw": "najviše | most",
+  "headword": "najviše",
+  "body": "most",
+  "tag": "BLUE",
+  "id": 3901
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "ne (verb) više | not anymore",
+   "(Adv)"
+  ],
+  "colors": {
+   "BLUE": 24,
+   "mark": 5
+  },
+  "raw": "ne (verb) više | not anymore (Adv)",
+  "headword": "ne (verb) više",
+  "body": "not anymore (Adv)",
+  "tag": "BLUE",
+  "id": 3902
+ },
+ {
+  "page": 95,
+  "letter": "VI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vitez | knight (Ir) (Anim) (+ov)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 15
+  },
+  "raw": "vitez | knight (Ir) (Anim) (+ov)",
+  "headword": "vitez",
+  "body": "knight (Ir) (Anim) (+ov)",
+  "tag": null,
+  "id": 3903
+ },
+ {
+  "page": 95,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjera |*VJE*ra| faith (ije) (br:",
+   "vjerovati)"
+  ],
+  "colors": {
+   "k": 19,
+   "BLUE": 5,
+   "mark": 14
+  },
+  "raw": "vjera |*VJE*ra| faith (ije) (br: vjerovati)",
+  "headword": "vjera",
+  "body": "*VJE*ra| faith (ije) (br: vjerovati)",
+  "tag": "BLUE",
+  "id": 3904
+ },
+ {
+  "page": 95,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjeran | faithful, loyal (a) (ije)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 3,
+   "BLUE": 5
+  },
+  "raw": "vjeran | faithful, loyal (a) (ije)",
+  "headword": "vjeran",
+  "body": "faithful, loyal (a) (ije)",
+  "tag": "BLUE",
+  "id": 3905
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjerojatan | probable (Hrv) (a)",
+   "(rel: vjerovatan)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 24
+  },
+  "raw": "vjerojatan | probable (Hrv) (a) (rel: vjerovatan)",
+  "headword": "vjerojatan",
+  "body": "probable (Hrv) (a) (rel: vjerovatan)",
+  "tag": null,
+  "id": 3906
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjerovatan | probable (Bos) (Srp)",
+   "(a) (rel: vjerojatan)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 29
+  },
+  "raw": "vjerovatan | probable (Bos) (Srp) (a) (rel: vjerojatan)",
+  "headword": "vjerovatan",
+  "body": "probable (Bos) (Srp) (a) (rel: vjerojatan)",
+  "tag": null,
+  "id": 3907
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjerovati | to believe, to trust",
+   "(Imp) (ije) (rt: vjera) (br:",
+   "povjerovati) (this is gonna be",
+   "really sloppy, but basically if",
+   "you want to say \"to trust\" and",
+   "then the thing \"being trusted\",",
+   "the thing being trusted goes into",
+   "dative, kinda like \"I",
+   "trust/believe you/I\", the \"you\"",
+   "would be dative \"vjerujem ti\". If",
+   "you want to say \"to believe in\"",
+   "then you have to use \"u +Acc\" so",
+   "\"I believe in you\" is \"vjerujem u",
+   "tebe\".)"
+  ],
+  "colors": {
+   "k": 27,
+   "mark": 31,
+   "BLUE": 283
+  },
+  "raw": "vjerovati | to believe, to trust (Imp) (ije) (rt: vjera) (br: povjerovati) (this is gonna be really sloppy, but basically if you want to say \"to trust\" and then the thing \"being trusted\", the thing being trusted goes into dative, kinda like \"I trust/believe you/I\", the \"you\" would be dative \"vjerujem ti\". If you want to say \"to believe in\" then you have to use \"u +Acc\" so \"I believe in you\" is \"vjerujem u tebe\".)",
+  "headword": "vjerovati",
+  "body": "to believe, to trust (Imp) (ije) (rt: vjera) (br: povjerovati) (this is gonna be really sloppy, but basically if you want to say \"to trust\" and then the thing \"being trusted\", the thing being trusted goes into dative, kinda like \"I trust/believe you/I\", the \"you\" would be dative \"vjerujem ti\". If you want to say \"to believe in\" then you have to use \"u +Acc\" so \"I believe in you\" is \"vjerujem u tebe\".)",
+  "tag": "BLUE",
+  "id": 3908
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "vjerovati u | to believe",
+   "(Acc)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 5
+  },
+  "raw": "vjerovati u | to believe (Acc)",
+  "headword": "vjerovati u",
+  "body": "to believe (Acc)",
+  "tag": null,
+  "id": 3909
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "vjerovati | to trust (D)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 3
+  },
+  "raw": "vjerovati | to trust (D)",
+  "headword": "vjerovati",
+  "body": "to trust (D)",
+  "tag": null,
+  "id": 3910
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vješt | skillful, skilled (ije)"
+  ],
+  "colors": {
+   "k": 22,
+   "BLUE": 5
+  },
+  "raw": "vješt | skillful, skilled (ije)",
+  "headword": "vješt",
+  "body": "skillful, skilled (ije)",
+  "tag": "BLUE",
+  "id": 3911
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vještina | skill (ije)"
+  ],
+  "colors": {
+   "k": 14,
+   "BLUE": 5
+  },
+  "raw": "vještina | skill (ije)",
+  "headword": "vještina",
+  "body": "skill (ije)",
+  "tag": "BLUE",
+  "id": 3912
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjetar | wind (Ir) (+ov) (a)",
+   "(Count) (ije) (br: vjetrovito)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 34,
+   "BLUE": 5
+  },
+  "raw": "vjetar | wind (Ir) (+ov) (a) (Count) (ije) (br: vjetrovito)",
+  "headword": "vjetar",
+  "body": "wind (Ir) (+ov) (a) (Count) (ije) (br: vjetrovito)",
+  "tag": "BLUE",
+  "id": 3913
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjetrobran | windshield"
+  ],
+  "colors": {
+   "BLUE": 21
+  },
+  "raw": "vjetrobran | windshield",
+  "headword": "vjetrobran",
+  "body": "windshield",
+  "tag": "BLUE",
+  "id": 3914
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjetrovito | windy (ije) (rt:",
+   "vjetar)"
+  ],
+  "colors": {
+   "k": 16,
+   "BLUE": 5,
+   "mark": 11
+  },
+  "raw": "vjetrovito | windy (ije) (rt: vjetar)",
+  "headword": "vjetrovito",
+  "body": "windy (ije) (rt: vjetar)",
+  "tag": "BLUE",
+  "id": 3915
+ },
+ {
+  "page": 96,
+  "letter": "VJ",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vjeverica |*VJE*verica| squirrel",
+   "(ije)"
+  ],
+  "colors": {
+   "k": 30,
+   "BLUE": 5
+  },
+  "raw": "vjeverica |*VJE*verica| squirrel (ije)",
+  "headword": "vjeverica",
+  "body": "*VJE*verica| squirrel (ije)",
+  "tag": "BLUE",
+  "id": 3916
+ },
+ {
+  "page": 96,
+  "letter": "VL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vladati | to rule (br: nadvladati,",
+   "prevladati)",
+   "Jao kako sam se sinoć dobro",
+   "kresnula sa Mićkom, on",
+   "totalno vlada materijom"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 89
+  },
+  "raw": "vladati | to rule (br: nadvladati, prevladati) Jao kako sam se sinoć dobro kresnula sa Mićkom, on totalno vlada materijom",
+  "headword": "vladati",
+  "body": "to rule (br: nadvladati, prevladati) Jao kako sam se sinoć dobro kresnula sa Mićkom, on totalno vlada materijom",
+  "tag": null,
+  "id": 3917
+ },
+ {
+  "page": 96,
+  "letter": "VL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vlak | train (Hrv) (+ov) (rel:",
+   "voz)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 19
+  },
+  "raw": "vlak | train (Hrv) (+ov) (rel: voz)",
+  "headword": "vlak",
+  "body": "train (Hrv) (+ov) (rel: voz)",
+  "tag": null,
+  "id": 3918
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "voće | fruit (Unc?)"
+  ],
+  "colors": {
+   "BLUE": 10,
+   "mark": 6
+  },
+  "raw": "voće | fruit (Unc?)",
+  "headword": "voće",
+  "body": "fruit (Unc?)",
+  "tag": "BLUE",
+  "id": 3922
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "voćka | fruit tree?"
+  ],
+  "colors": {
+   "BLUE": 16
+  },
+  "raw": "voćka | fruit tree?",
+  "headword": "voćka",
+  "body": "fruit tree?",
+  "tag": "BLUE",
+  "id": 3923
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "voćni | fruit (Adj)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 5
+  },
+  "raw": "voćni | fruit (Adj)",
+  "headword": "voćni",
+  "body": "fruit (Adj)",
+  "tag": null,
+  "id": 3924
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "voda | water (Unc)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 5
+  },
+  "raw": "voda | water (Unc)",
+  "headword": "voda",
+  "body": "water (Unc)",
+  "tag": null,
+  "id": 3925
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "voditi | to lead (br: prevoditi,",
+   "provoditi)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 24
+  },
+  "raw": "voditi | to lead (br: prevoditi, provoditi)",
+  "headword": "voditi",
+  "body": "to lead (br: prevoditi, provoditi)",
+  "tag": null,
+  "id": 3926
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vodič | guide"
+  ],
+  "colors": {
+   "BLUE": 11
+  },
+  "raw": "vodič | guide",
+  "headword": "vodič",
+  "body": "guide",
+  "tag": "BLUE",
+  "id": 3927
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "vodič kroz | guide for (Acc)"
+  ],
+  "colors": {
+   "BLUE": 24
+  },
+  "raw": "vodič kroz | guide for (Acc)",
+  "headword": "vodič kroz",
+  "body": "guide for (Acc)",
+  "tag": "BLUE",
+  "id": 3928
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vođa | leader (ME) (Anim)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 10
+  },
+  "raw": "vođa | leader (ME) (Anim)",
+  "headword": "vođa",
+  "body": "leader (ME) (Anim)",
+  "tag": null,
+  "id": 3929
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vosak | wax (a) (+ov)"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 8
+  },
+  "raw": "vosak | wax (a) (+ov)",
+  "headword": "vosak",
+  "body": "wax (a) (+ov)",
+  "tag": null,
+  "id": 3930
+ },
+ {
+  "page": 96,
+  "letter": "VO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "voz | train (Bos) (Srp) (+ov)",
+   "(rel: vlak)"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 25
+  },
+  "raw": "voz | train (Bos) (Srp) (+ov) (rel: vlak)",
+  "headword": "voz",
+  "body": "train (Bos) (Srp) (+ov) (rel: vlak)",
+  "tag": null,
+  "id": 3931
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vrag | devil (Anim) (+ov)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 11
+  },
+  "raw": "vrag | devil (Anim) (+ov)",
+  "headword": "vrag",
+  "body": "devil (Anim) (+ov)",
+  "tag": null,
+  "id": 3932
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "koji vrag | what the devil"
+  ],
+  "colors": {
+   "k": 22
+  },
+  "raw": "koji vrag | what the devil",
+  "headword": "koji vrag",
+  "body": "what the devil",
+  "tag": null,
+  "id": 3933
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vrata | door (Ir) (This word is",
+   "always Neuter Plural)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 34
+  },
+  "raw": "vrata | door (Ir) (This word is always Neuter Plural)",
+  "headword": "vrata",
+  "body": "door (Ir) (This word is always Neuter Plural)",
+  "tag": null,
+  "id": 3934
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vrećica | plastic bag (Hrv) (rel:",
+   "kesa) (A bag you would use when",
+   "checking out at the grocery",
+   "store.)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 65
+  },
+  "raw": "vrećica | plastic bag (Hrv) (rel: kesa) (A bag you would use when checking out at the grocery store.)",
+  "headword": "vrećica",
+  "body": "plastic bag (Hrv) (rel: kesa) (A bag you would use when checking out at the grocery store.)",
+  "tag": null,
+  "id": 3935
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vrh | peak, top (+ov)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 5
+  },
+  "raw": "vrh | peak, top (+ov)",
+  "headword": "vrh",
+  "body": "peak, top (+ov)",
+  "tag": null,
+  "id": 3936
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vrijeme | time, weather (Ir) (+n)",
+   "(ije) (This word loses \"ije\" in",
+   "all other forms.)"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 44,
+   "BLUE": 5
+  },
+  "raw": "vrijeme | time, weather (Ir) (+n) (ije) (This word loses \"ije\" in all other forms.)",
+  "headword": "vrijeme",
+  "body": "time, weather (Ir) (+n) (ije) (This word loses \"ije\" in all other forms.)",
+  "tag": "BLUE",
+  "id": 3937
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "od svih vremena | of all time"
+  ],
+  "colors": {
+   "k": 24
+  },
+  "raw": "od svih vremena | of all time",
+  "headword": "od svih vremena",
+  "body": "of all time",
+  "tag": null,
+  "id": 3938
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vrt | garden (Hrv) (+ov)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 10
+  },
+  "raw": "vrt | garden (Hrv) (+ov)",
+  "headword": "vrt",
+  "body": "garden (Hrv) (+ov)",
+  "tag": null,
+  "id": 3939
+ },
+ {
+  "page": 96,
+  "letter": "VR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vruć | hot (e) (br: vruđ?)"
+  ],
+  "colors": {
+   "BLUE": 21
+  },
+  "raw": "vruć | hot (e) (br: vruđ?)",
+  "headword": "vruć",
+  "body": "hot (e) (br: vruđ?)",
+  "tag": "BLUE",
+  "id": 3940
+ },
+ {
+  "page": 96,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vuk | wolf (Anim) (+ov)"
+  ],
+  "colors": {
+   "k": 8,
+   "mark": 11
+  },
+  "raw": "vuk | wolf (Anim) (+ov)",
+  "headword": "vuk",
+  "body": "wolf (Anim) (+ov)",
+  "tag": null,
+  "id": 3941
+ },
+ {
+  "page": 96,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "mi o vuku a vuk na vrata |",
+   "speak of the devil."
+  ],
+  "colors": {
+   "k": 36
+  },
+  "raw": "mi o vuku a vuk na vrata | speak of the devil.",
+  "headword": "mi o vuku a vuk na vrata",
+  "body": "speak of the devil.",
+  "tag": null,
+  "id": 3942
+ },
+ {
+  "page": 96,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "za uplatu | for payment"
+  ],
+  "colors": {
+   "k": 20
+  },
+  "raw": "za uplatu | for payment",
+  "headword": "za uplatu",
+  "body": "for payment",
+  "tag": null,
+  "id": 3943
+ },
+ {
+  "page": 96,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zabava |*ZA*bava| fun, party",
+   "(na/sa)"
+  ],
+  "colors": {
+   "k": 25,
+   "mark": 7
+  },
+  "raw": "zabava |*ZA*bava| fun, party (na/sa)",
+  "headword": "zabava",
+  "body": "*ZA*bava| fun, party (na/sa)",
+  "tag": null,
+  "id": 3944
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "radi zabave | for fun, for",
+   "the sake of fun"
+  ],
+  "colors": {
+   "k": 34
+  },
+  "raw": "radi zabave | for fun, for the sake of fun",
+  "headword": "radi zabave",
+  "body": "for fun, for the sake of fun",
+  "tag": null,
+  "id": 3945
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zabaviti se | to have fun? (Ins?)"
+  ],
+  "colors": {
+   "BLUE": 27
+  },
+  "raw": "zabaviti se | to have fun? (Ins?)",
+  "headword": "zabaviti se",
+  "body": "to have fun? (Ins?)",
+  "tag": "BLUE",
+  "id": 3946
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaboraviti | to forget (Perf)",
+   "(rel: zaboravljati)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 24
+  },
+  "raw": "zaboraviti | to forget (Perf) (rel: zaboravljati)",
+  "headword": "zaboraviti",
+  "body": "to forget (Perf) (rel: zaboravljati)",
+  "tag": null,
+  "id": 3947
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaboravljati | to forget (Imp)",
+   "(rel: zaboraviti)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 21
+  },
+  "raw": "zaboravljati | to forget (Imp) (rel: zaboraviti)",
+  "headword": "zaboravljati",
+  "body": "to forget (Imp) (rel: zaboraviti)",
+  "tag": null,
+  "id": 3948
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zadaća | homework",
+   "|Zadar (a)|"
+  ],
+  "colors": {
+   "k": 15,
+   "GREEN": 10
+  },
+  "raw": "zadaća | homework |Zadar (a)|",
+  "headword": "zadaća",
+  "body": "homework |Zadar (a)|",
+  "tag": "GREEN",
+  "id": 3949
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zadatak |za*DA*tak| task (a)",
+   "(k->c) (-t)",
+   "Au, ovaj zadatak je do",
+   "jaja, mećem ga u omiljene!"
+  ],
+  "colors": {
+   "k": 22,
+   "mark": 54
+  },
+  "raw": "zadatak |za*DA*tak| task (a) (k->c) (-t) Au, ovaj zadatak je do jaja, mećem ga u omiljene!",
+  "headword": "zadatak",
+  "body": "za*DA*tak| task (a) (k->c) (-t) Au, ovaj zadatak je do jaja, mećem ga u omiljene!",
+  "tag": null,
+  "id": 3950
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zadovoljan | content, satisfied",
+   "(a)"
+  ],
+  "colors": {
+   "k": 28,
+   "mark": 3
+  },
+  "raw": "zadovoljan | content, satisfied (a)",
+  "headword": "zadovoljan",
+  "body": "content, satisfied (a)",
+  "tag": null,
+  "id": 3951
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zagrliti | to hug (Perf)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 6
+  },
+  "raw": "zagrliti | to hug (Perf)",
+  "headword": "zagrliti",
+  "body": "to hug (Perf)",
+  "tag": null,
+  "id": 3952
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zahrđati | to rust (Perf) (rel:",
+   "hrđati)"
+  ],
+  "colors": {
+   "BLUE": 33
+  },
+  "raw": "zahrđati | to rust (Perf) (rel: hrđati)",
+  "headword": "zahrđati",
+  "body": "to rust (Perf) (rel: hrđati)",
+  "tag": "BLUE",
+  "id": 3953
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zahvalan | grateful (a)"
+  ],
+  "colors": {
+   "k": 17,
+   "mark": 3
+  },
+  "raw": "zahvalan | grateful (a)",
+  "headword": "zahvalan",
+  "body": "grateful (a)",
+  "tag": null,
+  "id": 3954
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zajednica | community"
+  ],
+  "colors": {
+   "k": 19
+  },
+  "raw": "zajednica | community",
+  "headword": "zajednica",
+  "body": "community",
+  "tag": null,
+  "id": 3955
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zajedno | together (rt: jedan)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 10
+  },
+  "raw": "zajedno | together (rt: jedan)",
+  "headword": "zajedno",
+  "body": "together (rt: jedan)",
+  "tag": null,
+  "id": 3956
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zakaj | why (Hrv) (rel: zašto)"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 16
+  },
+  "raw": "zakaj | why (Hrv) (rel: zašto)",
+  "headword": "zakaj",
+  "body": "why (Hrv) (rel: zašto)",
+  "tag": null,
+  "id": 3957
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zakon | law, cool"
+  ],
+  "colors": {
+   "k": 14
+  },
+  "raw": "zakon | law, cool",
+  "headword": "zakon",
+  "body": "law, cool",
+  "tag": null,
+  "id": 3958
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "kršiti/prekršiti zakon | to",
+   "break the law"
+  ],
+  "colors": {
+   "k": 36
+  },
+  "raw": "kršiti/prekršiti zakon | to break the law",
+  "headword": "kršiti/prekršiti zakon",
+  "body": "to break the law",
+  "tag": null,
+  "id": 3959
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zalagaonica |zala*GO*nica| pawn",
+   "shop"
+  ],
+  "colors": {
+   "k": 33
+  },
+  "raw": "zalagaonica |zala*GO*nica| pawn shop",
+  "headword": "zalagaonica",
+  "body": "zala*GO*nica| pawn shop",
+  "tag": null,
+  "id": 3960
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zalijepiti | to glue (Perf) (ije)"
+  ],
+  "colors": {
+   "k": 17,
+   "mark": 6,
+   "BLUE": 5
+  },
+  "raw": "zalijepiti | to glue (Perf) (ije)",
+  "headword": "zalijepiti",
+  "body": "to glue (Perf) (ije)",
+  "tag": "BLUE",
+  "id": 3961
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zalutati | to get lost"
+  ],
+  "colors": {
+   "k": 18
+  },
+  "raw": "zalutati | to get lost",
+  "headword": "zalutati",
+  "body": "to get lost",
+  "tag": null,
+  "id": 3962
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zamisliti | to imagine, think up",
+   "(Perf)"
+  ],
+  "colors": {
+   "k": 27,
+   "mark": 6
+  },
+  "raw": "zamisliti | to imagine, think up (Perf)",
+  "headword": "zamisliti",
+  "body": "to imagine, think up (Perf)",
+  "tag": null,
+  "id": 3963
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zamišljati | to imagine, think up",
+   "(Imp)"
+  ],
+  "colors": {
+   "k": 28,
+   "mark": 5
+  },
+  "raw": "zamišljati | to imagine, think up (Imp)",
+  "headword": "zamišljati",
+  "body": "to imagine, think up (Imp)",
+  "tag": null,
+  "id": 3964
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zamjenica | pronoun (ije)"
+  ],
+  "colors": {
+   "k": 17,
+   "BLUE": 5
+  },
+  "raw": "zamjenica | pronoun (ije)",
+  "headword": "zamjenica",
+  "body": "pronoun (ije)",
+  "tag": "BLUE",
+  "id": 3965
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zamka | trap (k->c) (i)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 9
+  },
+  "raw": "zamka | trap (k->c) (i)",
+  "headword": "zamka",
+  "body": "trap (k->c) (i)",
+  "tag": null,
+  "id": 3966
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zanat | craft, trade (a?)"
+  ],
+  "colors": {
+   "BLUE": 21
+  },
+  "raw": "zanat | craft, trade (a?)",
+  "headword": "zanat",
+  "body": "craft, trade (a?)",
+  "tag": "BLUE",
+  "id": 3967
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaokružiti | to encircle, circle",
+   "(This word is used when talking",
+   "about circling an answer on a",
+   "paper.)"
+  ],
+  "colors": {
+   "k": 28,
+   "mark": 57
+  },
+  "raw": "zaokružiti | to encircle, circle (This word is used when talking about circling an answer on a paper.)",
+  "headword": "zaokružiti",
+  "body": "to encircle, circle (This word is used when talking about circling an answer on a paper.)",
+  "tag": null,
+  "id": 3968
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapad | West (No \"a\") (br:",
+   "zapadni)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 19
+  },
+  "raw": "zapad | West (No \"a\") (br: zapadni)",
+  "headword": "zapad",
+  "body": "West (No \"a\") (br: zapadni)",
+  "tag": null,
+  "id": 3969
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapadni | western (rt: zapad) (br:",
+   "zapadniji)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 24
+  },
+  "raw": "zapadni | western (rt: zapad) (br: zapadniji)",
+  "headword": "zapadni",
+  "body": "western (rt: zapad) (br: zapadniji)",
+  "tag": null,
+  "id": 3970
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "zapadno | westward (Adv)"
+  ],
+  "colors": {
+   "k": 17,
+   "mark": 5
+  },
+  "raw": "zapadno | westward (Adv)",
+  "headword": "zapadno",
+  "body": "westward (Adv)",
+  "tag": null,
+  "id": 3971
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapadniji | more western (e) (rt:",
+   "zapadni)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 15
+  },
+  "raw": "zapadniji | more western (e) (rt: zapadni)",
+  "headword": "zapadniji",
+  "body": "more western (e) (rt: zapadni)",
+  "tag": null,
+  "id": 3972
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapeti | to get stuck",
+   "zapeti se?"
+  ],
+  "colors": {
+   "BLUE": 27
+  },
+  "raw": "zapeti | to get stuck zapeti se?",
+  "headword": "zapeti",
+  "body": "to get stuck zapeti se?",
+  "tag": "BLUE",
+  "id": 3973
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaplet |*ZA*plet| plot"
+  ],
+  "colors": {
+   "BLUE": 20
+  },
+  "raw": "zaplet |*ZA*plet| plot",
+  "headword": "zaplet",
+  "body": "*ZA*plet| plot",
+  "tag": "BLUE",
+  "id": 3974
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "započeti | to begin (Perf)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 6
+  },
+  "raw": "započeti | to begin (Perf)",
+  "headword": "započeti",
+  "body": "to begin (Perf)",
+  "tag": null,
+  "id": 3975
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaposlenik | employee (Anim)",
+   "(k->c)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 12
+  },
+  "raw": "zaposlenik | employee (Anim) (k->c)",
+  "headword": "zaposlenik",
+  "body": "employee (Anim) (k->c)",
+  "tag": null,
+  "id": 3976
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaposliti | to employ (Perf)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 6
+  },
+  "raw": "zaposliti | to employ (Perf)",
+  "headword": "zaposliti",
+  "body": "to employ (Perf)",
+  "tag": null,
+  "id": 3977
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapošljavati | to employ (Imp)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 5
+  },
+  "raw": "zapošljavati | to employ (Imp)",
+  "headword": "zapošljavati",
+  "body": "to employ (Imp)",
+  "tag": null,
+  "id": 3978
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapovjest |*ZA*povjest|",
+   "commandment (Bos) (Srp) (FE) (ije)",
+   "(rt: zapovjest) (rel: zapovijed)",
+   "(Technically you would most",
+   "likely only see this word as",
+   "\"zapovest\" but really no one is",
+   "stopping you from doing what you",
+   "want, in my books it's",
+   "\"zapovjest\", I have heard it said",
+   "this way.)"
+  ],
+  "colors": {
+   "k": 33,
+   "mark": 198,
+   "BLUE": 5
+  },
+  "raw": "zapovjest |*ZA*povjest| commandment (Bos) (Srp) (FE) (ije) (rt: zapovjest) (rel: zapovijed) (Technically you would most likely only see this word as \"zapovest\" but really no one is stopping you from doing what you want, in my books it's \"zapovjest\", I have heard it said this way.)",
+  "headword": "zapovjest",
+  "body": "*ZA*povjest| commandment (Bos) (Srp) (FE) (ije) (rt: zapovjest) (rel: zapovijed) (Technically you would most likely only see this word as \"zapovest\" but really no one is stopping you from doing what you want, in my books it's \"zapovjest\", I have heard it said this way.)",
+  "tag": "BLUE",
+  "id": 3979
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapovijed | commandment (Hrv) (FE)",
+   "(ije) (br: zapovijedati,",
+   "zapovjediti)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 38,
+   "BLUE": 5
+  },
+  "raw": "zapovijed | commandment (Hrv) (FE) (ije) (br: zapovijedati, zapovjediti)",
+  "headword": "zapovijed",
+  "body": "commandment (Hrv) (FE) (ije) (br: zapovijedati, zapovjediti)",
+  "tag": "BLUE",
+  "id": 3980
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapovijedati | to command (Imp)",
+   "(ije) (rel: zapovjediti)"
+  ],
+  "colors": {
+   "k": 22,
+   "mark": 22,
+   "BLUE": 5
+  },
+  "raw": "zapovijedati | to command (Imp) (ije) (rel: zapovjediti)",
+  "headword": "zapovijedati",
+  "body": "to command (Imp) (ije) (rel: zapovjediti)",
+  "tag": "BLUE",
+  "id": 3981
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zapovjediti | to command (Perf)",
+   "(ije) (rel: zapovijedati)"
+  ],
+  "colors": {
+   "k": 21,
+   "mark": 24,
+   "BLUE": 5
+  },
+  "raw": "zapovjediti | to command (Perf) (ije) (rel: zapovijedati)",
+  "headword": "zapovjediti",
+  "body": "to command (Perf) (ije) (rel: zapovijedati)",
+  "tag": "BLUE",
+  "id": 3982
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zar | silly word (This word is",
+   "used to say, \"isn't\", \"aren't\",",
+   "\"weren't\", and things of the like",
+   "used in rhetorical sentences.)"
+  ],
+  "colors": {
+   "BLUE": 106
+  },
+  "raw": "zar | silly word (This word is used to say, \"isn't\", \"aren't\", \"weren't\", and things of the like used in rhetorical sentences.)",
+  "headword": "zar",
+  "body": "silly word (This word is used to say, \"isn't\", \"aren't\", \"weren't\", and things of the like used in rhetorical sentences.)",
+  "tag": "BLUE",
+  "id": 3983
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaroniti | to dive (Perf?)"
+  ],
+  "colors": {
+   "BLUE": 22
+  },
+  "raw": "zaroniti | to dive (Perf?)",
+  "headword": "zaroniti",
+  "body": "to dive (Perf?)",
+  "tag": "BLUE",
+  "id": 3984
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zasigurno |*ZA*sigurno| surely",
+   "(Adv)"
+  ],
+  "colors": {
+   "k": 28,
+   "mark": 5
+  },
+  "raw": "zasigurno |*ZA*sigurno| surely (Adv)",
+  "headword": "zasigurno",
+  "body": "*ZA*sigurno| surely (Adv)",
+  "tag": null,
+  "id": 3985
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zaštititi | to protect (Perf) (rt:",
+   "štititi)"
+  ],
+  "colors": {
+   "k": 19,
+   "mark": 18
+  },
+  "raw": "zaštititi | to protect (Perf) (rt: štititi)",
+  "headword": "zaštititi",
+  "body": "to protect (Perf) (rt: štititi)",
+  "tag": null,
+  "id": 3986
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zašto | why (Conj) (rel: zakaj)"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 17
+  },
+  "raw": "zašto | why (Conj) (rel: zakaj)",
+  "headword": "zašto",
+  "body": "why (Conj) (rel: zakaj)",
+  "tag": null,
+  "id": 3987
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zatim | then (Conj)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 6
+  },
+  "raw": "zatim | then (Conj)",
+  "headword": "zatim",
+  "body": "then (Conj)",
+  "tag": null,
+  "id": 3988
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zato | however (Conj)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 6
+  },
+  "raw": "zato | however (Conj)",
+  "headword": "zato",
+  "body": "however (Conj)",
+  "tag": null,
+  "id": 3989
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "zato i | that is why (Conj)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 6
+  },
+  "raw": "zato i | that is why (Conj)",
+  "headword": "zato i",
+  "body": "that is why (Conj)",
+  "tag": null,
+  "id": 3990
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "zato što | because (Conj)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 6
+  },
+  "raw": "zato što | because (Conj)",
+  "headword": "zato što",
+  "body": "because (Conj)",
+  "tag": null,
+  "id": 3991
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zatvoren |*ZA*tvoren| closed"
+  ],
+  "colors": {
+   "k": 26
+  },
+  "raw": "zatvoren |*ZA*tvoren| closed",
+  "headword": "zatvoren",
+  "body": "*ZA*tvoren| closed",
+  "tag": null,
+  "id": 3992
+ },
+ {
+  "page": 97,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zauvijek | forever (ije) (rt:",
+   "uvijek)"
+  ],
+  "colors": {
+   "k": 16,
+   "BLUE": 5,
+   "mark": 11
+  },
+  "raw": "zauvijek | forever (ije) (rt: uvijek)",
+  "headword": "zauvijek",
+  "body": "forever (ije) (rt: uvijek)",
+  "tag": "BLUE",
+  "id": 3993
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zavisiti |*ZA*visiti| to depend",
+   "(Ir) (rel: ovisiti)"
+  ],
+  "colors": {
+   "BLUE": 45
+  },
+  "raw": "zavisiti |*ZA*visiti| to depend (Ir) (rel: ovisiti)",
+  "headword": "zavisiti",
+  "body": "*ZA*visiti| to depend (Ir) (rel: ovisiti)",
+  "tag": "BLUE",
+  "id": 3994
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "zavisiti od | to depend on",
+   "(G)"
+  ],
+  "colors": {
+   "BLUE": 25
+  },
+  "raw": "zavisiti od | to depend on (G)",
+  "headword": "zavisiti od",
+  "body": "to depend on (G)",
+  "tag": "BLUE",
+  "id": 3995
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zavjesa | curtain (ije)"
+  ],
+  "colors": {
+   "k": 15,
+   "BLUE": 5
+  },
+  "raw": "zavjesa | curtain (ije)",
+  "headword": "zavjesa",
+  "body": "curtain (ije)",
+  "tag": "BLUE",
+  "id": 3996
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zavjet | testament (ije)"
+  ],
+  "colors": {
+   "k": 16,
+   "BLUE": 5
+  },
+  "raw": "zavjet | testament (ije)",
+  "headword": "zavjet",
+  "body": "testament (ije)",
+  "tag": "BLUE",
+  "id": 3997
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zavoj | bandage, bend (This word",
+   "has two separate meanings.)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 33
+  },
+  "raw": "zavoj | bandage, bend (This word has two separate meanings.)",
+  "headword": "zavoj",
+  "body": "bandage, bend (This word has two separate meanings.)",
+  "tag": null,
+  "id": 3998
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "iza zavoja | around the bend"
+  ],
+  "colors": {
+   "k": 24
+  },
+  "raw": "iza zavoja | around the bend",
+  "headword": "iza zavoja",
+  "body": "around the bend",
+  "tag": null,
+  "id": 3999
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "završavati | to end, finish (Imp)",
+   "(rel: završiti)"
+  ],
+  "colors": {
+   "k": 23,
+   "mark": 19
+  },
+  "raw": "završavati | to end, finish (Imp) (rel: završiti)",
+  "headword": "završavati",
+  "body": "to end, finish (Imp) (rel: završiti)",
+  "tag": null,
+  "id": 4000
+ },
+ {
+  "page": 98,
+  "letter": "VU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "završiti | to end, finish,",
+   "complete (Perf) (rel: završavati)"
+  ],
+  "colors": {
+   "k": 30,
+   "mark": 22
+  },
+  "raw": "završiti | to end, finish, complete (Perf) (rel: završavati)",
+  "headword": "završiti",
+  "body": "to end, finish, complete (Perf) (rel: završavati)",
+  "tag": null,
+  "id": 4001
+ },
+ {
+  "page": 96,
+  "letter": "ZA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "za | for (Prep) (Acc)"
+  ],
+  "colors": {
+   "k": 6,
+   "mark": 11
+  },
+  "raw": "za | for (Prep) (Acc)",
+  "headword": "za",
+  "body": "for (Prep) (Acc)",
+  "tag": null,
+  "id": 3919
+ },
+ {
+  "page": 96,
+  "letter": "ZA",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "za mnom | with me?"
+  ],
+  "colors": {
+   "BLUE": 15
+  },
+  "raw": "za mnom | with me?",
+  "headword": "za mnom",
+  "body": "with me?",
+  "tag": "BLUE",
+  "id": 3920
+ },
+ {
+  "page": 96,
+  "letter": "ZA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "vlakno | fiber, string, hair (+a)"
+  ],
+  "colors": {
+   "k": 24,
+   "mark": 4
+  },
+  "raw": "vlakno | fiber, string, hair (+a)",
+  "headword": "vlakno",
+  "body": "fiber, string, hair (+a)",
+  "tag": null,
+  "id": 3921
+ },
+ {
+  "page": 98,
+  "letter": "ZB",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zbog | because of (Prep) (G)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 9
+  },
+  "raw": "zbog | because of (Prep) (G)",
+  "headword": "zbog",
+  "body": "because of (Prep) (G)",
+  "tag": null,
+  "id": 4002
+ },
+ {
+  "page": 98,
+  "letter": "ZD",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zdrav | healthy (br: zdravlje)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 13
+  },
+  "raw": "zdrav | healthy (br: zdravlje)",
+  "headword": "zdrav",
+  "body": "healthy (br: zdravlje)",
+  "tag": null,
+  "id": 4003
+ },
+ {
+  "page": 98,
+  "letter": "ZD",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zdravlje | health (e) (rt: zdrav)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 13
+  },
+  "raw": "zdravlje | health (e) (rt: zdrav)",
+  "headword": "zdravlje",
+  "body": "health (e) (rt: zdrav)",
+  "tag": null,
+  "id": 4004
+ },
+ {
+  "page": 98,
+  "letter": "ZD",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zdravo | hello, goodbye (Bos)",
+   "(Srp)"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 10
+  },
+  "raw": "zdravo | hello, goodbye (Bos) (Srp)",
+  "headword": "zdravo",
+  "body": "hello, goodbye (Bos) (Srp)",
+  "tag": null,
+  "id": 4005
+ },
+ {
+  "page": 98,
+  "letter": "ZE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zec | rabbit (Ir) (Anim) (+ev)",
+   "(c->č)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 21
+  },
+  "raw": "zec | rabbit (Ir) (Anim) (+ev) (c->č)",
+  "headword": "zec",
+  "body": "rabbit (Ir) (Anim) (+ev) (c->č)",
+  "tag": null,
+  "id": 4006
+ },
+ {
+  "page": 98,
+  "letter": "ZE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zelen | green"
+  ],
+  "colors": {
+   "k": 11
+  },
+  "raw": "zelen | green",
+  "headword": "zelen",
+  "body": "green",
+  "tag": null,
+  "id": 4007
+ },
+ {
+  "page": 98,
+  "letter": "ZE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zemaljski | ? Land (Adj)"
+  ],
+  "colors": {
+   "BLUE": 20
+  },
+  "raw": "zemaljski | ? Land (Adj)",
+  "headword": "zemaljski",
+  "body": "? Land (Adj)",
+  "tag": "BLUE",
+  "id": 4008
+ },
+ {
+  "page": 98,
+  "letter": "ZE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zemlja | earth, ground, land (+a)",
+   "(br: prizemlje)"
+  ],
+  "colors": {
+   "k": 24,
+   "mark": 18
+  },
+  "raw": "zemlja | earth, ground, land (+a) (br: prizemlje)",
+  "headword": "zemlja",
+  "body": "earth, ground, land (+a) (br: prizemlje)",
+  "tag": null,
+  "id": 4009
+ },
+ {
+  "page": 98,
+  "letter": "ZE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "Zemlja | Earth (na/sa) (u/iz)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 13
+  },
+  "raw": "Zemlja | Earth (na/sa) (u/iz)",
+  "headword": "Zemlja",
+  "body": "Earth (na/sa) (u/iz)",
+  "tag": null,
+  "id": 4010
+ },
+ {
+  "page": 98,
+  "letter": "ZG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zglob | joint (not weed) (+ov)"
+  ],
+  "colors": {
+   "k": 20,
+   "mark": 5
+  },
+  "raw": "zglob | joint (not weed) (+ov)",
+  "headword": "zglob",
+  "body": "joint (not weed) (+ov)",
+  "tag": null,
+  "id": 4011
+ },
+ {
+  "page": 98,
+  "letter": "ZG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zgrabiti | to grab (Perf) (rel:",
+   "grabiti)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 19
+  },
+  "raw": "zgrabiti | to grab (Perf) (rel: grabiti)",
+  "headword": "zgrabiti",
+  "body": "to grab (Perf) (rel: grabiti)",
+  "tag": null,
+  "id": 4012
+ },
+ {
+  "page": 98,
+  "letter": "ZG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zgrada | building, structure"
+  ],
+  "colors": {
+   "k": 25
+  },
+  "raw": "zgrada | building, structure",
+  "headword": "zgrada",
+  "body": "building, structure",
+  "tag": null,
+  "id": 4013
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zid | wall (+ov) (br: zidina)",
+   "(This is the general word for",
+   "wall.)"
+  ],
+  "colors": {
+   "k": 8,
+   "mark": 46
+  },
+  "raw": "zid | wall (+ov) (br: zidina) (This is the general word for wall.)",
+  "headword": "zid",
+  "body": "wall (+ov) (br: zidina) (This is the general word for wall.)",
+  "tag": null,
+  "id": 4014
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zidina | wall (rt: zid) (This",
+   "refers more specifically to a",
+   "fortress or castle wall.)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 60
+  },
+  "raw": "zidina | wall (rt: zid) (This refers more specifically to a fortress or castle wall.)",
+  "headword": "zidina",
+  "body": "wall (rt: zid) (This refers more specifically to a fortress or castle wall.)",
+  "tag": null,
+  "id": 4015
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zidni | wall (Adj)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 5
+  },
+  "raw": "zidni | wall (Adj)",
+  "headword": "zidni",
+  "body": "wall (Adj)",
+  "tag": null,
+  "id": 4016
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "zidni sat | wall clock"
+  ],
+  "colors": {
+   "k": 19
+  },
+  "raw": "zidni sat | wall clock",
+  "headword": "zidni sat",
+  "body": "wall clock",
+  "tag": null,
+  "id": 4017
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zima | winter"
+  ],
+  "colors": {
+   "k": 11
+  },
+  "raw": "zima | winter",
+  "headword": "zima",
+  "body": "winter",
+  "tag": null,
+  "id": 4018
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "zima mi je | I am cold"
+  ],
+  "colors": {
+   "k": 17
+  },
+  "raw": "zima mi je | I am cold",
+  "headword": "zima mi je",
+  "body": "I am cold",
+  "tag": null,
+  "id": 4019
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zimski | winter (Adj)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 5
+  },
+  "raw": "zimski | winter (Adj)",
+  "headword": "zimski",
+  "body": "winter (Adj)",
+  "tag": null,
+  "id": 4020
+ },
+ {
+  "page": 98,
+  "letter": "ZI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zip line |ziplajn| (+ov) (In",
+   "English this word is separated in",
+   "two, however in Croatian it",
+   "appears as one \"zipline\" and",
+   "adopts the same English",
+   "pronunciation.)"
+  ],
+  "colors": {
+   "PINK": 134
+  },
+  "raw": "zip line |ziplajn| (+ov) (In English this word is separated in two, however in Croatian it appears as one \"zipline\" and adopts the same English pronunciation.)",
+  "headword": "zip line",
+  "body": "ziplajn| (+ov) (In English this word is separated in two, however in Croatian it appears as one \"zipline\" and adopts the same English pronunciation.)",
+  "tag": "PINK",
+  "id": 4021
+ },
+ {
+  "page": 98,
+  "letter": "ZL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zlatan | golden (a) (rt: zlato)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 13
+  },
+  "raw": "zlatan | golden (a) (rt: zlato)",
+  "headword": "zlatan",
+  "body": "golden (a) (rt: zlato)",
+  "tag": null,
+  "id": 4022
+ },
+ {
+  "page": 98,
+  "letter": "ZL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zlato | gold (Unc) (br: zlatan)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 16
+  },
+  "raw": "zlato | gold (Unc) (br: zlatan)",
+  "headword": "zlato",
+  "body": "gold (Unc) (br: zlatan)",
+  "tag": null,
+  "id": 4023
+ },
+ {
+  "page": 98,
+  "letter": "ZL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zlikovac | evil doer, wrongdoer",
+   "(a?)"
+  ],
+  "colors": {
+   "BLUE": 31
+  },
+  "raw": "zlikovac | evil doer, wrongdoer (a?)",
+  "headword": "zlikovac",
+  "body": "evil doer, wrongdoer (a?)",
+  "tag": "BLUE",
+  "id": 4024
+ },
+ {
+  "page": 98,
+  "letter": "ZL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zloba | malice"
+  ],
+  "colors": {
+   "k": 12
+  },
+  "raw": "zloba | malice",
+  "headword": "zloba",
+  "body": "malice",
+  "tag": null,
+  "id": 4025
+ },
+ {
+  "page": 98,
+  "letter": "ZL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zloupotreba | misuse"
+  ],
+  "colors": {
+   "k": 18
+  },
+  "raw": "zloupotreba | misuse",
+  "headword": "zloupotreba",
+  "body": "misuse",
+  "tag": null,
+  "id": 4026
+ },
+ {
+  "page": 98,
+  "letter": "ZM",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zmaj | dragon (Anim) (+ev) (No",
+   "\"a\")"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 18
+  },
+  "raw": "zmaj | dragon (Anim) (+ev) (No \"a\")",
+  "headword": "zmaj",
+  "body": "dragon (Anim) (+ev) (No \"a\")",
+  "tag": null,
+  "id": 4027
+ },
+ {
+  "page": 98,
+  "letter": "ZM",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zmija | snake"
+  ],
+  "colors": {
+   "k": 11
+  },
+  "raw": "zmija | snake",
+  "headword": "zmija",
+  "body": "snake",
+  "tag": null,
+  "id": 4028
+ },
+ {
+  "page": 98,
+  "letter": "ZN",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "znak | sign (Ir)"
+  ],
+  "colors": {
+   "BLUE": 13
+  },
+  "raw": "znak | sign (Ir)",
+  "headword": "znak",
+  "body": "sign (Ir)",
+  "tag": "BLUE",
+  "id": 4029
+ },
+ {
+  "page": 98,
+  "letter": "ZN",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "znanje | knowledge (e)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 3
+  },
+  "raw": "znanje | knowledge (e)",
+  "headword": "znanje",
+  "body": "knowledge (e)",
+  "tag": null,
+  "id": 4030
+ },
+ {
+  "page": 98,
+  "letter": "ZN",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "znanost | science (FE)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 4
+  },
+  "raw": "znanost | science (FE)",
+  "headword": "znanost",
+  "body": "science (FE)",
+  "tag": null,
+  "id": 4031
+ },
+ {
+  "page": 98,
+  "letter": "ZN",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "znati | to know (Imp) (br:",
+   "poznati, saznati)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 25
+  },
+  "raw": "znati | to know (Imp) (br: poznati, saznati)",
+  "headword": "znati",
+  "body": "to know (Imp) (br: poznati, saznati)",
+  "tag": null,
+  "id": 4032
+ },
+ {
+  "page": 98,
+  "letter": "ZN",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "znati za | to know of (Acc)",
+   "ZO 0"
+  ],
+  "colors": {
+   "k": 17,
+   "mark": 5,
+   "GOLD": 3
+  },
+  "raw": "znati za | to know of (Acc) ZO 0",
+  "headword": "znati za",
+  "body": "to know of (Acc) ZO 0",
+  "tag": "GOLD",
+  "id": 4033
+ },
+ {
+  "page": 98,
+  "letter": "Zor",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "prizor | scene, view"
+  ],
+  "colors": {
+   "GOLD": 18
+  },
+  "raw": "prizor | scene, view",
+  "headword": "prizor",
+  "body": "scene, view",
+  "tag": "GOLD",
+  "id": 4034
+ },
+ {
+  "page": 98,
+  "letter": "Zor",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "prozor | window"
+  ],
+  "colors": {
+   "GOLD": 14
+  },
+  "raw": "prozor | window",
+  "headword": "prozor",
+  "body": "window",
+  "tag": "GOLD",
+  "id": 4035
+ },
+ {
+  "page": 98,
+  "letter": "ZR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zračan | air (Adj) (a)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 8
+  },
+  "raw": "zračan | air (Adj) (a)",
+  "headword": "zračan",
+  "body": "air (Adj) (a)",
+  "tag": null,
+  "id": 4036
+ },
+ {
+  "page": 98,
+  "letter": "ZR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zračna luka | airport (Hrv) (rel:",
+   "aerodrom)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 19
+  },
+  "raw": "zračna luka | airport (Hrv) (rel: aerodrom)",
+  "headword": "zračna luka",
+  "body": "airport (Hrv) (rel: aerodrom)",
+  "tag": null,
+  "id": 4037
+ },
+ {
+  "page": 98,
+  "letter": "ZR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zrak | air (Hrv?) (Unc) (rel:",
+   "vazduh)"
+  ],
+  "colors": {
+   "BLUE": 31
+  },
+  "raw": "zrak | air (Hrv?) (Unc) (rel: vazduh)",
+  "headword": "zrak",
+  "body": "air (Hrv?) (Unc) (rel: vazduh)",
+  "tag": "BLUE",
+  "id": 4038
+ },
+ {
+  "page": 98,
+  "letter": "ZR",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "zrak je čist | the coast is",
+   "clear ?"
+  ],
+  "colors": {
+   "BLUE": 28
+  },
+  "raw": "zrak je čist | the coast is clear ?",
+  "headword": "zrak je čist",
+  "body": "the coast is clear ?",
+  "tag": "BLUE",
+  "id": 4039
+ },
+ {
+  "page": 98,
+  "letter": "ZR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zrakoplov | airplane (Hrv) (rel:",
+   "avion)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 16
+  },
+  "raw": "zrakoplov | airplane (Hrv) (rel: avion)",
+  "headword": "zrakoplov",
+  "body": "airplane (Hrv) (rel: avion)",
+  "tag": null,
+  "id": 4040
+ },
+ {
+  "page": 98,
+  "letter": "ZU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zub | tooth (Ir) (No \"+ov\")"
+  ],
+  "colors": {
+   "k": 9,
+   "mark": 13
+  },
+  "raw": "zub | tooth (Ir) (No \"+ov\")",
+  "headword": "zub",
+  "body": "tooth (Ir) (No \"+ov\")",
+  "tag": null,
+  "id": 4041
+ },
+ {
+  "page": 98,
+  "letter": "ZU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zubar | dentist (Anim) (No \"a\")"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 13
+  },
+  "raw": "zubar | dentist (Anim) (No \"a\")",
+  "headword": "zubar",
+  "body": "dentist (Anim) (No \"a\")",
+  "tag": null,
+  "id": 4042
+ },
+ {
+  "page": 98,
+  "letter": "ZV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zvati | to call (Imp) (rel:",
+   "pozvati)"
+  ],
+  "colors": {
+   "BLUE": 30
+  },
+  "raw": "zvati | to call (Imp) (rel: pozvati)",
+  "headword": "zvati",
+  "body": "to call (Imp) (rel: pozvati)",
+  "tag": "BLUE",
+  "id": 4043
+ },
+ {
+  "page": 98,
+  "letter": "ZV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zvijezda | star (ije)",
+   "cartwheel"
+  ],
+  "colors": {
+   "k": 23,
+   "BLUE": 5
+  },
+  "raw": "zvijezda | star (ije) cartwheel",
+  "headword": "zvijezda",
+  "body": "star (ije) cartwheel",
+  "tag": "BLUE",
+  "id": 4044
+ },
+ {
+  "page": 99,
+  "letter": "ZV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zvonik | bell tower (k->c)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 6
+  },
+  "raw": "zvonik | bell tower (k->c)",
+  "headword": "zvonik",
+  "body": "bell tower (k->c)",
+  "tag": null,
+  "id": 4045
+ },
+ {
+  "page": 99,
+  "letter": "ZV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zvoniti | to ring (Imp) (br:",
+   "pozvoniti)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 19
+  },
+  "raw": "zvoniti | to ring (Imp) (br: pozvoniti)",
+  "headword": "zvoniti",
+  "body": "to ring (Imp) (br: pozvoniti)",
+  "tag": null,
+  "id": 4046
+ },
+ {
+  "page": 99,
+  "letter": "ŽA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žaba | frog"
+  ],
+  "colors": {
+   "k": 9
+  },
+  "raw": "žaba | frog",
+  "headword": "žaba",
+  "body": "frog",
+  "tag": null,
+  "id": 4047
+ },
+ {
+  "page": 99,
+  "letter": "ŽA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žabica | parking blocker"
+  ],
+  "colors": {
+   "BLUE": 21
+  },
+  "raw": "žabica | parking blocker",
+  "headword": "žabica",
+  "body": "parking blocker",
+  "tag": "BLUE",
+  "id": 4048
+ },
+ {
+  "page": 99,
+  "letter": "ŽA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "zvono | bell"
+  ],
+  "colors": {
+   "k": 10
+  },
+  "raw": "zvono | bell",
+  "headword": "zvono",
+  "body": "bell",
+  "tag": null,
+  "id": 4049
+ },
+ {
+  "page": 99,
+  "letter": "ŽA",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žalost | grief, shame (br:",
+   "nažalost)"
+  ],
+  "colors": {
+   "k": 18,
+   "mark": 13
+  },
+  "raw": "žalost | grief, shame (br: nažalost)",
+  "headword": "žalost",
+  "body": "grief, shame (br: nažalost)",
+  "tag": null,
+  "id": 4050
+ },
+ {
+  "page": 100,
+  "letter": "ŽB",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žbuka | plaster, mortar (k->c?)"
+  ],
+  "colors": {
+   "BLUE": 27
+  },
+  "raw": "žbuka | plaster, mortar (k->c?)",
+  "headword": "žbuka",
+  "body": "plaster, mortar (k->c?)",
+  "tag": "BLUE",
+  "id": 4051
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žedan | thirsty (a)"
+  ],
+  "colors": {
+   "k": 13,
+   "mark": 3
+  },
+  "raw": "žedan | thirsty (a)",
+  "headword": "žedan",
+  "body": "thirsty (a)",
+  "tag": null,
+  "id": 4052
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žeđ | thirst (FE)"
+  ],
+  "colors": {
+   "k": 10,
+   "mark": 4
+  },
+  "raw": "žeđ | thirst (FE)",
+  "headword": "žeđ",
+  "body": "thirst (FE)",
+  "tag": null,
+  "id": 4053
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "želja | desire"
+  ],
+  "colors": {
+   "k": 12
+  },
+  "raw": "želja | desire",
+  "headword": "želja",
+  "body": "desire",
+  "tag": null,
+  "id": 4054
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "po želji | as one wishes"
+  ],
+  "colors": {
+   "BLUE": 20
+  },
+  "raw": "po želji | as one wishes",
+  "headword": "po želji",
+  "body": "as one wishes",
+  "tag": "BLUE",
+  "id": 4055
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "željan | eager (a)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 3
+  },
+  "raw": "željan | eager (a)",
+  "headword": "željan",
+  "body": "eager (a)",
+  "tag": null,
+  "id": 4056
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 1,
+  "bullet": "●",
+  "lines": [
+   "željno | eagerly (Adv)"
+  ],
+  "colors": {
+   "k": 15,
+   "mark": 5
+  },
+  "raw": "željno | eagerly (Adv)",
+  "headword": "željno",
+  "body": "eagerly (Adv)",
+  "tag": null,
+  "id": 4057
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "željeti | to want (Imp) (ije) (br:",
+   "poželjeti)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 19,
+   "BLUE": 5
+  },
+  "raw": "željeti | to want (Imp) (ije) (br: poželjeti)",
+  "headword": "željeti",
+  "body": "to want (Imp) (ije) (br: poželjeti)",
+  "tag": "BLUE",
+  "id": 4058
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "željezo | iron (Hrv) (ije) (rel:",
+   "gvožđe)"
+  ],
+  "colors": {
+   "k": 12,
+   "mark": 17,
+   "BLUE": 5
+  },
+  "raw": "željezo | iron (Hrv) (ije) (rel: gvožđe)",
+  "headword": "željezo",
+  "body": "iron (Hrv) (ije) (rel: gvožđe)",
+  "tag": "BLUE",
+  "id": 4059
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "želudac | stomach (a?) (rel:",
+   "stomak, trbuh)"
+  ],
+  "colors": {
+   "BLUE": 37
+  },
+  "raw": "želudac | stomach (a?) (rel: stomak, trbuh)",
+  "headword": "želudac",
+  "body": "stomach (a?) (rel: stomak, trbuh)",
+  "tag": "BLUE",
+  "id": 4060
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žena | wife, woman"
+  ],
+  "colors": {
+   "k": 15
+  },
+  "raw": "žena | wife, woman",
+  "headword": "žena",
+  "body": "wife, woman",
+  "tag": null,
+  "id": 4061
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "ženski | female, feminine (Adj)"
+  ],
+  "colors": {
+   "k": 22,
+   "mark": 5
+  },
+  "raw": "ženski | female, feminine (Adj)",
+  "headword": "ženski",
+  "body": "female, feminine (Adj)",
+  "tag": null,
+  "id": 4062
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žeti | to reap (Imp?)"
+  ],
+  "colors": {
+   "BLUE": 17
+  },
+  "raw": "žeti | to reap (Imp?)",
+  "headword": "žeti",
+  "body": "to reap (Imp?)",
+  "tag": "BLUE",
+  "id": 4063
+ },
+ {
+  "page": 100,
+  "letter": "ŽE",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žetva | harvest (+a?) (i?)"
+  ],
+  "colors": {
+   "BLUE": 22
+  },
+  "raw": "žetva | harvest (+a?) (i?)",
+  "headword": "žetva",
+  "body": "harvest (+a?) (i?)",
+  "tag": "BLUE",
+  "id": 4064
+ },
+ {
+  "page": 100,
+  "letter": "ŽG",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žgaravica | heartburn"
+  ],
+  "colors": {
+   "k": 19
+  },
+  "raw": "žgaravica | heartburn",
+  "headword": "žgaravica",
+  "body": "heartburn",
+  "tag": null,
+  "id": 4065
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žica | wire"
+  ],
+  "colors": {
+   "k": 9
+  },
+  "raw": "žica | wire",
+  "headword": "žica",
+  "body": "wire",
+  "tag": null,
+  "id": 4066
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žičara | cable car"
+  ],
+  "colors": {
+   "k": 15
+  },
+  "raw": "žičara | cable car",
+  "headword": "žičara",
+  "body": "cable car",
+  "tag": null,
+  "id": 4067
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Židov? | Jew (Hrv) (Anim) (+ov)"
+  ],
+  "colors": {
+   "BLUE": 26
+  },
+  "raw": "Židov? | Jew (Hrv) (Anim) (+ov)",
+  "headword": "Židov?",
+  "body": "Jew (Hrv) (Anim) (+ov)",
+  "tag": "BLUE",
+  "id": 4068
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "Židovka | Jewish woman (Hrv) (+a?)",
+   "(i?)"
+  ],
+  "colors": {
+   "BLUE": 33
+  },
+  "raw": "Židovka | Jewish woman (Hrv) (+a?) (i?)",
+  "headword": "Židovka",
+  "body": "Jewish woman (Hrv) (+a?) (i?)",
+  "tag": "BLUE",
+  "id": 4069
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "živ | alive, living (Bos) (Srp)",
+   "(rel: živući)"
+  ],
+  "colors": {
+   "k": 16,
+   "mark": 22
+  },
+  "raw": "živ | alive, living (Bos) (Srp) (rel: živući)",
+  "headword": "živ",
+  "body": "alive, living (Bos) (Srp) (rel: živući)",
+  "tag": null,
+  "id": 4070
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "živjeti | to live (br: oživjeti,",
+   "preživjeti)"
+  ],
+  "colors": {
+   "k": 14,
+   "mark": 24
+  },
+  "raw": "živjeti | to live (br: oživjeti, preživjeti)",
+  "headword": "živjeti",
+  "body": "to live (br: oživjeti, preživjeti)",
+  "tag": null,
+  "id": 4071
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "život | life"
+  ],
+  "colors": {
+   "k": 10
+  },
+  "raw": "život | life",
+  "headword": "život",
+  "body": "life",
+  "tag": null,
+  "id": 4072
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "životinja | animal"
+  ],
+  "colors": {
+   "k": 16
+  },
+  "raw": "životinja | animal",
+  "headword": "životinja",
+  "body": "animal",
+  "tag": null,
+  "id": 4073
+ },
+ {
+  "page": 100,
+  "letter": "ŽI",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "živući | living (Hrv) (e) (rel:",
+   "živ)"
+  ],
+  "colors": {
+   "BLUE": 30
+  },
+  "raw": "živući | living (Hrv) (e) (rel: živ)",
+  "headword": "živući",
+  "body": "living (Hrv) (e) (rel: živ)",
+  "tag": "BLUE",
+  "id": 4074
+ },
+ {
+  "page": 100,
+  "letter": "ŽL",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žlica | spoon (Hrv) (rel: kašika)"
+  ],
+  "colors": {
+   "k": 11,
+   "mark": 17
+  },
+  "raw": "žlica | spoon (Hrv) (rel: kašika)",
+  "headword": "žlica",
+  "body": "spoon (Hrv) (rel: kašika)",
+  "tag": null,
+  "id": 4075
+ },
+ {
+  "page": 100,
+  "letter": "ŽO",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žohar | cockroach (Anim) (No \"a\")"
+  ],
+  "colors": {
+   "k": 28
+  },
+  "raw": "žohar | cockroach (Anim) (No \"a\")",
+  "headword": "žohar",
+  "body": "cockroach (Anim) (No \"a\")",
+  "tag": null,
+  "id": 4076
+ },
+ {
+  "page": 100,
+  "letter": "ŽR",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žrtva | sacrifice (+a?) (i?)"
+  ],
+  "colors": {
+   "BLUE": 24
+  },
+  "raw": "žrtva | sacrifice (+a?) (i?)",
+  "headword": "žrtva",
+  "body": "sacrifice (+a?) (i?)",
+  "tag": "BLUE",
+  "id": 4077
+ },
+ {
+  "page": 100,
+  "letter": "ŽU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žuriti se | to hurry (which case",
+   "does this word take?)"
+  ],
+  "colors": {
+   "BLUE": 44
+  },
+  "raw": "žuriti se | to hurry (which case does this word take?)",
+  "headword": "žuriti se",
+  "body": "to hurry (which case does this word take?)",
+  "tag": "BLUE",
+  "id": 4078
+ },
+ {
+  "page": 100,
+  "letter": "ŽU",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žut | yellow"
+  ],
+  "colors": {
+   "k": 10
+  },
+  "raw": "žut | yellow",
+  "headword": "žut",
+  "body": "yellow",
+  "tag": null,
+  "id": 4079
+ },
+ {
+  "page": 100,
+  "letter": "ŽV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žvaka |*ŽVA*ka| gum (k->c?)"
+  ],
+  "colors": {
+   "BLUE": 24
+  },
+  "raw": "žvaka |*ŽVA*ka| gum (k->c?)",
+  "headword": "žvaka",
+  "body": "*ŽVA*ka| gum (k->c?)",
+  "tag": "BLUE",
+  "id": 4080
+ },
+ {
+  "page": 100,
+  "letter": "ŽV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žvakati | to chew (Imp?) (k->č)",
+   "(e)"
+  ],
+  "colors": {
+   "BLUE": 29
+  },
+  "raw": "žvakati | to chew (Imp?) (k->č) (e)",
+  "headword": "žvakati",
+  "body": "to chew (Imp?) (k->č) (e)",
+  "tag": "BLUE",
+  "id": 4081
+ },
+ {
+  "page": 100,
+  "letter": "ŽV",
+  "level": 0,
+  "bullet": null,
+  "lines": [
+   "žvakanje | chewing (e)",
+   "ADDITIONAL TOOLS",
+   "Key to Dictionary Markings",
+   "Noun (Noun)",
+   "Irregular (Ir) (Words with",
+   "this marker have special",
+   "attributes)",
+   "Bosnian (Bos) (If a word has",
+   "this marker it is used",
+   "primarily in Bosnia and",
+   "Herzegovina.)",
+   "Croatian (Hrv) (If a word has",
+   "this maker it is used",
+   "primarily in Croatia.)",
+   "Montenegrin (Crn) (If a word",
+   "has this marker it is used",
+   "primarily in Montenegro. If a",
+   "word does not have a",
+   "Montenegrin Marker, the",
+   "Serbian one represents it.)",
+   "Serbian (Srp) (If a word has",
+   "this marker it is used",
+   "primarily in Serbia.)",
+   "Male (M) (Words ending with a",
+   "consonant are male unless",
+   "otherwise stated, if a word",
+   "has the male marker it is",
+   "only there for clarification",
+   "where there might be",
+   "confusion.)",
+   "Female (F) (Words ending with",
+   "an \"a\" are female unless",
+   "otherwise stated, if a word",
+   "has the feminine marker, this",
+   "means a similar word is a",
+   "different gender and it is",
+   "only there for",
+   "clarification.)",
+   "Neuter (Neu) (Words ending in",
+   "an \"e\" or \"o\" are neuter",
+   "unless otherwise stated, if a",
+   "word has the neuter marker,",
+   "this means a similar word is",
+   "a different gender and it is",
+   "only there for clarification,",
+   "for example \"veće\" and",
+   "\"većer\".)",
+   "Feminine Extra (FE) (Words",
+   "with this marker are Feminine",
+   "and take special case",
+   "endings.)(Fem 4th)",
+   "Male Extra (ME) (Words with",
+   "this marker are Feminine with",
+   "Masculine Adjectives.) (Masc",
+   "5th)",
+   "Male - Animate, Inanimate",
+   "(Anim) (Inan) (If a word",
+   "lacks this marker, Inanimate",
+   "is assumed.)",
+   "Male - ov/ev ending for",
+   "plural (+ov) (+ev) (If a word",
+   "has the (+ov) or (+ev)",
+   "marker, the respective (o) or",
+   "(e) marker is assumed but not",
+   "written.)",
+   "Male - em ending for",
+   "Instrumental (o),(e) (If",
+   "there is no marker (o) is",
+   "assumed.)",
+   "Disappearing \"A\" (a)/(No \"a\")",
+   "(Words with the marker (a)",
+   "have a Disappearing \"A\" and",
+   "words with (No \"a\") do not",
+   "have a Disappearing \"A\".)",
+   "Appearing \"A\" (+a)",
+   "\"I\" ending for Genitive",
+   "Plural (i)",
+   "Loss of \"(x)\" (-(x)) Words",
+   "with this marker lose the",
+   "specified \"(x)\" letter",
+   "whether it be a \"T\", \"N\" or",
+   "something else.",
+   "Consonant Change",
+   "\"C to Č\" (c->č)",
+   "\"G to Z\" (g->z)",
+   "\"H to S\" (h->s)",
+   "\"K to C\" (k->c)",
+   "\"O to L\" (o->l)",
+   "\"Z to Ž\" (z->ž)",
+   "\"Ž to Š\" (ž->š)"
+  ],
+  "colors": {
+   "BLUE": 19,
+   "k": 1595,
+   "mark": 136
+  },
+  "raw": "žvakanje | chewing (e) ADDITIONAL TOOLS Key to Dictionary Markings Noun (Noun) Irregular (Ir) (Words with this marker have special attributes) Bosnian (Bos) (If a word has this marker it is used primarily in Bosnia and Herzegovina.) Croatian (Hrv) (If a word has this maker it is used primarily in Croatia.) Montenegrin (Crn) (If a word has this marker it is used primarily in Montenegro. If a word does not have a Montenegrin Marker, the Serbian one represents it.) Serbian (Srp) (If a word has this marker it is used primarily in Serbia.) Male (M) (Words ending with a consonant are male unless otherwise stated, if a word has the male marker it is only there for clarification where there might be confusion.) Female (F) (Words ending with an \"a\" are female unless otherwise stated, if a word has the feminine marker, this means a similar word is a different gender and it is only there for clarification.) Neuter (Neu) (Words ending in an \"e\" or \"o\" are neuter unless otherwise stated, if a word has the neuter marker, this means a similar word is a different gender and it is only there for clarification, for example \"veće\" and \"većer\".) Feminine Extra (FE) (Words with this marker are Feminine and take special case endings.)(Fem 4th) Male Extra (ME) (Words with this marker are Feminine with Masculine Adjectives.) (Masc 5th) Male - Animate, Inanimate (Anim) (Inan) (If a word lacks this marker, Inanimate is assumed.) Male - ov/ev ending for plural (+ov) (+ev) (If a word has the (+ov) or (+ev) marker, the respective (o) or (e) marker is assumed but not written.) Male - em ending for Instrumental (o),(e) (If there is no marker (o) is assumed.) Disappearing \"A\" (a)/(No \"a\") (Words with the marker (a) have a Disappearing \"A\" and words with (No \"a\") do not have a Disappearing \"A\".) Appearing \"A\" (+a) \"I\" ending for Genitive Plural (i) Loss of \"(x)\" (-(x)) Words with this marker lose the specified \"(x)\" letter whether it be a \"T\", \"N\" or something else. Consonant Change \"C to Č\" (c->č) \"G to Z\" (g->z) \"H to S\" (h->s) \"K to C\" (k->c) \"O to L\" (o->l) \"Z to Ž\" (z->ž) \"Ž to Š\" (ž->š)",
+  "headword": "žvakanje",
+  "body": "chewing (e) ADDITIONAL TOOLS Key to Dictionary Markings Noun (Noun) Irregular (Ir) (Words with this marker have special attributes) Bosnian (Bos) (If a word has this marker it is used primarily in Bosnia and Herzegovina.) Croatian (Hrv) (If a word has this maker it is used primarily in Croatia.) Montenegrin (Crn) (If a word has this marker it is used primarily in Montenegro. If a word does not have a Montenegrin Marker, the Serbian one represents it.) Serbian (Srp) (If a word has this marker it is used primarily in Serbia.) Male (M) (Words ending with a consonant are male unless otherwise stated, if a word has the male marker it is only there for clarification where there might be confusion.) Female (F) (Words ending with an \"a\" are female unless otherwise stated, if a word has the feminine marker, this means a similar word is a different gender and it is only there for clarification.) Neuter (Neu) (Words ending in an \"e\" or \"o\" are neuter unless otherwise stated, if a word has the neuter marker, this means a similar word is a different gender and it is only there for clarification, for example \"veće\" and \"većer\".) Feminine Extra (FE) (Words with this marker are Feminine and take special case endings.)(Fem 4th) Male Extra (ME) (Words with this marker are Feminine with Masculine Adjectives.) (Masc 5th) Male - Animate, Inanimate (Anim) (Inan) (If a word lacks this marker, Inanimate is assumed.) Male - ov/ev ending for plural (+ov) (+ev) (If a word has the (+ov) or (+ev) marker, the respective (o) or (e) marker is assumed but not written.) Male - em ending for Instrumental (o),(e) (If there is no marker (o) is assumed.) Disappearing \"A\" (a)/(No \"a\") (Words with the marker (a) have a Disappearing \"A\" and words with (No \"a\") do not have a Disappearing \"A\".) Appearing \"A\" (+a) \"I\" ending for Genitive Plural (i) Loss of \"(x)\" (-(x)) Words with this marker lose the specified \"(x)\" letter whether it be a \"T\", \"N\" or something else. Consonant Change \"C to Č\" (c->č) \"G to Z\" (g->z) \"H to S\" (h->s) \"K to C\" (k->c) \"O to L\" (o->l) \"Z to Ž\" (z->ž) \"Ž to Š\" (ž->š)",
+  "tag": "BLUE",
+  "id": 4082
+ }
+]

@@ -1,0 +1,158 @@
+{"id": 1404, "pos": "(excl)"}
+{"id": 1405, "stress": "*E*fekat", "gender": "(m)", "declension": "(a)"}
+{"id": 1406, "stress": "efi*KA*san"}
+{"id": 1407, "stress": "efi*KAS*nost", "gender": "(f)"}
+{"id": 1408, "stress": "*E*gipat", "gender": "(m)", "declension": "(a)"}
+{"id": 1409, "stress": "ego*IS*ta", "gender": "(m)", "declension": "(Anim)", "note": "Masculine even though it ends in -a, like kolega/gazda. Adjectives agreeing with it stay masculine."}
+{"id": 1410, "stress": "ego*I*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1411, "stress": "e*GO*tičan"}
+{"id": 1412, "stress": "ego*TIS*ta", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1413, "gender": "(m)", "note": "Headword looks like an OCR slip - the word for exile is egzil. Worth checking the page."}
+{"id": 1414, "stress": "egzis*TEN*cija", "gender": "(f)"}
+{"id": 1415, "stress": "egzistencija*LI*zam", "gender": "(m)"}
+{"id": 1416, "pos": "(Verb)"}
+{"id": 1417, "stress": "eg*ZO*tičan"}
+{"id": 1418, "stress": "eg*ZO*tika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1419, "stress": "*E*ho", "gender": "(m)"}
+{"id": 1420, "pos": "(excl)"}
+{"id": 1421, "stress": "*EK*cem", "gender": "(m)"}
+{"id": 1422, "stress": "e*KI*pa", "gender": "(f)", "example": "cela ekipa je došla na utakmicu - the whole team came to the game"}
+{"id": 1423, "stress": "eko*NO*mičan"}
+{"id": 1424, "stress": "eko*NO*mičnost", "gender": "(f)"}
+{"id": 1425, "stress": "eko*NO*mija", "gender": "(f)"}
+{"id": 1426, "stress": "eko*NO*mika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1427, "pos": "(Verb)"}
+{"id": 1428, "stress": "ekono*MIS*ta", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1429, "stress": "*E*kran", "gender": "(m)", "example": "slika na ekranu je zamrznuta - the picture on the screen is frozen"}
+{"id": 1430, "stress": "eks*CEN*tričan"}
+{"id": 1431, "stress": "eksce*SI*van"}
+{"id": 1432, "stress": "*EK*ser", "gender": "(m)", "example": "treba mi ekser da okačim ovu sliku - I need a nail to hang this picture"}
+{"id": 1433, "pos": "(Verb)"}
+{"id": 1434, "stress": "ekska*VA*tor", "gender": "(m)"}
+{"id": 1435, "pos": "(Verb)"}
+{"id": 1436, "stress": "eks*KUR*zija", "gender": "(f)"}
+{"id": 1437, "pos": "(Verb)"}
+{"id": 1438, "stress": "ekspe*DI*cija", "gender": "(f)"}
+{"id": 1439, "stress": "ekspe*RI*ment", "gender": "(m)"}
+{"id": 1440, "stress": "*EKS*pert", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1441, "stress": "eksploa*TA*cija", "gender": "(f)"}
+{"id": 1442, "stress": "eksploa*TA*tor", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1443, "pos": "(Verb)"}
+{"id": 1444, "pos": "(Verb)"}
+{"id": 1445, "stress": "eks*PLO*zija", "gender": "(f)"}
+{"id": 1446, "stress": "eksplo*ZI*van"}
+{"id": 1447, "stress": "*EKS*port", "gender": "(m)"}
+{"id": 1448, "gender": "(m)", "declension": "(Anim)"}
+{"id": 1449, "pos": "(Verb)"}
+{"id": 1450, "stress": "*EKS*pres", "gender": "(m)"}
+{"id": 1451, "stress": "ekspresio*NI*zam", "gender": "(m)"}
+{"id": 1452, "pos": "(Verb)"}
+{"id": 1453, "stress": "eks*TA*za", "gender": "(f)"}
+{"id": 1454, "stress": "eksteritori*JA*lan"}
+{"id": 1455, "stress": "*EKS*tra"}
+{"id": 1456, "stress": "*EKS*trem", "gender": "(m)"}
+{"id": 1457, "stress": "ekstre*MIS*ta", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1458, "stress": "ekstre*MI*tet", "gender": "(m)"}
+{"id": 1459, "stress": "*EK*vador", "gender": "(m)"}
+{"id": 1460, "stress": "ek*VA*tor", "gender": "(m)"}
+{"id": 1461, "stress": "ekviva*LEN*tan"}
+{"id": 1462, "stress": "e*LAS*tičan"}
+{"id": 1463, "stress": "ele*GAN*cija", "gender": "(f)"}
+{"id": 1464, "stress": "ele*GAN*tan"}
+{"id": 1465, "stress": "elek*TRA*na", "gender": "(f)"}
+{"id": 1466, "stress": "elektri*CI*tet", "gender": "(m)"}
+{"id": 1467, "stress": "e*LEK*tričan"}
+{"id": 1468, "stress": "e*LEK*tričar", "gender": "(m)", "declension": "(Anim)", "example": "zovi električara, nestalo je struje - call an electrician, the power went out"}
+{"id": 1469, "pos": "(Verb)"}
+{"id": 1470, "stress": "elektrifi*KA*cija", "gender": "(f)"}
+{"id": 1471, "gender": "(f)", "note": "Headword is probably elektrika (electricity, the everyday word) - elektrikan isn't a word I can find. Check the page."}
+{"id": 1472, "pos": "(Verb)"}
+{"id": 1473, "stress": "elektroe*NER*gija", "gender": "(f)"}
+{"id": 1474, "gender": "(m)", "declension": "(Anim)"}
+{"id": 1475, "stress": "e*LEK*tron", "gender": "(m)"}
+{"id": 1476, "stress": "e*LEK*tronski"}
+{"id": 1477, "stress": "elek*TRO*nika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1478, "stress": "elektro*TEH*nika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1479, "gender": "(m)", "note": "Spelling should be elektrouređaj - the đ dropped out."}
+{"id": 1480, "gender": "(m)"}
+{"id": 1481, "stress": "elimi*NA*cija", "gender": "(f)"}
+{"id": 1482, "pos": "(Verb)"}
+{"id": 1483, "stress": "e*LIP*sa", "gender": "(f)"}
+{"id": 1484, "stress": "e*LI*ta", "gender": "(f)"}
+{"id": 1485, "stress": "*E*majl", "gender": "(m)"}
+{"id": 1486, "stress": "em*BAR*go", "gender": "(m)"}
+{"id": 1487, "stress": "em*BRI*on", "gender": "(m)"}
+{"id": 1488, "gender": "(f)"}
+{"id": 1489, "stress": "emi*GRA*cija", "gender": "(f)"}
+{"id": 1490, "gender": "(m)", "declension": "(Anim)", "note": "One of those rare loans that really is stressed on the last syllable (emigrànt), same deal as maturànt - so no stress mark here on purpose."}
+{"id": 1491, "pos": "(Verb)"}
+{"id": 1492, "stress": "e*MI*sija", "gender": "(f)", "example": "gledao sam tu emisiju sinoć - I watched that program last night"}
+{"id": 1493, "stress": "e*MO*cija", "gender": "(f)"}
+{"id": 1494, "stress": "em*PI*ričan"}
+{"id": 1495, "stress": "e*MUL*zija", "gender": "(f)"}
+{"id": 1496, "stress": "enciklo*PE*dija", "gender": "(f)"}
+{"id": 1497, "stress": "e*NER*gičan"}
+{"id": 1498, "stress": "e*NER*gija", "gender": "(f)", "example": "nemam energije danas - I don't have any energy today"}
+{"id": 1499, "stress": "*EN*gleska", "gender": "(f)", "example": "on je iz Engleske - he is from England"}
+{"id": 1500, "stress": "enig*MA*tičan"}
+{"id": 1501, "stress": "entuzi*JA*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1502, "gender": "(m)"}
+{"id": 1503, "stress": "epi*DE*mija", "gender": "(f)"}
+{"id": 1504, "stress": "e*PI*graf", "gender": "(m)"}
+{"id": 1505, "stress": "e*PI*gram", "gender": "(m)"}
+{"id": 1506, "stress": "epi*LEP*sija", "gender": "(f)"}
+{"id": 1507, "stress": "e*PI*log", "gender": "(m)", "declension": "(g->z)"}
+{"id": 1508, "stress": "e*PIS*kop", "gender": "(m)", "declension": "(Anim)"}
+{"id": 1509, "stress": "e*PI*taf", "gender": "(m)"}
+{"id": 1510, "stress": "e*PI*tet", "gender": "(m)"}
+{"id": 1511, "stress": "e*PO*ha", "gender": "(f)", "declension": "(h->s)", "note": "Dat./loc. sg. is prescriptively eposi, but plenty of people just say epohi. Worth checking what you actually heard."}
+{"id": 1512, "stress": "epo*PE*ja", "gender": "(f)"}
+{"id": 1513, "stress": "epru*VE*ta", "gender": "(f)"}
+{"id": 1514, "stress": "*E*ra", "gender": "(f)"}
+{"id": 1515, "gender": "(f)"}
+{"id": 1516, "gender": "(m)", "note": "Straight English loan - probably belongs in the pink (LW) group."}
+{"id": 1517, "note": "Straight English loan - probably belongs in the pink (LW) group."}
+{"id": 1518, "stress": "e*RO*tičan"}
+{"id": 1519, "stress": "e*RO*tika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1520, "stress": "e*RO*zija", "gender": "(f)"}
+{"id": 1521, "stress": "eru*DI*cija", "gender": "(f)"}
+{"id": 1522, "stress": "*E*sej", "gender": "(m)"}
+{"id": 1523, "gender": "(f)"}
+{"id": 1524, "gender": "(f)"}
+{"id": 1525, "gender": "(m)"}
+{"id": 1526, "stress": "eska*LA*cija", "gender": "(f)"}
+{"id": 1527, "stress": "eska*LA*tor", "gender": "(m)"}
+{"id": 1528, "gender": "(m)", "declension": "(Anim)"}
+{"id": 1529, "stress": "*ES*naf", "gender": "(m)"}
+{"id": 1530, "stress": "es*TE*tičan", "pos": "(adj)", "note": "Marked (Noun) here but estetičan is an adjective - the noun is estetika."}
+{"id": 1531, "stress": "es*TE*tika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1532, "stress": "es*TO*nija", "gender": "(f)"}
+{"id": 1533, "stress": "es*TRA*da", "gender": "(f)"}
+{"id": 1534, "stress": "e*TA*pa", "gender": "(f)"}
+{"id": 1535, "stress": "*E*ter", "gender": "(m)"}
+{"id": 1536, "stress": "*E*tika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1537, "stress": "eti*KE*ta", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1538, "stress": "*E*til", "gender": "(m)"}
+{"id": 1539, "stress": "etimo*LO*gija", "gender": "(f)"}
+{"id": 1540, "stress": "eti*O*pija", "gender": "(f)"}
+{"id": 1541, "stress": "*ET*nički"}
+{"id": 1542, "stress": "etno*GRA*fija", "gender": "(f)"}
+{"id": 1543, "pos": "(excl)", "example": "eto, to je sve što znam - there, that's all I know"}
+{"id": 1544, "stress": "eufe*MI*zam", "gender": "(m)", "declension": "(a)"}
+{"id": 1545, "stress": "eu*FO*nija", "gender": "(f)"}
+{"id": 1546, "stress": "eu*FO*ričan"}
+{"id": 1547, "stress": "eu*FO*rija", "gender": "(f)"}
+{"id": 1548, "stress": "euge*NE*tika", "gender": "(f)", "declension": "(k->c)"}
+{"id": 1549, "stress": "evaku*A*cija", "gender": "(f)"}
+{"id": 1550, "gender": "(Noun)", "note": "Usually written evanđelje - the đ seems to have dropped out here."}
+{"id": 1551, "stress": "eventu*A*lan"}
+{"id": 1552, "stress": "eventu*AL*nost", "gender": "(f)"}
+{"id": 1553, "stress": "evi*DEN*cija", "gender": "(f)"}
+{"id": 1554, "pos": "(excl)", "example": "evo ti kafa - here's your coffee"}
+{"id": 1555, "pos": "(Verb)"}
+{"id": 1556, "stress": "evo*LU*cija", "gender": "(f)"}
+{"id": 1557, "stress": "ev*RO*pa", "gender": "(f)", "example": "putovao je po celoj Evropi - he traveled all over Europe"}
+{"id": 1558, "stress": "*EV*ro", "gender": "(m)", "resolves": "(Srp) (Bos)", "note": "Both of your question marks are yes: evro is the Serbian and Bosnian form. Croatian says euro. Also worth flagging it's indeclinable-ish in the plural you'll hear at a kiosk - deset evra."}
+{"id": 1559, "stress": "ev*RO*pa", "gender": "(f)", "note": "This is a duplicate of the Evropa entry a few lines up - might want to merge them."}
+{"id": 1560, "stress": "evrop*LJA*nin", "gender": "(m)", "declension": "(Anim)", "note": "Loses the -in in the plural: Evropljani, gen. pl. Evropljana. Feminine is Evropljanka."}
+{"id": 1561, "stress": "ev*ROP*ski", "note": "Entry is cut off mid-word - the rel: reference reads (rel: eur... on the page."}
