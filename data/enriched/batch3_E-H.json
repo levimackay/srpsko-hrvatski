@@ -1,0 +1,3816 @@
+[
+ {
+  "id": 1404,
+  "example": "e, pa dobro - ah, well then, all right"
+ },
+ {
+  "id": 1405,
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1406,
+  "stress": "efi*KA*san"
+ },
+ {
+  "id": 1407,
+  "stress": "efi*KAS*nost",
+  "gender": "(f)"
+ },
+ {
+  "id": 1408,
+  "gender": "(m)",
+  "stress": "*E*gipat"
+ },
+ {
+  "id": 1409,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "Masculine even though it ends in -a, like gazda or kolega - it takes feminine endings but masculine agreement."
+ },
+ {
+  "id": 1410,
+  "stress": "ego*I*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1411,
+  "stress": "e*GO*tičan"
+ },
+ {
+  "id": 1412,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1413,
+  "note": "\"egril\" is not a Serbo-Croatian word - this looks like a garbled \"egzil\" (exile). The everyday words are izgnanstvo and progonstvo."
+ },
+ {
+  "id": 1414,
+  "stress": "egzis*TEN*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1415,
+  "stress": "egzistencija*LI*zam",
+  "gender": "(m)"
+ },
+ {
+  "id": 1416,
+  "stress": "egzis*TI*rati"
+ },
+ {
+  "id": 1417,
+  "stress": "eg*ZO*tičan"
+ },
+ {
+  "id": 1418,
+  "stress": "eg*ZO*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1419,
+  "gender": "(m)",
+  "stress": "*E*ho"
+ },
+ {
+  "id": 1420,
+  "example": "ej, čekaj me! - hey, wait for me!"
+ },
+ {
+  "id": 1421,
+  "gender": "(m)",
+  "stress": "*EK*cem"
+ },
+ {
+  "id": 1422,
+  "gender": "(f)",
+  "stress": "e*KI*pa",
+  "example": "naša ekipa je pobijedila - our team won"
+ },
+ {
+  "id": 1423,
+  "stress": "eko*NO*mičan"
+ },
+ {
+  "id": 1424,
+  "stress": "eko*NO*mičnost",
+  "gender": "(f)"
+ },
+ {
+  "id": 1425,
+  "stress": "eko*NO*mija",
+  "gender": "(f)",
+  "example": "ekonomija je u krizi - the economy is in crisis"
+ },
+ {
+  "id": 1426,
+  "stress": "eko*NO*mika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1427,
+  "stress": "ekono*MI*sati"
+ },
+ {
+  "id": 1428,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1429,
+  "gender": "(m)",
+  "stress": "*E*kran",
+  "example": "slika na ekranu je mutna - the picture on the screen is blurry"
+ },
+ {
+  "id": 1430,
+  "stress": "eks*CEN*tričan"
+ },
+ {
+  "id": 1432,
+  "gender": "(m)",
+  "stress": "*EK*ser",
+  "example": "treba mi ekser i čekić - I need a nail and a hammer"
+ },
+ {
+  "id": 1433,
+  "stress": "ekshu*MI*rati"
+ },
+ {
+  "id": 1434,
+  "stress": "ekska*VA*tor",
+  "gender": "(m)"
+ },
+ {
+  "id": 1435,
+  "stress": "ekskomuni*CI*rati"
+ },
+ {
+  "id": 1436,
+  "stress": "eks*KUR*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1437,
+  "stress": "ekspat*RI*rati"
+ },
+ {
+  "id": 1438,
+  "stress": "ekspe*DI*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1439,
+  "stress": "ekspe*RI*ment",
+  "gender": "(m)"
+ },
+ {
+  "id": 1440,
+  "gender": "(m)",
+  "stress": "*EKS*pert",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1441,
+  "stress": "eksploa*TA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1442,
+  "stress": "eksploa*TA*tor",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1443,
+  "stress": "eksploa*TI*sati"
+ },
+ {
+  "id": 1444,
+  "stress": "eksplo*DI*rati"
+ },
+ {
+  "id": 1445,
+  "stress": "eks*PLO*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1446,
+  "stress": "eksplo*ZI*van"
+ },
+ {
+  "id": 1447,
+  "gender": "(m)",
+  "stress": "*EKS*port"
+ },
+ {
+  "id": 1448,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1449,
+  "stress": "ekspor*TO*vati",
+  "note": "This is the Serbian/Bosnian form; Croatian uses eksportirati."
+ },
+ {
+  "id": 1450,
+  "gender": "(m)"
+ },
+ {
+  "id": 1451,
+  "stress": "ekspresio*NI*zam",
+  "gender": "(m)"
+ },
+ {
+  "id": 1452,
+  "stress": "eksprop*RI*sati"
+ },
+ {
+  "id": 1453,
+  "gender": "(f)",
+  "stress": "eks*TA*za"
+ },
+ {
+  "id": 1456,
+  "gender": "(m)",
+  "stress": "*EKS*trem"
+ },
+ {
+  "id": 1457,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1458,
+  "gender": "(m)"
+ },
+ {
+  "id": 1459,
+  "gender": "(m)"
+ },
+ {
+  "id": 1460,
+  "gender": "(m)",
+  "stress": "ek*VA*tor"
+ },
+ {
+  "id": 1462,
+  "stress": "e*LAS*tičan"
+ },
+ {
+  "id": 1463,
+  "stress": "ele*GAN*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1464,
+  "stress": "ele*GAN*tan"
+ },
+ {
+  "id": 1465,
+  "gender": "(f)",
+  "stress": "elek*TRA*na"
+ },
+ {
+  "id": 1466,
+  "gender": "(m)"
+ },
+ {
+  "id": 1467,
+  "stress": "e*LEK*tričan"
+ },
+ {
+  "id": 1468,
+  "gender": "(m)",
+  "stress": "e*LEK*tričar",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1469,
+  "stress": "elektrifi*KO*vati"
+ },
+ {
+  "id": 1470,
+  "stress": "elektrifi*KA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1471,
+  "note": "\"elektrikan\" is not a word - this is almost certainly \"elektrika\" (f), the colloquial word for electricity/the power."
+ },
+ {
+  "id": 1472,
+  "stress": "elektri*ZO*vati"
+ },
+ {
+  "id": 1473,
+  "gender": "(f)"
+ },
+ {
+  "id": 1474,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1475,
+  "gender": "(m)",
+  "stress": "e*LEK*tron"
+ },
+ {
+  "id": 1477,
+  "stress": "elektro*NI*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 1478,
+  "stress": "elektro*TEH*nika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1479,
+  "gender": "(m)",
+  "note": "Should be \"elektrouređaj\" - the đ got flattened to d somewhere in the scan."
+ },
+ {
+  "id": 1480,
+  "gender": "(m)",
+  "stress": "e*LE*ment"
+ },
+ {
+  "id": 1481,
+  "stress": "elimi*NA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1482,
+  "stress": "elimi*NI*sati"
+ },
+ {
+  "id": 1483,
+  "gender": "(f)",
+  "stress": "e*LIP*sa",
+  "note": "elipsa is the shape (ellipse) and the grammatical ellipsis; the adjective \"elliptical\" is eliptičan, not a form of elipsa."
+ },
+ {
+  "id": 1484,
+  "gender": "(f)",
+  "stress": "e*LI*ta"
+ },
+ {
+  "id": 1485,
+  "gender": "(m)"
+ },
+ {
+  "id": 1486,
+  "gender": "(m)",
+  "stress": "em*BAR*go"
+ },
+ {
+  "id": 1487,
+  "gender": "(m)"
+ },
+ {
+  "id": 1488,
+  "gender": "(f)"
+ },
+ {
+  "id": 1489,
+  "stress": "emig*RA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1490,
+  "gender": "(m)",
+  "stress": "e*MI*grant",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1491,
+  "stress": "emig*RI*rati"
+ },
+ {
+  "id": 1492,
+  "stress": "e*MI*sija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1493,
+  "stress": "e*MO*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1494,
+  "stress": "em*PI*ričan"
+ },
+ {
+  "id": 1495,
+  "stress": "e*MUL*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1496,
+  "stress": "enciklo*PE*dija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1497,
+  "stress": "e*NER*gičan"
+ },
+ {
+  "id": 1498,
+  "stress": "e*NER*gija",
+  "gender": "(f)",
+  "example": "nemam energije danas - I have no energy today"
+ },
+ {
+  "id": 1499,
+  "gender": "(f)",
+  "stress": "*EN*gleska",
+  "example": "on je iz Engleske - he is from England",
+  "note": "Engleska declines like an adjective: Engleska, Engleske, u Engleskoj."
+ },
+ {
+  "id": 1500,
+  "stress": "enig*MA*tičan"
+ },
+ {
+  "id": 1501,
+  "stress": "entuzi*JA*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1502,
+  "gender": "(m)"
+ },
+ {
+  "id": 1503,
+  "stress": "epi*DE*mija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1504,
+  "gender": "(m)",
+  "stress": "e*PI*graf"
+ },
+ {
+  "id": 1505,
+  "gender": "(m)",
+  "stress": "e*PI*gram"
+ },
+ {
+  "id": 1506,
+  "stress": "epi*LEP*sija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1507,
+  "gender": "(m)",
+  "stress": "e*PI*log",
+  "declension": "(g->z)"
+ },
+ {
+  "id": 1508,
+  "gender": "(m)",
+  "stress": "e*PIS*kop",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1509,
+  "gender": "(m)",
+  "stress": "e*PI*taf"
+ },
+ {
+  "id": 1510,
+  "gender": "(m)",
+  "stress": "e*PI*tet"
+ },
+ {
+  "id": 1511,
+  "gender": "(f)",
+  "stress": "e*PO*ha"
+ },
+ {
+  "id": 1512,
+  "gender": "(f)",
+  "stress": "epo*PE*ja"
+ },
+ {
+  "id": 1513,
+  "gender": "(f)",
+  "stress": "epru*VE*ta"
+ },
+ {
+  "id": 1514,
+  "gender": "(f)",
+  "stress": "*E*ra"
+ },
+ {
+  "id": 1515,
+  "gender": "(f)",
+  "stress": "er*GE*la"
+ },
+ {
+  "id": 1516,
+  "gender": "(m)",
+  "note": "erkondišener / erkondišn are straight phonetic spellings of the English. The standard words are klima-uređaj (the unit) and klima (the thing in a car or a room)."
+ },
+ {
+  "id": 1518,
+  "stress": "e*RO*tičan"
+ },
+ {
+  "id": 1519,
+  "stress": "e*RO*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1520,
+  "stress": "e*RO*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1521,
+  "stress": "eru*DI*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1522,
+  "gender": "(m)",
+  "stress": "*E*sej"
+ },
+ {
+  "id": 1523,
+  "gender": "(f)"
+ },
+ {
+  "id": 1524,
+  "gender": "(f)",
+  "stress": "eskad*RI*la"
+ },
+ {
+  "id": 1525,
+  "gender": "(m)"
+ },
+ {
+  "id": 1526,
+  "stress": "eska*LA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1527,
+  "stress": "eska*LA*tor",
+  "gender": "(m)"
+ },
+ {
+  "id": 1528,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1529,
+  "gender": "(m)",
+  "stress": "*ES*naf",
+  "note": "Turkish loan. In older usage it also means somebody's trade or line of work, not just a guild."
+ },
+ {
+  "id": 1530,
+  "stress": "es*TE*tičan",
+  "pos": "(adj)",
+  "note": "Marked (Noun) in the entry, but estetičan is an adjective - the noun is estetika (next entry)."
+ },
+ {
+  "id": 1531,
+  "stress": "es*TE*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1532,
+  "stress": "Es*TO*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1533,
+  "gender": "(f)",
+  "stress": "es*TRA*da"
+ },
+ {
+  "id": 1534,
+  "gender": "(f)",
+  "stress": "e*TA*pa"
+ },
+ {
+  "id": 1535,
+  "gender": "(m)",
+  "stress": "*E*ter"
+ },
+ {
+  "id": 1536,
+  "stress": "*E*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1537,
+  "gender": "(f)",
+  "stress": "eti*KE*ta"
+ },
+ {
+  "id": 1538,
+  "gender": "(m)"
+ },
+ {
+  "id": 1539,
+  "stress": "etimo*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1540,
+  "stress": "Eti*O*pija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1542,
+  "stress": "etnog*RA*fija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1543,
+  "stress": "*E*to",
+  "example": "eto, gotovo je - there you go, it's done"
+ },
+ {
+  "id": 1544,
+  "stress": "eufe*MI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1545,
+  "stress": "eu*FO*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1546,
+  "stress": "eu*FO*ričan"
+ },
+ {
+  "id": 1547,
+  "stress": "eu*FO*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1548,
+  "stress": "euge*NE*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1549,
+  "stress": "evaku*A*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1550,
+  "gender": "(Noun)",
+  "note": "Standard spelling is evanđelje - the đ is missing here. Croatian also uses evanđelje; \"jevanđelje\" is the older Serbian form."
+ },
+ {
+  "id": 1551,
+  "stress": "eventu*A*lan"
+ },
+ {
+  "id": 1552,
+  "stress": "eventu*AL*nost",
+  "gender": "(f)"
+ },
+ {
+  "id": 1553,
+  "stress": "evi*DEN*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1554,
+  "stress": "*E*vo",
+  "example": "evo ga - here he is / here it is"
+ },
+ {
+  "id": 1555,
+  "stress": "evo*CI*rati"
+ },
+ {
+  "id": 1556,
+  "stress": "evo*LU*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1557,
+  "gender": "(f)",
+  "stress": "Ev*RO*pa",
+  "example": "putujemo po Evropi - we're traveling around Europe"
+ },
+ {
+  "id": 1558,
+  "gender": "(m)",
+  "stress": "*E*vro",
+  "resolves": "evro = [S] and [B]; Croatian says euro",
+  "note": "Both of his question marks resolve the same way: evro is the Serbian/Bosnian form, euro is the Croatian one. Same split as Evropa/Europa right below it."
+ },
+ {
+  "id": 1559,
+  "note": "This duplicates the Evropa entry two lines up (the one with the stress-free gloss). Also worth noting: the rel: Europa he points at is the Croatian form."
+ },
+ {
+  "id": 1560,
+  "gender": "(m)",
+  "note": "Feminine is Evropljanka. The -in drops in the plural: Evropljanin -> Evropljani."
+ },
+ {
+  "id": 1561,
+  "note": "The line is cut off mid-word - \"(rel: eur\" should read \"(rel: europski)\", the Croatian counterpart."
+ },
+ {
+  "id": 1562,
+  "gender": "(f)",
+  "stress": "*FA*brika",
+  "example": "moj tata radi u fabrici - my dad works in a factory",
+  "note": "fabrika is [S]/[B]; Croatian uses tvornica."
+ },
+ {
+  "id": 1563,
+  "gender": "(m)",
+  "stress": "*FA*got"
+ },
+ {
+  "id": 1564,
+  "gender": "(m)",
+  "declension": "(h->s)"
+ },
+ {
+  "id": 1565,
+  "gender": "(m)",
+  "note": "The usual forms are fakat (with the fleeting a) and, much more commonly, činjenica."
+ },
+ {
+  "id": 1566,
+  "gender": "(m)",
+  "stress": "*FAK*tor"
+ },
+ {
+  "id": 1567,
+  "gender": "(f)",
+  "stress": "fak*TU*ra"
+ },
+ {
+  "id": 1569,
+  "gender": "(m)",
+  "stress": "fa*KUL*tet",
+  "example": "on studira na Pravnom fakultetu - he studies at the law school"
+ },
+ {
+  "id": 1570,
+  "stress": "*FA*liti",
+  "aspect": "(Imp)",
+  "example": "fali mi jedna knjiga - I'm missing one book"
+ },
+ {
+  "id": 1571,
+  "stress": "falsifi*KO*vati"
+ },
+ {
+  "id": 1572,
+  "stress": "falsifi*KA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1573,
+  "stress": "falsifi*KA*tor",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1574,
+  "stress": "fa*MI*lija",
+  "gender": "(f)",
+  "example": "cijela familija je došla - the whole family came",
+  "note": "familija is the warm/colloquial word and usually means the wider family. The neutral everyday word is porodica [S]/[B] or obitelj [C]."
+ },
+ {
+  "id": 1576,
+  "stress": "fa*NA*tičan"
+ },
+ {
+  "id": 1577,
+  "stress": "fana*TI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1578,
+  "stress": "fan*TAS*tičan"
+ },
+ {
+  "id": 1579,
+  "stress": "fan*TA*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1580,
+  "gender": "(m)"
+ },
+ {
+  "id": 1581,
+  "gender": "(f)",
+  "stress": "*FAR*ba",
+  "example": "kupili smo farbu za zid - we bought paint for the wall"
+ },
+ {
+  "id": 1582,
+  "gender": "(f)",
+  "stress": "*FAR*ma"
+ },
+ {
+  "id": 1583,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1584,
+  "gender": "(f)",
+  "example": "obukao je farmerke - he put on his jeans",
+  "note": "farmerke is [S]/[B], farmerice is [C]. Plural only either way."
+ },
+ {
+  "id": 1585,
+  "gender": "(f)",
+  "stress": "fa*SA*da"
+ },
+ {
+  "id": 1586,
+  "stress": "fa*ŠI*rati"
+ },
+ {
+  "id": 1587,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1588,
+  "stress": "fa*ŠI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1589,
+  "stress": "fata*LI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1590,
+  "gender": "(f)"
+ },
+ {
+  "id": 1591,
+  "gender": "(m)",
+  "stress": "fa*VO*rit"
+ },
+ {
+  "id": 1592,
+  "gender": "(f)",
+  "stress": "*FA*za",
+  "example": "sad smo u zadnjoj fazi - we're in the last phase now"
+ },
+ {
+  "id": 1593,
+  "gender": "(m)",
+  "stress": "*FA*zan",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1594,
+  "gender": "(m)",
+  "example": "rođen sam u februaru - I was born in February",
+  "note": "februar is [S]/[B]; Croatian uses veljača."
+ },
+ {
+  "id": 1595,
+  "stress": "fede*RA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1596,
+  "stress": "federa*LI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1597,
+  "gender": "(m)",
+  "stress": "*FE*njer"
+ },
+ {
+  "id": 1598,
+  "note": "fer is indeclinable - it never changes form (fer čovjek, fer igra, bilo je fer).",
+  "example": "to nije fer - that's not fair"
+ },
+ {
+  "id": 1599,
+  "gender": "(m)"
+ },
+ {
+  "id": 1600,
+  "gender": "(f)",
+  "note": "Plural only, and pretty bookish/regional (from Latin feriae). Day to day people say raspust, odmor or praznici."
+ },
+ {
+  "id": 1601,
+  "gender": "(m)",
+  "stress": "fes*TI*val"
+ },
+ {
+  "id": 1602,
+  "stress": "feuda*LI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1603,
+  "gender": "(m)",
+  "stress": "*FI*ća",
+  "note": "Masculine even though it ends in -a. It's the nickname for the little Zastava 750."
+ },
+ {
+  "id": 1604,
+  "gender": "(f)",
+  "stress": "fi*GU*ra"
+ },
+ {
+  "id": 1605,
+  "stress": "figu*RA*tivan"
+ },
+ {
+  "id": 1606,
+  "gender": "(m)",
+  "stress": "fi*JAS*ko"
+ },
+ {
+  "id": 1607,
+  "gender": "(m)",
+  "stress": "*FI*juk"
+ },
+ {
+  "id": 1608,
+  "gender": "(m)"
+ },
+ {
+  "id": 1609,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "Three words got glossed on one line here: filantrop (philanthropist), filantropija (philanthropy), filantropski (philanthropic)."
+ },
+ {
+  "id": 1610,
+  "stress": "fila*TE*lija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1611,
+  "gender": "(m)"
+ },
+ {
+  "id": 1612,
+  "stress": "filhar*MO*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1613,
+  "gender": "(f)",
+  "stress": "fili*JA*la"
+ },
+ {
+  "id": 1614,
+  "gender": "(m)",
+  "note": "Plural only - Filipini, na Filipinima."
+ },
+ {
+  "id": 1615,
+  "gender": "(m)",
+  "example": "gledali smo dobar film sinoć - we watched a good movie last night"
+ },
+ {
+  "id": 1616,
+  "gender": "(m)",
+  "stress": "fi*LO*log",
+  "declension": "(g->z)"
+ },
+ {
+  "id": 1617,
+  "stress": "filo*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1619,
+  "gender": "(m)",
+  "stress": "fi*LO*zof",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1620,
+  "stress": "filo*ZO*fija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1622,
+  "gender": "(m)",
+  "stress": "*FIL*ter"
+ },
+ {
+  "id": 1623,
+  "example": "on je jako fin čovjek - he's a very nice man"
+ },
+ {
+  "id": 1624,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1625,
+  "gender": "(f)",
+  "note": "financije is [C], finansije is [S]/[B]. Plural only."
+ },
+ {
+  "id": 1626,
+  "gender": "(m)"
+ },
+ {
+  "id": 1627,
+  "gender": "(f)",
+  "stress": "fi*NO*ća"
+ },
+ {
+  "id": 1628,
+  "gender": "(f)",
+  "stress": "*FIN*ska",
+  "note": "Declines like an adjective: Finska, Finske, u Finskoj."
+ },
+ {
+  "id": 1629,
+  "gender": "(f)",
+  "example": "stavi to u fioku - put that in the drawer",
+  "note": "fioka is [S]/[B]; Croatian uses ladica."
+ },
+ {
+  "id": 1630,
+  "gender": "(f)",
+  "stress": "*FIR*ma",
+  "example": "radi u velikoj firmi - he works for a big company"
+ },
+ {
+  "id": 1631,
+  "stress": "*FI*sija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1632,
+  "gender": "(f)",
+  "stress": "fiskul*TU*ra"
+ },
+ {
+  "id": 1633,
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 1634,
+  "gender": "(m)",
+  "stress": "*FI*zičar",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1635,
+  "example": "fizički rad je težak - physical work is hard"
+ },
+ {
+  "id": 1636,
+  "stress": "*FI*zika",
+  "gender": "(f)",
+  "example": "fizika mi ide dobro - I'm doing well in physics"
+ },
+ {
+  "id": 1637,
+  "stress": "fizio*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1639,
+  "gender": "(m)"
+ },
+ {
+  "id": 1640,
+  "gender": "(m)",
+  "stress": "*FLAS*ter"
+ },
+ {
+  "id": 1641,
+  "gender": "(f)",
+  "stress": "*FLA*ša",
+  "example": "daj mi flašu vode - give me a bottle of water",
+  "note": "flaša is [S]/[B]; Croatian uses boca."
+ },
+ {
+  "id": 1642,
+  "gender": "(f)"
+ },
+ {
+  "id": 1643,
+  "gender": "(m)"
+ },
+ {
+  "id": 1644,
+  "stress": "fleg*MA*tičan"
+ },
+ {
+  "id": 1645,
+  "gender": "(f)",
+  "stress": "*FLE*ka"
+ },
+ {
+  "id": 1646,
+  "gender": "(m)"
+ },
+ {
+  "id": 1647,
+  "gender": "(f)",
+  "stress": "*FLO*ra"
+ },
+ {
+  "id": 1648,
+  "gender": "(f)",
+  "stress": "*FLO*ta"
+ },
+ {
+  "id": 1649,
+  "gender": "(f)",
+  "stress": "flo*TI*la"
+ },
+ {
+  "id": 1651,
+  "stress": "*FO*bija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1652,
+  "gender": "(f)",
+  "stress": "*FO*ka"
+ },
+ {
+  "id": 1653,
+  "gender": "(m)",
+  "stress": "*FOL*klor"
+ },
+ {
+  "id": 1654,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "folklorist is [C]; Serbian usually says folklorista."
+ },
+ {
+  "id": 1655,
+  "gender": "(m)"
+ },
+ {
+  "id": 1656,
+  "stress": "fo*NE*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1657,
+  "gender": "(m)",
+  "stress": "fo*NO*log",
+  "declension": "(g->z)"
+ },
+ {
+  "id": 1658,
+  "stress": "fono*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1659,
+  "gender": "(f)",
+  "stress": "fon*TA*na"
+ },
+ {
+  "id": 1660,
+  "gender": "(m)"
+ },
+ {
+  "id": 1661,
+  "gender": "(f)",
+  "stress": "*FOR*ma"
+ },
+ {
+  "id": 1662,
+  "stress": "for*MA*lan"
+ },
+ {
+  "id": 1663,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1664,
+  "stress": "forma*LI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1665,
+  "stress": "for*MAL*nost",
+  "gender": "(f)"
+ },
+ {
+  "id": 1666,
+  "stress": "for*MI*rati"
+ },
+ {
+  "id": 1667,
+  "gender": "(f)",
+  "stress": "*FOR*mula"
+ },
+ {
+  "id": 1668,
+  "gender": "(m)",
+  "stress": "for*MU*lar"
+ },
+ {
+  "id": 1669,
+  "stress": "formu*LI*sati",
+  "note": "[S]/[B] form; Croatian says formulirati."
+ },
+ {
+  "id": 1670,
+  "resolves": "forsirati",
+  "note": "\"forakrativ\" is a scan garble. The verb glossed as \"to force; to force a river\" is forsirati (forsirati reku)."
+ },
+ {
+  "id": 1671,
+  "gender": "(m)",
+  "stress": "*FO*rum"
+ },
+ {
+  "id": 1672,
+  "gender": "(m)",
+  "stress": "*FOS*fat"
+ },
+ {
+  "id": 1673,
+  "gender": "(m)",
+  "stress": "*FO*sil"
+ },
+ {
+  "id": 1674,
+  "gender": "(m)"
+ },
+ {
+  "id": 1675,
+  "stress": "foto*GE*ničan"
+ },
+ {
+  "id": 1676,
+  "gender": "(m)",
+  "stress": "fo*TO*graf",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1677,
+  "stress": "foto*GRA*fija",
+  "gender": "(f)",
+  "example": "ova fotografija je prelijepa - this photograph is beautiful"
+ },
+ {
+  "id": 1678,
+  "stress": "fotogra*FI*sati",
+  "note": "[S]/[B] form; Croatian says fotografirati."
+ },
+ {
+  "id": 1679,
+  "stress": "*FRAK*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1680,
+  "gender": "(f)",
+  "note": "Declines like an adjective: Francuska, Francuske, u Francuskoj."
+ },
+ {
+  "id": 1681,
+  "stress": "fra*PAN*tan"
+ },
+ {
+  "id": 1682,
+  "resolves": "fraza",
+  "note": "Headword should be fraza (f) - phrase, idiom. \"frazan\" isn't a word; the adjective is frazerski."
+ },
+ {
+  "id": 1683,
+  "stress": "frazeo*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1685,
+  "gender": "(f)",
+  "stress": "fre*GA*ta"
+ },
+ {
+  "id": 1686,
+  "stress": "frek*VEN*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1687,
+  "gender": "(f)",
+  "stress": "*FRES*ka",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1688,
+  "stress": "fri*GI*dan"
+ },
+ {
+  "id": 1689,
+  "gender": "(m)"
+ },
+ {
+  "id": 1690,
+  "gender": "(m)",
+  "stress": "*FRI*zer",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1692,
+  "gender": "(f)",
+  "stress": "fri*ZU*ra"
+ },
+ {
+  "id": 1693,
+  "gender": "(m)",
+  "stress": "fri*ŽI*der",
+  "example": "mlijeko je u frižideru - the milk is in the fridge",
+  "note": "frižider is [S]/[B]; Croatian uses hladnjak (which shows up later in this same letter with the \"radiator\" meaning)."
+ },
+ {
+  "id": 1694,
+  "stress": "froj*DI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1695,
+  "gender": "(m)"
+ },
+ {
+  "id": 1696,
+  "stress": "fron*TA*lan"
+ },
+ {
+  "id": 1697,
+  "gender": "(f)",
+  "stress": "*FRU*la"
+ },
+ {
+  "id": 1698,
+  "gender": "(m)",
+  "stress": "*FUD*bal",
+  "example": "igramo fudbal svake subote - we play soccer every Saturday",
+  "note": "fudbal is [S]/[B]; Croatian uses nogomet."
+ },
+ {
+  "id": 1699,
+  "gender": "(m)",
+  "stress": "fud*BA*ler",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1700,
+  "gender": "(m)",
+  "declension": "(a)",
+  "note": "Usually written fundament these days; the everyday word is temelj."
+ },
+ {
+  "id": 1702,
+  "stress": "*FUNK*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1703,
+  "stress": "funkcio*NA*lan"
+ },
+ {
+  "id": 1704,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1705,
+  "stress": "funkcio*NI*sati",
+  "example": "ovo ne funkcioniše - this doesn't work",
+  "note": "funkcionisati is [S]/[B]; Croatian says funkcionirati."
+ },
+ {
+  "id": 1706,
+  "gender": "(f)",
+  "stress": "*FUN*ta"
+ },
+ {
+  "id": 1707,
+  "gender": "(f)"
+ },
+ {
+  "id": 1708,
+  "gender": "(f)",
+  "stress": "fu*TRO*la"
+ },
+ {
+  "id": 1709,
+  "gender": "(m)",
+  "stress": "*FU*tur"
+ },
+ {
+  "id": 1711,
+  "stress": "futu*RI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1712,
+  "stress": "*FU*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1713,
+  "example": "vidim ga - I see him"
+ },
+ {
+  "id": 1714,
+  "gender": "(m)",
+  "note": "Usually written gabarden or gabardin."
+ },
+ {
+  "id": 1715,
+  "stress": "*GA*cati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1716,
+  "note": "This line points at itself - \"gaće | see gaće\". The cross-reference must have lost its target in the scan; the next entry is the real gaće."
+ },
+ {
+  "id": 1717,
+  "gender": "(f)",
+  "note": "Plural only - there is no singular gaća in normal use."
+ },
+ {
+  "id": 1718,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1719,
+  "stress": "*GA*dan"
+ },
+ {
+  "id": 1720,
+  "stress": "*GA*dati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1721,
+  "gender": "(m)"
+ },
+ {
+  "id": 1722,
+  "gender": "(f)",
+  "note": "Plural only."
+ },
+ {
+  "id": 1723,
+  "stress": "*GA*jiti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1724,
+  "gender": "(m)",
+  "stress": "*GAJ*tan"
+ },
+ {
+  "id": 1725,
+  "stress": "*GA*kati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1726,
+  "gender": "(f)",
+  "stress": "ga*LA*ma"
+ },
+ {
+  "id": 1727,
+  "stress": "ga*LAN*tan"
+ },
+ {
+  "id": 1728,
+  "stress": "ga*LE*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1729,
+  "gender": "(m)",
+  "stress": "*GA*lon"
+ },
+ {
+  "id": 1730,
+  "gender": "(m)",
+  "stress": "*GA*lop"
+ },
+ {
+  "id": 1731,
+  "gender": "(f)",
+  "stress": "ga*LO*ša"
+ },
+ {
+  "id": 1732,
+  "stress": "galvani*ZO*vati"
+ },
+ {
+  "id": 1733,
+  "gender": "(f)"
+ },
+ {
+  "id": 1734,
+  "gender": "(f)",
+  "note": "Plural only."
+ },
+ {
+  "id": 1735,
+  "gender": "(m)"
+ },
+ {
+  "id": 1736,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1737,
+  "gender": "(f)",
+  "stress": "*GA*na"
+ },
+ {
+  "id": 1738,
+  "gender": "(f)",
+  "stress": "gan*GRE*na"
+ },
+ {
+  "id": 1739,
+  "gender": "(m)",
+  "stress": "*GANG*ster",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1740,
+  "stress": "gangste*RI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1741,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1743,
+  "stress": "*GA*nuti",
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1745,
+  "stress": "ga*RAN*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1747,
+  "gender": "(f)",
+  "stress": "ga*RA*ža",
+  "example": "auto je u garaži - the car is in the garage"
+ },
+ {
+  "id": 1748,
+  "stress": "gara*ŽI*rati"
+ },
+ {
+  "id": 1749,
+  "gender": "(f)",
+  "stress": "*GAR*da"
+ },
+ {
+  "id": 1750,
+  "gender": "(f)",
+  "stress": "garde*RO*ba"
+ },
+ {
+  "id": 1751,
+  "stress": "gar*NI*rati"
+ },
+ {
+  "id": 1752,
+  "stress": "garni*TU*ra",
+  "gender": "(f)"
+ },
+ {
+  "id": 1753,
+  "gender": "(m)"
+ },
+ {
+  "id": 1754,
+  "gender": "(m)"
+ },
+ {
+  "id": 1755,
+  "example": "ugasi svjetlo - turn off the light"
+ },
+ {
+  "id": 1756,
+  "resolves": "gastronom",
+  "note": "\"gastrenom\" is a scan slip for gastronom."
+ },
+ {
+  "id": 1757,
+  "resolves": "gavran",
+  "note": "Headword should be gavran (raven); the English gloss \"reven\" is a typo for raven too."
+ },
+ {
+  "id": 1758,
+  "gender": "(m)"
+ },
+ {
+  "id": 1759,
+  "gender": "(f)",
+  "stress": "*GA*za"
+ },
+ {
+  "id": 1760,
+  "gender": "(m)",
+  "stress": "*GAZ*da",
+  "example": "gazda stana dolazi sutra - the landlord is coming tomorrow",
+  "note": "Masculine even though it ends in -a: it takes feminine case endings but masculine agreement (dobar gazda)."
+ },
+ {
+  "id": 1761,
+  "gender": "(Noun)",
+  "declension": "(+a)",
+  "resolves": "gazdinstvo",
+  "note": "\"gezdinstvo\" is a scan slip for gazdinstvo (farm, holding, estate). All -stvo nouns take (+a) in the gen. pl."
+ },
+ {
+  "id": 1762,
+  "gender": "(f)",
+  "stress": "ga*ZE*la"
+ },
+ {
+  "id": 1763,
+  "stress": "ga*ZI*rati"
+ },
+ {
+  "id": 1764,
+  "stress": "*GA*ziti",
+  "aspect": "(Imp)",
+  "example": "nemoj gaziti travu - don't step on the grass"
+ },
+ {
+  "id": 1765,
+  "example": "gdje si bio? - where were you?",
+  "note": "gde is [E], gdje is [J]. Don't mix them inside one sentence."
+ },
+ {
+  "id": 1766,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1767,
+  "stress": "genea*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1768,
+  "stress": "gene*RA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1769,
+  "gender": "(m)",
+  "stress": "*GE*neral",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1770,
+  "stress": "generali*ZA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1771,
+  "stress": "gene*RA*tor",
+  "gender": "(m)"
+ },
+ {
+  "id": 1772,
+  "stress": "ge*NE*tičan",
+  "note": "The usual adjective is genetski or genetički; genetičan is rare."
+ },
+ {
+  "id": 1773,
+  "stress": "ge*NE*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 1774,
+  "stress": "geni*JA*lan"
+ },
+ {
+  "id": 1775,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1776,
+  "gender": "(m)",
+  "stress": "*GE*nitiv"
+ },
+ {
+  "id": 1777,
+  "gender": "(m)"
+ },
+ {
+  "id": 1778,
+  "gender": "(m)",
+  "stress": "ge*O*graf",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1779,
+  "stress": "geo*GRA*fija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1780,
+  "gender": "(m)",
+  "stress": "ge*O*log",
+  "declension": "(g->z)"
+ },
+ {
+  "id": 1781,
+  "stress": "geo*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1782,
+  "stress": "geo*MET*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1783,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1784,
+  "stress": "geri*JAT*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1785,
+  "gender": "(f)",
+  "stress": "ge*RI*la"
+ },
+ {
+  "id": 1786,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1788,
+  "gender": "(m)",
+  "stress": "*GE*to"
+ },
+ {
+  "id": 1789,
+  "stress": "*GI*bak"
+ },
+ {
+  "id": 1790,
+  "gender": "(Noun)",
+  "stress": "*GI*banje"
+ },
+ {
+  "id": 1791,
+  "gender": "(f)",
+  "stress": "*GIB*kost"
+ },
+ {
+  "id": 1792,
+  "gender": "(m)"
+ },
+ {
+  "id": 1793,
+  "gender": "(f)",
+  "stress": "gir*LAN*da"
+ },
+ {
+  "id": 1794,
+  "gender": "(f)",
+  "stress": "gi*TA*ra",
+  "example": "on svira gitaru u bendu - he plays guitar in a band"
+ },
+ {
+  "id": 1795,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "gitarist is [C]; Serbian usually says gitarista."
+ },
+ {
+  "id": 1797,
+  "gender": "(Noun)",
+  "resolves": "glačalo",
+  "note": "The l dropped out in the scan - glačalo. It's the [C] word for an iron; Serbian says pegla."
+ },
+ {
+  "id": 1798,
+  "aspect": "(Imp)",
+  "resolves": "glačati",
+  "note": "Same missing l as the entry above - glačati."
+ },
+ {
+  "id": 1799,
+  "gender": "(f)",
+  "example": "od jutros me muči glad - I've been hungry since this morning"
+ },
+ {
+  "id": 1800,
+  "stress": "*GLA*dak"
+ },
+ {
+  "id": 1801,
+  "stress": "*GLA*diti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1802,
+  "stress": "gla*DO*vati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1803,
+  "gender": "(m)",
+  "stress": "*GLA*gol",
+  "example": "ovaj glagol je nepravilan - this verb is irregular"
+ },
+ {
+  "id": 1804,
+  "gender": "(m)",
+  "example": "čujem tvoj glas - I hear your voice"
+ },
+ {
+  "id": 1805,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1806,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1807,
+  "stress": "*GLA*sati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1808,
+  "stress": "*GLA*siti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1809,
+  "gender": "(m)",
+  "declension": "(k->c)",
+  "note": "Worth checking: glasnogovornik means a spokesman (a person), not a loudspeaker. The device is a zvučnik or a megafon."
+ },
+ {
+  "id": 1810,
+  "resolves": "glasovit",
+  "note": "The l dropped out - glasovit (renowned, famous), from glas."
+ },
+ {
+  "id": 1811,
+  "gender": "(f)",
+  "stress": "*GLA*va",
+  "example": "boli me glava - my head hurts"
+ },
+ {
+  "id": 1812,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1813,
+  "gender": "(f)"
+ },
+ {
+  "id": 1814,
+  "gender": "(f)",
+  "stress": "*GLA*vica"
+ },
+ {
+  "id": 1815,
+  "example": "to je glavni razlog - that's the main reason"
+ },
+ {
+  "id": 1816,
+  "gender": "(f)",
+  "stress": "*GLAV*nica"
+ },
+ {
+  "id": 1817,
+  "gender": "(f)",
+  "stress": "glavo*BO*lja",
+  "example": "imam strašnu glavobolju - I have a terrible headache"
+ },
+ {
+  "id": 1818,
+  "gender": "(f)",
+  "stress": "*GLAZ*ba",
+  "note": "glazba is [C]; Serbian and Bosnian use muzika.",
+  "example": "glazba je preglasna - the music is too loud"
+ },
+ {
+  "id": 1819,
+  "gender": "(m)",
+  "stress": "*GLE*čer"
+ },
+ {
+  "id": 1820,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1821,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1822,
+  "stress": "*GLE*dati",
+  "aspect": "(Imp)",
+  "example": "gledamo film - we're watching a movie"
+ },
+ {
+  "id": 1823,
+  "resolves": "gleđ",
+  "note": "The headword got mangled - it's gleđ (f), glaze/enamel, and his example \"zubna ~\" is zubna gleđ, tooth enamel."
+ },
+ {
+  "id": 1824,
+  "note": "Garbled headword. From the gloss it's the verb \"to glaze\", i.e. gleđosati (from gleđ in the entry just above) - worth checking against the original page."
+ },
+ {
+  "id": 1825,
+  "declension": "(a)",
+  "resolves": "gležanj",
+  "note": "The l dropped out - gležanj (ankle), gen. gležnja."
+ },
+ {
+  "id": 1826,
+  "gender": "(m)"
+ },
+ {
+  "id": 1829,
+  "gender": "(f)",
+  "stress": "*GLI*na"
+ },
+ {
+  "id": 1830,
+  "gender": "(f)",
+  "note": "The standard form is glukoza."
+ },
+ {
+  "id": 1832,
+  "gender": "(m)",
+  "stress": "*GLI*ser"
+ },
+ {
+  "id": 1833,
+  "gender": "(f)",
+  "stress": "*GLIS*ta"
+ },
+ {
+  "id": 1834,
+  "gender": "(f)",
+  "stress": "*GLO*ba"
+ },
+ {
+  "id": 1835,
+  "stress": "glo*BA*lan"
+ },
+ {
+  "id": 1836,
+  "gender": "(m)"
+ },
+ {
+  "id": 1837,
+  "gender": "(m)",
+  "stress": "*GLO*bus"
+ },
+ {
+  "id": 1838,
+  "gender": "(f)"
+ },
+ {
+  "id": 1839,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1840,
+  "stress": "*GLO*dati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1841,
+  "gender": "(m)",
+  "declension": "(g->z)"
+ },
+ {
+  "id": 1842,
+  "stress": "glo*MA*zan"
+ },
+ {
+  "id": 1843,
+  "stress": "glorifi*KO*vati"
+ },
+ {
+  "id": 1844,
+  "resolves": "glosar",
+  "note": "\"gloear\" is a scan garble for glosar (glossary)."
+ },
+ {
+  "id": 1845,
+  "note": "gluh is [C]/[B]; the [S]/[E] form is gluv. Both are standard in their own areas.",
+  "example": "gluh je na jedno uho - he's deaf in one ear"
+ },
+ {
+  "id": 1846,
+  "note": "Ijekavian/Croatian pair; the Ekavian forms are gluvnuti, ogluvnuti."
+ },
+ {
+  "id": 1847,
+  "gender": "(f)",
+  "stress": "glu*HO*ća"
+ },
+ {
+  "id": 1848,
+  "note": "gluvonem is [E]/[S], gluhonijem is [J]. Note he kept both here, which is right - they don't convert mechanically."
+ },
+ {
+  "id": 1849,
+  "gender": "(f)",
+  "stress": "*GLJI*va",
+  "example": "brali smo gljive u šumi - we picked mushrooms in the forest"
+ },
+ {
+  "id": 1850,
+  "resolves": "gljivica",
+  "note": "Scan slip - gljivica, the diminutive of gljiva."
+ },
+ {
+  "id": 1851,
+  "stress": "*GMI*zati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1853,
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1854,
+  "gender": "(m)",
+  "note": "gnjev is [J]/[C], gnev is [E]/[S]."
+ },
+ {
+  "id": 1855,
+  "note": "gnevan is [E], gnjevan is [J]."
+ },
+ {
+  "id": 1856,
+  "gender": "(Noun)",
+  "note": "gnezdo is [E], gnijezdo is [J]."
+ },
+ {
+  "id": 1857,
+  "gender": "(m)"
+ },
+ {
+  "id": 1858,
+  "resolves": "gnojan",
+  "note": "The n dropped out - gnojan (suppurating), the adjective from gnoj right above it."
+ },
+ {
+  "id": 1859,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1860,
+  "resolves": "gnusan",
+  "note": "The n dropped out - gnusan (loathsome, filthy). As printed it collides with gusan (gander), which is a separate entry further down."
+ },
+ {
+  "id": 1861,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1862,
+  "stress": "*GNJA*viti",
+  "aspect": "(Imp)",
+  "example": "nemoj me gnjaviti - don't bug me"
+ },
+ {
+  "id": 1864,
+  "stress": "*GNJE*čiti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1865,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1866,
+  "note": "Scan damage: through this stretch \"gnj\" has been read as \"gm\" (see gmiio, gmurac, gmurati below). This headword is a gnjil- word meaning rot/decay - most likely gnjiljenje or gnjilež. Worth checking the page."
+ },
+ {
+  "id": 1867,
+  "resolves": "gnjio",
+  "note": "Same gnj -> gm scan slip: gnjio (overripe, rotten), fem. gnjila."
+ },
+ {
+  "id": 1868,
+  "gender": "(m)",
+  "declension": "(a)",
+  "resolves": "gnjurac",
+  "note": "Same gnj -> gm scan slip: gnjurac (diver)."
+ },
+ {
+  "id": 1869,
+  "aspect": "(Imp)",
+  "resolves": "gnjurati se",
+  "note": "Same gnj -> gm scan slip: gnjurati se (to dive)."
+ },
+ {
+  "id": 1870,
+  "note": "go is the short masculine form, gol the definite/long one. Careful: gol is also the noun for a goal in soccer (two entries down)."
+ },
+ {
+  "id": 1871,
+  "pos": "(Pron)",
+  "note": "Marked (Noun), but god here is the generalizing particle stuck onto question words: ko god (whoever), šta god (whatever), gdje god (wherever), kad god (whenever)."
+ },
+ {
+  "id": 1872,
+  "gender": "(f)",
+  "stress": "go*DI*na",
+  "example": "prošla godina je bila teška - last year was hard"
+ },
+ {
+  "id": 1873,
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 1874,
+  "example": "godišnji odmor počinje u julu - the annual vacation starts in July"
+ },
+ {
+  "id": 1875,
+  "gender": "(f)",
+  "stress": "go*DIŠ*njica"
+ },
+ {
+  "id": 1876,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1877,
+  "stress": "*GO*diti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1878,
+  "stress": "go*JA*zan"
+ },
+ {
+  "id": 1879,
+  "stress": "go*JAZ*nost",
+  "gender": "(f)"
+ },
+ {
+  "id": 1880,
+  "stress": "*GO*jiti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1881,
+  "note": "Something got scrambled here. The English \"I see\" doesn't belong to any gol-; with the paradigm \"golim\" this is the verb goliti (to bare, to strip). Worth checking the original page."
+ },
+ {
+  "id": 1882,
+  "gender": "(m)",
+  "example": "dao je gol u zadnjoj minuti - he scored a goal in the last minute"
+ },
+ {
+  "id": 1883,
+  "gender": "(f)"
+ },
+ {
+  "id": 1884,
+  "gender": "(f)"
+ },
+ {
+  "id": 1885,
+  "stress": "go*LI*cati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1888,
+  "gender": "(f)",
+  "stress": "golo*TI*nja"
+ },
+ {
+  "id": 1889,
+  "gender": "(m)",
+  "stress": "*GO*lub",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1890,
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 1891,
+  "gender": "(f)",
+  "stress": "go*MI*la",
+  "example": "ispred kafića je bila gomila ljudi - there was a crowd of people in front of the cafe"
+ },
+ {
+  "id": 1892,
+  "stress": "go*MI*lati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1894,
+  "gender": "(f)",
+  "stress": "gostio*NI*ca"
+ },
+ {
+  "id": 1895,
+  "gender": "(m)",
+  "stress": "gostio*NI*čar",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1896,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1897,
+  "gender": "(Noun)",
+  "resolves": "gostovanje",
+  "note": "Missing the final -je: gostovanje."
+ },
+ {
+  "id": 1898,
+  "example": "ručak je gotov - lunch is ready"
+ },
+ {
+  "id": 1899,
+  "example": "gotovo sam zaboravio - I almost forgot"
+ },
+ {
+  "id": 1900,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 1901,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1902,
+  "gender": "(f)",
+  "stress": "go*VE*đina"
+ },
+ {
+  "id": 1903,
+  "resolves": "goveđi",
+  "note": "The đ got flattened - the adjective is goveđi (goveđe meso, beef)."
+ },
+ {
+  "id": 1904,
+  "gender": "(m)",
+  "stress": "*GO*vor",
+  "example": "njegov govor je bio kratak - his speech was short"
+ },
+ {
+  "id": 1905,
+  "note": "Pairs with pisani: govorni jezik (the spoken language) vs pisani jezik (the written one)."
+ },
+ {
+  "id": 1906,
+  "stress": "go*VO*riti",
+  "aspect": "(Imp)",
+  "example": "govorite li engleski? - do you speak English?"
+ },
+ {
+  "id": 1907,
+  "gender": "(m)",
+  "stress": "go*VOR*nik",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 1908,
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 1909,
+  "gender": "(f)",
+  "stress": "*GOZ*ba"
+ },
+ {
+  "id": 1910,
+  "stress": "*GRA*biti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1911,
+  "gender": "(f)",
+  "note": "Plural only."
+ },
+ {
+  "id": 1913,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1914,
+  "stress": "graci*O*zan"
+ },
+ {
+  "id": 1915,
+  "gender": "(m)",
+  "example": "ovaj grad je prelijep - this city is beautiful",
+  "note": "Watch out: grad also means hail (pada grad - it's hailing). Same spelling, different word."
+ },
+ {
+  "id": 1916,
+  "stress": "*GRA*diti",
+  "aspect": "(Imp)",
+  "example": "grade novu zgradu u centru - they're building a new building downtown"
+ },
+ {
+  "id": 1917,
+  "gender": "(Noun)",
+  "stress": "*GRA*divo"
+ },
+ {
+  "id": 1918,
+  "gender": "(f)",
+  "stress": "*GRAD*nja"
+ },
+ {
+  "id": 1919,
+  "gender": "(m)",
+  "stress": "gradona*ČEL*nik",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 1921,
+  "gender": "(f)",
+  "resolves": "građa",
+  "note": "The đ got flattened - građa."
+ },
+ {
+  "id": 1922,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "građanin",
+  "note": "The đ got flattened - građanin. The -in drops in the plural: građani."
+ },
+ {
+  "id": 1923,
+  "resolves": "građanski",
+  "note": "The đ got flattened and the s misread - građanski."
+ },
+ {
+  "id": 1924,
+  "gender": "(Noun)",
+  "declension": "(+a)",
+  "resolves": "građanstvo",
+  "note": "The đ got flattened - građanstvo."
+ },
+ {
+  "id": 1925,
+  "gender": "(f)",
+  "resolves": "građevina",
+  "note": "The đ got flattened - građevina. Note this same word is entered again a few lines later, spelled correctly."
+ },
+ {
+  "id": 1926,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "građevinar"
+ },
+ {
+  "id": 1927,
+  "resolves": "građevinski"
+ },
+ {
+  "id": 1928,
+  "gender": "(f)",
+  "note": "Duplicate - the same word appears three lines up as \"gradevina\"."
+ },
+ {
+  "id": 1929,
+  "gender": "(f)",
+  "resolves": "grafika",
+  "note": "The headword is grafika (graphic arts, printmaking); \"grafička\" is the feminine adjective form, probably picked up from a phrase like grafička industrija."
+ },
+ {
+  "id": 1930,
+  "gender": "(m)"
+ },
+ {
+  "id": 1931,
+  "gender": "(f)",
+  "stress": "*GRA*ja"
+ },
+ {
+  "id": 1932,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1933,
+  "gender": "(m)"
+ },
+ {
+  "id": 1934,
+  "stress": "gra*MA*tika",
+  "gender": "(f)",
+  "example": "gramatika mi je najteža - grammar is the hardest part for me"
+ },
+ {
+  "id": 1935,
+  "gender": "(m)"
+ },
+ {
+  "id": 1937,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1938,
+  "gender": "(f)",
+  "stress": "*GRA*na",
+  "example": "ptica sjedi na grani - the bird is sitting on the branch"
+ },
+ {
+  "id": 1939,
+  "gender": "(f)",
+  "stress": "gra*NA*ta"
+ },
+ {
+  "id": 1940,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1941,
+  "gender": "(f)",
+  "stress": "*GRA*nica",
+  "example": "prešli smo granicu u podne - we crossed the border at noon"
+ },
+ {
+  "id": 1942,
+  "stress": "gra*NI*čiti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1943,
+  "gender": "(m)",
+  "stress": "*GRA*nit"
+ },
+ {
+  "id": 1944,
+  "stress": "*GRA*nuti",
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 1945,
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1946,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1947,
+  "gender": "(f)"
+ },
+ {
+  "id": 1948,
+  "stress": "gra*VI*rati"
+ },
+ {
+  "id": 1949,
+  "stress": "gravi*TA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1950,
+  "gender": "(m)"
+ },
+ {
+  "id": 1951,
+  "gender": "(f)"
+ },
+ {
+  "id": 1952,
+  "gender": "(f)"
+ },
+ {
+  "id": 1954,
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 1955,
+  "note": "Two entries look mashed together. The gloss (to sob; to choke up) belongs to grcati, but the paradigm \"grejem\" belongs to grejati/grijati (to heat). Worth checking the page."
+ },
+ {
+  "id": 1956,
+  "gender": "(m)"
+ },
+ {
+  "id": 1958,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1959,
+  "gender": "(f)",
+  "example": "bili smo u Grčkoj na moru - we were in Greece at the seaside",
+  "note": "Declines like an adjective: Grčka, Grčke, u Grčkoj."
+ },
+ {
+  "id": 1962,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1963,
+  "gender": "(f)"
+ },
+ {
+  "id": 1964,
+  "stress": "grdo*SI*ja",
+  "gender": "(f)"
+ },
+ {
+  "id": 1965,
+  "gender": "(m)",
+  "stress": "*GRE*ben"
+ },
+ {
+  "id": 1967,
+  "gender": "(f)",
+  "stress": "*GRE*da"
+ },
+ {
+  "id": 1968,
+  "gender": "(m)",
+  "declension": "(h->s)",
+  "example": "to nije greh - that's not a sin",
+  "note": "greh is [E], grijeh is [J]. The h -> s change shows in the plural: gresi / grijesi."
+ },
+ {
+  "id": 1969,
+  "gender": "(f)",
+  "note": "grejalica is [E], grijalica is [J]."
+ },
+ {
+  "id": 1970,
+  "gender": "(Noun)",
+  "note": "grejanje is [E], grijanje is [J]."
+ },
+ {
+  "id": 1971,
+  "gender": "(m)"
+ },
+ {
+  "id": 1972,
+  "note": "The paradigm looks off: grepsti goes grebem, grebeš (not \"grepam\"), and the perfective infinitive is ogrepsti."
+ },
+ {
+  "id": 1973,
+  "note": "The tail of this line - \"grešiti, griješiti, pogrešiti,\" - is actually the headword of the next entry, pulled up by a line break. grešan itself ends at \"(adj)\"."
+ },
+ {
+  "id": 1974,
+  "note": "This line is the tail of the entry above it - the headword grešiti/griješiti/pogrešiti/pogriješiti got split across a line break. grešiti is [E], griješiti is [J]."
+ },
+ {
+  "id": 1975,
+  "gender": "(f)",
+  "stress": "*GREŠ*ka",
+  "declension": "(+a)",
+  "example": "napravio sam grešku - I made a mistake"
+ },
+ {
+  "id": 1976,
+  "gender": "(m)",
+  "stress": "*GREŠ*nik",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 1977,
+  "resolves": "grgeč",
+  "note": "Scan slip - grgeč, the fish (perch)."
+ },
+ {
+  "id": 1978,
+  "resolves": "grgot",
+  "note": "Scan slip - grgot, which matches grgotati on the next line."
+ },
+ {
+  "id": 1979,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1980,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1981,
+  "stress": "*GRIC*kati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1982,
+  "gender": "(f)",
+  "stress": "gri*MA*sa"
+ },
+ {
+  "id": 1983,
+  "note": "The usual verb is grimasirati, or just praviti grimase. \"grimaserati\" looks like a slip."
+ },
+ {
+  "id": 1984,
+  "gender": "(m)",
+  "example": "imam grip i ostajem kod kuće - I have the flu and I'm staying home",
+  "note": "Also shows up as gripa (f), especially in Croatia."
+ },
+ {
+  "id": 1985,
+  "stress": "*GRIS*ti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 1986,
+  "gender": "(f)",
+  "stress": "*GRI*va"
+ },
+ {
+  "id": 1987,
+  "gender": "(m)"
+ },
+ {
+  "id": 1988,
+  "gender": "(f)",
+  "stress": "*GRI*ža",
+  "note": "Most often heard in \"griža savjesti\" - pangs of conscience."
+ },
+ {
+  "id": 1989,
+  "gender": "(m)"
+ },
+ {
+  "id": 1991,
+  "gender": "(Noun)",
+  "example": "boli me grlo - my throat hurts"
+ },
+ {
+  "id": 1992,
+  "example": "zagrlio ju je - he hugged her"
+ },
+ {
+  "id": 1993,
+  "gender": "(m)"
+ },
+ {
+  "id": 1994,
+  "note": "grmeti is [E], grmjeti is [J] - but the present tense he gives is off: it's grmim, grmi (ne grmetim)."
+ },
+ {
+  "id": 1995,
+  "gender": "(f)",
+  "stress": "grmlja*VI*na"
+ },
+ {
+  "id": 1996,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 1997,
+  "stress": "grn*ČA*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 1999,
+  "gender": "(m)"
+ },
+ {
+  "id": 2001,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2002,
+  "gender": "(Noun)",
+  "stress": "*GROB*lje",
+  "example": "groblje je iza crkve - the cemetery is behind the church"
+ },
+ {
+  "id": 2003,
+  "gender": "(f)",
+  "stress": "*GROB*nica"
+ },
+ {
+  "id": 2004,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "grof",
+  "note": "Scan slip - grof (count). The county below it, grofovija, confirms it."
+ },
+ {
+  "id": 2005,
+  "stress": "gro*FO*vija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2006,
+  "gender": "(m)",
+  "stress": "*GRO*hot"
+ },
+ {
+  "id": 2007,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2009,
+  "gender": "(m)",
+  "example": "grom je udario u drvo - lightning struck the tree"
+ },
+ {
+  "id": 2010,
+  "gender": "(f)",
+  "stress": "gro*MA*da"
+ },
+ {
+  "id": 2011,
+  "gender": "(m)"
+ },
+ {
+  "id": 2012,
+  "stress": "gro*TES*kan"
+ },
+ {
+  "id": 2013,
+  "resolves": "grozan",
+  "note": "Headword should be grozan (terrible, awful); \"grozana\" has a stray a."
+ },
+ {
+  "id": 2014,
+  "gender": "(m)"
+ },
+ {
+  "id": 2016,
+  "gender": "(f)",
+  "stress": "*GROZ*nica",
+  "example": "ima visoku groznicu - he has a high fever"
+ },
+ {
+  "id": 2018,
+  "gender": "(f)",
+  "stress": "gro*ZO*ta"
+ },
+ {
+  "id": 2019,
+  "gender": "(Noun)",
+  "resolves": "grožđe",
+  "note": "The đ got flattened - grožđe. It's a collective noun, so it has no plural.",
+  "example": "grožđe je slatko ove godine - the grapes are sweet this year"
+ },
+ {
+  "id": 2020,
+  "example": "bio je grub prema njoj - he was rude to her"
+ },
+ {
+  "id": 2021,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2022,
+  "gender": "(f)",
+  "note": "Plural only in this meaning."
+ },
+ {
+  "id": 2024,
+  "gender": "(m)"
+ },
+ {
+  "id": 2025,
+  "gender": "(f)",
+  "stress": "*GRUD*va"
+ },
+ {
+  "id": 2026,
+  "gender": "(m)",
+  "stress": "*GRU*men"
+ },
+ {
+  "id": 2027,
+  "aspect": "(Perf)"
+ },
+ {
+  "id": 2028,
+  "gender": "(f)",
+  "stress": "*GU*ba"
+ },
+ {
+  "id": 2030,
+  "gender": "(f)",
+  "stress": "*GU*bica"
+ },
+ {
+  "id": 2031,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 2032,
+  "gender": "(m)",
+  "stress": "*GU*bitak",
+  "declension": "(a)",
+  "example": "to je veliki gubitak za nas - that's a big loss for us"
+ },
+ {
+  "id": 2033,
+  "example": "izgubio sam ključeve - I lost my keys"
+ },
+ {
+  "id": 2034,
+  "stress": "*GU*dački",
+  "note": "Mostly seen in gudački kvartet (string quartet) and gudački instrumenti."
+ },
+ {
+  "id": 2035,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 2036,
+  "note": "gudeti is [E], gudjeti is [J]."
+ },
+ {
+  "id": 2037,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2038,
+  "gender": "(f)",
+  "stress": "*GU*ja"
+ },
+ {
+  "id": 2039,
+  "gender": "(m)",
+  "stress": "*GU*laš"
+ },
+ {
+  "id": 2040,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "Masculine even though it ends in -a - it's a person (a skinflint/bloodsucker)."
+ },
+ {
+  "id": 2041,
+  "example": "oguli bananu - peel the banana"
+ },
+ {
+  "id": 2042,
+  "gender": "(f)",
+  "stress": "*GU*ma",
+  "example": "pukla mi je guma na biciklu - I got a flat tire on my bike"
+ },
+ {
+  "id": 2043,
+  "note": "gumarski is about the rubber industry; the everyday adjective for something made of rubber is gumeni (gumene čizme, rubber boots)."
+ },
+ {
+  "id": 2044,
+  "gender": "(f)",
+  "stress": "*GU*mica"
+ },
+ {
+  "id": 2045,
+  "gender": "(Noun)",
+  "resolves": "gunđalo",
+  "note": "Same missing đ as gunđati below - gunđalo."
+ },
+ {
+  "id": 2046,
+  "aspect": "(Imp)",
+  "resolves": "gunđati",
+  "note": "The đ got flattened - gunđati (to grumble, mutter)."
+ },
+ {
+  "id": 2047,
+  "gender": "(f)",
+  "stress": "gun*GU*la"
+ },
+ {
+  "id": 2048,
+  "example": "guraj jače - push harder"
+ },
+ {
+  "id": 2049,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2050,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2051,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2052,
+  "gender": "(f)"
+ },
+ {
+  "id": 2053,
+  "gender": "(m)",
+  "stress": "*GU*san",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2054,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "gusar",
+  "note": "Stray n - the word is gusar (pirate), which matches gusarski on the next line."
+ },
+ {
+  "id": 2056,
+  "gender": "(f)",
+  "stress": "*GUS*ka",
+  "declension": "(+a)"
+ },
+ {
+  "id": 2057,
+  "gender": "(f)",
+  "note": "Plural only - the gusle is a one-stringed instrument, always plural."
+ },
+ {
+  "id": 2058,
+  "resolves": "gust",
+  "note": "The citation form is gust (masc.); \"gusta\" is the feminine form."
+ },
+ {
+  "id": 2059,
+  "gender": "(f)",
+  "stress": "gus*TI*na",
+  "note": "gustina is [S]/[B]; Croatian says gustoća."
+ },
+ {
+  "id": 2060,
+  "gender": "(f)",
+  "stress": "*GU*ša"
+ },
+ {
+  "id": 2061,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 2062,
+  "stress": "*GU*šiti",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2063,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2064,
+  "gender": "(f)"
+ },
+ {
+  "id": 2065,
+  "gender": "(f)",
+  "stress": "guš*TE*rača"
+ },
+ {
+  "id": 2066,
+  "note": "The paradigm repeats itself - \"(verb: gutam, gutam)\"; the perfective present is progutam.",
+  "example": "teško mi je gutati - it hurts to swallow"
+ },
+ {
+  "id": 2067,
+  "gender": "(m)",
+  "stress": "*GUT*ljaj"
+ },
+ {
+  "id": 2068,
+  "gender": "(f)"
+ },
+ {
+  "id": 2069,
+  "gender": "(m)",
+  "stress": "gu*VER*ner",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2070,
+  "gender": "(f)",
+  "stress": "*GUŽ*va",
+  "example": "u centru je uvijek gužva - it's always crowded downtown",
+  "note": "This one is colored green in the source, but green is for city names and question words - gužva is neither. Might be a highlighting slip."
+ },
+ {
+  "id": 2071,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2073,
+  "note": "Listed as \"gvozda\". This is the old plural (fetters, irons); the singular gvožđe (iron, the metal) is entered further down. Worth checking the page."
+ },
+ {
+  "id": 2074,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "gvožđar",
+  "note": "The žđ got flattened - gvožđar."
+ },
+ {
+  "id": 2075,
+  "gender": "(f)",
+  "resolves": "gvožđarnica"
+ },
+ {
+  "id": 2076,
+  "resolves": "gvožđarski"
+ },
+ {
+  "id": 2077,
+  "gender": "(Noun)",
+  "resolves": "gvožđe",
+  "note": "The đ got flattened - gvožđe."
+ },
+ {
+  "id": 2079,
+  "gender": "(m)",
+  "stress": "ha*DŽI*ja",
+  "declension": "(Anim)",
+  "note": "Masculine even though it ends in -a."
+ },
+ {
+  "id": 2080,
+  "gender": "(m)",
+  "declension": "(k->c)",
+  "resolves": "hadžiluk",
+  "note": "The ž lost its caron in the scan - hadžiluk."
+ },
+ {
+  "id": 2081,
+  "stress": "*HA*jati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2082,
+  "note": "In speech you'll hear ajde/ajmo far more than hajde/hajdemo - the h just drops."
+ },
+ {
+  "id": 2083,
+  "gender": "(m)",
+  "stress": "*HAJ*duk",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 2084,
+  "gender": "(f)",
+  "stress": "*HAJ*ka"
+ },
+ {
+  "id": 2085,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2086,
+  "gender": "(f)",
+  "stress": "*HA*la"
+ },
+ {
+  "id": 2087,
+  "gender": "(m)"
+ },
+ {
+  "id": 2088,
+  "resolves": "halo",
+  "example": "halo, ko je? - hello, who is it?",
+  "note": "The h got read as a b - halo."
+ },
+ {
+  "id": 2089,
+  "stress": "haluci*NA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2090,
+  "stress": "haluci*NI*rati"
+ },
+ {
+  "id": 2091,
+  "gender": "(f)",
+  "note": "The English gloss slipped into Serbian: \"bela nougat\" should be \"white nougat\"."
+ },
+ {
+  "id": 2092,
+  "gender": "(f)",
+  "resolves": "haljina",
+  "example": "kupila je novu haljinu - she bought a new dress",
+  "note": "\"haljima\" is a scan slip for haljina. His example \"balska ~\" is balska haljina."
+ },
+ {
+  "id": 2093,
+  "gender": "(m)",
+  "resolves": "ham",
+  "note": "The h got read as a b - ham (harness). This b-for-h slip happens several times in the H pages."
+ },
+ {
+  "id": 2094,
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 2095,
+  "gender": "(m)"
+ },
+ {
+  "id": 2096,
+  "gender": "(m)",
+  "note": "The English gloss should be \"hangar\", not \"hanger\"."
+ },
+ {
+  "id": 2097,
+  "gender": "(m)",
+  "resolves": "haos",
+  "note": "The h got read as a b - haos. haos is [S]/[B]; Croatian says kaos."
+ },
+ {
+  "id": 2098,
+  "resolves": "haotičan",
+  "note": "\"hsotičan\" is a scan slip for haotičan."
+ },
+ {
+  "id": 2099,
+  "gender": "(m)"
+ },
+ {
+  "id": 2100,
+  "resolves": "uhapsiti",
+  "example": "policija ga je uhapsila - the police arrested him",
+  "note": "\"uhspsiti\" is a scan slip for uhapsiti."
+ },
+ {
+  "id": 2101,
+  "gender": "(f)"
+ },
+ {
+  "id": 2102,
+  "note": "In sense 2 the gloss has \"sume\" for šume - the caron dropped out."
+ },
+ {
+  "id": 2104,
+  "gender": "(m)",
+  "stress": "*HA*rem"
+ },
+ {
+  "id": 2105,
+  "gender": "(f)",
+  "stress": "*HAR*fa"
+ },
+ {
+  "id": 2106,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "harfist is [C], harfista is [S] - which is what the (a) in parentheses is doing."
+ },
+ {
+  "id": 2107,
+  "gender": "(f)",
+  "stress": "*HA*ringa"
+ },
+ {
+  "id": 2108,
+  "stress": "har*MO*ničan"
+ },
+ {
+  "id": 2109,
+  "stress": "har*MO*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2110,
+  "stress": "har*MO*nika",
+  "gender": "(f)"
+ },
+ {
+  "id": 2111,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2112,
+  "stress": "harmo*NI*rati"
+ },
+ {
+  "id": 2113,
+  "stress": "harmoni*ZO*vati"
+ },
+ {
+  "id": 2114,
+  "gender": "(m)"
+ },
+ {
+  "id": 2115,
+  "stress": "harpu*NI*rati"
+ },
+ {
+  "id": 2116,
+  "stress": "*HAR*tija",
+  "gender": "(f)",
+  "note": "hartija is the older/Serbian word and mostly survives in \"hartije od vrednosti\" (securities). Day to day people say papir."
+ },
+ {
+  "id": 2117,
+  "gender": "(f)"
+ },
+ {
+  "id": 2118,
+  "gender": "(f)"
+ },
+ {
+  "id": 2119,
+  "stress": "ha*VA*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2120,
+  "stress": "hava*RI*sati"
+ },
+ {
+  "id": 2121,
+  "stress": "ha*ZAR*dan"
+ },
+ {
+  "id": 2122,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2123,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "hedonist(a)",
+  "note": "The h got read as a b - hedonist(a). hedonist is [C], hedonista is [S]."
+ },
+ {
+  "id": 2124,
+  "stress": "hedo*NI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 2125,
+  "stress": "hege*MO*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2126,
+  "resolves": "hej",
+  "note": "The h got read as a b twice on this line: the headword is hej, and the example is \"hej, Milane, dođi ovamo\" (dođi, not dodi)."
+ },
+ {
+  "id": 2127,
+  "resolves": "heklati, isheklati",
+  "note": "The h got read as a b - heklati. German loan, very common for crocheting."
+ },
+ {
+  "id": 2128,
+  "note": "Garbled headword. A crochet hook is normally heklica or igla za heklanje - worth checking the original page."
+ },
+ {
+  "id": 2129,
+  "gender": "(m)",
+  "stress": "*HEK*tar"
+ },
+ {
+  "id": 2130,
+  "gender": "(m)",
+  "note": "helijum is [S]/[B]; Croatian says helij."
+ },
+ {
+  "id": 2131,
+  "gender": "(m)",
+  "stress": "heli*KOP*ter",
+  "example": "helikopter je sletio na krov - the helicopter landed on the roof"
+ },
+ {
+  "id": 2132,
+  "gender": "(f)",
+  "resolves": "heljda",
+  "note": "Scan slip - heljda (buckwheat)."
+ },
+ {
+  "id": 2133,
+  "stress": "hemato*LO*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2134,
+  "gender": "(m)",
+  "stress": "*HE*mičar",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2135,
+  "stress": "*HE*mija",
+  "gender": "(f)",
+  "note": "hemija is [S]/[B]; Croatian says kemija. Same split runs through the whole family: hemičar/kemičar, hemijski/kemijski.",
+  "example": "hemija mi je bila najteži predmet - chemistry was my hardest subject"
+ },
+ {
+  "id": 2136,
+  "gender": "(f)",
+  "stress": "hemis*FE*ra"
+ },
+ {
+  "id": 2137,
+  "gender": "(m)",
+  "note": "Plural only."
+ },
+ {
+  "id": 2138,
+  "gender": "(m)"
+ },
+ {
+  "id": 2139,
+  "stress": "hendike*PI*rati"
+ },
+ {
+  "id": 2140,
+  "gender": "(m)"
+ },
+ {
+  "id": 2141,
+  "gender": "(m)"
+ },
+ {
+  "id": 2142,
+  "stress": "he*RAL*dika",
+  "gender": "(f)"
+ },
+ {
+  "id": 2143,
+  "gender": "(f)",
+  "stress": "herce*GO*vina"
+ },
+ {
+  "id": 2144,
+  "gender": "(m)",
+  "stress": "he*RE*tik",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 2145,
+  "gender": "(f)",
+  "note": "You'll more often hear jeres for heresy."
+ },
+ {
+  "id": 2146,
+  "gender": "(m)"
+ },
+ {
+  "id": 2147,
+  "stress": "her*ME*tičan"
+ },
+ {
+  "id": 2149,
+  "gender": "(f)",
+  "note": "Careful with this pair: heroina (f) is a heroine, heroin (m) is the drug - the entry right below."
+ },
+ {
+  "id": 2150,
+  "gender": "(m)"
+ },
+ {
+  "id": 2151,
+  "stress": "hero*I*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 2152,
+  "gender": "(m)",
+  "stress": "*HE*roj",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2155,
+  "stress": "hiber*NA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2156,
+  "gender": "(m)"
+ },
+ {
+  "id": 2157,
+  "stress": "hib*RI*dan"
+ },
+ {
+  "id": 2158,
+  "gender": "(m)"
+ },
+ {
+  "id": 2160,
+  "gender": "(f)",
+  "stress": "hidrocen*TRA*la"
+ },
+ {
+  "id": 2161,
+  "stress": "hidroe*LEK*tričan"
+ },
+ {
+  "id": 2162,
+  "gender": "(m)",
+  "note": "hidrogen survives mostly in \"hidrogenska bomba\". The element itself is vodonik [S] / vodik [C]."
+ },
+ {
+  "id": 2163,
+  "note": "In practice this only shows up in hidrogenska bomba - and in his gloss the noun bomba got separated from its adjective."
+ },
+ {
+  "id": 2165,
+  "gender": "(f)",
+  "stress": "higi*JE*na"
+ },
+ {
+  "id": 2166,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2168,
+  "gender": "(m)",
+  "stress": "*HI*hot"
+ },
+ {
+  "id": 2169,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2170,
+  "gender": "(f)",
+  "stress": "hi*JE*na"
+ },
+ {
+  "id": 2171,
+  "stress": "hije*RAR*hija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2172,
+  "gender": "(m)"
+ },
+ {
+  "id": 2173,
+  "gender": "(f)",
+  "stress": "*HI*ljada",
+  "example": "koštalo je hiljadu dinara - it cost a thousand dinars",
+  "note": "hiljada is [S]/[B]; Croatian says tisuća."
+ },
+ {
+  "id": 2175,
+  "gender": "(f)"
+ },
+ {
+  "id": 2176,
+  "gender": "(m)"
+ },
+ {
+  "id": 2177,
+  "gender": "(f)",
+  "stress": "*HIM*na"
+ },
+ {
+  "id": 2178,
+  "gender": "(f)",
+  "stress": "hi*PER*bola"
+ },
+ {
+  "id": 2179,
+  "stress": "hiper*BO*ličan"
+ },
+ {
+  "id": 2180,
+  "stress": "hiper*TEN*zija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2181,
+  "stress": "hipno*TI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 2182,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2183,
+  "stress": "hipno*TI*sati",
+  "note": "[S]/[B] form; Croatian says hipnotizirati."
+ },
+ {
+  "id": 2184,
+  "gender": "(f)",
+  "stress": "hip*NO*za"
+ },
+ {
+  "id": 2185,
+  "gender": "(m)"
+ },
+ {
+  "id": 2186,
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 2187,
+  "stress": "hipo*HON*dričan"
+ },
+ {
+  "id": 2188,
+  "stress": "hipo*HON*drija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2189,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "The native word is licemer [E] / licemjer [J], and you'll hear that far more often."
+ },
+ {
+  "id": 2190,
+  "stress": "hipok*RI*tičan"
+ },
+ {
+  "id": 2191,
+  "stress": "hipok*RI*zija",
+  "gender": "(f)",
+  "note": "The native word is licemerje [E] / licemjerje [J]."
+ },
+ {
+  "id": 2192,
+  "stress": "hipo*TE*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 2193,
+  "gender": "(f)",
+  "stress": "hipote*NU*za"
+ },
+ {
+  "id": 2194,
+  "stress": "hipo*TE*tičan"
+ },
+ {
+  "id": 2195,
+  "gender": "(f)",
+  "stress": "hipo*TE*za"
+ },
+ {
+  "id": 2196,
+  "gender": "(m)"
+ },
+ {
+  "id": 2198,
+  "gender": "(m)",
+  "stress": "*HI*rurg",
+  "declension": "(g->z)",
+  "note": "hirurg is [S]/[B]; Croatian says kirurg (and kirurgija, kirurški).",
+  "example": "hirurg je završio operaciju - the surgeon finished the operation"
+ },
+ {
+  "id": 2199,
+  "stress": "hi*RUR*gija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2201,
+  "stress": "his*TE*ričan"
+ },
+ {
+  "id": 2202,
+  "stress": "his*TE*rija",
+  "gender": "(f)"
+ },
+ {
+  "id": 2203,
+  "gender": "(f)",
+  "note": "historija is [B]/[C], istorija is [S]. Croatian also uses povijest, which is the one you'll see most in Zagreb.",
+  "example": "volim historiju - I like history"
+ },
+ {
+  "id": 2204,
+  "gender": "(m)",
+  "stress": "*HI*tac",
+  "declension": "(a)"
+ },
+ {
+  "id": 2205,
+  "stress": "*HI*tan",
+  "example": "ovo je hitan slučaj - this is an emergency"
+ },
+ {
+  "id": 2206,
+  "stress": "*HI*tar"
+ },
+ {
+  "id": 2207,
+  "stress": "*HI*tati",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2208,
+  "gender": "(f)",
+  "example": "ove hlače su mi prekratke - these trousers are too short on me",
+  "note": "Plural only. hlače is [C]; Serbian and Bosnian say pantalone."
+ },
+ {
+  "id": 2209,
+  "gender": "(m)"
+ },
+ {
+  "id": 2210,
+  "stress": "*HLA*dan",
+  "example": "voda je hladna - the water is cold"
+ },
+ {
+  "id": 2213,
+  "gender": "(f)",
+  "stress": "hlad*NO*ća"
+ },
+ {
+  "id": 2215,
+  "gender": "(f)"
+ },
+ {
+  "id": 2216,
+  "gender": "(m)",
+  "declension": "(k->c)",
+  "note": "Careful: in Croatian hladnjak is the fridge; the car radiator sense he gives here is the Serbian/Bosnian one. Serbian fridge = frižider.",
+  "example": "stavi mlijeko u hladnjak - put the milk in the fridge"
+ },
+ {
+  "id": 2217,
+  "gender": "(Noun)"
+ },
+ {
+  "id": 2218,
+  "gender": "(m)",
+  "example": "kupi hleb u prodavnici - buy bread at the store",
+  "note": "hleb is [E]/[S], hljeb is [J], and Croatian/Bosnian mostly say kruh. This is one to get right per country."
+ },
+ {
+  "id": 2219,
+  "aspect": "(Imp)",
+  "note": "Big gap right here: the dictionary jumps straight from hleb to hučati on the same page, so everything from hlj- through ht- is missing - hljeb, hobi, hod, hodati, hodnik, hotel, hrabar, hrana, hraniti, hrast, hrpa, Hrvat/Hrvatska, hteti/htjeti. Those are core words; worth checking whether a column got lost in the scan."
+ },
+ {
+  "id": 2220,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2221,
+  "gender": "(f)",
+  "stress": "*HU*ka"
+ },
+ {
+  "id": 2222,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2223,
+  "gender": "(f)",
+  "note": "Plural only."
+ },
+ {
+  "id": 2225,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "humanist is [C], humanista is [S]."
+ },
+ {
+  "id": 2226,
+  "stress": "huma*NIS*tika",
+  "gender": "(f)"
+ },
+ {
+  "id": 2228,
+  "stress": "humani*TA*ran"
+ },
+ {
+  "id": 2229,
+  "stress": "huma*NI*zam",
+  "gender": "(m)",
+  "declension": "(a)"
+ },
+ {
+  "id": 2230,
+  "stress": "hu*MA*nost",
+  "gender": "(f)"
+ },
+ {
+  "id": 2231,
+  "gender": "(m)",
+  "stress": "*HU*mor",
+  "example": "ima dobar smisao za humor - he has a good sense of humor"
+ },
+ {
+  "id": 2232,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "humorist is [C], humorista is [S]."
+ },
+ {
+  "id": 2233,
+  "stress": "humo*RIS*tičan"
+ },
+ {
+  "id": 2235,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 2237,
+  "stress": "*HVA*la",
+  "example": "hvala ti na pomoći - thank you for the help"
+ },
+ {
+  "id": 2238,
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 2240,
+  "gender": "(m)",
+  "declension": "(a) (Anim)"
+ },
+ {
+  "id": 2241,
+  "example": "svi ga hvale - everybody praises him"
+ },
+ {
+  "id": 2242,
+  "gender": "(m)"
+ },
+ {
+  "id": 2243,
+  "example": "uhvatili smo autobus na vrijeme - we caught the bus in time"
+ }
+]

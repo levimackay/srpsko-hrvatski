@@ -19,7 +19,6 @@ ORDER = [
     'phrases-and-sayings',
     'flirting',
     'psovke',
-    'daily-word-lists',
     'resources',
     'english-index',
     'final-thoughts',
@@ -48,19 +47,6 @@ TITLE_PAGE = r'''
 #v(1fr)
 #pagebreak()
 
-#set page(header: none, footer: none)
-#v(1fr)
-#align(center)[
-  #block(width: 76%)[
-    #set text(size: 9.6pt, style: "italic")
-    #set par(justify: false)
-    "Sometimes we admire things like the stars or a sunset. We love them, but deep
-    down we know they won't last forever, and we can never quite reach them."
-    Learning a language isn't like that. It's not some distant dream. With
-    persistence and a bit of grit, you'll get there. I have no doubt.
-  ]
-]
-#v(1fr)
 #pagebreak()
 '''
 

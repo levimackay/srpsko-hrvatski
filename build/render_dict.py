@@ -85,8 +85,10 @@ lines.append('#note[Entries in #text(fill: BLUE)[blue] are ones I marked as need
              'love. #text(fill: GOLD)[Gold] means the word has a lot of branches but isn\'t '
              'its own root word. #text(fill: PINK)[Pink] is a loan word natives actually use. '
              '#text(fill: GREEN)[Green] is a city name or a question word. Anything with a '
-             '#degmark after it was filled in later and I haven\'t personally checked it — '
-             'trust the unmarked stuff first.]')
+             '#text(fill: GEN)[\\u{b0}] after it was filled in later and I haven\'t personally checked it — '
+             'trust the unmarked stuff first. My daily word sheets are folded in here too '
+             'now, instead of sitting in the back; they came over without any markers on '
+             'them, so they\'re blue.]')
 lines.append('')
 lines.append('#columns(2, gutter: 0.62em)[')
 
@@ -151,6 +153,11 @@ for e in entries:
     if body: pieces.append(body)
     pieces.extend(add)
     full = ' '.join(pieces).strip()
+
+    # Words pulled in from the thematic gap-fill lists aren't his — the whole
+    # entry is generated, so the whole entry carries the marker.
+    if e.get('generated'):
+        full += ' #degmark'
 
     if ex.get('example'):
         full += ' #linebreak() #text(size: 8.4pt, style: "italic")[' \

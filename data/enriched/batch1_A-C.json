@@ -1,0 +1,3677 @@
+[
+ {
+  "id": 0,
+  "example": "on je visok, a ja sam nizak - he is tall, but I am short"
+ },
+ {
+  "id": 1,
+  "stress": "a*BA*žur",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 2,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "naučio sam abecedu u prvom razredu - I learned the alphabet in first grade"
+ },
+ {
+  "id": 3,
+  "pos": "(adj)"
+ },
+ {
+  "id": 4,
+  "stress": "abnor*MA*lan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 5,
+  "stress": "abnor*MAL*nost",
+  "gender": "(f)",
+  "note": "nouns in -ost are feminine. The (Noun) marker here almost certainly just means \"noun\" rather than neuter — that reading of (Noun) shows up in a number of entries in this letter."
+ },
+ {
+  "id": 6,
+  "stress": "abo*NI*rati",
+  "pos": "(Verb)",
+  "resolves": "to take out a subscription / season ticket",
+  "note": "answers the \"not sure about context\": abonirati is used for subscribing to a season ticket or a periodical (abonman = season ticket, abonent = subscriber). The everyday \"subscribe\" is pretplatiti se."
+ },
+ {
+  "id": 7,
+  "stress": "abor*TI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 8,
+  "gender": "(m)"
+ },
+ {
+  "id": 9,
+  "stress": "adap*TA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 10,
+  "stress": "admini*STRA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 12,
+  "stress": "admini*STRA*tor",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 13,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim) (a)",
+  "note": "for what it's worth, Elder Kopp's word checks out — a ragamuffin is a scruffy, raggedy, unkempt person (usually a kid), and adrapovac is used exactly that way."
+ },
+ {
+  "id": 14,
+  "stress": "adre*NA*lin",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 15,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "koja je tvoja adresa - what is your address"
+ },
+ {
+  "id": 16,
+  "stress": "*A*dut",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 17,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 18,
+  "stress": "ad*VO*kat",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "example": "trebaće ti advokat za ovo - you're going to need a lawyer for this"
+ },
+ {
+  "id": 19,
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 20,
+  "stress": "ae*RO*drom",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "idemo na aerodrom sutra ujutru - we're going to the airport tomorrow morning"
+ },
+ {
+  "id": 21,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 22,
+  "stress": "afek*TA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 23,
+  "stress": "afek*TI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 24,
+  "stress": "afir*MI*sati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 25,
+  "stress": "afo*RI*zam",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "an aphorism is a short, punchy saying that states a truth — basically a one-liner proverb. \"Brevity is the soul of wit\" is an aphorism."
+ },
+ {
+  "id": 26,
+  "stress": "*A*frika",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 27,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 28,
+  "stress": "a*GEN*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 29,
+  "stress": "*A*gent",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 30,
+  "stress": "a*GI*lan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 31,
+  "stress": "agi*TA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "English typo: \"aggitation\" should be \"agitation\", and \"to aggitate\" in the branch below should be \"to agitate\"."
+ },
+ {
+  "id": 32,
+  "stress": "agi*TO*vati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 33,
+  "stress": "a*GO*nija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 34,
+  "stress": "a*GRE*sija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 35,
+  "stress": "agre*SI*van",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 37,
+  "stress": "*AJ*de",
+  "pos": "(excl)"
+ },
+ {
+  "id": 38,
+  "stress": "*AJ*kula",
+  "gender": "(f)"
+ },
+ {
+  "id": 39,
+  "pos": "(excl)",
+  "resolves": "(Srp)",
+  "example": "ajmo, kasnimo! - come on, we're late!",
+  "note": "the (Srp?) can come off — ajmo is used in Serbia too. It's the shortened hajdemo, so it literally means \"let's go\". The note under ajde already makes exactly this point about frequency vs. dialect."
+ },
+ {
+  "id": 43,
+  "note": "vanka is the colloquial/dialect form of van / vani (out, outside) — heard in Croatia and parts of Bosnia. Standard would be ajmo van."
+ },
+ {
+  "id": 44,
+  "stress": "*AJ*var",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "ajvar ide uz sve - ajvar goes with everything",
+  "note": "a reader who's never been there won't know what the food is from the gloss — ajvar is the roasted red pepper (sometimes with eggplant) relish/spread. Might be worth one clause of description."
+ },
+ {
+  "id": 45,
+  "stress": "aka*DE*mija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 46,
+  "stress": "aka*DE*mik",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)",
+  "note": "heads-up on the definition: akademik normally means a member of the Academy of Sciences and Arts (SANU / HAZU) — a very senior lifetime title, not just someone who attends school."
+ },
+ {
+  "id": 48,
+  "note": "akamoli is \"let alone / much less\", and it follows a negative: ne znam ni ja, akamoli on — I don't even know, let alone him. It's usually written a kamoli as two words."
+ },
+ {
+  "id": 49,
+  "stress": "*AK*cenat",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 50,
+  "stress": "*AK*cent",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 51,
+  "stress": "*AK*cija",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "ovo je na akciji - this is on sale"
+ },
+ {
+  "id": 53,
+  "stress": "*A*ko",
+  "example": "ako budeš imao vremena, javi se - if you have time, get in touch"
+ },
+ {
+  "id": 54,
+  "stress": "akon*TA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 55,
+  "stress": "*A*kord",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 56,
+  "stress": "akredi*TO*vati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 57,
+  "gender": "(m)",
+  "resolves": "the singular is fine: akreditiv",
+  "note": "akreditiv is a perfectly normal singular masculine noun (akreditiv, akreditiva) — nothing irregular about it. The \"credentials\" sense just happens to usually show up in the plural, akreditivi. In banking it means a letter of credit."
+ },
+ {
+  "id": 58,
+  "stress": "akro*BA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 59,
+  "stress": "*AK*tivan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 60,
+  "stress": "*AK*tivnost",
+  "pos": "(Noun)"
+ },
+ {
+  "id": 61,
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 62,
+  "stress": "akumu*LA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 63,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 64,
+  "stress": "aku*RA*tan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 65,
+  "pos": "(adj)",
+  "declension": "(a)",
+  "note": "headword is missing its diacritic — should be akustičan."
+ },
+ {
+  "id": 66,
+  "stress": "a*KUS*tika",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 67,
+  "stress": "aku*ŠER*stvo",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "declension": "(+a)"
+ },
+ {
+  "id": 68,
+  "stress": "a*KU*tan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 69,
+  "stress": "aku*ZA*tiv",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 70,
+  "gender": "(m)",
+  "resolves": "(e)",
+  "note": "the (e?) is right: the stem ends in -j, which is soft, so the instrumental is akvarijem, not akvarijom. Same goes for aluminij below."
+ },
+ {
+  "id": 71,
+  "gender": "(m)"
+ },
+ {
+  "id": 72,
+  "gender": "(m)",
+  "note": "two things worth checking here. The usual spelling for the deity is Alah (Bos.) or Allah. And ala on its own normally means either \"boy, is it —\" as an exclamation (ala je lijepo!) or a dragon (ala = aždaja, which is at the end of the letter)."
+ },
+ {
+  "id": 73,
+  "stress": "alar*MI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 74,
+  "stress": "*A*lat",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "donesi mi alat iz garaže - bring me the tools from the garage"
+ },
+ {
+  "id": 75,
+  "stress": "al*BA*nac",
+  "gender": "(m)"
+ },
+ {
+  "id": 76,
+  "stress": "al*BA*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 77,
+  "stress": "al*BAN*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 78,
+  "stress": "*AL*bum",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 79,
+  "stress": "aler*GI*čan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 80,
+  "stress": "aler*GI*ja",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "imam alergiju na kikiriki - I have a peanut allergy"
+ },
+ {
+  "id": 81,
+  "stress": "alego*RI*ja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 82,
+  "stress": "alego*RI*čan",
+  "declension": "(a)"
+ },
+ {
+  "id": 83,
+  "stress": "*A*li",
+  "example": "hteo sam da dođem, ali nisam mogao - I wanted to come, but I couldn't"
+ },
+ {
+  "id": 84,
+  "stress": "*A*libi",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 85,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 86,
+  "stress": "*AL*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 87,
+  "stress": "*AL*kohol",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 89,
+  "stress": "alkoho*LI*čar",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 90,
+  "stress": "alkoho*LI*zam",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 91,
+  "note": "the long Serbian block under alo reads like it was pasted in from an online slang dictionary rather than written by hand — worth deciding whether to keep it, trim it, or translate it. It's also missing most of its diacritics (druže, dozivanje, pozdravljanje, ništa, čujem, klinačke, Vuk Karadžić)."
+ },
+ {
+  "id": 92,
+  "stress": "*AL*pe",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "Alpe is plural-only and feminine — Alpe, Alpa, u Alpama. There is no singular Alpa."
+ },
+ {
+  "id": 93,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "masculine even though it ends in -a, and it declines like a feminine noun (alpiniste, alpinisti). Croatian more often says alpinist."
+ },
+ {
+  "id": 94,
+  "stress": "alterna*TI*va",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 95,
+  "stress": "alu*DI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 96,
+  "gender": "(m)",
+  "resolves": "(e)",
+  "note": "same as akvarij — the stem ends in soft -j, so the instrumental is aluminijem."
+ },
+ {
+  "id": 97,
+  "gender": "(m)"
+ },
+ {
+  "id": 100,
+  "stress": "a*LU*zija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 101,
+  "stress": "*AL*žir",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 102,
+  "stress": "*ALJ*kav",
+  "pos": "(adj)"
+ },
+ {
+  "id": 104,
+  "gender": "(m)",
+  "note": "the usual spelling is hamam (Turkish bath) — amam is the local, h-dropping pronunciation you actually hear."
+ },
+ {
+  "id": 105,
+  "gender": "(m)"
+ },
+ {
+  "id": 106,
+  "stress": "a*MA*net",
+  "gender": "(m)",
+  "note": "amanet is narrower than \"testament\" — it's something entrusted to you as a sacred trust, classically a dying person's last wish. Very common in Bosnia. A legal will is testament / oporuka."
+ },
+ {
+  "id": 107,
+  "stress": "a*MA*ter",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 108,
+  "stress": "amate*RI*zam",
+  "gender": "(m)"
+ },
+ {
+  "id": 109,
+  "stress": "*AM*bar",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 110,
+  "stress": "ambu*LAN*ta",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "on the (+a?): Gen. pl. is usually ambulanti, though ambulanata is also heard. Both are accepted, so (+a) is optional here rather than required."
+ },
+ {
+  "id": 111,
+  "stress": "amba*SA*da",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "američka ambasada je u Beogradu - the American embassy is in Belgrade"
+ },
+ {
+  "id": 112,
+  "stress": "*AM*bis",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "ambis is standard across Bosnian/Croatian/Serbian for an abyss or chasm — not a Banja Luka one-off, so the kid was using a real word."
+ },
+ {
+  "id": 113,
+  "stress": "*A*men"
+ },
+ {
+  "id": 114,
+  "stress": "*A*min"
+ },
+ {
+  "id": 115,
+  "stress": "a*ME*rički",
+  "pos": "(adj)"
+ },
+ {
+  "id": 116,
+  "stress": "a*ME*rika",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 117,
+  "gender": "(m)"
+ },
+ {
+  "id": 118,
+  "gender": "(f)"
+ },
+ {
+  "id": 119,
+  "stress": "a*MI*dža",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "masculine despite the -a ending, and it declines like a feminine noun (amidže, amidži)."
+ },
+ {
+  "id": 120,
+  "stress": "ami*DŽI*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 121,
+  "stress": "amne*ZI*ja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 122,
+  "stress": "*A*mo",
+  "pos": "(adv)"
+ },
+ {
+  "id": 124,
+  "stress": "ampu*TA*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 125,
+  "stress": "ampu*TI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 126,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "headword is missing its diacritic — should be analitičar."
+ },
+ {
+  "id": 127,
+  "stress": "a*NA*liza",
+  "gender": "(f)"
+ },
+ {
+  "id": 128,
+  "stress": "anali*ZA*tor",
+  "gender": "(m)",
+  "note": "analizator is a machine/analyzer (a device), not a person — the person is analitičar, two entries up. Might be worth splitting the glosses so they don't read identically."
+ },
+ {
+  "id": 129,
+  "stress": "anali*ZI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 130,
+  "stress": "*A*nanas",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 131,
+  "stress": "a*NAR*hija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 132,
+  "stress": "*AN*đeo",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 133,
+  "stress": "a*NEK*sija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 134,
+  "pos": "(Verb)"
+ },
+ {
+  "id": 136,
+  "stress": "anga*ŽO*vati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 138,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 139,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 140,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 141,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 142,
+  "pos": "(adj)",
+  "declension": "(a)",
+  "note": "typo in the headword — should be anoniman (anoniman, anonimna)."
+ },
+ {
+  "id": 143,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 144,
+  "stress": "an*TE*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 146,
+  "stress": "antibi*O*tik",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 147,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 148,
+  "stress": "anti*LO*pa",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 151,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 152,
+  "stress": "a*PA*rat",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "I can't place aparat itself as a psovka — this may be a particular phrase someone used. Worth pinning down before it goes in print, or dropping the parenthetical."
+ },
+ {
+  "id": 153,
+  "gender": "(m)",
+  "resolves": "(Bos) (Hrv) (Srp)",
+  "note": "apartman isn't Croatian-only — it's used in all three. It specifically means a holiday apartment or a hotel suite; a place you live in is a stan."
+ },
+ {
+  "id": 154,
+  "stress": "*A*pel",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 155,
+  "gender": "(m)",
+  "note": "two spelling/usage points: the Latinate spelling is apendicitis with a c, and what people actually say is upala slijepog crijeva (Ijek.) / upala slepog creva (Ek.)."
+ },
+ {
+  "id": 156,
+  "stress": "a*PE*tit",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "nemam apetita danas - I don't have an appetite today"
+ },
+ {
+  "id": 157,
+  "stress": "aplau*DI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 158,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 159,
+  "stress": "a*POS*tol",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 160,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "declension": "(k->c)",
+  "example": "gde je najbliža apoteka? - where is the nearest pharmacy?"
+ },
+ {
+  "id": 161,
+  "stress": "apo*TE*kar",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 162,
+  "stress": "apote*KA*rica",
+  "gender": "(f)"
+ },
+ {
+  "id": 163,
+  "stress": "apote*KAR*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 164,
+  "stress": "*A*pril",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 165,
+  "stress": "apso*LU*tan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 166,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 168,
+  "stress": "apsor*BO*vati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 169,
+  "stress": "ap*STRAK*tan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 170,
+  "stress": "ap*STRAK*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 171,
+  "stress": "ap*SUR*dan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 172,
+  "stress": "a*RA*bija",
+  "gender": "(f)"
+ },
+ {
+  "id": 173,
+  "stress": "aran*ŽI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 174,
+  "stress": "*A*rapin",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 175,
+  "stress": "a*RAP*kinja",
+  "gender": "(f)"
+ },
+ {
+  "id": 176,
+  "stress": "a*RE*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 177,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 178,
+  "stress": "argen*TI*na",
+  "gender": "(f)"
+ },
+ {
+  "id": 179,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 180,
+  "stress": "argumen*TO*vati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 181,
+  "stress": "arhe*O*log",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim) (g->z)"
+ },
+ {
+  "id": 182,
+  "gender": "(m)",
+  "resolves": "(+a)",
+  "note": "the (+a?) is right — Gen. pl. is arhitekata."
+ },
+ {
+  "id": 183,
+  "stress": "arhi*TEK*ta",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "masculine but declines like a feminine noun (arhitekte, arhitekti), same pattern as kolega and sudija."
+ },
+ {
+  "id": 184,
+  "stress": "arhitek*TU*ra",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 185,
+  "stress": "*AR*hiv",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "there's also arhiva (f), which is the collection of documents itself — arhiv (m) leans more toward the institution or the building."
+ },
+ {
+  "id": 186,
+  "stress": "aro*GAN*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 187,
+  "gender": "(m)",
+  "resolves": "(a)",
+  "note": "Gen. pl. is artikala, so the (a) holds. Two other things: artikal isn't Croatian-only — it's normal in Serbia and Bosnia too, and the Croatian form is usually artikl. And it's an item/product for sale, whereas predmet is more an object, or a subject at school — the rel: may be doing more work than it should."
+ },
+ {
+  "id": 188,
+  "stress": "ar*ME*nija",
+  "gender": "(f)"
+ },
+ {
+  "id": 189,
+  "stress": "artilje*RI*ja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 190,
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 191,
+  "stress": "aspi*RI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 192,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 194,
+  "stress": "a*TLE*ta",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "masculine, declines like a feminine noun",
+  "note": "answering the (ME?): yes — atleta is masculine but takes the -a declension (atlete, atleti), like kolega and sudija. Croatian usually says atletičar instead."
+ },
+ {
+  "id": 195,
+  "stress": "a*TLE*tika",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 196,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 197,
+  "stress": "atrak*TI*van",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 198,
+  "stress": "a*TRO*fija",
+  "gender": "(f)"
+ },
+ {
+  "id": 199,
+  "pos": "(adj)",
+  "note": "atrofiran is an adjective (a past passive participle), not a noun — the (Noun) marker looks like a slip carried down from the entry above."
+ },
+ {
+  "id": 200,
+  "stress": "au*DI*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 201,
+  "stress": "audi*JEN*cija",
+  "gender": "(f)"
+ },
+ {
+  "id": 202,
+  "gender": "(f)"
+ },
+ {
+  "id": 203,
+  "stress": "au*STRA*lija",
+  "gender": "(f)"
+ },
+ {
+  "id": 204,
+  "stress": "*AU*strija",
+  "gender": "(f)"
+ },
+ {
+  "id": 205,
+  "stress": "auten*TI*čan",
+  "declension": "(a)"
+ },
+ {
+  "id": 207,
+  "gender": "(m)"
+ },
+ {
+  "id": 208,
+  "note": "this is a duplicate of the Australija entry a few lines up — same word, same gloss."
+ },
+ {
+  "id": 209,
+  "stress": "australi*JA*nac",
+  "gender": "(m)"
+ },
+ {
+  "id": 210,
+  "stress": "australi*JAN*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 213,
+  "note": "duplicate of the Austrija entry above."
+ },
+ {
+  "id": 214,
+  "gender": "(m)"
+ },
+ {
+  "id": 215,
+  "pos": "(adj)"
+ },
+ {
+  "id": 216,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 218,
+  "stress": "*AU*to",
+  "pos": "(Noun)",
+  "example": "gde si parkirao auto? - where did you park the car?"
+ },
+ {
+  "id": 219,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "idem autobusom na posao - I take the bus to work"
+ },
+ {
+  "id": 220,
+  "stress": "auto*CES*ta",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(na/s)",
+  "note": "the hunch is right — na autocesti / na autocestu, and s(a) autoceste when you come off it. The Serbian word for the same thing is autoput."
+ },
+ {
+  "id": 222,
+  "stress": "auto*MO*bil",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 223,
+  "stress": "*AU*tor",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "resolves": "(m)",
+  "note": "answering the (male?): autor is the plain masculine form, and it also does duty as the generic term for an author of either sex. The female-specific forms are the two entries below."
+ },
+ {
+  "id": 224,
+  "stress": "au*TO*rica",
+  "gender": "(f)"
+ },
+ {
+  "id": 225,
+  "stress": "au*TOR*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 226,
+  "stress": "avan*TU*ra",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 227,
+  "stress": "*AV*gust",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 228,
+  "stress": "avija*TI*čar",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(Anim)",
+  "note": "animate for sure (vidim avijatičara). The (a?) can come off though — -ar nouns just take the ordinary -a in the Gen. pl. (avijatičara), there's no fleeting a to mark."
+ },
+ {
+  "id": 229,
+  "gender": "(m)",
+  "example": "avion polijeće za sat vremena - the plane takes off in an hour",
+  "note": "worth double-checking this one against your own pronunciation: avi*ON* puts the stress on the final syllable, which is unusual. The standard is avìōn — stress on the i, i.e. a*VI*on."
+ },
+ {
+  "id": 231,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "declension": "(k->c)",
+  "example": "srpska azbuka ima trideset slova - the Serbian Cyrillic alphabet has thirty letters"
+ },
+ {
+  "id": 233,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 234,
+  "gender": "(m)",
+  "note": "same as avijatičar — (Anim) is right, but the (a?) isn't needed: Gen. pl. is just Azijata."
+ },
+ {
+  "id": 235,
+  "stress": "*A*zil",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 236,
+  "pos": "(adj)"
+ },
+ {
+  "id": 237,
+  "stress": "*AŽ*daja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 238,
+  "stress": "*BA*ba",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 239,
+  "stress": "*BA*bica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 240,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "babine",
+  "note": "this looks like a typo for babine — the lying-in period after childbirth, and by extension the visit/celebration for a newborn. It's alphabetized here between babica and bacač, which fits babine and not bibine."
+ },
+ {
+  "id": 241,
+  "stress": "*BA*cač",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 242,
+  "stress": "ažu*RI*rati",
+  "pos": "(Verb)",
+  "note": "out of alphabetical order — ažurirati belongs back at the end of the A words, right after aždaja."
+ },
+ {
+  "id": 243,
+  "resolves": "*BA*cati",
+  "pos": "(Verb)",
+  "note": "filling in the |?|: bacati is stressed on the first syllable, matching baciti on the next line."
+ },
+ {
+  "id": 244,
+  "pos": "(Verb)",
+  "example": "baci to u kantu - throw that in the bin"
+ },
+ {
+  "id": 245,
+  "stress": "*BAČ*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 246,
+  "stress": "*BAČ*va",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 247,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 248,
+  "stress": "*BAD*njak",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "Badnjak is also the name of the day — Badnji dan / Badnje veče is Christmas Eve, which for the Orthodox falls on 6 January."
+ },
+ {
+  "id": 249,
+  "stress": "*BA*ger",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 250,
+  "stress": "*BA*jat"
+ },
+ {
+  "id": 251,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 252,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 253,
+  "stress": "*BA*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "moja baka pravi najbolju pitu - my grandma makes the best pita"
+ },
+ {
+  "id": 256,
+  "stress": "*BA*kar",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 257,
+  "stress": "*BAK*lja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 259,
+  "stress": "*BAK*šiš",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 260,
+  "stress": "bak*TE*rija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 261,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 262,
+  "stress": "*BA*la",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 263,
+  "stress": "*BAL*kan",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 264,
+  "pos": "(adj)",
+  "note": "adjectives are lowercase in Bosnian/Croatian/Serbian even when the noun isn't — balkanski, not Balkanski. (bosanski, beogradski etc. are lowercase elsewhere, so this one is just inconsistent.)"
+ },
+ {
+  "id": 265,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 266,
+  "stress": "ba*NA*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 267,
+  "stress": "*BA*nat",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 268,
+  "gender": "(f)",
+  "note": "most often written as two words, Banja Luka — the one-word Banjaluka is also common and accepted, so this isn't wrong, just worth being consistent about."
+ },
+ {
+  "id": 269,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "banka radi do pet - the bank is open until five"
+ },
+ {
+  "id": 270,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 271,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "gde ima bankomat u blizini? - where's an ATM nearby?"
+ },
+ {
+  "id": 272,
+  "stress": "*BA*ra",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 273,
+  "stress": "*BA*rem"
+ },
+ {
+  "id": 274,
+  "stress": "*BAR*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(k->c)",
+  "note": "DL sg. is barci, so the (k->c) holds. The (+a?) can come off — Gen. pl. is barki, no inserted a."
+ },
+ {
+  "id": 275,
+  "example": "baš mi je drago - I'm really glad"
+ },
+ {
+  "id": 276,
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "missing diacritic — should be bašta."
+ },
+ {
+  "id": 277,
+  "stress": "*BAŠ*tina",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "baština is heritage in the inherited-legacy sense — kulturna baština is the standard phrase for cultural heritage. The older, more literal meaning is inherited land."
+ },
+ {
+  "id": 278,
+  "stress": "*BA*tak",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(k->c)",
+  "note": "plural is bataci, so the (k->c?) holds."
+ },
+ {
+  "id": 279,
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 280,
+  "stress": "*BA*viti se",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "example": "čime se baviš? - what do you do (for a living)?"
+ },
+ {
+  "id": 281,
+  "note": "worth flagging in the entry: standard usage is a bare instrumental with no preposition — baviti se sportom, not baviti se sa sportom. The sa version is colloquial and gets corrected."
+ },
+ {
+  "id": 282,
+  "stress": "*BA*zen",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 283,
+  "stress": "*BE*ba",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 284,
+  "gender": "(m)",
+  "resolves": "(o)",
+  "note": "tricky one. Beč ends in a soft consonant, which would normally give -em, but the stem vowel is already e and the dissimilation rule kicks in, giving Bečom. So this is (o), not (e). Same rule that gives padežom rather than padežem — worth confirming with a native speaker."
+ },
+ {
+  "id": 285,
+  "stress": "*BE*dan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 286,
+  "stress": "*BE*dem",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 287,
+  "gender": "(m)",
+  "note": "beg in the \"flight/escape\" sense is basically singular-only; the plural you'll actually hear, begovi, mostly belongs to the other beg — a bey, the Ottoman-era landowner title, which is all over Bosnian history and surnames."
+ },
+ {
+  "id": 288,
+  "stress": "be*GU*nac",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "English typo — \"fugative\" should be fugitive."
+ },
+ {
+  "id": 289,
+  "stress": "be*LEŽ*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 290,
+  "stress": "*BEL*gija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 291,
+  "stress": "belgi*JA*nac",
+  "gender": "(m)"
+ },
+ {
+  "id": 292,
+  "pos": "(adj)"
+ },
+ {
+  "id": 293,
+  "stress": "*BEN*zin",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "moram da sipam benzin - I need to get gas"
+ },
+ {
+  "id": 294,
+  "pos": "(adj)",
+  "example": "obukao je belu košulju - he put on a white shirt"
+ },
+ {
+  "id": 295,
+  "stress": "be*O*grad",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 296,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "missing diacritic — Beograđanin (and Beograđanka on the next line)."
+ },
+ {
+  "id": 297,
+  "gender": "(f)",
+  "note": "the gloss is cut off — \"female resident of BG\"."
+ },
+ {
+  "id": 298,
+  "pos": "(adj)"
+ },
+ {
+  "id": 299,
+  "stress": "ber*BE*rin",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "the -in drops in the plural: berberi, berbera. Croatian would say brijač or frizer."
+ },
+ {
+  "id": 300,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 301,
+  "stress": "be*SE*diti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 302,
+  "stress": "be*SJE*diti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 303,
+  "stress": "bes*KRA*jan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 305,
+  "stress": "bes*MR*tan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 306,
+  "pos": "(Noun)"
+ },
+ {
+  "id": 307,
+  "stress": "bes*PLA*tan",
+  "pos": "(adj)",
+  "example": "ulaz je besplatan - entry is free"
+ },
+ {
+  "id": 308,
+  "stress": "bespo*MO*ćan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 309,
+  "stress": "bespo*ŠTE*dan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 310,
+  "stress": "bes*VES*tan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 311,
+  "example": "kafa bez šećera - coffee without sugar"
+ },
+ {
+  "id": 313,
+  "stress": "*BEZ*dan",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 314,
+  "stress": "bezu*SLO*van",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 315,
+  "stress": "bezu*VJE*tan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 316,
+  "stress": "*BI*ber",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 317,
+  "stress": "*BI*blija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 318,
+  "stress": "biblio*TE*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 319,
+  "stress": "*BI*cikl",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "vozim bicikl svaki dan - I ride my bike every day"
+ },
+ {
+  "id": 320,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 321,
+  "stress": "*BI*čati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "note": "the standard verb is bičevati (bičujem) — bičati is the colloquial form. Worth noting which one Elder Stanley actually used."
+ },
+ {
+  "id": 322,
+  "stress": "*BI*će",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "yes — a being, a creature",
+  "note": "biće is right: a being or creature (ljudsko biće = human being). The reason it looks odd is that it's also the 3rd sg. future of biti — \"he/she/it will be\" — so the same string turns up constantly doing a completely different job."
+ },
+ {
+  "id": 323,
+  "note": "the trailing \"bijati odbijati razbijati ubijati\" looks like a stray branch list that got merged into this entry when the PDF was pulled apart. The same thing happens at nije bitno further down."
+ },
+ {
+  "id": 324,
+  "stress": "*BIJE*da",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 325,
+  "stress": "*BIJE*dan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 326,
+  "pos": "(adj)",
+  "example": "snijeg je bijel - the snow is white"
+ },
+ {
+  "id": 327,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 328,
+  "stress": "*BIJE*san",
+  "pos": "(adj)"
+ },
+ {
+  "id": 330,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 331,
+  "note": "the parenthesis is unbalanced and the line reads like it lost some words — \"(the endings for this still change according to gender)\". The full storybook opener is usually bila jednom jedna..."
+ },
+ {
+  "id": 332,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "worth a warning line here, because the scales don't line up. Croatian bilijun and Serbian bilion are both 10^12, which is what Americans call a trillion — but local trilion is 10^18, not 10^12. So bilijun = American trillion, and trilion does not."
+ },
+ {
+  "id": 333,
+  "stress": "bi*LJEŽ*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 334,
+  "stress": "*BILJ*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 335,
+  "pos": "(adj)"
+ },
+ {
+  "id": 336,
+  "note": "the actual grammar point hiding behind the joke, in case it's useful: bilo combines with question words to make the \"any-\" series — bilo ko / bilo tko (anyone), bilo šta / bilo što (anything), bilo gdje (anywhere), bilo kad (anytime), bilo kako (anyhow). That's what the (rel: god) is pointing at, since ko god / šta god does the same job."
+ },
+ {
+  "id": 337,
+  "stress": "bi*O*log",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim) (g->z)"
+ },
+ {
+  "id": 338,
+  "stress": "biolo*GI*ja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 339,
+  "stress": "bi*O*skop",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "idemo u bioskop večeras - we're going to the movies tonight"
+ },
+ {
+  "id": 340,
+  "pos": "(Verb)"
+ },
+ {
+  "id": 341,
+  "stress": "*BI*ser",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 342,
+  "stress": "*BI*tan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 343,
+  "note": "same as at Bihać — the trailing \"biti pobiti probiti razbiti ubiti zabiti\" looks like a stray branch list that got merged into the entry."
+ },
+ {
+  "id": 344,
+  "pos": "(Verb)",
+  "resolves": "the pobiti / ubiti branches belong to the other biti",
+  "note": "there are two verbs spelled biti and they're worth separating: biti \"to be\" (jesam / sam, biću, bio) and biti \"to beat, to strike\" (bijem, biješ). Pobiti, ubiti, razbiti, probiti all come from the second one, not from \"to be\" — which also explains the stray list up at nije bitno.",
+  "example": "gdje si bio juče? - where were you yesterday?"
+ },
+ {
+  "id": 345,
+  "stress": "*BIT*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 346,
+  "stress": "*BI*vati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 347,
+  "stress": "*BIV*ši",
+  "pos": "(adj)"
+ },
+ {
+  "id": 348,
+  "stress": "*BJE*lji",
+  "pos": "(adj)"
+ },
+ {
+  "id": 349,
+  "stress": "*BJE*žati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 351,
+  "pos": "(adv)"
+ },
+ {
+  "id": 352,
+  "gender": "(f)",
+  "resolves": "bla*GAJ*na",
+  "note": "the guess is right — stress on -gaj-, so the question mark can come off."
+ },
+ {
+  "id": 353,
+  "stress": "bla*GAJ*nik",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 354,
+  "stress": "*BLA*go",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 355,
+  "pos": "(Verb)",
+  "resolves": "blagosiljati",
+  "note": "blagosijati looks like a typo — the Ekavian/Serbian imperfective is blagosiljati (blagosiljam, blagosiljaš), paired with the perfective blagosloviti two lines down."
+ },
+ {
+  "id": 356,
+  "pos": "(Verb)",
+  "note": "usually spelled blagoslivljati in Croatian — no j between the lj and the following vowel."
+ },
+ {
+  "id": 357,
+  "pos": "(Verb)"
+ },
+ {
+  "id": 358,
+  "stress": "blago*STA*nje",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 359,
+  "stress": "blagova*O*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 360,
+  "pos": "(adj)"
+ },
+ {
+  "id": 361,
+  "stress": "*BLA*tan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 362,
+  "stress": "*BLA*to",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 363,
+  "stress": "*BLA*žen",
+  "pos": "(adj)"
+ },
+ {
+  "id": 364,
+  "stress": "*BLE*sav"
+ },
+ {
+  "id": 365,
+  "stress": "*BLIS*tati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 366,
+  "stress": "*BLI*zak",
+  "pos": "(adj)"
+ },
+ {
+  "id": 367,
+  "stress": "bli*ZI*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 368,
+  "stress": "*BLI*zu",
+  "example": "škola je blizu kuće - the school is near the house"
+ },
+ {
+  "id": 369,
+  "stress": "*BLI*ži",
+  "pos": "(adj)"
+ },
+ {
+  "id": 370,
+  "stress": "*BLI*žiti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "note": "in practice this is almost always reflexive — bližiti se. Zima se bliži = winter is coming."
+ },
+ {
+  "id": 371,
+  "pos": "(Verb)"
+ },
+ {
+  "id": 372,
+  "stress": "*BLU*za",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 373,
+  "stress": "*BO*ca",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "vratio je praznu bocu - he returned the empty bottle"
+ },
+ {
+  "id": 374,
+  "stress": "*BOC*nuti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 375,
+  "stress": "*BO*dež",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 376,
+  "pos": "(adj)"
+ },
+ {
+  "id": 377,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "hvala Bogu - thank God"
+ },
+ {
+  "id": 380,
+  "pos": "(adj)"
+ },
+ {
+  "id": 381,
+  "stress": "*BO*gat",
+  "pos": "(adj)"
+ },
+ {
+  "id": 382,
+  "stress": "bo*GAT*stvo",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 383,
+  "stress": "bogoslo*VI*ja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 384,
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 385,
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 387,
+  "stress": "*BO*ja",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "koja ti je omiljena boja? - what's your favorite color?"
+ },
+ {
+  "id": 388,
+  "stress": "*BO*jati se",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "example": "ne boj se - don't be afraid"
+ },
+ {
+  "id": 389,
+  "pos": "(excl)",
+  "example": "bok, kako si? - hi, how are you?"
+ },
+ {
+  "id": 390,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 391,
+  "stress": "*BO*kal",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 392,
+  "note": "bol is masculine in ordinary use (jak bol, taj bol), but there's also a feminine i-stem bol (bol, boli), which shows up especially in the plural boli and in Croatian. That double life is probably what the (Ir) is really about, and it's worth spelling out."
+ },
+ {
+  "id": 393,
+  "stress": "*BO*lan",
+  "pos": "(adj)",
+  "note": "worth a separate line: bolan is also the all-purpose Bosnian filler/address word — šta radiš, bolan? — completely unrelated to \"painful\". Missionaries hear it constantly and mis-parse it."
+ },
+ {
+  "id": 395,
+  "stress": "*BO*lest",
+  "pos": "(Noun)"
+ },
+ {
+  "id": 396,
+  "resolves": "*BO*lestan",
+  "note": "stress on BO is right — the question mark can come off. The feminine is bolesna, with the a dropping, which is what the (a) is marking.",
+  "example": "bolestan sam, ne mogu da dođem - I'm sick, I can't come"
+ },
+ {
+  "id": 397,
+  "pos": "(adj)"
+ },
+ {
+  "id": 398,
+  "stress": "bo*LE*ti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "example": "boli me glava - I have a headache"
+ },
+ {
+  "id": 399,
+  "stress": "*BO*lji",
+  "pos": "(adj)"
+ },
+ {
+  "id": 400,
+  "stress": "*BOL*nica",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "odveli su ga u bolnicu - they took him to the hospital"
+ },
+ {
+  "id": 401,
+  "stress": "bol*NI*čar",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 402,
+  "stress": "bolni*ČAR*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 403,
+  "pos": "(adj)"
+ },
+ {
+  "id": 404,
+  "stress": "*BOM*ba",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 405,
+  "gender": "(m)",
+  "note": "check the spelling on the pair: the Croatian/Bosnian form is bombon (m) and the Serbian is bombona (f) — both with mb, not nb. The next entry is written bonbona."
+ },
+ {
+  "id": 406,
+  "gender": "(f)",
+  "note": "see the entry above — this is normally spelled bombona, with m before the b."
+ },
+ {
+  "id": 407,
+  "pos": "(adv)"
+ },
+ {
+  "id": 408,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 409,
+  "stress": "bora*NI*ja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 410,
+  "stress": "*BO*ravak",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 411,
+  "note": "in this sense boravak is the residence permit itself — privremeni boravak is a temporary residence permit. Strictly speaking that's not a visa; a visa is viza."
+ },
+ {
+  "id": 412,
+  "stress": "bora*VIŠ*te",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 413,
+  "stress": "bo*RA*viti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 414,
+  "stress": "*BOR*ba",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 415,
+  "stress": "*BO*riti se",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 416,
+  "stress": "bo*SA*nac",
+  "gender": "(m)"
+ },
+ {
+  "id": 417,
+  "stress": "bo*SAN*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 418,
+  "stress": "bo*SAN*ski"
+ },
+ {
+  "id": 420,
+  "stress": "*BOS*ti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 422,
+  "stress": "*BOŠ*njak",
+  "gender": "(m)",
+  "note": "worth spelling out the difference, because it matters a lot to people there: Bošnjak is the ethnicity (a Bosniak, historically Muslim), while Bosanac is anyone from Bosnia regardless of ethnicity or religion. Calling a Bosnian Serb or Croat a Bošnjak will land badly."
+ },
+ {
+  "id": 423,
+  "stress": "boš*NJA*kinja",
+  "gender": "(f)"
+ },
+ {
+  "id": 424,
+  "pos": "(adj)",
+  "note": "this is the same word as Božji a few entries up — capitalized when it refers to God, lowercase otherwise. Serbian also spells it božiji. Might be worth merging the two entries."
+ },
+ {
+  "id": 425,
+  "stress": "*BO*žić",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "Srećan Božić! - Merry Christmas!"
+ },
+ {
+  "id": 427,
+  "stress": "*BRAČ*ni",
+  "pos": "(adj)"
+ },
+ {
+  "id": 429,
+  "gender": "(f)",
+  "note": "braća is a collective noun — grammatically feminine singular, which is what the (F) is flagging (braća je došla, moja braća). Note it means brothers generally, not only \"brethren\" in the church sense."
+ },
+ {
+  "id": 430,
+  "resolves": "double bed",
+  "note": "this one's backwards — bračni krevet is a double bed (literally a marital bed). A twin/single bed would be a jednokrevetni / krevet za jednu osobu."
+ },
+ {
+  "id": 431,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "oni su u braku deset godina - they've been married ten years"
+ },
+ {
+  "id": 432,
+  "stress": "*BRA*niti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 434,
+  "stress": "*BRA*ti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 435,
+  "stress": "*BRA*tić",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 436,
+  "stress": "*BRA*va",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 437,
+  "stress": "*BRA*zil",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 438,
+  "stress": "bra*ZI*lac",
+  "gender": "(m)"
+ },
+ {
+  "id": 439,
+  "stress": "bra*ZIL*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 440,
+  "pos": "(adj)"
+ },
+ {
+  "id": 441,
+  "stress": "*BR*do",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 442,
+  "stress": "*BR*dovit"
+ },
+ {
+  "id": 443,
+  "stress": "*BRE*me",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 444,
+  "stress": "*BRES*kva",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 445,
+  "gender": "(m)"
+ },
+ {
+  "id": 446,
+  "stress": "*BRI*ga",
+  "gender": "(f)",
+  "declension": "(g->z)",
+  "example": "nema brige - no worries"
+ },
+ {
+  "id": 447,
+  "stress": "*BRI*jač",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 448,
+  "stress": "*BRI*jati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 450,
+  "stress": "*BRI*nuti (se)",
+  "pos": "(Verb)",
+  "example": "ne brini, sve će biti u redu - don't worry, everything will be fine"
+ },
+ {
+  "id": 451,
+  "stress": "*BRI*sač",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 453,
+  "stress": "*BRI*sati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 454,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 455,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "worth adding the Gen. pl.: brkova. And the singular brk really is one whisker or one side of the moustache, which is what makes the plural obligatory here."
+ },
+ {
+  "id": 456,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "brod polazi u podne - the ship leaves at noon"
+ },
+ {
+  "id": 457,
+  "stress": "*BRO*dić",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 458,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "koji je tvoj broj telefona? - what's your phone number?"
+ },
+ {
+  "id": 459,
+  "stress": "*BROJ*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "on the meaning as much as the endings: brojka is a figure or digit — the written numeral — while broj is the number itself. Gen. pl. brojki is the commoner form, so (+a) isn't required."
+ },
+ {
+  "id": 460,
+  "stress": "*BRO*jan",
+  "declension": "(a)"
+ },
+ {
+  "id": 462,
+  "pos": "(adv)",
+  "example": "dođi brzo - come quickly"
+ },
+ {
+  "id": 464,
+  "stress": "br*ZI*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 465,
+  "stress": "*BR*ži"
+ },
+ {
+  "id": 466,
+  "pos": "(adj)",
+  "note": "the citation form would be bucmast (masculine) — bucmasta is the feminine. Everything else in the letter is listed in the masculine."
+ },
+ {
+  "id": 467,
+  "stress": "*BU*banj",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 468,
+  "stress": "*BU*breg",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 469,
+  "stress": "*BU*čan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 470,
+  "stress": "bu*DA*la",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "grammatically feminine but used for men just as much as women — on je budala."
+ },
+ {
+  "id": 471,
+  "stress": "budim*PEŠ*ta",
+  "gender": "(f)"
+ },
+ {
+  "id": 472,
+  "stress": "*BU*diti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 474,
+  "stress": "bu*DI*lica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 475,
+  "stress": "bu*DIL*nik",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 476,
+  "stress": "*BU*dući",
+  "resolves": "no near/far distinction",
+  "note": "answering the (Near future?): budući is just the adjective \"future, coming\" — buduća žena, buduće generacije. There's no near-vs-far split between this and budućnost; one's an adjective and one's a noun."
+ },
+ {
+  "id": 478,
+  "stress": "bu*DUĆ*nost",
+  "pos": "(Noun)",
+  "resolves": "no near/far distinction",
+  "note": "same as above — budućnost is simply \"the future\" as a noun. No far-future implication."
+ },
+ {
+  "id": 479,
+  "stress": "*BU*garska",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 480,
+  "stress": "*BU*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "check the DL sg. — buka gives buci (k→c), not busi. Busi would have to come from a stem in -h or -s."
+ },
+ {
+  "id": 481,
+  "stress": "*BU*ket",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 482,
+  "stress": "*BUK*tinja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 483,
+  "stress": "*BU*jan",
+  "pos": "(adj)"
+ },
+ {
+  "id": 484,
+  "stress": "*BU*nar",
+  "gender": "(m)"
+ },
+ {
+  "id": 485,
+  "stress": "bu*ŠI*lica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 486,
+  "stress": "*BU*šiti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 487,
+  "pos": "(adj)",
+  "note": "this is the diacritic-less spelling — the headword should be čađav, which is what the rel: already points to. Possibly a duplicate to fold in."
+ },
+ {
+  "id": 488,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 489,
+  "stress": "*CA*rica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 490,
+  "stress": "*CA*rina",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 491,
+  "stress": "carin*AR*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 492,
+  "stress": "ca*RI*nik",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(k->c)"
+ },
+ {
+  "id": 493,
+  "pos": "(adj)"
+ },
+ {
+  "id": 494,
+  "stress": "*CAR*stvo",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 495,
+  "stress": "*CE*diti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 496,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 497,
+  "stress": "ce*LI*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 498,
+  "stress": "celo*KU*pan",
+  "declension": "(a)"
+ },
+ {
+  "id": 499,
+  "stress": "ce*LO*vit"
+ },
+ {
+  "id": 500,
+  "stress": "*CE*na",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "kolika je cena? - how much does it cost?"
+ },
+ {
+  "id": 501,
+  "stress": "*CE*niti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 502,
+  "pos": "(Verb)",
+  "resolves": "cenkati se",
+  "note": "the Ekavian spelling has no j — cenkati se. The j only belongs in the Ijekavian form cjenkati se further down, so the headword here should probably be cenkati se."
+ },
+ {
+  "id": 503,
+  "stress": "*CEN*tar",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "idemo u centar grada - we're going downtown"
+ },
+ {
+  "id": 504,
+  "stress": "centrali*ZA*cija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 505,
+  "pos": "(adj)"
+ },
+ {
+  "id": 506,
+  "stress": "ce*RE*kati se",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 507,
+  "stress": "cere*MO*nija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 508,
+  "stress": "ce*PA*nje",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 509,
+  "stress": "*CE*pati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 510,
+  "stress": "*CE*o",
+  "pos": "(adj)"
+ },
+ {
+  "id": 511,
+  "stress": "*CES*ta",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 512,
+  "resolves": "not a separate word — it's the plural (and Gen. sg.) of cesta",
+  "note": "ceste is just cesta inflected: Gen. sg. ceste, Nom./Acc. pl. ceste. It has nothing to do with \"highway\" specifically — that's autocesta / autoput. Probably safe to delete this entry."
+ },
+ {
+  "id": 513,
+  "pos": "(adj)",
+  "note": "heads-up worth putting in the book: Ciganin / ciganski is widely considered a slur now. The accepted terms are Rom (m), Romkinja (f), romski (adj). Same goes for the two related entries below."
+ },
+ {
+  "id": 514,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "see the note on ciganski — Rom / Romkinja is the term people use and prefer."
+ },
+ {
+  "id": 515,
+  "gender": "(f)",
+  "note": "the stress here is written in a different format from the rest of the book — \"cigaREta\" instead of |ciga*RE*ta|. The same thing happens at cipela and civilizacija a few lines down; worth normalizing before typesetting."
+ },
+ {
+  "id": 516,
+  "gender": "(f)"
+ },
+ {
+  "id": 517,
+  "stress": "*CI*gla",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 518,
+  "gender": "(f)",
+  "note": "spelling — should be Ciganka, no n in the middle. And the same terminology caveat as above (Romkinja)."
+ },
+ {
+  "id": 520,
+  "stress": "*CIK*lama",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 521,
+  "stress": "*CIK*lus",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 522,
+  "stress": "*CIK*nuti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 523,
+  "stress": "ci*LIN*dar",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 524,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "koji ti je cilj? - what's your goal?"
+ },
+ {
+  "id": 525,
+  "stress": "*CI*ljati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 526,
+  "stress": "*CI*mer",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 527,
+  "stress": "*CI*merka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 528,
+  "stress": "*CI*met",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 529,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 530,
+  "gender": "(f)",
+  "note": "same formatting issue as cigareta — \"CIpela*\" instead of |*CI*pela|."
+ },
+ {
+  "id": 531,
+  "stress": "*CIS*ta",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 532,
+  "stress": "*CI*tat",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "no (a) needed",
+  "note": "citat has no fleeting a — Gen. sg. citata, Gen. pl. citata. The (a?) can come off."
+ },
+ {
+  "id": 533,
+  "stress": "ci*TI*rati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 534,
+  "stress": "*CI*vil",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 535,
+  "stress": "*CI*vilan",
+  "declension": "(a)"
+ },
+ {
+  "id": 536,
+  "gender": "(f)",
+  "note": "third instance of the alternate stress format — \"civiliZAcija\" instead of |civili*ZA*cija|."
+ },
+ {
+  "id": 537,
+  "gender": "(f)"
+ },
+ {
+  "id": 539,
+  "pos": "(Noun)"
+ },
+ {
+  "id": 540,
+  "stress": "*CI*o",
+  "pos": "(adj)"
+ },
+ {
+  "id": 541,
+  "stress": "ci*PE*lica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 542,
+  "pos": "(adv)",
+  "note": "missing diacritics — should be čisto (and čist in the rel:). Likely a duplicate of the čist / čisto entries at the end of the letter."
+ },
+ {
+  "id": 543,
+  "stress": "*CJE*diljka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 544,
+  "stress": "*CJE*dilo",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 545,
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "the head of the phrase is učenje, so it's neuter — cjeloživotno učenje, cjeloživotnog učenja. The Ekavian equivalent is celoživotno učenje."
+ },
+ {
+  "id": 546,
+  "stress": "cje*LI*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 547,
+  "pos": "(adj)",
+  "note": "the citation form is cjelovit (indefinite) — cjeloviti is the definite form. The Ekavian counterpart celovit is already listed above in its indefinite form, so these two don't currently match."
+ },
+ {
+  "id": 548,
+  "stress": "*CJEN*kati se",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "resolves": "(Bos) (Hrv)",
+  "note": "cjenkati se is simply the Ijekavian form, so Bosnian, Croatian and Montenegrin; the Ekavian is cenkati se (no j — see the note on that entry). Nothing dialectal beyond the standard ije/e split."
+ },
+ {
+  "id": 549,
+  "stress": "cjepi*DLA*čiti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "note": "the noun is much commoner than the verb — cjepidlaka, a nitpicker. Literally \"hair-splitter\", same image as in English."
+ },
+ {
+  "id": 550,
+  "stress": "*CJE*pivo",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "the Serbian/Ekavian word is vakcina — cjepivo is the Croatian one, and Bosnian uses both."
+ },
+ {
+  "id": 551,
+  "note": "two things. The headword is missing its diacritics — čokolada — and it's a duplicate of the čokolada entry further down. Also, this whole run from cokolada through corba is tagged green, but none of them are city names or question words; the green looks like it got applied to the block by accident."
+ },
+ {
+  "id": 552,
+  "note": "missing diacritic — should be čokot."
+ },
+ {
+  "id": 553,
+  "note": "the English gloss is missing — the line reads \"cool | kul |\", which looks like \"kul\" was meant as the pronunciation and the definition dropped out."
+ },
+ {
+  "id": 554,
+  "note": "missing diacritic — should be čopor."
+ },
+ {
+  "id": 555,
+  "note": "missing diacritic — should be čorba. It's also duplicated two lines down, and again with the correct spelling at the end of the letter."
+ },
+ {
+  "id": 556,
+  "note": "this one needs ć, not č — ćorav, which is what the rel: already points to."
+ },
+ {
+  "id": 557,
+  "note": "duplicate of the corba entry two lines up, and of čorba later on."
+ },
+ {
+  "id": 558,
+  "stress": "cr*KA*vati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 559,
+  "stress": "*CRK*va",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "crkva je na kraju ulice - the church is at the end of the street"
+ },
+ {
+  "id": 560,
+  "stress": "*CRK*nuti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 562,
+  "pos": "(adj)",
+  "example": "ima crnu kosu - he has black hair"
+ },
+ {
+  "id": 563,
+  "note": "capitalization — Crna Gora, both words capitalized, since it's the country. Lowercase crna gora would just be \"black mountain\"."
+ },
+ {
+  "id": 564,
+  "stress": "*CR*nac",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 565,
+  "stress": "cr*NI*lo",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 566,
+  "stress": "*CR*niti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 569,
+  "stress": "*CRN*kinja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 571,
+  "pos": "(adj)"
+ },
+ {
+  "id": 572,
+  "stress": "crno*GOR*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "yes — Crnogorka is the Montenegrin woman",
+  "note": "the question mark can come off. Gen. pl. is Crnogorki, so (+a) isn't needed, and the -rk- cluster blocks k→c in the DL sg. (Crnogorki, not Crnogorci)."
+ },
+ {
+  "id": 573,
+  "stress": "crno*GO*rac",
+  "gender": "(m)"
+ },
+ {
+  "id": 575,
+  "stress": "*CR*ta",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 576,
+  "note": "the word people actually use is the definite form crtani — crtani film is a cartoon, and kids just say crtani or crtaći. Bare crtan doesn't stand on its own."
+ },
+ {
+  "id": 577,
+  "stress": "*CR*tanje",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 578,
+  "stress": "*CR*tati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 579,
+  "pos": "(Noun)"
+ },
+ {
+  "id": 580,
+  "stress": "*CR*ven",
+  "pos": "(adj)",
+  "example": "ova jabuka je crvena - this apple is red"
+ },
+ {
+  "id": 581,
+  "stress": "crve*NE*ti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 582,
+  "stress": "crve*NI*lo",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 583,
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "the bird is crvendać, with ć at the end rather than č."
+ },
+ {
+  "id": 584,
+  "stress": "*CRV*ljiv",
+  "pos": "(adj)"
+ },
+ {
+  "id": 585,
+  "stress": "crvo*TO*čan",
+  "declension": "(a)"
+ },
+ {
+  "id": 586,
+  "stress": "crvoto*ČI*na",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "the everyday meaning is worm damage in wood — a worm-hole in a beam. The sci-fi wormhole sense is a direct calque and much rarer."
+ },
+ {
+  "id": 587,
+  "stress": "*CU*ra",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "on ima curu - he has a girlfriend"
+ },
+ {
+  "id": 588,
+  "stress": "*CVI*liti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 589,
+  "stress": "*CVI*ljenje",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 590,
+  "pos": "(adj)"
+ },
+ {
+  "id": 591,
+  "pos": "(Pron)",
+  "note": "worth adding: ča is the Chakavian word for \"what\", and it's exactly what gives čakavski its name — the same way kajkavski comes from kaj and štokavski from što."
+ },
+ {
+  "id": 592,
+  "stress": "*ČA*bar",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 593,
+  "stress": "čač*KA*lica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 594,
+  "stress": "*ČAČ*kati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 595,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "hoćeš li čaj ili kafu? - would you like tea or coffee?"
+ },
+ {
+  "id": 596,
+  "pos": "(adv)",
+  "example": "čak i on je došao - even he came"
+ },
+ {
+  "id": 598,
+  "stress": "*CVIJE*će",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "this whole run — cvijeće through cvrkutati — sits after čaj and čak, so it's out of alphabetical order. In BCS ordering c comes before č, so all of these belong up before ča."
+ },
+ {
+  "id": 599,
+  "stress": "*CVJE*ćar",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 600,
+  "stress": "cvje*ĆA*ra",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 601,
+  "stress": "cvje*TA*nje",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 602,
+  "stress": "*CVJE*tati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 603,
+  "pos": "(adj)"
+ },
+ {
+  "id": 604,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 605,
+  "stress": "*CVR*čak",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(k->c)",
+  "note": "the k does change — plural cvrčci, as noted in the entry, which is k→c written after the č."
+ },
+ {
+  "id": 606,
+  "stress": "cvrku*TA*ti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 608,
+  "stress": "*ČA*mac",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(a)",
+  "note": "Gen. pl. is čamaca, so the (a?) holds."
+ },
+ {
+  "id": 609,
+  "stress": "*ČA*miti",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 610,
+  "pos": "(Noun)",
+  "note": "worth checking the gender — čar is feminine in standard use (ta čar, te čari), and the plural čari \"charms\" is what you hear most. Masculine čar does turn up, but it's the minority form."
+ },
+ {
+  "id": 611,
+  "stress": "*ČA*rapa",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "tiny thing — \"stocking ili sock\" still has the Serbo-Croatian ili sitting in the middle of the English gloss."
+ },
+ {
+  "id": 612,
+  "stress": "*ČA*rati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 613,
+  "stress": "ča*RO*ban",
+  "declension": "(a)"
+ },
+ {
+  "id": 614,
+  "stress": "čaro*LI*ja",
+  "gender": "(f)"
+ },
+ {
+  "id": 615,
+  "stress": "ča*ROB*njak",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 616,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "missing diacritic — čaršaf."
+ },
+ {
+  "id": 617,
+  "stress": "*ČAR*šav",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 619,
+  "gender": "(m)",
+  "resolves": "both — a class/lesson, and a moment",
+  "note": "answering the question mark: čas is the standard word in Serbia for a school lesson or class period, and it also means \"a moment, an instant\" (za čas = in a second). The clock-hour sense belongs to sat, not čas.",
+  "example": "imam čas u devet - I have class at nine"
+ },
+ {
+  "id": 620,
+  "stress": "ča*SO*pis",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 621,
+  "pos": "(Noun)",
+  "example": "svaka čast! - well done!"
+ },
+ {
+  "id": 622,
+  "stress": "*ČAS*titi",
+  "pos": "(Verb)",
+  "note": "the everyday use is \"my treat\" — ja častim means I'm paying / the round's on me."
+ },
+ {
+  "id": 623,
+  "stress": "často*LJU*biv",
+  "pos": "(adj)"
+ },
+ {
+  "id": 624,
+  "stress": "*ČA*ša",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "daj mi čašu vode - give me a glass of water"
+ },
+ {
+  "id": 626,
+  "stress": "*ČA*vao",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 628,
+  "gender": "(m)",
+  "declension": "(Anim) (h->s)"
+ },
+ {
+  "id": 629,
+  "stress": "*ČE*hinja",
+  "gender": "(f)"
+ },
+ {
+  "id": 630,
+  "stress": "čehoslo*VAČ*ka",
+  "gender": "(f)"
+ },
+ {
+  "id": 631,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 633,
+  "stress": "*ČE*kati",
+  "pos": "(Verb)",
+  "example": "čekam te ispred zgrade - I'm waiting for you in front of the building"
+ },
+ {
+  "id": 634,
+  "resolves": "čekati odgovor — no na",
+  "note": "two things: the English gloss is missing from this line entirely, and the answer to the question mark is no — čekati takes a bare accusative object, čekam odgovor, exactly as the note on the parent entry says. \"Čekati na\" does exist but it's colloquial and gets marked down."
+ },
+ {
+  "id": 635,
+  "stress": "*ČE*kić",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 636,
+  "stress": "*ČE*kinja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 637,
+  "stress": "*ČE*lo",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "two extras worth having: na čelu means \"at the head of / leading\", and čelo is also the instrument, the cello."
+ },
+ {
+  "id": 638,
+  "stress": "*ČE*mer",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "in everyday use čemer is bitterness, grief, misery rather than literal poison — actual poison is otrov."
+ },
+ {
+  "id": 639,
+  "stress": "če*RU*pati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 640,
+  "stress": "čes*TI*tati",
+  "pos": "(Verb)",
+  "example": "čestitam! - congratulations!"
+ },
+ {
+  "id": 641,
+  "stress": "čes*TIT*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 642,
+  "pos": "(adj)"
+ },
+ {
+  "id": 645,
+  "pos": "(adv)",
+  "example": "često idemo tamo - we often go there"
+ },
+ {
+  "id": 646,
+  "pos": "(Verb)",
+  "note": "missing diacritic — češljati. It's also a duplicate of the češljati entry four lines down."
+ },
+ {
+  "id": 647,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "note": "missing diacritic — češnjak."
+ },
+ {
+  "id": 648,
+  "stress": "*ČE*šalj",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 649,
+  "stress": "*ČE*šati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 650,
+  "stress": "*ČEŠ*ljati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 651,
+  "stress": "če*TI*ri",
+  "pos": "(Num)",
+  "note": "the (Prep) on this and on četrdeset / četrnaest looks like a slip — these are numbers, not prepositions. Also worth noting that četiri takes the genitive singular of what's counted (četiri brata), not the genitive plural the way pet and up do."
+ },
+ {
+  "id": 652,
+  "stress": "*ČET*ka",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "note": "on the (+a?): Gen. pl. is četki, with četaka also heard — so (+a) is optional rather than required, same situation as barka and ambulanta."
+ },
+ {
+  "id": 653,
+  "stress": "četr*DE*set",
+  "pos": "(Num)"
+ },
+ {
+  "id": 654,
+  "pos": "(adj)"
+ },
+ {
+  "id": 655,
+  "pos": "(Num)"
+ },
+ {
+  "id": 656,
+  "pos": "(adj)"
+ },
+ {
+  "id": 657,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "example": "vidimo se u četvrtak - see you on Thursday"
+ },
+ {
+  "id": 660,
+  "pos": "(adj)"
+ },
+ {
+  "id": 661,
+  "gender": "(f)",
+  "note": "spelling — ćevabdžinica, with ć at the front, since it comes from ćevap / ćevapi."
+ },
+ {
+  "id": 662,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 663,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 664,
+  "stress": "*ČI*ka",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "masculine even though it ends in -a, and it declines like a feminine noun (čike, čiki)."
+ },
+ {
+  "id": 665,
+  "stress": "*ČI*kati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 666,
+  "stress": "*ČI*ji",
+  "pos": "(Pron)",
+  "note": "čiji is an interrogative and relative pronoun-adjective — \"whose\" — so the (Conj) half of the marker doesn't fit. It agrees with the thing owned, not the owner: čija knjiga, čije dijete."
+ },
+ {
+  "id": 667,
+  "gender": "(m)",
+  "note": "typo in the gloss — \"Chilel\" should be Chile."
+ },
+ {
+  "id": 668,
+  "pos": "(Conj)",
+  "example": "javi mi se čim stigneš - let me know as soon as you arrive"
+ },
+ {
+  "id": 669,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 670,
+  "gender": "(f)",
+  "note": "čini in this sense is plural-only — bacati čini, \"to cast a spell\". Confusingly it's also the 3rd sg. of činiti, two lines down."
+ },
+ {
+  "id": 671,
+  "stress": "*ČI*nija",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 672,
+  "stress": "*ČI*niti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 673,
+  "example": "čini mi se da si u pravu - it seems to me you're right"
+ },
+ {
+  "id": 674,
+  "stress": "či*NJE*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 675,
+  "stress": "či*NOV*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 676,
+  "stress": "či*NOV*nik",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim) (k->c)"
+ },
+ {
+  "id": 677,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 678,
+  "note": "the spelling flips to the English \"chip\" here while the headword above is čip — probably want nema čipa to match."
+ },
+ {
+  "id": 679,
+  "pos": "(adj)",
+  "example": "stan je čist - the apartment is clean"
+ },
+ {
+  "id": 680,
+  "stress": "*ČIS*tač",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 681,
+  "pos": "(adj)"
+ },
+ {
+  "id": 682,
+  "stress": "čisti*LIŠ*te",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "resolves": "no (+a)",
+  "note": "right instinct — neuters in -šte take a plain Gen. pl. čistilišta, no inserted a."
+ },
+ {
+  "id": 683,
+  "stress": "čis*TI*na",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 684,
+  "stress": "*ČIS*titi",
+  "pos": "(Verb)",
+  "example": "čistim stan svake subote - I clean the apartment every Saturday"
+ },
+ {
+  "id": 685,
+  "stress": "*ČIST*ka",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 686,
+  "stress": "*ČI*tati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)",
+  "example": "čitam knjigu svako veče - I read a book every evening"
+ },
+ {
+  "id": 687,
+  "stress": "*ČI*talac",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim) (a)",
+  "note": "the l turns into o in the oblique cases — čitalac, čitaoca, čitaoci. Same shift as in posao/posla, just running the other direction."
+ },
+ {
+  "id": 688,
+  "stress": "*ČI*tanje",
+  "pos": "(Noun)",
+  "gender": "(Noun)"
+ },
+ {
+  "id": 689,
+  "stress": "čita*O*nica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 690,
+  "stress": "či*TA*telj",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 691,
+  "stress": "čita*TE*ljica",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 692,
+  "stress": "*ČI*tav",
+  "pos": "(adj)",
+  "resolves": "not dialectal — used in all three",
+  "note": "both question marks can come off: čitav is standard everywhere (čitav dan = the whole day). It isn't a Bosnian or Serbian marker."
+ },
+ {
+  "id": 693,
+  "stress": "*ČI*tulja",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 694,
+  "stress": "*ČIZ*ma",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "resolves": "(+a)",
+  "note": "yes — Gen. pl. is čizama."
+ },
+ {
+  "id": 695,
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)",
+  "note": "worth adding the other senses, since they come up constantly: član is also an article in a law or contract (član 5) and the grammatical article.",
+  "example": "on je član našeg tima - he's a member of our team"
+ },
+ {
+  "id": 696,
+  "stress": "*ČLA*nak",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(a)",
+  "note": "članak is also the ankle — same word, completely different context."
+ },
+ {
+  "id": 697,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 698,
+  "stress": "čoko*LA*da",
+  "pos": "(Noun)",
+  "gender": "(f)",
+  "example": "hoćeš malo čokolade? - do you want some chocolate?"
+ },
+ {
+  "id": 699,
+  "stress": "*ČOR*ba",
+  "pos": "(Noun)",
+  "gender": "(f)"
+ },
+ {
+  "id": 700,
+  "stress": "*ČO*vjek",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "resolves": "(k->č)",
+  "note": "of the three guesses, (k->č) is the right one — the vocative is čovječe. The other thing to flag is that the plural is suppletive: ljudi, ljudi, ljudima. Čovjeci doesn't exist.",
+  "example": "on je dobar čovjek - he's a good man"
+ },
+ {
+  "id": 701,
+  "stress": "*ČU*čanj",
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 702,
+  "stress": "*ČU*čati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 703,
+  "stress": "*ČUČ*nuti",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 704,
+  "stress": "*ČU*do",
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "the ordinary plural is čuda. Čudesa, the branch below, is the old collective — archaic and elevated, which is why it turns up in scripture and hymns rather than conversation."
+ },
+ {
+  "id": 705,
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "čudesa is the old collective plural of čudo. It's archaic and elevated — you'll meet it in scripture and hymns, but the everyday plural is čuda."
+ },
+ {
+  "id": 706,
+  "stress": "*ČU*dan",
+  "pos": "(adj)",
+  "example": "to je čudno - that's weird"
+ },
+ {
+  "id": 707,
+  "stress": "*ČU*diti se",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 708,
+  "pos": "(Noun)",
+  "gender": "(Noun)",
+  "note": "missing diacritic — čuđenje."
+ },
+ {
+  "id": 709,
+  "stress": "*ČU*jan",
+  "pos": "(adj)",
+  "declension": "(a)"
+ },
+ {
+  "id": 710,
+  "stress": "*ČU*pati",
+  "pos": "(Verb)"
+ },
+ {
+  "id": 711,
+  "stress": "*ČU*ti",
+  "pos": "(Verb)",
+  "example": "čuješ li me? - can you hear me?"
+ },
+ {
+  "id": 714,
+  "stress": "*ČU*vati",
+  "pos": "(Verb)",
+  "aspect": "(Imp)"
+ },
+ {
+  "id": 716,
+  "stress": "*ČU*var",
+  "pos": "(Noun)",
+  "gender": "(m)",
+  "declension": "(Anim)"
+ },
+ {
+  "id": 717,
+  "pos": "(Noun)",
+  "gender": "(m)"
+ },
+ {
+  "id": 718,
+  "pos": "(adj)"
+ },
+ {
+  "id": 719,
+  "stress": "*ČVR*šći",
+  "pos": "(adj)"
+ }
+]
