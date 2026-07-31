@@ -40808,9 +40808,9 @@
 "colors": {
 "BLUE": 72
 },
-"raw": "hvatati, uhvatiti | 1. to grab, seize, pick up, take hold of (Verb) (~ bandita to seize a",
+"raw": "hvatati, uhvatiti | 1. to grab, seize, pick up, take hold of (Verb) (~ bandita to seize a bandit) 2. to catch; to trap (Verb) (~ loptu (rukom) to catch a ball (with one's hand); uhvatila nas je kiša we were caught in the rain) 3. to take possession, overcome, strike, seize (Verb) (hvata ga kijavica he is catching a cold; šta ga je uhvatilo? what came over him?) 4. to receive, get (Verb) (naš radio hvata samo lokalne stanice our radio receives only local stations) 5. to hold (Verb) (ovo bure hvata 20 litara this barrel holds 20 liters) 6. ~se to stick to; to form on, spread over (Verb) (sneg se hvata po travi the snow is sticking on the grass) 7. misc.; ~ beleške to take notes; epidemija hvata maha the epidemic is spreading; ~ nekoga pod ruku to take smb. by the arm; ~ nekoga za reč to hold smb. to his word; ~ se za ruke to join hands",
 "headword": "hvatati, uhvatiti",
-"body": "1. to grab, seize, pick up, take hold of (Verb) (~ bandita to seize a",
+"body": "1. to grab, seize, pick up, take hold of (Verb) (~ bandita to seize a bandit) 2. to catch; to trap (Verb) (~ loptu (rukom) to catch a ball (with one's hand); uhvatila nas je kiša we were caught in the rain) 3. to take possession, overcome, strike, seize (Verb) (hvata ga kijavica he is catching a cold; šta ga je uhvatilo? what came over him?) 4. to receive, get (Verb) (naš radio hvata samo lokalne stanice our radio receives only local stations) 5. to hold (Verb) (ovo bure hvata 20 litara this barrel holds 20 liters) 6. ~se to stick to; to form on, spread over (Verb) (sneg se hvata po travi the snow is sticking on the grass) 7. misc.; ~ beleške to take notes; epidemija hvata maha the epidemic is spreading; ~ nekoga pod ruku to take smb. by the arm; ~ nekoga za reč to hold smb. to his word; ~ se za ruke to join hands",
 "tag": "BLUE",
 "id": 2243
 },
@@ -40903,9 +40903,9 @@
 "mark": 6,
 "BLUE": 610
 },
-"raw": "iako | although (Conj) bandit) 2. to catch; to trap (Verb) (~ loptu (rukom) to catch a ball (with one's hand); uhvatila nas je kiša we were caught in the rain) 3. to take possession, overcome, strike, seize (Verb) (hvata ga kijavica he is catching a cold; šta ga je uhvatilo? what came over him?) 4. to receive, get (Verb) (naš radio hvata samo lokalne stanice our radio receives only local stations) 5. to hold (Verb) (ovo bure hvata 20 litara this barrel holds 20 liters) 6. ~se to stick to; to form on, spread over (Verb) (sneg se hvata po travi the snow is sticking on the grass) 7. misc.; ~ beleške to take notes; epidemija hvata maha the epidemic is spreading; ~ nekoga pod ruku to take smb. by the arm; ~ nekoga za reč to hold smb. to his word; ~ se za ruke to join hands",
+"raw": "iako | although (Conj)",
 "headword": "iako",
-"body": "although (Conj) bandit) 2. to catch; to trap (Verb) (~ loptu (rukom) to catch a ball (with one's hand); uhvatila nas je kiša we were caught in the rain) 3. to take possession, overcome, strike, seize (Verb) (hvata ga kijavica he is catching a cold; šta ga je uhvatilo? what came over him?) 4. to receive, get (Verb) (naš radio hvata samo lokalne stanice our radio receives only local stations) 5. to hold (Verb) (ovo bure hvata 20 litara this barrel holds 20 liters) 6. ~se to stick to; to form on, spread over (Verb) (sneg se hvata po travi the snow is sticking on the grass) 7. misc.; ~ beleške to take notes; epidemija hvata maha the epidemic is spreading; ~ nekoga pod ruku to take smb. by the arm; ~ nekoga za reč to hold smb. to his word; ~ se za ruke to join hands",
+"body": "although (Conj)",
 "tag": "BLUE",
 "id": 2247
 },
@@ -48686,11 +48686,146 @@
 "GOLD": 103,
 "BLUE": 5
 },
-"raw": "mi | we (Pro) mijeniti (ije?) izmijeniti primijeniti promijeniti razmijeniti zamijeniti mijenjati (ije) mijenjati izmijenjati",
+"raw": "mi | we (Pro)",
 "headword": "mi",
-"body": "we (Pro) mijeniti (ije?) izmijeniti primijeniti promijeniti razmijeniti zamijeniti mijenjati (ije) mijenjati izmijenjati",
-"tag": "BLUE",
+"body": "we (Pro)",
+"tag": null,
 "id": 2677
+},
+{
+"page": 68,
+"letter": "M",
+"level": 0,
+"bullet": null,
+"lines": [
+"mijeniti (ije?)"
+],
+"colors": {},
+"raw": "mijeniti (ije?)",
+"headword": "mijeniti (ije?)",
+"body": "",
+"tag": "GOLD",
+"id": 10000
+},
+{
+"page": 68,
+"letter": "M",
+"level": 1,
+"bullet": "●",
+"lines": [
+"izmijeniti"
+],
+"colors": {},
+"raw": "izmijeniti",
+"headword": "izmijeniti",
+"body": "",
+"tag": null,
+"id": 10001
+},
+{
+"page": 68,
+"letter": "M",
+"level": 1,
+"bullet": "●",
+"lines": [
+"primijeniti"
+],
+"colors": {},
+"raw": "primijeniti",
+"headword": "primijeniti",
+"body": "",
+"tag": null,
+"id": 10002
+},
+{
+"page": 68,
+"letter": "M",
+"level": 1,
+"bullet": "●",
+"lines": [
+"promijeniti"
+],
+"colors": {},
+"raw": "promijeniti",
+"headword": "promijeniti",
+"body": "",
+"tag": null,
+"id": 10003
+},
+{
+"page": 68,
+"letter": "M",
+"level": 1,
+"bullet": "●",
+"lines": [
+"razmijeniti"
+],
+"colors": {},
+"raw": "razmijeniti",
+"headword": "razmijeniti",
+"body": "",
+"tag": null,
+"id": 10004
+},
+{
+"page": 68,
+"letter": "M",
+"level": 1,
+"bullet": "●",
+"lines": [
+"zamijeniti"
+],
+"colors": {},
+"raw": "zamijeniti",
+"headword": "zamijeniti",
+"body": "",
+"tag": null,
+"id": 10005
+},
+{
+"page": 68,
+"letter": "M",
+"level": 0,
+"bullet": null,
+"lines": [
+"mijenjati (ije)"
+],
+"colors": {},
+"raw": "mijenjati (ije)",
+"headword": "mijenjati (ije)",
+"body": "",
+"tag": "GOLD",
+"id": 10006
+},
+{
+"page": 68,
+"letter": "M",
+"level": 1,
+"bullet": "●",
+"lines": [
+"mijenjati"
+],
+"colors": {},
+"raw": "mijenjati",
+"headword": "mijenjati",
+"body": "",
+"tag": null,
+"id": 10007
+},
+{
+"page": 68,
+"letter": "M",
+"level": 1,
+"bullet": "●",
+"lines": [
+"izmijenjati"
+],
+"colors": {},
+"raw": "izmijenjati",
+"headword": "izmijenjati",
+"body": "",
+"tag": null,
+"id": 10008
 },
 {
 "page": 68,
