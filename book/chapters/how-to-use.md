@@ -203,3 +203,42 @@ Two structural rules govern the bullets under a headword:
 In practice, in the dictionary body:
 - `-` (a plain bullet) marks a branch, indented under its parent headword.
 - `●` / `○` mark sub-entries and phrases hanging off a headword.
+
+---
+
+## Key to Dictionary Markings — the full list
+
+*This is the fuller key from the back of the original, restored here where it's actually useful. Every word below is his.*
+
+| Marker | Meaning |
+|---|---|
+| `(Noun)` | Noun |
+| `(Ir)` | Irregular — words with this marker have special attributes |
+| `(Bos)` | Used primarily in Bosnia and Herzegovina |
+| `(Hrv)` | Used primarily in Croatia |
+| `(Crn)` | Used primarily in Montenegro. If a word does not have a Montenegrin marker, the Serbian one represents it |
+| `(Srp)` | Used primarily in Serbia |
+| `(M)` | Male. Words ending with a consonant are male unless otherwise stated; the marker is only there for clarification where there might be confusion |
+| `(F)` | Female. Words ending with an "a" are female unless otherwise stated; the marker means a similar word is a different gender, and is only there for clarification |
+| `(Neu)` | Neuter. Words ending in "e" or "o" are neuter unless otherwise stated; the marker means a similar word is a different gender — for example "veće" and "većer" |
+| `(FE)` | Feminine Extra — Feminine, and takes special case endings (Fem 4th) |
+| `(ME)` | Male Extra — Feminine with Masculine Adjectives (Masc 5th) |
+| `(Anim)` `(Inan)` | Male animate / inanimate. If a word lacks this marker, Inanimate is assumed |
+| `(+ov)` `(+ev)` | Male, takes -ov/-ev in the plural. The respective `(o)` or `(e)` marker is assumed but not written |
+| `(o)` `(e)` | Male, -em ending for the Instrumental. If there is no marker, `(o)` is assumed |
+| `(a)` / `(No "a")` | Disappearing "A" — `(a)` has one, `(No "a")` does not |
+| `(+a)` | Appearing "A" |
+| `(i)` | "I" ending for the Genitive Plural |
+| `(-(x))` | Loss of "(x)" — the word loses the specified letter, whether it be a "T", an "N" or something else |
+
+### Consonant Changes
+
+| Marker | Change |
+|---|---|
+| `(c->č)` | C to Č |
+| `(g->z)` | G to Z |
+| `(h->s)` | H to S |
+| `(k->c)` | K to C |
+| `(o->l)` | O to L |
+| `(z->ž)` | Z to Ž |
+| `(ž->š)` | Ž to Š |

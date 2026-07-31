@@ -2711,3 +2711,135 @@
 - odeljci — sections
 - vlaga — humidity \(kinda\) Nove Reči ćale | \"dad\" or \"father\"; an informal, affectionate way to refer to one\'s father. hvala za rastu | \"thanks for the growth\"; \(if meant as \"hvala na rastu\"\). usreo se | \"he\/she met\" or \"he\/she encountered\"; past tense of \"usresti.\" gajbe | \"crates\" or \"boxes\"; plural form of \"gajba,\" referring to containers used for transporting goods. nisam kenjao | \"I wasn\'t joking\" or \"I wasn\'t kidding\"; slang expression emphasizing seriousness. hemoride | \"hemorrhoids\"; swollen veins in the rectum and anus causing discomfort. mišiče | \"muscle\"; refers to muscle tissue in the body. popravka | \"repair\"; the act of fixing something that is broken or damaged. kako me nervira | \"how it annoys me\"; used to express frustration or annoyance. smarati | \"to bore\" or \"to annoy\"; a verb used to describe something that is tedious or tiresome. nabaciti | \"to throw on\" or \"to toss\"; can also mean to casually mention something. pređemo na | \"let\'s move on to\"; used when transitioning to another topic or subject. pokvariti | \"to spoil\" or \"to break\"; refers to causing something to become damaged or ruined. sisanje | \"sucking\"; can refer to the act of sucking, often used informally in a derogatory context. razmišljam o bivšoj | \"I am thinking about my ex\"; used to express thoughts about a former partner. Druže | \"buddy\" or \"mate\"; an informal term used to address a friend or companion. Prekidaj | \"stop it\" or \"cut it out\"; an imperative form telling someone to cease their actions. Promoviše | \"he\/she promotes\"; third-person singular present tense of the verb \"promovisati,\" meaning to promote or advertise. Neka umreo deca | \"let the children die\"; a very harsh and severe statement, often used to express indifference. sklonište | \"shelter\"; a place that provides protection or refuge. Mi smo kao dugari | \"We are like buddies\"; implies a close friendship or camaraderie. okrećati se | \"to turn around\"; refers to the act of rotating or changing direction. Kradiš | \"you steal\"; second-person singular form of the verb \"krasti,\" meaning to steal. Što bacaš pare | \"Why are you throwing away money?\"; used to criticize someone for wasting money. zezalice | \"jokes\"; refers to playful or humorous statements or actions. Prošlao nam je | \"He passed us\"; can imply that someone moved by or disregarded the group. Skini sad | \"Take it off now\"; an imperative form instructing someone to remove something immediately. Prekomplikovan | \"overcomplicated\"; refers to something that is unnecessarily complex or intricate.
 ]
+#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[Where To Go Next#degmark ]]
+#emph[\(Added below — going back through my own lists, these are the gaps that jumped out at me. None of this was in my notes at the time, it\'s just the vocabulary a missionary ends up needing every single day and I never sat down and organized it into its own list. Ijekavian and Ekavian forms are given side by side where they actually differ — don\'t mechanically swap one for the other, some words don\'t alternate.\)]#degmark 
+
+#block(above: 1.05em, below: 0.42em)[#text(size: 11pt, weight: "bold")[Medical & Pharmacy#degmark ]]
+#block(above: 0.42em, below: 0.5em)[
+- boli me... — it hurts me... \(+ body part in accusative\)#degmark 
+- glava — head#degmark 
+- stomak\/trbuh — stomach#degmark 
+- grlo — throat#degmark 
+- zub — tooth#degmark 
+- leđa — back#degmark 
+- noga — leg#degmark 
+- ruka — arm\/hand#degmark 
+- groznica — fever#degmark 
+- prehlada — a cold#degmark 
+- kašalj — cough#degmark 
+- mučnina — nausea#degmark 
+- alergija — allergy#degmark 
+- lijek\/lek — medicine \(J\/E\)#degmark 
+- apoteka — pharmacy#degmark 
+- recept — prescription#degmark 
+- bolnica — hospital#degmark 
+- hitna pomoć — emergency services \/ ambulance#degmark 
+- ljekar\/lekar - doktor — doctor \(J\/E\)#degmark 
+- povreda — injury#degmark 
+- previjanje — bandaging#degmark 
+- tableta — pill#degmark 
+- sirup — syrup \(for cough\)#degmark 
+- povraćanje — vomiting#degmark 
+- proljev\/proliv — diarrhea \(J\/E\)#degmark 
+- osip — rash#degmark 
+]
+#block(above: 1.05em, below: 0.42em)[#text(size: 11pt, weight: "bold")[Transit & Directions#degmark ]]
+#block(above: 0.42em, below: 0.5em)[
+- autobus — bus#degmark 
+- tramvaj — tram#degmark 
+- voz\/vlak - train \(Srp\/Hrv\)#degmark 
+- karta — ticket#degmark 
+- stanica — station\/stop#degmark 
+- peron — platform#degmark 
+- lijevo\/levo — left \(J\/E\)#degmark 
+- desno — right#degmark 
+- pravo — straight ahead#degmark 
+- gdje je...\/gdje se nalazi... — where is...#degmark 
+- koliko je daleko — how far is it#degmark 
+- blizu\/daleko — near\/far#degmark 
+- na uglu — on the corner#degmark 
+- semafor — traffic light#degmark 
+- pješak\/pešak — pedestrian \(J\/E\)#degmark 
+- prelaz — crossing#degmark 
+- red vožnje — timetable \/ schedule#degmark 
+- kasniti — to be late#degmark 
+- presjesti\/presesti — to transfer \(change buses\/trains\) \(J\/E\)#degmark 
+- ukrcati se — to board#degmark 
+]
+#block(above: 1.05em, below: 0.42em)[#text(size: 11pt, weight: "bold")[Food & Market#degmark ]]
+#block(above: 0.42em, below: 0.5em)[
+- hljeb\/hleb - kruh - bread \(Srp\/E, Hrv\)#degmark 
+- mlijeko\/mleko — milk \(J\/E\)#degmark 
+- jaja — eggs#degmark 
+- povrće — vegetables#degmark 
+- voće — fruit#degmark 
+- meso — meat#degmark 
+- riba — fish#degmark 
+- so\/sol — salt#degmark 
+- šećer — sugar#degmark 
+- koliko košta? — how much does it cost?#degmark 
+- naručiti — to order#degmark 
+- račun — the bill#degmark 
+- kilogram\/kilo — kilogram#degmark 
+- pola kile — half a kilo#degmark 
+- vreća\/kesa\/kesica — bag \(Hrv\/Srp\/small bag\)#degmark 
+- pijaca\/tržnica — open-air market \(Srp\/Hrv\)#degmark 
+- svježe\/sveže — fresh \(J\/E\)#degmark 
+- dosta - toliko - that\'s enough \/ that much#degmark 
+- sitno — change \(small coins\)#degmark 
+- kusur — change owed back#degmark 
+]
+#block(above: 1.05em, below: 0.42em)[#text(size: 11pt, weight: "bold")[Weather & Seasons#degmark ]]
+#block(above: 0.42em, below: 0.5em)[
+- vrijeme\/vreme — weather \(J\/E\)#degmark 
+- sunčano — sunny#degmark 
+- oblačno — cloudy#degmark 
+- kiša — rain#degmark 
+- pada kiša — it\'s raining#degmark 
+- snijeg\/sneg — snow \(J\/E\)#degmark 
+- vjetar\/vetar — wind \(J\/E\)#degmark 
+- vruće — hot#degmark 
+- hladno — cold#degmark 
+- proljeće\/proleće — spring \(J\/E\)#degmark 
+- ljeto\/leto — summer \(J\/E\)#degmark 
+- jesen — autumn#degmark 
+- zima — winter#degmark 
+]
+#block(above: 1.05em, below: 0.42em)[#text(size: 11pt, weight: "bold")[Family & Relationships#degmark ]]
+#block(above: 0.42em, below: 0.5em)[
+- porodica\/obitelj — family \(Srp\/Hrv\)#degmark 
+- majka\/mama — mother#degmark 
+- otac\/tata — father#degmark 
+- brat — brother#degmark 
+- sestra — sister#degmark 
+- baka\/nana — grandmother#degmark 
+- djed\/deda — grandfather \(J\/E\)#degmark 
+- muž — husband#degmark 
+- žena\/supruga — wife#degmark 
+- dijete\/dete — child \(J\/E\)#degmark 
+- rodbina — relatives, extended family#degmark 
+- prijatelj — friend#degmark 
+- komšija\/sused — neighbor \(Srp\/Hrv\)#degmark 
+- vjenčanje\/venčanje — wedding \(J\/E\)#degmark 
+]
+#block(above: 1.05em, below: 0.42em)[#text(size: 11pt, weight: "bold")[Church & Scripture Vocabulary#degmark ]]
+#block(above: 0.42em, below: 0.5em)[
+- crkva — church#degmark 
+- Bog — God#degmark 
+- Isus Krist — Jesus Christ#degmark 
+- molitva - moliti se — prayer - to pray#degmark 
+- Sveto pismo — scripture#degmark 
+- vjera\/vera — faith \(J\/E\)#degmark 
+- svjedočanstvo\/svedočanstvo — testimony \(J\/E\)#degmark 
+- krštenje — baptism#degmark 
+- propovijedati\/propovedati — to preach \(J\/E\)#degmark 
+- poziv — a mission call#degmark 
+- misionar — missionary#degmark 
+- sastanak — meeting#degmark 
+- zajednica — congregation\/community#degmark 
+- blagoslov - blagosloviti — blessing - to bless#degmark 
+- pokajanje - pokajati se — repentance - to repent#degmark 
+- vaskrsenje\/uskrsnuće — resurrection \(Srp\/Hrv\)#degmark 
+- Duh Sveti — Holy Spirit#degmark 
+- prorok — prophet#degmark 
+]

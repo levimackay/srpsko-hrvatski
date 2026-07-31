@@ -184,3 +184,39 @@ In practice, in the dictionary body:
 - #raw("-") \(a plain bullet\) marks a branch, indented under its parent headword.
 - #raw("●") \/ #raw("○") mark sub-entries and phrases hanging off a headword.
 ]
+#v(0.3em) #line(length: 100%, stroke: 0.4pt + luma(200)) #v(0.3em)
+#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[Key to Dictionary Markings — the full list]]
+#emph[This is the fuller key from the back of the original, restored here where it\'s actually useful. Every word below is his.]
+
+#table(columns: 2, stroke: 0.4pt + luma(195), inset: (x: 0.45em, y: 0.3em), fill: (_, y) => if y == 0 { luma(238) } else { none },
+  [#strong[Marker]], [#strong[Meaning]],
+  [#raw("(Noun)")], [Noun],
+  [#raw("(Ir)")], [Irregular — words with this marker have special attributes],
+  [#raw("(Bos)")], [Used primarily in Bosnia and Herzegovina],
+  [#raw("(Hrv)")], [Used primarily in Croatia],
+  [#raw("(Crn)")], [Used primarily in Montenegro. If a word does not have a Montenegrin marker, the Serbian one represents it],
+  [#raw("(Srp)")], [Used primarily in Serbia],
+  [#raw("(M)")], [Male. Words ending with a consonant are male unless otherwise stated; the marker is only there for clarification where there might be confusion],
+  [#raw("(F)")], [Female. Words ending with an \"a\" are female unless otherwise stated; the marker means a similar word is a different gender, and is only there for clarification],
+  [#raw("(Neu)")], [Neuter. Words ending in \"e\" or \"o\" are neuter unless otherwise stated; the marker means a similar word is a different gender — for example \"veće\" and \"većer\"],
+  [#raw("(FE)")], [Feminine Extra — Feminine, and takes special case endings \(Fem 4th\)],
+  [#raw("(ME)")], [Male Extra — Feminine with Masculine Adjectives \(Masc 5th\)],
+  [#raw("(Anim)") #raw("(Inan)")], [Male animate \/ inanimate. If a word lacks this marker, Inanimate is assumed],
+  [#raw("(+ov)") #raw("(+ev)")], [Male, takes -ov\/-ev in the plural. The respective #raw("(o)") or #raw("(e)") marker is assumed but not written],
+  [#raw("(o)") #raw("(e)")], [Male, -em ending for the Instrumental. If there is no marker, #raw("(o)") is assumed],
+  [#raw("(a)") \/ #raw("(No \"a\")")], [Disappearing \"A\" — #raw("(a)") has one, #raw("(No \"a\")") does not],
+  [#raw("(+a)")], [Appearing \"A\"],
+  [#raw("(i)")], [\"I\" ending for the Genitive Plural],
+  [#raw("(-(x))")], [Loss of \"\(x\)\" — the word loses the specified letter, whether it be a \"T\", an \"N\" or something else],
+)
+#block(above: 1.05em, below: 0.42em)[#text(size: 11pt, weight: "bold")[Consonant Changes]]
+#table(columns: 2, stroke: 0.4pt + luma(195), inset: (x: 0.45em, y: 0.3em), fill: (_, y) => if y == 0 { luma(238) } else { none },
+  [#strong[Marker]], [#strong[Change]],
+  [#raw("(c->č)")], [C to Č],
+  [#raw("(g->z)")], [G to Z],
+  [#raw("(h->s)")], [H to S],
+  [#raw("(k->c)")], [K to C],
+  [#raw("(o->l)")], [O to L],
+  [#raw("(z->ž)")], [Z to Ž],
+  [#raw("(ž->š)")], [Ž to Š],
+)

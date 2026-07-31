@@ -90,6 +90,28 @@ lines.append('#note[Entries in #text(fill: BLUE)[blue] are ones I marked as need
 lines.append('')
 lines.append('#columns(2, gutter: 0.62em)[')
 
+def stress_spells_headword(s, hw):
+    """A stress mark must be the headword with asterisks inserted. Anything
+    else is a generation error and gets dropped rather than printed."""
+    plain = s.replace('*', '').casefold()
+    hw = hw.strip()
+    # He sometimes lists two forms in one headword ("dečko, dječko").
+    variants = [v.strip() for v in re.split(r'[,/]', hw)] + [hw]
+    out = set()
+    for v in variants:
+        if not v:
+            continue
+        out.add(v)
+        # "diviti se", "divan I", "kada (kad)", "uživati u" — the stress mark
+        # legitimately covers only the base word.
+        base = re.sub(r'\s*\([^)]*\)', '', v)
+        base = re.sub(r'\s+(se|si)$', '', base)
+        base = re.sub(r'\s+[IVX]{1,3}$', '', base)
+        base = base.split()[0] if base.split() else base
+        out.add(base.strip())
+    return any(plain == v.casefold() for v in out if v)
+
+bad_stress = []
 cur_letter = None
 n_filled = 0
 for e in entries:
@@ -106,7 +128,10 @@ for e in entries:
     ex = enrich.get(e['id'], {})
     add = []
     if ex.get('stress') and not STRESS_RE.search(e['raw']):
-        add.append(f'#g(stress("{ex["stress"]}"))')
+        if stress_spells_headword(ex['stress'], e['headword']):
+            add.append(f'#g(stress("{ex["stress"]}"))')
+        else:
+            bad_stress.append((e['headword'], ex['stress']))
     # His "(Noun)" means neuter in the key but part-of-speech in the D-block,
     # so pos and gender can both come back "(Noun)". Dedupe against his text
     # and against each other.
@@ -152,4 +177,11 @@ os.makedirs(os.path.dirname(out), exist_ok=True)
 open(out, 'w').write('\n'.join(lines))
 print(f'entries rendered : {len(entries)}')
 print(f'enrichment merged: {n_filled} entries from {len(enrich)} records')
+if bad_stress:
+    print(f'stress DROPPED   : {len(bad_stress)} did not spell their headword')
+    for hw, s in bad_stress[:12]:
+        print(f'   {hw!r} != {s!r}')
+    with open(os.path.join(D, 'rejected_stress.txt'), 'w') as fh:
+        for hw, s in bad_stress:
+            fh.write(f'{hw}\t{s}\n')
 print(f'wrote            : {out}')

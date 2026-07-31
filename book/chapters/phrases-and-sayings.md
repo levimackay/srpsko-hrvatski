@@ -222,3 +222,44 @@
 171. Živi bili pa vidjeli - Stay alive and we'll see (All will be revealed in due time).
 172. Malo sutra - (When pigs fly)(Šefik in Banja Luka says this all the time)
 
+## Everyday Expressions°
+
+*(Added below — none of this was in my original notes, but it's the stuff you'll actually hear forty times a day that never makes it into a dictionary. Greetings, fillers, the little glue words that hold a conversation together. Consider this the missionary survival layer.)*°
+
+1. Zdravo/Ćao - Hello/Bye - the all-purpose greeting AND goodbye, works both directions°
+2. Doviđenja - Until we see each other again - formal goodbye (Ćao for friends)°
+3. Vidimo se - We'll see each other - "see ya" / "catch you later"°
+4. Kako si?/Kako ste? - How are you? - informal/formal, the standard opener°
+5. Šta ima? - What's there? - "what's up?"°
+6. Nema ništa - There's nothing - "not much" (the standard reply to Šta ima?)°
+7. Dobro sam - I'm good - the safe default answer to any "how are you"°
+8. Molim? - I beg? - "sorry, what?" / "come again?" — say this when you didn't catch something°
+9. Molim te/Molim vas - I beg you - "please," informal/formal°
+10. Izvoli/Izvolite - You're welcome/go ahead - said when handing something over, letting someone through a door, or inviting them to speak — informal/formal°
+11. Bujrum - Welcome, help yourself - Turkish loanword, used when offering food or inviting someone in°
+12. Hvala/Hvala lijepo - Thanks/Thank you kindly - Hvala lijepo is the warmer, fuller version°
+13. Nema na čemu - There's nothing to it - "you're welcome"°
+14. Nema problema/Nema frke - No problem/No friction - "no worries," Nema frke is the more relaxed version°
+15. U redu je - It's in order - "it's fine" / "it's okay"°
+16. Naravno - Naturally - "of course"°
+17. Ma daj - Come on, give [it] - "come on, seriously?" — disbelief, mild protest°
+18. Nema šanse - There's no chance - "no way"°
+19. Ozbiljno? - Seriously? - asking if someone means it°
+20. Stvarno? - Really? - same energy as Ozbiljno?°
+21. Polako - Slowly - "take it easy" / "slow down" — said to calm someone down or just as a farewell°
+22. Nema veze - There are no connections - "it doesn't matter"; you already met this one up top as an idiom, but it's also just everyday filler you'll hear forty times a day, not always the "deep" version°
+23. Kako to misliš? - How do you mean that? - "what do you mean by that?"°
+24. Šta hoćeš reći? - What do you want to say? - "what are you trying to say?"°
+25. Svaka čast - Every honor - "well done" / "respect" — a genuine, warm compliment°
+26. Bravo - Bravo - also just "well done," more casual than Svaka čast°
+27. Idemo na kafu/kavu - Let's go for coffee - Serbian/Croatian spelling split, but the invitation that runs half the culture — often means "let's talk," not just caffeine°
+28. Časti me - [He/she] treats me - "it's on him/her" (someone else is paying)°
+29. Halo? Ko je? - Hello? Who is it? - the standard way to answer a phone call from an unknown number°
+30. Ko zove? - Who's calling? - alternate phone-answering phrase°
+31. Čekaj/Čekajte - Wait - informal/formal, "hold on"°
+32. Samo malo - Just a little - "just a sec" / "one moment"°
+33. Ajde/Ajmo - Come on/Let's go - Ajde is to a person, Ajmo is "let's" (both very common, very casual)°
+34. Šta je bilo? - What was [it]? - "what happened?" / "what's wrong?" depending on tone°
+35. Nije bitno - It's not important - "doesn't matter," a close cousin of Nema veze°
+36. Vidimo se sutra/kasnije - We'll see each other tomorrow/later - a specific version of Vidimo se, useful for actually setting up the next appointment°
+

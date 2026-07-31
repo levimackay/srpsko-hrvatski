@@ -2709,3 +2709,137 @@
 - odeljci — sections
 - vlaga — humidity (kinda) Nove Reči ćale | "dad" or "father"; an informal, affectionate way to refer to one's father. hvala za rastu | "thanks for the growth"; (if meant as "hvala na rastu"). usreo se | "he/she met" or "he/she encountered"; past tense of "usresti." gajbe | "crates" or "boxes"; plural form of "gajba," referring to containers used for transporting goods. nisam kenjao | "I wasn't joking" or "I wasn't kidding"; slang expression emphasizing seriousness. hemoride | "hemorrhoids"; swollen veins in the rectum and anus causing discomfort. mišiče | "muscle"; refers to muscle tissue in the body. popravka | "repair"; the act of fixing something that is broken or damaged. kako me nervira | "how it annoys me"; used to express frustration or annoyance. smarati | "to bore" or "to annoy"; a verb used to describe something that is tedious or tiresome. nabaciti | "to throw on" or "to toss"; can also mean to casually mention something. pređemo na | "let's move on to"; used when transitioning to another topic or subject. pokvariti | "to spoil" or "to break"; refers to causing something to become damaged or ruined. sisanje | "sucking"; can refer to the act of sucking, often used informally in a derogatory context. razmišljam o bivšoj | "I am thinking about my ex"; used to express thoughts about a former partner. Druže | "buddy" or "mate"; an informal term used to address a friend or companion. Prekidaj | "stop it" or "cut it out"; an imperative form telling someone to cease their actions. Promoviše | "he/she promotes"; third-person singular present tense of the verb "promovisati," meaning to promote or advertise. Neka umreo deca | "let the children die"; a very harsh and severe statement, often used to express indifference. sklonište | "shelter"; a place that provides protection or refuge. Mi smo kao dugari | "We are like buddies"; implies a close friendship or camaraderie. okrećati se | "to turn around"; refers to the act of rotating or changing direction. Kradiš | "you steal"; second-person singular form of the verb "krasti," meaning to steal. Što bacaš pare | "Why are you throwing away money?"; used to criticize someone for wasting money. zezalice | "jokes"; refers to playful or humorous statements or actions. Prošlao nam je | "He passed us"; can imply that someone moved by or disregarded the group. Skini sad | "Take it off now"; an imperative form instructing someone to remove something immediately. Prekomplikovan | "overcomplicated"; refers to something that is unnecessarily complex or intricate.
 
+## Where To Go Next°
+
+*(Added below — going back through my own lists, these are the gaps that jumped out at me. None of this was in my notes at the time, it's just the vocabulary a missionary ends up needing every single day and I never sat down and organized it into its own list. Ijekavian and Ekavian forms are given side by side where they actually differ — don't mechanically swap one for the other, some words don't alternate.)*°
+
+### Medical & Pharmacy°
+
+- boli me... — it hurts me... (+ body part in accusative)°
+- glava — head°
+- stomak/trbuh — stomach°
+- grlo — throat°
+- zub — tooth°
+- leđa — back°
+- noga — leg°
+- ruka — arm/hand°
+- groznica — fever°
+- prehlada — a cold°
+- kašalj — cough°
+- mučnina — nausea°
+- alergija — allergy°
+- lijek/lek — medicine (J/E)°
+- apoteka — pharmacy°
+- recept — prescription°
+- bolnica — hospital°
+- hitna pomoć — emergency services / ambulance°
+- ljekar/lekar - doktor — doctor (J/E)°
+- povreda — injury°
+- previjanje — bandaging°
+- tableta — pill°
+- sirup — syrup (for cough)°
+- povraćanje — vomiting°
+- proljev/proliv — diarrhea (J/E)°
+- osip — rash°
+
+### Transit & Directions°
+
+- autobus — bus°
+- tramvaj — tram°
+- voz/vlak - train (Srp/Hrv)°
+- karta — ticket°
+- stanica — station/stop°
+- peron — platform°
+- lijevo/levo — left (J/E)°
+- desno — right°
+- pravo — straight ahead°
+- gdje je.../gdje se nalazi... — where is...°
+- koliko je daleko — how far is it°
+- blizu/daleko — near/far°
+- na uglu — on the corner°
+- semafor — traffic light°
+- pješak/pešak — pedestrian (J/E)°
+- prelaz — crossing°
+- red vožnje — timetable / schedule°
+- kasniti — to be late°
+- presjesti/presesti — to transfer (change buses/trains) (J/E)°
+- ukrcati se — to board°
+
+### Food & Market°
+
+- hljeb/hleb - kruh - bread (Srp/E, Hrv)°
+- mlijeko/mleko — milk (J/E)°
+- jaja — eggs°
+- povrće — vegetables°
+- voće — fruit°
+- meso — meat°
+- riba — fish°
+- so/sol — salt°
+- šećer — sugar°
+- koliko košta? — how much does it cost?°
+- naručiti — to order°
+- račun — the bill°
+- kilogram/kilo — kilogram°
+- pola kile — half a kilo°
+- vreća/kesa/kesica — bag (Hrv/Srp/small bag)°
+- pijaca/tržnica — open-air market (Srp/Hrv)°
+- svježe/sveže — fresh (J/E)°
+- dosta - toliko - that's enough / that much°
+- sitno — change (small coins)°
+- kusur — change owed back°
+
+### Weather & Seasons°
+
+- vrijeme/vreme — weather (J/E)°
+- sunčano — sunny°
+- oblačno — cloudy°
+- kiša — rain°
+- pada kiša — it's raining°
+- snijeg/sneg — snow (J/E)°
+- vjetar/vetar — wind (J/E)°
+- vruće — hot°
+- hladno — cold°
+- proljeće/proleće — spring (J/E)°
+- ljeto/leto — summer (J/E)°
+- jesen — autumn°
+- zima — winter°
+
+### Family & Relationships°
+
+- porodica/obitelj — family (Srp/Hrv)°
+- majka/mama — mother°
+- otac/tata — father°
+- brat — brother°
+- sestra — sister°
+- baka/nana — grandmother°
+- djed/deda — grandfather (J/E)°
+- muž — husband°
+- žena/supruga — wife°
+- dijete/dete — child (J/E)°
+- rodbina — relatives, extended family°
+- prijatelj — friend°
+- komšija/sused — neighbor (Srp/Hrv)°
+- vjenčanje/venčanje — wedding (J/E)°
+
+### Church & Scripture Vocabulary°
+
+- crkva — church°
+- Bog — God°
+- Isus Krist — Jesus Christ°
+- molitva - moliti se — prayer - to pray°
+- Sveto pismo — scripture°
+- vjera/vera — faith (J/E)°
+- svjedočanstvo/svedočanstvo — testimony (J/E)°
+- krštenje — baptism°
+- propovijedati/propovedati — to preach (J/E)°
+- poziv — a mission call°
+- misionar — missionary°
+- sastanak — meeting°
+- zajednica — congregation/community°
+- blagoslov - blagosloviti — blessing - to bless°
+- pokajanje - pokajati se — repentance - to repent°
+- vaskrsenje/uskrsnuće — resurrection (Srp/Hrv)°
+- Duh Sveti — Holy Spirit°
+- prorok — prophet°
+
+
