@@ -1,0 +1,2713 @@
+#import "../lib.typ": *
+
+#runhead("Daily Word Lists")
+
+#chapter[Daily Word Lists]
+#emph[These are the lists I kept while I was studying — in the order I actually picked the words up. I left the order alone.]
+
+#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[List 1]]
+#emph[This is a copy of all of my daily word sheets on Google Keep. These are words that I saw from day to day and wrote down in order to study\/review later on. I didn\'t have time to edit these and organize them into the dictionary, but I didn\'t want to take them out.]
+
+#block(above: 0.42em, below: 0.5em)[
+- bukvalno — literally
+- konačno nešto da radimo — finally something to do
+- dozvoljeno — allowed
+- teknička..da — technically..yes
+- ne za dugo — not for long
+- saberi se — pull yourself together
+- zašto gledaš u meni — why are you looking at me
+- prihvatljivo — acceptable srećno bilo šta želiš tako tužno dugo traje računaju na nas upravo si
+- skakavac nož — switch blade \(grasshopper knife\)
+- uputiti se — to set out\/head out
+- šetanje stazama — walking through trails
+- slučajno — accidentaly
+- to marry — udati se \(ženski\) oženiti se \(muški\) venčati \(se\)
+- worthy — dostojan
+- to rally — okupljati se\/ujediniti
+- to be embarrassed — osramotiti se
+- embarrassed — osramoten\/postiđen
+- to be shy — shy-
+- hangman —
+- jumpsuit —
+- swimming pool —
+- to fill —
+- kost — bone\(y\)
+- pečat — stamp \(border\)
+- cura — girlfriend
+- predavati — to teach\/lekture
+- predavanje — lecture
+- outcome — rezultat
+- some weather were having — kakvo vrijeme imamo
+- grass — trava
+- cross walk — šetnja
+- light pole — svjetlosti stup
+- intersection — raskrsnica
+- round about — ?
+- road sign — putokas. zrak
+- to fix — propraviti
+- if it rains on him, it will be ruined —
+- candle —
+- reserved —
+- nervous —
+- otprilike — about\/approximately
+- kupiti\/kupovati — to buy
+- izračunati\/računati — to calculate
+- nazvati\/zvati — to call
+- kamion — truck\/semi
+- lik — character
+- sumnjivo — suspicious
+- ajmo na kavu — let\'s go get coffee
+- puška — rifle
+- čitav — whole \(cijeli\)
+- povezano — intertwined
+- bucmasta — chubby
+- gepek — trunk \(car\)
+- zavarivanje — welding
+- zavariti — to weld
+- prosto — just\(vulgar\)
+- pošto —
+- gubi se — get lost\/beat it
+- okriviti\/kriviti — to blame
+- iskrvariti\/krvariti — to bleed
+- blagosloviti\/blagosijati — to bless
+- puhati\/duvati — to blow
+- pozajmiti\/pozamljivati — to borrow
+- zakočiti\/kočiti — to brake
+- slomiti\/lomiti — to break
+- — \/disati - to breath
+- doneti\/donositi — to bring
+- dovesti\/dovoditi — to bring
+- frljave — rubbish
+- rugati se — to mock
+- desiti se — to happen
+- dostaviti — to deliver
+- kuvati — to cook \(imp?\)
+]
+#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[List 2]]
+#block(above: 0.42em, below: 0.5em)[
+- Govno — Shit,Crap,poop,turd
+- Guzica — ass
+- drkati — to jerk off,wank
+- jebati — to fuck,screw,bang
+- kurac — dick,pecker,cock
+- muda — balls,nuts
+- pička — pussy,cunt
+- pišati — to piss
+- sise — tits
+- srati — shit,crap
+- Jebi se — fuck yourself
+- Jebi ga — fuck it
+- Odjebi — fuck off
+- Ajde u kurac — go into a dick
+- Boli me kurac — I don\'t give a fuck
+- Koji ti je kurac — what the fuck is wrong with you
+- Pokaži mi kurac — show me your dick
+- Kurva — whore
+- Sranje — shit
+- Pička ti materina — your mother\'s vagina
+- Pederu! — gay \(slur\)
+]
+#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[List 3]]
+#block(above: 0.42em, below: 0.5em)[
+- оловка — pencil
+- čuvati — to protect??
+- довољно — enough, efficent
+- немој — Don\'t!
+- зајам — loan
+- пензија — Pension
+- козметички салон — Cosmetics Salon
+- тунел — Tunnel
+- контрола брзина — Speed Control \(cam\)
+- Ирски — Irish \(Ирац\)\(иркинја\)
+- одстојање — distance, interval
+- siječnja — January
+- veljača — February
+- ožujak — March
+- travanj — April
+- proljev — diahre
+- čarobnjak — wizard
+- Talijanski — Italian
+- Njemački — German
+- Bosanski — Bosnian
+- Srpski — Serbian
+- Nevolja — trouble, distress \(u nevolji smo\)
+- Rimokatolik — Roman Catholic
+- Iskvariti, Krvariti — to bleed
+- Puhati, duvati — to blow
+- Okriviti, Kriviti — to blame
+- Zakočiti, Kočiti — to brake
+- Slomiti, lomiti — to break
+- Jebi se — f\*\*\* yourself
+- Jebi ga — f\*\*\* it
+- Odjebi — f\*\*\* off
+- Ajde u kurac — go into a d\*\*\*
+- Boli me kurac — I don\'t give a f\*\*\*
+- Koji ti je kurac — what the f\*\*\* is wrong with you
+- Pokaži mi kurac — show me your d\*\*\*
+- Kurva — whore
+- Sranje — sh\*
+- Pička ti materina — your mother\'s vagina
+- Pederu! — gay \(slur\)
+- Kazna — punishment\/speeding ticking
+- Ljut — not Ljuta!!!
+- Dalje — many more\/ further
+- Najbitni — the most important
+- Izvješće — an account
+- Odrekoše se — they gave up
+- Prava — rights
+- Poradi — work
+- Premještaj — transfer
+- Šiptar — Albanian \(slur\)\(Serbian\)
+- Bašta — garden \(Serbian\)
+- Albanski — Albanian
+- Nego što — than
+- Objaviti — to post\/publish
+- utamničeni — imprisoned
+- Ukloniti — to remove\/take away
+- Pravi prijatelj — real friend\/best friend
+- koliko je daleko — how far is it?
+- Košara — basket
+- Sudi — to judge
+- Opaki — wicked
+- Trpjeti — to suffer
+- Utišati — to silence
+- obmanjivanju — deception
+- Laganju — lie
+- Usta — mouth
+- potkrepljivati — support\/confirm
+- otajstvima — mysteries
+- Trenutak — the moment
+- Tad — then
+- Skladu — according to
+- Nažalost — unfortunately
+- Torbu — bag
+- Evo — here \(demonstrative\)
+- Buditi se — wake up
+- Kišobran — umbrella
+- Prtljažnik — trunk
+- Pazi — look out
+- Izvrsno — Excellent
+- Talijanski — italian
+- Ni — nor, neither, either
+- Predložiti — to suggest
+- Najprije — first
+- Novine — news paper
+- Obično — usually
+- Udžbenik — textbook
+- Popiti — to drink
+- Zatvaranje — closing
+- Često — often
+- Nažalost — unfortunately
+- Predaleko — to far away
+- Ugodno je — it\'s pleasant
+- Rijetko — rarely
+- Navlakuša — hoax
+- Svijeća — candle
+- Baš — very, just, emphasis, right
+- Snijeg — snow
+- Podnijeti — to submit\/bear
+- Odobriti — to approve
+- Obaranje ruku — arm wrestling
+- Stadion — stadium
+- Katedrala — cathedral
+- Krevet — bed
+- Čamac — boat
+- Takav — such
+- Steći — to gain
+- Otvoriti — to open
+- Oprošten — forgiven
+- Riješiti — to solve
+- Važnost — importance
+- Zabava — party
+- Trimanje — timing
+- Razviti — to develope
+- Steći — to gain
+- Dosta — enough
+- Iskusiti — to experience
+- Nakon što — after
+- Prije nego što — before
+- Kao što — like\/as
+- A da ne — without
+- Dok ne — until
+- Istraživač — investigator
+- Uspjeh — success
+- Nebu — heaven
+- Napredovati — to progress
+- Korist — benefit
+- Krivnja — guilt
+- Poslušnost — obedience
+- Slabost — weakness
+- Sram — shame
+- Teskoće — trials
+- Visina — height
+- Tanjur — plate
+- Kakov — what kind
+- Odavde — from here
+- Mrziti — to hate
+- Nema veze — nevermind
+- Dobro miriše — It smells good
+- Glazba — music
+- Umoran — tired
+- Jadrnski — Adriatic
+- Dokaz — evidence
+- Slobodan — free
+- Šah — chess
+- Morž — walrus
+- Jak pljusak — big rain
+- Uskoro — soon
+- Smjeti — to be allowed
+- Uzeti — to take
+- Zaboraviti — to forget
+- Ležati — to lay
+- Nazivati — to name
+- Ostajati — to stay
+- Prati — to wash
+- Otvoriti — to open
+- Pustiti — to let loose\/ allow
+- Smatrati — to consider
+- Mjesec — month
+- Paprika — pepper \(not the SEASONING\)
+- Izabrati — to choose
+- Šalter — window\/counters
+- Činiti se — to seem
+- prošli put — last time
+- Razne vrste — various types
+- Pogoditi — to guess
+- Pišati — to piss
+- Pisati — to write
+- Ponuda — offer
+- Glupost — stupididity
+- Svjetko provenstvo — world cup
+- Donositi — to bring
+- Posveti — sanctify\/concercrate
+- Prometa — traffic
+- Broj — number
+- Bolje — better
+- Bole — it hurts
+- Garaža — garage
+- Obraniti — to defend
+- Posao — work\/job
+- Zvati — to call
+- Voditi — to lead
+- Oprema — equipment
+- Težak — hard
+- Tamo — there
+- Jeli ste — are you?
+- Sreće — luck\/happiness
+- Oprez — caution
+- Tako je — that\'s right
+- Kuhati — to cook
+- Ne mogu jesti više — i cant eat anymore
+- Začin — spice
+- Tako — so
+- Mrziti — to hate
+- Jer — because
+- Točna — correct
+- Napisati — to write
+- San — Dream
+- a — and \(conj.\)
+- a! — excl. aha!
+- abecèda — alphabet \(f.\)
+- abècedni — alphabetical \(adj.\)
+- administràcija — administration \(f.\)
+- adrèsa — address \(f.\)
+- advòkat — lawyer \(m.\)
+- aeròdrom — airport \(m.\)
+- aforìzam — aphorism \(m.\)
+- àfrički — African \(adj.\)
+- Àfrika — Africa \(f.\)
+- àjvar — eggplant and\/or red pepper relish \(m.\)
+- àkcenat — accent \(m.\)
+- àkcent — accent \(m.\)
+- akcioni — action \(adj.\)
+- ako — if \(conj.\)
+- akuzativ — accusative \(m.\)
+- Albànac — Albanian \(m.\)
+- Albànija — Albania \(f.\)
+- Àlbanka — Albanian \(f.\)
+- alèrgičan, alèrgična — allergic \(adj.\)
+- ali — but \(conj.\)
+- alo — hello \(excl.\)
+- alumìnijski — aluminum \(adj.\)
+- ama — but \(conj.\)
+- ambasàda — embassy \(f.\)
+- amèrički — American \(adj.\)
+- Amèrika — America \(f.\)
+- Amerikaǹ ac — American \(m.\)
+- Amerìkanka — American \(f.\)
+- àmidža — uncle \(m.\)
+- àmidžinica — aunt \(f.\)
+- angažìrati — to involve \(v.\)
+- àngažovati — to involve \(v.\)
+- anglìstika — English studies \(f.\)
+- ankèta — survey, questionnaire \(f.\)
+- anonìmnost — anonymity \(f.\)
+- aorist — aorist \(m.\)
+- aplaudìrati — to applaud \(v.\)
+- àplauz — applause \(m.\)
+- apotèkar — pharmacist \(m.\)
+- apotekàrica — pharmacist \(f.\)
+- apotèkarka — pharmacist \(f.\)
+- àpril — April \(m.\)
+- apsòlvent — university student having completed coursework but not yet passed all exams required for graduation \(m.\)
+- apsolventski — pertaining to final exam year at university \(adj.\)
+- àpstraktan, àpstraktna — abstract \(adj.\)
+- Àrapin — Arab \(m.\)
+- Àrapkinja — Arab \(f.\)
+- arheòlog — archaeologist \(m.\)
+- arhìtekt — architect \(m.\)
+- arhìtekta — architect \(f.\)
+- arhitektùra — architecture \(f.\)
+- atèntat — assassination \(m.\)
+- atmosfèra — atmosphere \(f.\)
+- atraktivan, atraktivna — attractive \(adj.\)
+- Austràlac — Australian \(m.\)
+- Australijànac — Australian \(m.\)
+- Australìjanka — Australian \(f.\)
+- Aùstralka — Australian \(f.\)
+- Àustrija — Austria \(f.\)
+- Austrijànac — Austrian \(m.\)
+- Austrijànka — Austrian \(f.\)
+- àustrijski — Austrian \(adj.\)
+- Austro — Ùgarska - Austria-Hungary \(f.\)
+- austroùgarski — Austro-Hungarian \(adj.\)
+- àuto — car \(m.\)
+- autòbus — bus \(m.\)
+- autobuski — bus \(adj.\)
+- àutobuska stànica — bus station
+- autobusni — bus \(adj.\)
+- àutobusna stànica — bus station
+- autobusni kolodvor — bus station, bus terminal
+- àutor — author \(m.\)
+- autòrica — author \(f.\)
+- àutorka — author \(f.\)
+- àvgust — August \(m.\)
+- avìon — airplane \(m.\)
+- avìonski — air, airmail \(adj.\)
+- àzbučni — alphabetical \(adj.\)
+- àzbuka — alphabet \(f.\)
+- Azija — Asia \(f.\)
+- azijski — Asian \(adj.\)
+- baba — grandmother \(f.\)
+- bàciti, bacim — to throw \(P\)
+- Bаčka — region of western Vojvodina
+- bàdem — almond \(m.\)
+- bajka — fairy tale \(f.\)
+- baka — grandmother \(f.\)
+- Bàlkan — the Balkans \(m.\)
+- bàlkanski — Balkan \(adj.\)
+- Bànat — region of eastern Vojvodina \(m.\)
+- banka — bank \(f.\)
+- Banja Lùka, Banjalùka — Banja Luka
+- bara — marshland \(f.\)
+- barem — at least \(adv.\)
+- baš — precisely \(adv.\)
+- bàšta — garden \(f.\)
+- baština — legacy, heritage \(f.\)
+- baviti se — to do, to occupy oneself with \(I\)
+- bàzen — swimming pool \(m.\)
+- Beč — Vienna \(m.\)
+- bedan, bedna — poor \(adj.\)
+- bèdem — rampart \(m.\)
+- beg — flight, escape \(m.\)
+- begùnac — fugitive \(m.\)
+- bèležnica — notebook \(f.\)
+- bènzin — gasoline, petrol \(m.\)
+- beo, bèla; beli — white \(adj.\)
+- Beògrad — Belgrade
+- Beògrađanin — resident of Belgrade \(m.\)
+- Beògrađanka — resident of Belgrade \(f.\)
+- beògradski — Belgrade \(adj.\)
+- bèrberin — barber \(m.\)
+- bes — fury, rage \(m.\)
+- bèsediti — to talk \(I\)
+- bèsplatan, bèsplatna — free \[of charge\] \(adj.\)
+- bespomoćan, bespomoćna — helpless \(adj.\)
+- bespoštedan, bespoštedna — unrelenting \(adj.\)
+- besvestan, besvesna — unconscious \(adj.\)
+- besvjestan, besvjesna — unconscious \(adj.\)
+- bez — without \(prep.\)
+- bez obzira na — regardless of
+- bèzdan — abyss, deep, depth \(m.\)
+- bezuslovan, bezuslovna — unconditional \(adj.\)
+- bezuvjetan, bezuvjetna — unconditional \(adj.\)
+- bìber — pepper \[spice\] \(m.\)
+- bibliotèka — library \(f.\)
+- bicìkl — bicycle \(m.\)
+- bih — would \(conditional\)
+- bi — would \(conditional\)
+- bijedan, bijedna — poor \(adj.\)
+- bijeg — flight, escape \(m.\)
+- bijel, bijèla; bijeli — white \(adj.\)
+- bijes — fury, rage \(m.\)
+- bìla jèdnom — once upon a time there was
+- bìli jèdnom — once upon a time there were
+- bìlo ko — whoever, anyone at all
+- bìlo šta — whatever, anything at all
+- bìlo što — whatever, anything at all
+- bìlo tko — whoever, anyone at all
+- bìlježnica — notebook \(f.\)
+- biljka — plant \(f.\)
+- biòlog — biologist \(m.\)
+- biològija — biology \(f.\)
+- bioskop — movie theater, cinema \(m.\)
+- bìrati, biram — to select \(I\)
+- bismo — would \(conditional\)
+- biste — would \(conditional\)
+- bitan, bitna — essential \(adj.\)
+- biti — to be \(I\/P\)
+- bìvati, bivam — to be, to become, to occur \(I\)
+- bivši — former \(adj.\)
+- bjegùnac — fugitive \(m.\)
+- bjèžati — to flee \(see under pòbjeći\)
+- blag, blàga; blagi — gentle, mild \(adj.\)
+- blago — treasure \(n.\)
+- blagostànje — prosperity \(n.\)
+- blagovaònica — dining room \(f.\)
+- blaži — gentler, milder \(adj.\)
+- bled, blèda; bledi — pale \(adj.\)
+- blesav — silly, idiotic, foolish \(adj.\)
+- blijed, blijèda; blijedi — pale \(adj.\)
+- blizak, blìska; bliski — close, near, intimate \(adj.\)
+- blizìna — nearness, proximity \(f.\)
+- blizu — near, close to \(prep. + Gen\)
+- blìzu — close, nearby \(adv.\)
+- bliže — closer \(adv.\)
+- bliži — closer \(adj.\)
+- blìžiti, bližim — to approach, to come near \(I\)
+- blùza — blouse \(f.\)
+- bljeđi — paler \(adj.\)
+- boca — bottle \(f.\)
+- bòemski — bohemian \(adj.\)
+- Bog, bog — God \(m.\)
+- bògat — rich, wealthy \(adj.\)
+- bogoslòvija — theology \(f.\)
+- bòja — color; paint \(f.\)
+- bòjati se, bòjim se — to fear \(I\)
+- bok — hello; goodbye \(excl.\)
+- bol — pain, ache \(f.\)
+- bolan, bolna — painful \(adj.\)
+- bolèsnički — patient-related \(adj.\)
+- bolestan, bolesna — sick, ill \(adj.\)
+- bòleti, bòli — to hurt, to ache \(I\)
+- bòlnica — hospital \(f.\)
+- bòlničar — nurse \(m.\)
+- bòlničarka — nurse \(f.\)
+- bòlnički — hospital \(adj.\)
+- bolje — better \(adv.\)
+- bòljeti, bòli — to hurt, to ache \(I\)
+- bolji — better \(adj.\)
+- bòmbon — piece of candy \(m.\)
+- bombòna — piece of candy \(f.\)
+- bono — painfully \(adv.\)
+- bor — pine tree; Christmas tree \(m.\)
+- bòravak — stay \(m.\)
+- bòravište — dwelling place \(n.\)
+- bòraviti — to stay, to dwell \(I\)
+- bòrba — struggle, fight, battle \(f.\)
+- Bosànac — Bosnian \(m.\)
+- Bòsanka — Bosnian \(f.\)
+- bòsanski — Bosnian \(adj.\)
+- Bosna i Hèrcegovina — Bosnia and Herzegovina
+- Bòšnjak — Bosniak \(m.\)
+- Bòšnjakinja — Bosniak \(f.\)
+- božji — divine \(adj.\)
+- br. — no., number \(abbr.\)
+- bràco — brother \(colloq.\)
+- bràniti — to defend \(I\)
+- brat — brother; cousin \(m.\)
+- brati, bèrem — to pick, to pluck \(I\)
+- bratić — cousin \(m.\)
+- brdo — hill \(n.\)
+- brdòvit — hilly \(adj.\)
+- briga — worry, concern \(f.\)
+- brìjač — barber \(m.\)
+- brijati se — to shave \(I\)
+- brinuti — to worry \(I\)
+- brisati — to wipe, to remove, to erase \(I\/P\)
+- brod — boat, ship \(m.\)
+- broj — number; issue \(m.\)
+- brojan, brojna — numerous \(adj.\)
+- brz, br̀za; brzi — quick, fast \(adj.\)
+- brzìna — speed, velocity \(f.\)
+- brži — faster \(adj.\)
+- bùbreg — kidney \(m.\)
+- budàla — fool \(f.\)
+- bùdem — I will be \(see under biti\)
+- bùdilica — alarm clock \(f.\)
+- bùdilnik — alarm clock \(m.\)
+- bùditi — to wake \(someone\) up \(I\/P\)
+- bùdući — future \(adj.\)
+- budući da — since \(conj.\)
+- budùćnost — future \(f.\)
+- Bugarska — Bulgaria \(f.\)
+- buka — noise \(f.\)
+- bùket — bouquet \(m.\)
+- bùktinja — torch \(f.\) C
+- car — emperor \(m.\)
+- celìna — whole \(f.\)
+- celòkupan — entire \(adj.\)
+- celòvit — complete, integral \(adj.\)
+- cèna — price, cost \(f.\)
+- centar — center \(m.\)
+- ceo — whole \(adj.\)
+- cesta — road \(f.\)
+- ciao — hello, goodbye \(adv.\)
+- cigàreta — cigarette \(f.\)
+- cijel \(also cio\) — whole \(adj.\)
+- cijèna — price, cost \(f.\)
+- ciklus — cycle \(m.\)
+- cìmer — roommate \(m.\)
+- cìmerica — roommate \(f.\)
+- cìmerka — roommate \(f.\)
+- cìmet — cinnamon \(m.\)
+- cio \(also cijel\) — whole \(adj.\)
+- cìpela — shoe \(f.\)
+- cjelìna — whole \(f.\)
+- cjelòkupan — entire \(adj.\)
+- cjelòvit — complete, integral \(adj.\)
+- crkva — church \(f.\)
+- crn — black \(adj.\)
+- Crna Gòra — Montenegro \(f.\)
+- cr̀neti — to blacken
+- Crnogòrac — Montenegrin \(m.\)
+- Crnògorka — Montenegrin \(f.\)
+- crnògorski — Montenegrin \(adj.\)
+- cr̀njeti — to blacken
+- crta — line; feature, trait \(f.\)
+- crtani — drawn; animated \(adj.\)
+- crtanje — drawing, sketch \(n.\)
+- crtati — to draw, to sketch
+- cr̀ven — red \(adj.\)
+- crvèndač — robin \(m.\)
+- cura — girl \(f.\)
+- cveće — flowers \(n.\)
+- cvet — flower \(m.\)
+- cvijeće — flowers \(n.\)
+- cvijet — flower \(m.\)
+- cvrkùtati — to chirp \(I\)
+- Č — what \(pron.\)
+- čaj — tea \(m.\)
+- čak — even, as far as \(adv.\)
+- čàrapa — stocking, sock \(f.\)
+- čaròbnjak — magician, wizard \(m.\)
+- čàršaf — sheet \(bedding\) \(m.\)
+- čàršav — sheet \(bedding\) \(m.\)
+- čas — class, lesson; hour, o\' clock; moment \(m.\)
+- časopis — magazine \(m.\)
+- čàstiti — to treat, to pay for \(I\/P\)
+- čaša — glass, cup \(f.\)
+- čašičica — small glass, small cup \(f.\)
+- Čeh — Czech \(m.\)
+- Čehinja — Czech \(f.\)
+- čest — often \(adj.\)
+- čestìtati — to congratulate \(I\)
+- često — often, frequently \(adv.\)
+- češće — more often \(adv.\)
+- češći — more often \(adj.\)
+- čèšljati — to brush, comb \(I\/P\)
+- čèšnjak — garlic \(m.\)
+- čètiri — four \(num.\)
+- četrdèset — forty \(num.\)
+- četiristo — four hundred \(num.\)
+- četr̀naest — fourteen \(num.\)
+- četr̀naesti — fourteenth \(adj.\)
+- četvoro — four \(n.\)
+- četvoròugao — quadrangle, rectangle \(m.\)
+- četvòrica — four \(n.\)
+- četvr̀tak — Thursday \(m.\)
+- čètvrti — fourth \(adj.\)
+- četvrt — quarter; quarter \(n.\)
+- četvrtìna — one fourth, a quarter \(f.\)
+- čìji — whose \(adj.\)
+- čim — as soon as \(conj.\)
+- čim prije — as soon as possible \(adv.\)
+- čìm — what \(Instr\)
+- čin — act \(m.\)
+- čìniti — to make, to do \(I\/P\)
+- činòvnica — clerk \(f.\)
+- činòvnik — clerk \(m.\)
+- čùvar — guard, watchman \(m.\)
+- čùvati — to keep, to guard \(I\/P\); to preserve \(P\)
+- čùvati se — to watch out, to be careful \(I\)
+- čùven — famous, renowned \(adj.\)
+- čvrst — firm, sturdy \(adj.\)
+- čvršći — firmer, sturdier \(adj.\)
+- Ć — what \(pron.\)
+- ćao — hello, goodbye \(excl.\)
+- ćaskati — to chat \(I\)
+- ćebe — blanket \(n.\)
+- ćerati — to drive away, to chase \(I\/P\)
+- ćèrka — daughter \(f.\)
+- ćevàpčići — grilled minced meat \(m.\)
+- ćirìlica — Cyrillic alphabet \(f.\)
+- ću — I will \(auxiliary verb\)
+- ćuti — to be silent \(I\) D
+- da — conj. - in order to, that, let...
+- da li — opening phrase for question
+- dah — breath \(m.\); breaths \(Npl\)
+- dàidža — maternal uncle \(m.\); maternal uncles \(Npl\)
+- dàidžinica — aunt \(f.\); aunts \(Npl\)
+- dakle — consequently, therefore
+- dalèko — far \(adv.\)
+- Dalmàcija — the Croatian coast from Zadar to the border with Montenegro \(f.\)
+- Dalmàtinska zagora — mountainous region inland from the Dalmatian coast \(f.\)
+- dalmàtinski — Dalmatian \(adj.\)
+- dalje — further \(adv.\)
+- daljìna — distance \(f.\)
+- dan — day \(m.\); days \(Npl\)
+- dànas — today \(adv.\)
+- dànašnji — today, today’s \(adj.\)
+- dar — gift \(m.\); gifts \(Npl\)
+- daròvati — to give a gift \(I\)
+- dàska — board \(f.\); boards \(Gpl\)
+- dàska za pèglanje — ironing board \(f.\)
+- dati — to give \(P\); I give \(dàjem\)
+- dativ — dative \(m.\)
+- dàtum — date \(m.\)
+- davni — distant \[in time\] \(adj.\)
+- dèbeo — fat \(adj.\); fat \(m.\)
+- debelji — fatter, thicker \(adj.\)
+- dèca — children \(pl.\); a child \(dète\)
+- dècembar — December \(m.\)
+- dèčak — boy, young man \(m.\); boys, young men \(Npl\)
+- dečko — boy \(m.\); boys \(Npl\)
+- ded — grandfather \(m.\); grandfathers \(Npl\)
+- deda — grandpa \(m.\); grandpas \(Npl\)
+- deka — blanket \(f.\); blankets \(DLsg\); a blanket \(dèka\)
+- deliti — to share \(I\); I share \(delim\); to divide, to separate \(P\)
+- delo — work, act \(n.\); works, acts \(Npl\)
+- delovati — to act, to take action \(I\)
+- demòkratski — democratic \(adj.\)
+- deo — part, portion \(m.\); parts, portions \(Npl\)
+- deset — ten \(num.\)
+- desètak — ten or so, about ten \(num.\)
+- desetero — ten \(group of mixed gender\) \(n.\)
+- deseti — tenth \(adj.\)
+- desetòrica — ten \[men\] \(f.\)
+- desetoro — ten \(group of mixed gender\) \(n.\)
+- desiti se — to happen \(P\); it happens \(dešava se\)
+- desni — right \(adj.\)
+- dèvica — virgin \(f.\); virgins \(Npl\)
+- dèvici pl — virgins \(f. sg form\)
+- dèvojka — girl, young woman \(f.\); girls, young women \(Npl\)
+- dèžuran — on duty \(adj.\); on duty \(dòžurna\)
+- dići — to raise, to lift \(P\); I raise \(dignem\)
+- digitalni — digital \(adj.\)
+- disk — disk \(m.\); disks \(Npl\)
+- diskretan — discreet \(adj.\); discreet \(m.\)
+- diskusija — discussion \(f.\); discussions \(Npl\)
+- divan — marvelous, wonderful \(adj.\); marvelous, wonderful \(m.\)
+- dizati — to raise, to lift \(I\); I lift \(dizem\)
+- djèca — children \(f. sg form\); children \(pl.\)
+- djèčak — boy, young man \(m.\); boys, young men \(Npl\)
+- djed — grandfather \(m.\); grandfathers \(Npl\)
+- djelo — work, act \(n.\); works, acts \(Npl\)
+- djelovati — to act, to take action \(I\); I act \(djelujem\)
+- djetinjast — childish \(adj.\); childish \(m.\)
+- djèvojka — girl, young woman \(f.\); girls, young women \(Npl\)
+- djòn — bottom \(n.\); bottom \(Gsg\)
+- dob — good \(adj.\); good \(n.\)
+- dobar — good \(adj.\); good \(m.\)
+- dòbiti — to receive, to get, to obtain \(P\); I receive \(dobijem\)
+- dobro — well \(adv.\); good, wellbeing \(n.\)
+- dobrodòšao — welcome \(adj.\); welcome \(m.\); welcome \(f.\); welcome \(pl.\)
+- dobrodòšao — welcome \(adj.\)
+- dočarati — to conjure up \(P\); I conjure up \(dočaram\)
+- doći — to come, to arrive \(P\); I come \(dođem\)
+- dodatan — additional \(adj.\); additional \(m.\)
+- dodati — to add \(P\); I add \(dodam\)
+- dodirnuti — to touch \(P\); I touch \(dodirnem\)
+- doduš̀e — truly, indeed \(adv.\)
+- događaj — event \(m.\); events \(Npl\)
+- dogodine — next year \(adv.\)
+- dogoditi se — to happen \(P\); it happens \(događa se\)
+- dogovor — agreement \(m.\); agreements \(Npl\)
+- dogovoriti se — to agree upon \(P\); I agree upon \(dogovorim se\)
+- doći — to reach, to penetrate, to get through to \(P\); I reach \(doprem\)
+- dolazak — arrival \(m.\); arrivals \(Gsg\)
+- dole — below, down \(adv.\)
+- doliti — to add by pouring \(P\); I add by pouring \(dolijem\)
+- dolje — below, down \(adv.\)
+- dom — home \(m.\); homes, dormitory \(Npl\)
+- dòmaći — domestic \(adj.\); domestic \(m.\); domestic \(f.\); domestic \(Npl\)
+- dòmaćica — housekeeper \(f.\); housekeepers \(Npl\)
+- dòmovina — homeland \(f.\)
+- doneti — to bring \(P\); I bring \(donosim\)
+- dopustiti — to permit \(P\); I permit \(dopustim\)
+- dòručak — breakfast \(m.\); breakfasts \(Gsg\)
+- dosadan — boring, dull \(adj.\); boring, dull \(m.\)
+- dòsadašnji — former, previous \(adj.\)
+- dosaditi — to bore \[someone\] \(P\); I bore \(dòsadim\)
+- doseći — to reach \(P\); I reach \(dosegnem\)
+- dòsipeti — to arrive at \(P\); I arrive at \(dospem\)
+- dospevati — to arrive at \(I\); I arrive at \(dospevam\)
+- dostojanstvo — dignity \(n.\)
+- dòvesti — to bring, to lead to, to conduct \(P\); I bring \(dovèdem\)
+- dovesti — to bring by vehicle \(P\); I bring by vehicle \(dovèzem\)
+- dovoljan — sufficient, enough \(adj.\); sufficient, enough \(m.\)
+- dozvòliti — to allow \(P\); I allow \(dozvolim\)
+- dožìveti — to experience \(P\); I experience \(doživim\)
+- drag — dear \(adj.\); dear \(m.\)
+- dramski — dramatic \(adj.\); dramatic \(m.\)
+- dres — sports jersey \(m.\); sports jerseys \(Npl\)
+- droga — drug \(f.\); drugs \(Npl\)
+- drogiranje — drug use \(n.\); drug use \(Gsg\)
+- drogirati se — to take drugs \(P\); I take drugs \(drogiram se\)
+- druge — other \(adj.\); others \(Npl\)
+- društvo — society \(n.\); society \(Gsg\)
+- dubina — depth \(f.\); depths \(Gpl\)
+- duga — rainbow \(f.\); rainbows \(Gpl\)
+- duh — spirit \(m.\); spirits \(Npl\)
+- duhovit — witty \(adj.\); witty \(m.\)
+- duša — soul \(f.\); souls \(Gpl\)
+- dug — long \(adj.\); debt \(m.\)
+- dugo — long \(adv.\)
+- dugoročan — long-term \(adj.\); long-term \(m.\)
+- duhovno — spiritual \(adj.\); spiritually \(adv.\)
+- dužan — obliged \(adj.\); obliged \(m.\)
+- dužnost — duty \(f.\); duties \(Gpl\)
+- dvadeset — twenty \(num.\)
+- dvadesetorica — twenty \[men\] \(f.\); twenty \[men\] \(Gpl\)
+- dvanaest — twelve \(num.\)
+- dvanaestorica — twelve \[men\] \(f.\); twelve \[men\] \(Gpl\)
+- dva — two \(num.\)
+- dvoje — two \(num.\)
+- dvojka — two \(f.\); twos \(Npl\)
+- dvojica — two \(f.\); two \(Gpl\)
+- dvorac — castle \(m.\); castles \(Npl\)
+- dvoran — hall \(m.\); halls \(Npl\)
+- dvorana — hall \(f.\); halls \(Gpl\)
+- džak — sack \(m.\); sacks \(Npl\)
+- džamija — mosque \(f.\); mosques \(Gpl\)
+- džem — jam \(m.\); jams \(Npl\)
+- dr̀htati — to tremble, to shiver \(I\); I tremble, I shiver \(dršćem\)
+- drška — handle \(f.\); handles \(Npl\)
+- drug — friend, pal, schoolmate, companion \(m., general\); comrade \(m., general\)
+- drugàrica — friend, pal, schoolmate \(f.\); comrade \(f.\)
+- drugi — second \(2nd\); other, another; Second World War \(m.\)
+- drugo — secondly; other; else
+- drùštven — social \(adj.\); social sciences \(f.\)
+- drùštvo — society; company of friends \(Gpl\)
+- družiti se — to socialize \(I\)
+- drveće — trees \(Npl\)
+- drven — wooden \(adj.\)
+- drvo — tree \(f.\); wood, firewood
+- drzak — insolent \(adj.\)
+- držak — handle \(m.\)
+- dr̀žati — to hold, to keep \(I\)
+- dr̀žava — state \(f.\)
+- državljanin — citizen \(m., general\)
+- državljanka — citizen \(f.\)
+- dubìna — depth \(f.\)
+- dug — long \(adj.\); debt \(m.\)
+- dugo — long \(adv.\)
+- dugoročan — long-term \(adj.\)
+- duhovit — witty \(adj.\)
+- duša — soul \(f.\)
+- dužan — obliged \(adj.\)
+- dužnost — duty \(f.\)
+- dvadeset — twenty \(num.\)
+- dvadesetorica — twenty \[men\] \(f.\)
+- dvanaest — twelve \(num.\)
+- dvanaestorica — twelve \[men\] \(f.\)
+- dva — two \(num.\)
+- dvoje — two \(num.\)
+- dvojka — two \(f.\); twos \(Npl\)
+- dvojica — two \(f.\); two \(Gpl\)
+- dvorac — castle \(m.\); castles \(Npl\)
+- dvoran — hall \(m.\); halls \(Npl\)
+- dvorana — hall \(f.\); halls \(Gpl\)
+- džak — sack \(m.\); sacks \(Npl\)
+- džamija — mosque \(f.\); mosques \(Gpl\)
+- džem — jam \(m.\); jams \(Npl\)
+- Džezva — f; Gpl džezava or džezvi Turkish coffeepot
+- džez — m jazz Đ
+- đak — elementary or secondary school student, pupil \(m.\); pupils \(Npl\)
+- ej! — hey! \(excl.\)
+- egzibìcija — show \(f.\)
+- èkavica — ekavian \(f.\)
+- ekìpa — team \(f.\)
+- ekonòmija — economics \(f.\)
+- elegàntan — elegant \(adj.\); elegant \(m.\)
+- elèktričar — electrician \(m.\); electricians \(Gpl\)
+- elèktričarka — electrician \(f.\); electricians \(Gpl\)
+- elektrotèhnika — electrical engineering \(f.\)
+- Èngleska — England \(f.\)
+- èngleski — English \(adj.\)
+- Èngleskinja — Englishwoman \(f.\)
+- Ènglez — English person, Englishman \(m.\)
+- eno — there \(part.\)
+- epòha — age, epoch \(f.\)
+- epski — epic \(adj.\)
+- èsej — essay \(m.\)
+- etnològija — ethnology \(f.\)
+- eto — look! \(part.\)
+- Eùropa — Europe \(f.\)
+- euro — euro \(m.\)
+- eventualan — possible, conceivable but uncertain \(adj.\)
+- evo — here \(part.\)
+- evro — euro \(m.\)
+- Evròpa — Europe \(f.\) F
+- fàbrika — factory \(f.\)
+- fakat — really, indeed \(colloq.\)
+- fakt — fact \(m.\)
+- fakùltet — school or college of a university, faculty \(m.\)
+- faliti — to lack; to miss \(I\)
+- farmacèut — pharmacist \(m.\)
+- fašìstički — fascist \(adj.\)
+- februar — February \(m.\)
+- Federàcija Bosne i Hèrcegovine — the Federation of Bosnia and Herzegovina
+- fenìrati — to blow dry \[hair\] \(I\/P\)
+- festìval — festival \(m.\)
+- figùra — figure \(f.\)
+- fildžan — Turkish coffee cup \(m.\)
+- film — movie, cinema \(m.\); movies \(Npl\)
+- filològija — philology \(f.\)
+- filozòfija — philosophy \(f.\)
+- fin — nice, fine \(adj.\)
+- financìranje — financial support \(n.\)
+- finansìranje — financial support \(n.\)
+- fizički — physical \(adj.\); physical education \(f.\)
+- fizika — physics \(f.\)
+- fòlklor — folklore \(m.\); folklore festival \(f.\)
+- forma — form, shape \(f.\)
+- fòrmalan — formal \(adj.\)
+- formùlar — blank, form \(m.\)
+- fòtelj — armchair \(f.\)
+- foto — apàrat - camera \(m.\)
+- fotogràfija — photo \(f.\)
+- Fràncuska — France \(f.\)
+- fràncuski — French \(adj.\)
+- Fràncuskinja — Frenchwoman \(f.\)
+- Fràncuz — French person, Frenchman \(m.\)
+- fràza — phrase \(f.\)
+- frìzerka — hairdresser \(f.\)
+- frìzerski — pertaining to hairdressing \(adj.\)
+- frìzura — hairdo \(f.\)
+- frižìder — refrigerator \(m.\)
+- fudbal — soccer \(m.\)
+- fudbàler — soccer player \(m.\)
+- fudbalski — soccer \(adj.\); soccer team \(m.\)
+- fùnkcija — function \(f.\)
+- funkcionìrati — to function \(I\/P\)
+- funkciònisati — to function \(I\/P\)
+- fùrati se — to drive; to go after \(I\) G
+- ga — him; it \(pronoun\)
+- gaće — men\'s underpants \(f. pl\)
+- gaćice — women\'s underpants \(f. pl\)
+- galàma — ruckus, hubbub \(f.\)
+- galeb — sea gull \(m.\); sea gulls \(Npl\)
+- gàsiti — to put out, to extinguish \(I\); to extinguish \(P\)
+- gavran — raven \(m.\); ravens \(Npl\)
+- gde — where \(adv.\)
+- gdje — where \(adv.\)
+- genitiv — genitive \(m.\)
+- geogràfija — geography \(f.\)
+- geogràfski — geographical \(adj.\)
+- germanìstika — study of Germanic languages \(f.\)
+- gèrmanski — Germanic \(adj.\)
+- gìmnazija — secondary school \(f.\)
+- gimnazijàlac — secondary school student \(m.\)
+- gimnazijàlka — secondary school student \(f.\)
+- gitàra — guitar \(f.\)
+- gladak — smooth \(adj.\); smooth \(m.\)
+- glàdan — hungry \(adj.\); hungry \(m.\)
+- glađi — smoother \(adj.\)
+- glagol — verb \(m.\)
+- glas — voice \(m.\); vote \(m.\); word, news \(m.\)
+- glasan — loud \(adj.\)
+- glasovir — piano \(m.\)
+- glàva — head \(f.\)
+- glavòbolja — headache \(n.\)
+- glàvni — main, principal \(adj.\)
+- glàzba — music \(f.\)
+- glàzbalo — musical instrument \(n.\)
+- glàzbeni — musical \(adj.\)
+- glàzbenica — musician \(f.\)
+- glàzbenik — musician \(m.\)
+- gle! — look! \(excl.\)
+- gledalac — spectator, audience member \(m.\); spectators, audience members \(Gpl\)
+- glèdatelj — spectator, audience member \(m.\)
+- gledatèljica — spectator, audience member \(f.\)
+- gledati — to look at, to watch \(I\); to glance at \(P\); to catch sight of \(P\)
+- gluh — deaf \(adj.\)
+- glùmac — actor \(m.\)
+- glùmica — actress \(f.\)
+- glùmiti — to act \(I\); to feign \(I\)
+- glup — stupid \(adj.\)
+- glùpost — stupidity \(f.\)
+- glùpača — stupid female \(f.\)
+- gnèzdo — nest \(n.\)
+- gnijèzdo — nest \(n.\)
+- go, gòla; goli — naked \(adj.\)
+- — god - -ever \(adv.\)
+- godina — year \(f.\)
+- gòdišnji — annual \(adj.\)
+- gòdište — year of birth \(n.\)
+- gòditi — to please, to gratify \(I\)
+- gol, gòla — naked \(adj.\)
+- gòlem, golèma — enormous \(adj.\)
+- golub — dove, pigeon \(m.\)
+- gòra — wooded mountain or hill \(f.\)
+- gord, gòrda; gordi — proud \(adj.\)
+- gore — above, up \(adv.\)
+- gore — worse \(adv.\)
+- gori — worse \(adj.\)
+- gòreti — to burn \(I\)
+- gòrjeti — to burn \(I\)
+- gornji — upper \(adj.\)
+- gòrski — hilly, mountainous \(adj.\)
+- gospòda — gentlemen \(pl.\); Mr., sir \(m.\)
+- gospòdar — master, lord; owner \(m.\)
+- gospodàrstvo — economy \(n.\)
+- gospođa — married woman, Mrs., Ms., ma’am, lady \(f.\)
+- gospođica — unmarried woman, Ms., Miss \(f.\)
+- gost — guest \(m.\); guests \(Gpl\)
+- gostiònica — inn, tavern, small restaurant \(f.\)
+- gostòvati — to be a guest \(I\)
+- gošća — guest \(f.\)
+- gòtov — finished, done \(adj.\)
+- gòtovo — that’s that!; almost \(adv.\)
+- gòvno — excrement; vulgar: shit \(n.\)
+- govòriti — to speak \(I\)
+- grad — city \(m.\); cities \(Npl\)
+- gràdić — small town \(m.\); small towns \(Gpl\)
+- gràdski — city, urban \(adj.\)
+- građanin — citydweller, resident of a city; citizen \(m.\)
+- građanka — citydweller, resident of a city; citizen \(f.\)
+- grah — beans \(m.\)
+- gramàtički — grammar, grammatical \(adj.\)
+- gramàtika — grammar \(f.\)
+- gràna — branch \(f.\)
+- grànje — branches \(n.\)
+- grànica — border \(f.\)
+- grànuti — to burst forth \(P\)
+- Grčka — Greece \(f.\)
+- greška — mistake, error \(f.\)
+- grip — flu, influenza \(n.\)
+- gripa — flu, influenza \(n.\)
+- Grk — Greek person \(m.\); Greeks \(Npl\)
+- Grkinja — Greek person \(f.\)
+- grliti — to embrace \(I\); to embrace \(P\)
+- grlo — throat \(n.\)
+- grom — thunder, lightning \(m.\)
+- grozan — terrible, horrible \(adj.\)
+- gròznica — fever \(f.\)
+- grub — rough \(adj.\)
+- grublji — rougher \(adj.\)
+- grudnjak — bra, brassiere \(m.\)
+- gumb — button \(m.\); buttons \(Npl\)
+- guska — goose \(f.\)
+- gùsle — traditional one-stringed instrument that accompanies the singing of epic songs \(f.\)
+- gust — thick, dense \(adj.\)
+- gušći — thicker, denser \(adj.\)
+- gužva — crowd \(f.\); trouble \(colloq.\) \(f.\)
+- hàjduk — brigand \(Noun\)
+- hàljina — dress \(f\)
+- hàuba — salon hairdryer, hood, bonnet \(f\)
+- hèmičar — chemist \(m\)
+- hèmičarka — chemist \(f\)
+- hèmija — chemistry \(f\)
+- hèmijski — chemical \(adj\)
+- hèrceg — duke \(m\)
+- hìljada — thousand \(f\)
+- hìniti — to feign
+- hìstorija — history \(f\)
+- hit — popular song \(m\)
+- hitan — urgent, emergency \(adj\)
+- hlače — pants, trousers \(f\)
+- hlàdan — cold \(adj\)
+- hladnjak — refrigerator \(m\)
+- hleb — bread \(m\)
+- hljeb — bread \(m\)
+- hòdati — to walk, to go out together
+- hodnik — hallway, corridor \(m\)
+- hostel — hostel \(m\)
+- hòtel — hotel \(m\)
+- hrab̀ ar — brave \(adj\)
+- hràbrost — courage, bravery \(f\)
+- hraǹ a — food \(f\)
+- hràniti — to raise, to nurture
+- hrast — oak tree \(m\)
+- hrènovka — hot dog, frankfurter \(f\)
+- hrid — cliff \(f\)
+- hrìšćanin — Christian \(m\)
+- hrìšćanka — Christian \(f\)
+- hrìšćanski — Christian \(adj\)
+- hrišćànstvo — Christianity \(Noun\)
+- hrònika — chronicle \(f\)
+- Hr̀vat — Croat \(m\)
+- Hrvàtica — Croat \(f\)
+- Hr̀vatska — Croatia \(f\)
+- hr̀vatski — Croatian \(adj\)
+- hteti — want, will
+- hvàla — thanks \(f\)
+- hvàliti — to praise
+- hvatati — to catch
+- i — and \(conj\)
+- iàko — although \(conj\)
+- ičega — anything \(pron\)
+- ìći — to go
+- idèja — idea \(f\)
+- identificìrati — to identify
+- idèntifikovati — to identify
+- ìdući — next, coming \(adj\)
+- igde — anywhere \(adv\)
+- igdje — anywhere \(adv\)
+- ìgla — needle \(f\)
+- ìgra — game, dance \(f\)
+- igràč — player, dancer \(m\)
+- igràčica — player, dancer \(f\)
+- ìgračka — toy \(f\)
+- ìgralište — playground \(Noun\)
+- ìgrati — to play, to dance
+- ih — them \(pron\)
+- ijèkavica — ijekavian \(f\)
+- ikad — ever \(adv\)
+- iko — anyone \(pron\)
+- ili — or \(conj\)
+- im — them \(pron\)
+- ime — name \(Noun\)
+- imenica — noun \(f\)
+- imperfekt — imperfect \(m\)
+- ìnače — otherwise \(adv\)
+- informàcija — information \(f\)
+- informàtika — information science \(f\)
+- inostrànstvo — foreign lands \(Noun\)
+- inozèmstvo — foreign lands \(Noun\)
+- insistìranje — insistence \(Noun\)
+- instànca — institution, level \(f\)
+- inteligèntan — intelligent \(adj\)
+- instrùment — musical instrument, tool \(m\)
+- intenzivan — intensive \(adj\)
+- interesàntan — interesting \(adj\)
+- interesìranje — interest \(Noun\)
+- interesovati — to interest
+- ìnternet — internet \(m\)
+- inžènjer — engineer \(m\)
+- ionàko — although, anyhow \(adv\)
+- ipak — nonetheless, nevertheless, yet \(adv\)
+- isfenìrati — to make up
+- iskàpiti — to drain to the last drop
+- ìskati — to seek
+- ìskaz — statement \(m\)
+- ìskaznica — membership card \(f\)
+- iskljùčiti — to turn off, to exclude
+- iskòristiti — to use
+- iskren — sincere \(adj\)
+- ìspasti — to turn out, to drop or fall out of
+- ìspit — exam \(m\)
+- ispìtati — to question, to examine, to interrogate
+- ispitìvanje — examination, testing \(Noun\)
+- ispitni — exam \(adj\)
+- isplàtiti se — to be worthwhile
+- isplàtiti se — to pay off
+- ispod — under, beneath \(prep\)
+- ispred — in front of, after \(prep\)
+- isprìčati — to tell everything
+- isprva — at first \(adv\)
+- istàći — to emphasize, to remark
+- istina — truth \(f\)
+- istinski — authentic, true \(adj\)
+- ìstočni — eastern \(adj\)
+- ìstok — east \(m\)
+- ìstorija — history \(f\)
+- istòvremen — simultaneous \(adj\)
+- istràžiti — to research
+- istražìvati — to research
+- iščìtati — to read out to the end
+- iščekìvanje — anticipation \(Noun\)
+- išta — anything \(pron\)
+- Italija — Italy \(f\)
+- italìjanski — Italian \(adj\)
+- itd. — etc.
+- itekàko — definitely \(adv\)
+- itko — anyone \(pron\)
+- iz — from, out of \(prep\)
+- iza — behind, after \(prep\)
+- ìzaći — to go out, to go out for a drink
+- ìzbivanje — time spent away \(Noun\)
+- ìzbrisati — to erase
+- izdalèka — from afar \(adv\)
+- izdànje — edition, publication \(Noun\)
+- ìzdati — to publish, to betray
+- izdàvati — to publish
+- izdr̀žati — to endure, to support, to survive
+- izgled — appearance, prospects \(m\)
+- izglèdati — to appear, to seem
+- izgovor — pronunciation, excuse \(m\)
+- izgovòriti — to pronounce
+- izgùbiti — to lose
+- ìzići — to go out, to go out for a drink
+- ìzlet — excursion \(m\)
+- ìzlog — store window, display case \(m\)
+- između — between, among \(prep\)
+- izmènjati — to alternate, to exchange
+- izmèšati — to mix
+- izmijènjati — to alternate, to exchange
+- izmijèšati — to mix
+- ìzmisliti — to fabricate, to think up
+- izmijènjati — to alternate, to exchange
+- izmisliti — to invent
+- izmijènjati — to alternate, to exchange
+- iznad — over, above \(prep\)
+- iznàjmiti — to rent \[to\] \(P\)
+- iznajmljìvati — to rent \[to\] \(I\)
+- iznenàditi — to surprise \(P\)
+- iznenàđivati — to surprise \(I\)
+- iznenađènje — surprise \(Noun\)
+- iznervìrati se — to get irritated, to get angry \(P\)
+- ìzneti — to carry out, to bring out \(P\)
+- ìznijeti — to carry out, to bring out \(P\)
+- ìzniman — exceptional \(adj.\)
+- izravan — direct, immediate \(adj.\)
+- izraz — expression \(m\)
+- izràziti — to express \(P\)
+- ìzreći — to pronounce, to declare \(P\)
+- izrìcati — to pronounce, to declare \(I\)
+- izučàvati — to make a study of \(I\)
+- ìzum — invention \(m\)
+- izuzetan — exceptional \(adj.\)
+- izvèsti — to perform \(P\)
+- ìzveštaj — report \(m\)
+- ìzvideti — to scout \(P\)
+- ìzvidjeti — to scout \(P\)
+- izvìjati se — to soar \(P\)
+- izvìkati se — to yell at length \(P\)
+- izvìniti — to excuse \(P\)
+- izvinjàvati se — to apologize \(I\)
+- ìzvješće — report \(Noun\)
+- ìzvještaj — report \(m\)
+- ìzvoli — here you are; may I help you; please \(sg\) \(P\)
+- ìzvor — source \(m\)
+- ìzvorni — original, authentic \(adj.\)
+- ìzvrstan — excellent, outstanding \(adj.\)
+- izvr̀šiti — to perform, to carry out, to execute \(P\)
+- ìzvući — to pull out, to extricate \(P\)
+- izvlàčiti — to extricate \(I\)
+- izvući se — to extricate oneself, to wiggle out \(P\)
+- izvlàčiti se — to extricate oneself, to wiggle out \(I\)
+- ja — I \(pron.\)
+- jablan — poplar \(m\)
+- jabuka — apple \(f\)
+- jači — stronger \(adj.\)
+- Jadransko more — Adriatic Sea \(Noun\)
+- jagoda — strawberry \(f\)
+- jàje — egg \(Noun\)
+- jàje na oko — egg sunnyside up
+- jak — strong \(adj.\)
+- jako — very \(adv.\)
+- januar — January \(m\)
+- jao — oh, no!; ouch \(excl.\)
+- Jàpan — Japan \(Noun\)
+- jasan — clear; transparent \(adj.\)
+- jasen — European ash \(m\)
+- jastreb — hawk \(m\)
+- jàstuk — pillow \(m\)
+- jàviti se — to get in contact \(P\)
+- jàvljati se — to get in contact \(I\)
+- jàvljanje — contact, communication \(Noun\)
+- jàvnost — general public \(f\)
+- javor — maple tree \(m\)
+- je — is
+- jecati — to sob \(I\)
+- jèdan — one \(adj.\)
+- jedànaest — eleven \(num.\)
+- jedànaesti — eleventh \(adj.\)
+- jedànput — once \(adv.\)
+- jèdini — one and only, sole \(adj.\)
+- jèdino — solely; only \(adv.\)
+- jedìnstven — single; unique \(adj.\)
+- jèdno — approximately \(adv.\)
+- jednòdušan — unanimous \(adj.\)
+- jednòličan — monotonous \(adj.\)
+- jèdva — barely \(adv.\)
+- jeftin — cheap, inexpensive \(adj.\)
+- je l\'da — isn\'t that so?
+- je li — is it?
+- jelo — dish \(Noun\)
+- jèlovnik — menu; food plan \(m\)
+- je l\'te — isn\'t that so?
+- jer — because \(conj.\)
+- jèsam — am
+- jesen — autumn \(f\)
+- jèsenski — autumnal \(adj.\)
+- jèsenji — autumnal \(adj.\)
+- jèsi — are
+- jèsu — are
+- Jevrej — Jew \(m\)
+- Jèvrejka — Jew \(f\)
+- jèvrejski — Jewish \(adj.\)
+- jezero — lake \(Noun\)
+- jezički — language, language-related \(adj.\)
+- jezični — language, language-related \(adj.\)
+- jèzik — language; tongue \(m\)
+- jezikòslovlje — linguistics \(Noun\)
+- jogurt — yogurt \(Noun\)
+- joj — her; it
+- joj! — oops!; ouch!
+- jorgovan — lilac \(m\)
+- još — still; yet; more \(adv.\)
+- ju — her; it
+- jùče — yesterday \(adv.\)
+- jùčer — yesterday \(adv.\)
+- jučèrašnji — yesterday’s \(adj.\)
+- jùha — soup \(f\)
+- jug — south \(m\)
+- Jugòslavija — Yugoslavia \(f\)
+- jul — July \(m\)
+- jun — June \(m\)
+- jùnački — heroic \(adj.\)
+- jùnak — hero \(m\)
+- jutro — morning \(Noun\)
+- jutros — this morning \(adv.\)
+- južni — southern \(adj.\)
+- južnoslàvenski — South Slavic \(adj.\)
+- južnoslavìstika — South Slavic studies \(f\)
+- južnoslòvenski — South Slavic \(adj.\)
+- k — toward; to \(prep.\)
+- kad — when \(adv.\)
+- kako — how \(adv.\)
+- kahva — coffee \(f\)
+- kafa — coffee \(f\)
+- kafana — café \(f\)
+- kafic — café \(m\)
+- kaj — what \(pron.\)
+- kajgana — scrambled eggs \(f\)
+- kakav — what kind of \(pron. adj.\)
+- kakva — what kind of \(pron. adj.\)
+- kakvo — what kind of \(pron. adj.\)
+- kalifornija — California \(f\)
+- kamen — stone \(m\)
+- kamenje — stones \(Noun\)
+- kamilica — chamomile flower \(f\)
+- kamo — where to \(adv.\)
+- kanadjanin — Canadian resident, Canadian man \(m\)
+- kanadanka — Canadian woman \(f\)
+- kancelarija — office \(f\)
+- kanjon — river gorge, canyon \(m\)
+- kao — like, as \(adv.\)
+- kapa — cap \(f\)
+- kapati — to drip \(Verb\)
+- kapirati — to understand, to catch on \(Verb\)
+- kaput — coat \(m\)
+- karakter — character \(m\)
+- karta — ticket \(f\)
+- kartica — postcard \(f\)
+- kasa — cash register \(f\)
+- kasni — late \(adj.\)
+- kasapin — butcher \(m\)
+- kasica — little spoon \(f\)
+- kasika — spoon \(f\)
+- kasikica — little spoon \(f\)
+- kat — floor, story \(m\)
+- katedra — lectern, rostrum; university department \(f\)
+- katolicki — Catholic \(adj.\)
+- katolik — Catholic \(m\)
+- katolikinja — Catholic \(f\)
+- katolkinja — Catholic \(f\)
+- kava — coffee \(f\)
+- kavana — café \(f\)
+- kazaliskni — theatrical \(adj.\)
+- kazaliste — theater \(Noun\)
+- kazati — to say, to tell \(Verb\)
+- kazivati — to narrate, to relate \(Verb\)
+- kazniti — to punish \(Verb\)
+- kcerka — daughter \(f\)
+- kci — daughter \(f\)
+- keks — cookie, biscuit \(m\)
+- kelner — waiter \(m\)
+- kelnerica — waitress \(f\)
+- kemicar — chemist \(m\)
+- kemicarka — chemist \(f\)
+- kemija — chemistry \(f\)
+- kemijski — chemical \(adj.\)
+- kesten — chestnut \(m\)
+- kestenje — chestnuts \(Noun\)
+- kila — kilogram \(f\)
+- kilo — kilogram \(Noun\)
+- kilometar — kilometer \(m\)
+- kim — whom \(pron.\)
+- kimnuti — to nod \(Verb\)
+- kineziologija — physical education \(f\)
+- kina — China \(f\)
+- kineski — Chinese \(adj.\)
+- kineskinja — Chinese person \(f\)
+- kinez — Chinese person \(m\)
+- kino — movie, cinema \(Noun\)
+- kipar — sculptor \(m\)
+- kiparica — sculptor \(f\)
+- kirija — rent \(f\)
+- kisela — sour \(adj.\)
+- kiselo mleko — yogurt-like beverage
+- kisa — rain \(f\)
+- kisobran — umbrella \(m\)
+- kititi — to decorate \(Verb\)
+- klavir — piano \(m\)
+- klecati — to kneel \(Verb\)
+- klimnuti — to wobble; to nod \(Verb\)
+- klub — team; soccer team \(m\)
+- klupa — bench \(f\)
+- kljuc — key \(m\)
+- kneginja — princess, duchess \(f\)
+- knez — prince, duke \(m\)
+- knjiga — book; epistle, letter \(f\)
+- knjizevni — literary \(adj.\)
+- knjizevnost — literature \(f\)
+- knjiznica — library \(f\)
+- ko — who \(pron.\)
+- kobasica — sausage \(f\)
+- kod — with, at the home of, at, by; to the home of \(prep.\)
+- koga — whom \(pron.\)
+- kogod — someone or other \(pron\)
+- kojesta — nonsense \(adv.\)
+- koji — which \(pron. adj.\)
+- kokoš — chicken \(f\)
+- kola — car \(Noun\)
+- kolac — cake \(m\)
+- koledž — college \(m\)
+- kolega — colleague \(m\)
+- kolegica — colleague \(f\)
+- komentar — commentary \(m\)
+- komotan — comfortable \(adj.\)
+- kompjuter — computer \(m\)
+- kompletan — complete \(adj.\)
+- kompozitor — composer \(m\)
+- komšija — neighbor \(m\)
+- komšinica — neighbor \(f\)
+- komunikacija — communication \(f\)
+- komunist — communist \(m\)
+- konac — thread; end \(m\)
+- konacan — final \(adj.\)
+- konacno — finally \(adv.\)
+- koncert — concert \(m\)
+- konobar — waiter \(m\)
+- konobarica — waitress \(f\)
+- kontakt — contact \(m\)
+- kontrolni — control; test \(adj.\)
+- konverzacijski — conversational \(adj.\)
+- konvertabilna — convertible \(adj.\)
+- konj — horse \(m\)
+- kora — bark \(f\)
+- korak — step, pace \(m\)
+- koren — root \(m\)
+- korijen — root \(m\)
+- koristan — useful, beneficial \(adj.\)
+- koristiti — to use \(Verb\)
+- kos — blackbird \(m\)
+- kosa — hair \(f\)
+- Kosovo — Kosovo \(Noun\)
+- kosovski — Kosovo \(adj.\)
+- kost — bone \(f\)
+- kostur — skeleton \(m\)
+- kos — basket \(m\)
+- kosarka — basketball \(f\)
+- kosarkaski — basketball \(adj.\)
+- kostati — to cost \(Verb\)
+- kosulja — shirt \(f\)
+- kraći — shorter \(adj.\)
+- kraj — end; region \(m\)
+- kralj — king \(m\)
+- kraljica — queen \(f\)
+- kraljević — prince \(m\)
+- kratak — short, brief \(adj.\)
+- kratko — briefly \(adv.\)
+- krčat — packed, crowded \(adj.\)
+- kreker — cracker \(m\)
+- krenuti — to go, set out; to get moving \(Verb\)
+- krevet — bed \(m\)
+- kritika — criticism; literary review \(f\)
+- kriv — guilty; wrong; curved \(adj.\)
+- kriviti — to scold \(Verb\)
+- krvati — culprit \(m\)
+- krivlji — more curved; more wrong \(adj.\)
+- krivnja — guilt \(f\)
+- krompir — potato \(m\)
+- kronika — chronicle \(f\)
+- krošnja — treetop \(f\)
+- krov — roof \(m\)
+- kroz — through \(prep.\)
+- krpa — dishtowel; rag \(f\)
+- krš — karst, barren landscape \(m\)
+- kršćanin — Christian \(m\)
+- kršćanka — Christian \(f\)
+- kršćanski — Christian \(adj.\)
+- kršćanstvo — Christianity \(Noun\)
+- kršiti — to violate or to break \(Verb\)
+- krući — more rigid \(adj.\)
+- krug — circle \(m\)
+- kruh — bread \(m\)
+- krumpir — potato \(m\)
+- kruška — pear \(f\)
+- krut — stiff, unbending \(adj.\)
+- krv — blood \(f\)
+- kucanje — knocking \(Noun\)
+- kucati — to knock \(Verb\)
+- kuća — house \(f\)
+- kućica — little house \(f\)
+- kućni — home, domestic \(adj.\)
+- kud — where to \(adv.\)
+- kuhar — cook \(m\)
+- kuharica — cook \(f\)
+- kuhati — to cook; to boil \(Verb\)
+- kuhinja — kitchen \(f\)
+- kukati — to moan, to keen \(Verb\)
+- kukavica — cuckoo bird; coward \(f\)
+- kukavičluk — cowardice \(m\)
+- kukuruz — corn \(m\)
+- kula — tower \(f\)
+- kultura — culture; physical education \(f\)
+- kulturni — cultural \(adj.\)
+- kum — godfather; best man at wedding \(m\)
+- kuma — godmother; maid or matron of honor at wedding \(f\)
+- kumče — infant being baptised \(Noun\)
+- kuna — currency of Croatia \(f\)
+- kupalište — swimming place, beach \(Noun\)
+- kupaonica — bathroom \(f\)
+- kupati — to bathe \(Verb\); to go swimming \(Verb\)
+- kupiti — to buy \(Verb\)
+- kupovina — shopping \(f\)
+- kupus — cabbage \(m\)
+- kurs — course \(m\)
+- kut — angle \(m\)
+- kuvar — cook \(m\)
+- kuvarica — cook \(f\)
+- kuvati — to cook; to boil \(Verb\)
+- kužiti — to understand, to catch on \(Verb\)
+- kvadrat — square \(m\)
+- kvar — damage; out of order \(m\)
+- kvariti — to ruin, to spoil \(Verb\)
+- sklekovi — pushups
+- koordinirati — to coordinate \(reg\)
+- udaljiti se — to get far away, distance ourselves
+- zadnji — last, lately
+- prianjati — to stick to, cling to \(Iron rod\)
+- čime mogu da vam pomognem — what can i help you to?
+- nerđajući — stainless
+- tesan — tight, close, narrow
+- osakatiti — to cripple \(reg\)
+- dvostruka \(dupla\) konjugacija — double conjugation
+- dvostruko \(dupla\) konjugirati — to double conjugate
+- konjugirati glagol — to conjugate a verb \(reg\)
+- zvono — bell \(doorbell\)
+- odatle — from there
+- što se tiče — as regards \(as it concerns\)
+- validan — valid
+- prodreti — to penetrate
+- srediti — to center
+- usredsrediti se — to be centered on oneself
+- uvrediti — to offend
+- staviti kuću pod hipoteku — to morgage a house
+- nežan — tender
+- emotikoni — emojis
+- iskoristiti nekoga — to take advantage of someone
+- kružiti — to circle, circulate, go about
+- svađa — fight, quarrel, disagreement
+- trojstvo — trinity
+- zaredom — in a row \(pokes\)
+- redom — in a row
+- snimati — to record, film
+- udoban — cozy
+- ružna — ugly
+- mirovina — pension \[C\]
+- kisela — sour
+- malina — raspberry
+- devojačko prezime — maiden name
+- pradeda — great grandpa
+- sahranjen — buried
+- sahraniti — to bury
+- krovne šindre — roof shingles
+- kišnih oluka — rain gutters
+- ugrađena posteljina — fitted bed sheet
+- bračni krevet — twin bed
+- generalno — generally
+- graditelj — builder
+- po njegovom liku — in his image
+- Radio — talas - radio waves ----
+- predlog — suggestion
+- mitohondrije — mitochondria ----
+- uzrok — cause
+- posledica — consequence #link("-ije")[S]
+- izum — invention
+- umisliti — to believe, convince oneself
+- razmisliti — to think good before a decision
+- pomisliti — to think or come up with an idea
+- izmisliti — to invent or make something up
+- zamisliti — to imagine, invision
+- razvijene — developed
+- pismen — literate
+- nepismen — illiterate
+- izvor — source
+- stanovništvo — population
+- obrazovanje — education
+- sastavak — composition ----
+- nema frke — no problem! \(slang\)
+- žurka — party, get-together \(slang\)
+- zauzvrat — in turn
+- Badnje veče — Christmas Eve
+- klinac — kid
+- napokon — finally!
+- nastavnik — teacher \[S?\] ----
+- Nana — mint, peppermint
+- blato — mud, sludge, wet dirt
+- dostupan — available \(adj\)
+- ustanovljenje — establishment
+- primena — application\/applying
+- utočište — refuge
+- doba — age, era
+- pojedinac — individual ----
+- perilica — washing machine \[C\]
+- DNK Analiza — DNA
+- cijepljenje — vaccination \[C\]
+- vakcinacija — vaccination \[B,S\]
+- razdvojen — separated \(adj\)
+- odvojen — separated \(adj\)
+- prisutan — present \(adj\)
+- udaviti se — to drown \[B,S?\]
+- utopiti se — to drown \[C?\]
+- potonuti — to sink
+- tonuti — to sink \(toneš\)
+- pokrenuti — to start up \(pokreneš\)
+- našaliti se — to make a joke
+- nasilnik — a bully
+- uhititi — to arrest \(???\)
+- uhapsiti\/hapsiti — to arrest
+- uhapšen — arrested \(adj\) ----
+- lutka — doll
+- zapaliti — to light up, start a fire ----
+- pečina — cliff, cave
+- \(ostavi\) pusit me na miru — leave me alone
+- benziska pumpa — gas station
+- užasno — terrible
+- pokrenuti — to flip, start \(Miro used it to flip a page?\)
+- grozan — horrible, terrible
+- groznica — fever
+- grub — rough \(adj\)
+- grip — flu \[S\]
+- gripa — flu \[B,C\]
+- nisko — low
+- kakve su šanse — what are the chances? ----
+- Deda Mraz — Santa Claus
+- on je psiho — he is psycho
+- smarati — to annoy \(reg\)
+- debeli — fat man \(excl.\)
+- mora da se šališ — you must be joking
+- čupati — to pluck, to twitch
+- mirovanje — stillness
+- senka — shadow \(ije\)
+- paraliza — paralysis
+- dosta sa time — enough with that
+- žurka — party, partying
+- smerati — to direct, intend
+- otrajanje — poisoning??
+- kakav smor —
+- uprskav si —
+- vreće za udarenje — punching bag
+- preuzeti taj zadatak —
+- na klanju —
+- ko ti je ovo uradio —
+- u stvari —
+- znak kletve —
+- o čemu se radi —
+- valjda — ----
+- zbilja — really, indeed \(exxcl.\)
+- prekoračena — exceeded \(car speed\) ----
+- deset do deset — 10\/10
+- gord\( — a-i\) - proud \(adj\)
+- gospodarstvo — economy \[B,C\]
+- gostionica — inn, tavern, small restaurant
+- gostovati — to be a guest \(-ujem\)
+- gošća — guest \(f\)
+- govno — excrement \(aka s\*\*\*\)
+- gradić — small town
+- građanin\/građanka — citizen, city dweller
+- grana — branch \(f\)
+- granje — branches \(Noun\)
+- granuti — to burst forth \(grane\)\(3rd person only\)
+- grliti\/zagrliti — to embrace ----
+- dođavola — damn
+- derište — you brat
+- gle čuda — well what do you know!
+- gledalac — spectator, audience member \(Gsg gledaoca Gpl gledalaca\)
+- gluh — deaf \(adj\)\[B,C\]
+- glumac — actor
+- glumiti — to act \(role\)
+- glupača — stupid female
+- gluv — deaf \(adj\)\[S\]
+- gnezdo — nest \[E\]\(gnezda Gpl\)
+- go\/gola\/goli — naked \[S\] ----
+- lešnik — hazelnut
+- drveće — trees \(Irreg\)\(sg drvo\)
+- drven — wooden \(adj\)
+- drvo — tree \(Irreg\)\(Gen-drveta\)
+- drzak\/drska — isolent \(adj\)
+- držak — handle \(m\)\[C\]
+- državljanin — citizen \(m. general\)
+- državljanka — citizen \(f\)
+- dubina — depth \(f\)
+- dublji — deeper \(adj\)
+- dubok — deep \(adj\)
+- duet — duet \(m\)
+- duga — rainbow \(f\)\(DLsg-dugi\)
+- dugačak — long \[in distance\] \(adj\)
+- dugmad — buttons \(f\)\(Gsg-i\)\(single case\)\[B,S\]
+- dugme — button \(Noun\)\(Gsg-dugmeta\)\[B,S\]
+- duhovit — whitty \(adj\)
+- dulje — longer \(adv\)
+- dulji — longer \(adj\)
+- duži — longer \(adj\)
+- dužina — length \(f\)
+- dvoje — 2 people \[mixed gender\] \(Noun\)
+- dvojica — 2 men \(f\)
+- dvor — court, courtyard \(m\)
+- dvorana — hall \(f\)\(ex. concert hall\)
+- dvorište — yard \(Noun\)
+- dvostruk — double, twofold \(adj\)
+- džamija — mosque
+- džezva — turkish coffeepot
+- đak — elementary student \(đaka, đaci\)
+- egzibicija — show \(f\)
+- ekavica — Ekavian \(f\)
+- ekipa — team \(f\)
+- elegentan — Elegant
+- electričar — Electrician \(m\)
+- electričarka — Electrician \(f\)
+- elektrotehnika — Electrical Engineering
+- Engleskinja — English p \(f\)
+- Englez — English p \(m\)
+- eno — there \(pointing\)
+- epoha — age, epoch
+- epski — epic \(adj\)
+- esej — essay \(m\)
+- etnologija — enthology \(f\)
+- eventualan — possible, conceivable but uncertain\(adj\) ----
+- dokumentarac — documentary film
+- doliti\/dolivati — to add by pouring
+- \(dolijevati — ije\)
+- domaćica — housekeeper \(f\)
+- domovina — homeland \(f\)
+- dopasti se\/dopadati se — to be pleasing to \(-dopadnem\)
+- dopreti\/dopirati — to reach, penetrate,
+- get through too \(doprijeti — ije\)
+- dopustiti\/dopuštati — to permit \(reg\)
+- dosadašnji — former, previous \(adj\)
+- dosaditi\/dosađivati — to bore \(+se = to be bored\) \(-ujem\)
+- doseći\/dosegnuti\/dosezati — to reach up
+- to something \( — nem - dosežem\)
+- doseliti se\/doseljavati se — to move to
+- dospeti\/dospevati — to arrive at,
+- mature \(dospjeti — ije\)
+- dostojanstvo — dignity \(Noun\)
+- dovesti \(dovedem\) — to bring, lead to, conduct
+- dovesti \(dovezem\)\/dovoziti — to pring by vehicle.
+- dovoljan — sufficient, enough \(adj\)
+- dozivati — to call out to \(reg\)
+- dozvoliti\/dozvoljavati — to allow \(reg\)
+- doživeti\/doživljavati — to experience \(reg\)
+- doživljaj — experience \(m\)
+- dramski — dramatic \(adj\)
+- dres — sports jersey \(-ovi\)\(m\)
+- drhtati — to tremble, shiver \(dršćem\)
+- drška — handle \[B,S\]\(DL - dršci\)
+- društven — social \(adj\)
+- društvo — society, company of friends
+- \(Noun\) \(Gpl — društava\)
+- sposobnost — ability\/capability
+- sukove — juices?
+- sabiranje — summation, addition
+- takav mi je čast — im so honored \(takav
+- — such a\)
+- hrkati — to snore \(hrčem\)\(irreg.\)
+- iznenađenje — surprise
+- upitan — asked \(adj\)
+- nedavno — recently
+- glasina — rumor ----
+- zakasniti — to be late
+- komplikovati — to complicate \(-ujem\)
+- dežuran — on duty \(adj\)
+- dim — smoke \(m\)
+- diplomirati — to graduate \(higher education\)
+- disciplina — discipline \(f\)
+- diskretan — discrete \(adj\)
+- dlan — palm of the hand \(m\)
+- dno — bottom \(Noun\)
+- doba — era, period
+- dočarati\/dočaravati — to conjure up \(reg\)
+- dočekati — to greet, welcome
+- dodatan — additional
+- dodirnuti\/dodirivati — to touch \(-nem-ujem\)
+- doduše — truly, indeed, although \(adv\)
+- dogodine — next year \(adv\)
+- dogovor — agreement \(m\)
+- dogovoriti se\/dogovarati se — to agree upon \(often used with oko+Gen\)
+- dohvatiti — to grab a hold of
+- doista — truly
+- dojam — impression \[B,C\] ----
+- — to harvest
+- saditi useve — to plant crops
+- Ja sam daltonista — colorblind Naučio sam kako brzo sklapati
+- prijateljstva — i learned how to make friends fast
+- korejski — korean
+- Južna Koreja — South Korea
+- u vazduhoplovstvu — in the airforce
+- borbeni pilot — fighter pilot
+- izopćenici — to outcasts ----
+- kužim — Im at home
+- malina — raspberry
+- šta ja znam — what do I know
+- sa Balkana — from the Balkans
+- na pijaci — at the market
+- obratiti pažnju — to pay attension, pay caution
+- unutar zagrada — inside the brackets \(\)
+- mahati — to wave
+- micati — to move?
+- lupati — to slam, pound, throb, bang
+- produžiti\/produžavati — to extend
+- ugasiti\/gasiti — to extinquish \(Lights💡\)
+- uvenuti\/venuti — to fade \(uvenem\/venem\)
+- pasti\/padati — to fall \(padnem\/padam\)
+- osetiti\/osećati — to feel \(se\)\[S\] ----
+- Jelka — christmas tree
+- preuzeti\/preuzimati — to download, take upon
+- ispariti\/isparavati — to evaporate
+- preterati\/preterivati — to exaggerate
+- pregledati — to examine
+- prevazići\/prevazilaziti — to exceed
+- izložiti\/izlagati — to expose
+- pretražiti — to search \(applications\) ----
+- zaboravio sam skroz — i completely forgot
+- dogovorićemo se — we will take an make a decision
+- ujediniti — to be unified
+- da bude jedan — to be one in Christ
+- skrolovati\/listati — to scroll on \(on facebook\)
+- dosađivati se — to be bored
+- ništa protiv njih — nothing against them
+- Stekao sam mnogo prijatelja — i made a lot of friends
+- ljubazan — kind
+- ljubavna — loving
+- padavine — precipitation ----
+- salveta — napkin
+- gužvati — to crowd, cram \(airplane\)
+- još pravo — still straight \(right\)
+- ciganac — gypsy
+- hvala što ste me proverili — thanks for checking up on me
+- to me tako ljuti — thag makes me so mad
+- radi — gen prep \(due to, for\)
+- komšija — neighbor \(bio je kod komšije\)
+- mesec — moon
+- di gore jebo te — f\*\*\* you up
+- aparat — device, machine
+- duhovni div — spiritual giant
+- opeći se — to get burned, scorch oneself accidentally \(Opalio sam ruku na šporetu i opeo se\)
+- spaliti — to burn something completely, insinerate, light on fire intentionally
+- paliti — to start, cause a fire
+- goreti — to burn, be on fire \(state of something currently in flames\)
+- orati — to plough \(orem,oru\) ----
+- nabacivati se — to hit on someone\(not direct\)
+- žvaliti — to hit on someone \(to chew\)
+- bičevati — to whip \(someone\)
+- beli dan — broad daylight
+- beli luk — garlic
+- Beograđanin\/Beograđanka — resident of belgrade \(m\/f\)
+- azbučni — alphabetical \(Cyrillics\)\(adj\)
+- azbuka — alphabet \(Cyrillics\)\(DL azbuci\)
+- Božićna jaslica — Christmas nativity ----
+- maskirati \(se\) — to disguise \(reg.\)
+- otpustiti\/otpuštati — to dismiss \(reg.\)
+- ne poslušati\/ne slušati — to disobey \(reg.\)
+- odreći se\/odricati se — to disown \(odreknem,odričem\)
+- uznemiriti\/uznemiravati — to disturb \(reg.\) ----
+- uveren — confident, convinced
+- optimizam — optimism
+- praštati — to forgive?
+- u skladu — according to, in harmony
+- peč — furnace
+- kao da — as if \(conj\)
+- da li — if\/whether \(if you can use \"whether\" in the sentence, then ako cant be used\) ----
+- mrdaj — to move, wiggle \(mrdati\)
+- skote — cattle, a skot
+- keltva — a curse
+- da si skrivena — that you are hidden
+- na drugom nivou — on another level
+- inaće — otherwise
+- naleteti — to run into, ram, cannon
+- ne ostavljaj me ovde — don\'t leave me here
+- poseduju — to own, possess, wield \(posedovati\)
+- na kocki — at stake
+- taoca \(talac\) — hostage
+- gledano — viewed
+- preživeti — to survive
+- pusti ga — let him go
+- promašio sam — I missed \(promašiti\)
+- beži — run away
+- istrebiću je — I will exterminate her \(istrebiti\)
+- jezivo — creepy
+- nema šta — there is nothing
+- koristiti se — to be used, resort
+- u prvom razredu — in first grade
+- lutka — doll, dummy, maggot
+- opatica — abbess
+- izopštiti — to ostracize, excommunicate, disconnect
+- isterati — to expel, exorcise
+- blizanac — twin \(closer person?\)
+- pojas — belt
+- kolima — by car #emph[kre]dit pronunciation changes depending on case kre#emph[di]ta ----
+- to je veoma uzbudljiv film — its a very exciting film možda sam malo pristrasan zbog tatinog
+- posla — maybe im a little baised because of my dads job
+- dugo nisam razgovarao sa njim — i havent talked with him in a long time
+- postali smo prijatelji — we became friends
+- Šaliti se — To joke
+- Zezati se — To joke\/tease
+- Smejati se — To laugh or joke around \(smejem\)
+- Maltretirati — To tease or mess with someone in a friendly manner \(maltretiram\)
+- Nadribajati — Slang for joking, sometimes implying making something up or exaggerating for fun \(nadribavam\)
+- Zezačina — A playful or joking manner \(Noun\)
+- Hejtovati — To joke or make fun of someone \(can also mean \'to hate\' in online slang, context-dependent\) \(hejtujem\)
+- Kakiti — Crude slang meaning \'to joke\' or \'to mess around\' \(kakim\)\(kakiju\)
+- veri se za njega — she is getting engaged to him
+- veriti se \(za\)\(sa\) — to get engaged \(sa works too\) ---- strah mi je što ideš tamo \(emotion,fact\) strah mi je da idem tamo \(emotion, potentiality\)
+- da\/što — fact\/emotion - što\/da - fact\/possibility
+- ignorisati — to ignore
+- pošto — since
+- brže od semafora — faster than a traffic light ----
+- uklet — cursed
+- pojesti — to eat \(perf\)
+- spojiti se — to combine, merge oneself
+- zameniti se — to switch places eith someone
+- prođe — passes
+- ne brini — dont worry
+- pazite leđa — watch your back
+- šlag — whipped cream
+- šepuriti se — to show off
+- mada — although
+- trebalo bi da je vreme — it should be time
+- preuzeti kontrolu — to take \(over\) control \(preuzmem\)
+- derište — brat
+- šokiran — shocked
+- kontrolicati — to control \(-išeš\)
+- čujem mu glas — i hear his voice
+- onesvesti ga — to knock him out
+- zaposednut — possessed
+- šta nam je činiti sa njim — what should we do with him
+- smaknut — executed
+- prepusti to meni — leave that to me
+- odložiti — to postpone
+- tipičan — typical
+- #strong[budala — fool]
+- #strong[dođavola — damn, what the hell]
+- aukcija na pijaci — auction at the market
+- terapija — therapy
+- lečiti — to treat \~\~100 WORDS\~\~
+- lečenje — treatment
+- oceniti — to rate something \(Ex: I rate this burek....5 stars\)
+- uceniti — to blackmail \(Ex: I blackmailed my boss\) ----
+- ubrzati\/požuriti — to speed up
+- usporiti — to slow down
+- podrignuti\/podrigivati — to burp,belch
+- patiti\/trpeti — to suffer
+- zašto se tako ponašaš? — why are you acting like that?
+- divan — gorgeous
+- zapanjujuće — stunning
+- omamiti\/ošamutiti — to stun
+- putovanje — journey
+- Ukratiću ovo — i will make this short\(cut short\)
+- beskonačan — infinite \(without end\)
+- on je van domašaja — he is out of reach ----
+- nepostojeći — nonexistent \(adj\)
+- opciono — optional
+- predmet — subject, topic
+- svensni \(again\) — concious
+- najdublji — deepest
+- navika — habit ----
+- oglasiti se — to announce, go off \(alarm\)
+- u svakom slučaju — anyways
+- siromašni — the poor
+- razpoložen — in a good mood
+- odjaviti se — to sign out, check out
+- igrati — to play\(dance\)
+- usuditi se\/usuđivati se — to dare
+- odlučiti\/odlučivati — to decide
+- ukrasiti\/ukrašavati — to decorate
+- posvetiti\/posvećivati — to dedicate,devote
+- odbraniti\/braniti \(se\) — to defend
+- definirati — to define
+- odložiti\/odlagati — to delay
+- zadržati\/zadržavati — to delay
+- isporučiti\/isporučivati — to deliver ----
+- obezbediti — to provide
+- nesavršen — imperfect
+- boriti se — to struggle \(mučiti se\), to fight
+- sipati\/izliti — to pour out
+- prevariti svoju ženu — to cheat on your wife
+- razvesti se — to get a divorse
+- zaposliti prostitutku — to hire a prostitiue
+- lagati — to lie to someone \(lažem\)\(Aku\)
+- auto neće upaliti — the car wont start akumulator automobila je mrtav i moramo
+- da ga pokrenemo — the battery is dead and we need to jumpstart it
+- auto nema gas — the car is empty \(gas\)
+- upali auto! — turn the car on
+- upaliti svetlo — turn the light on
+- ugasiti svetlo — turn thw light off
+- Moram da uplatim depozit u banci — to make a deposit at the atm\/bank
+- napuniti svoju flašu vode — to fill up my water bottle
+- napuniti rezervoar za gas — to fill up the gas tank
+- haos — a mess, chaos
+- obredi — ritual, ceremony
+- ukapirati — to capture, figure out, understand, work out
+- plesati — to dance \(plešem\)
+- poseći \(se\) — to cut
+- iseći\/seći — to cut \(iseci command form\)\(copy,paste,cut\)
+- plakati — to cry
+- razapeti\/razapinjati — to crusify
+- umiti se\/umivati se — to wash one\'s face
+- prati ruke — to wash your hands
+- istuširati se\/tuširati se — to shower\/take a shower ----
+- sad ću da vidim — ill check
+- osloniti se — to lean on, rely on
+- razviti\/razvijati — to develop
+- nastojiti — to strive
+- preneti — to carry, convey\(message\)
+- razoreno — destroyed \(adj\/adv\)
+- napad — an attack
+- uloga — role
+- namera — intention
+- pokriti\/pokrivati — to cover
+- stvoriti\/stvarati — to create
+- žeti — to crop \(žanjem\)
+- preći\/prelaziti — to cross \(pređem\)
+- čučnuti\/čučati — to crouch \(čučnem,čučim\) ----
+- pocepati — tear up, rip up, tear
+- \(išao v. otišao — iš we dont know specifics like the destination. otiš we know the specifics\) bio je borbeni pilot u vazduhoplovstvu
+- — fihter pilot in the AF
+- \(ratno\) vazduhoplovstvo — airforce
+- moj tata je otišao u penziju — my dad retired
+- nisu verovali u njega — didnt believe in him \(D\/L\)
+- nisu mu verovali — they didnt believe him \(Acc\)
+- grupa\/partija — group, party
+- poveriti — to trust, delegate
+- proveriti — to check
+- Kleti se — to swear,promise \(kunem se\)\(D\/L\)
+- Kad smo kod toga — Speaking of which
+- doprineti\/doprinositi — to contribute
+- preobratiti\/preobraćati — to convert
+- obratiti\/obraćati — to convert
+- odgovoriti\/odgovarati — to correspond
+- koštati — to cost ----
+- zbirka — collection
+- šutnuti — to kick \(SRB\)
+- šlag — whipped cream
+- boranija — green beans \~\~100 WORDS\~\~
+- izbeljivač — bleach ----
+- očigledno — obviously
+- Igramo žmurke — Hide and Seek
+- Ćora baka — Blind Grandma
+- Neko me je izpizdio — i am pissed off
+- proizvesti — to produce \(proizvedem\)
+- ručno — manually, by hand
+- svesni\/svestan — concious, aware
+- novine — newspaper
+- tjesteninu — type of pasta \(HRV\)
+- napisati — to write
+- prepisati — to copy
+- dopisati — to write something additional
+- ispisati — to print
+- zapisati — to write down\/record
+- potpisati se — to sign
+- upisati se — to enroll
+- ispisati se — to unsubscribe, unenroll
+- opisati — to describe
+- oblik — shape
+- glagol — verb ---- Imam nekoliko odgovornosti kao vođa zone
+- prihvatljivo — acceptable
+- Ne verujem mu — I dont believe him \(D\/L\)
+- zbunjen sam — im confused
+- Suočio sam se s njim — i confronted him
+- da vas upoznam — let me intoduce you
+- rekli su da ga nema — they daid that he doesnt have it \(that hes not there\) strah mi je što ideš tamo
+- upustvo — instruction
+- Zgoda — Hot \(girl\)
+- Igramo žmurke — Hide and Seek
+- Ćora baka — Blind Grandma
+- Neko me je izpizdio — i am pissed off
+- Čuvodište — Monster
+- Izopčenik — Outcast
+- Dojenje — Breastfeading
+- Dojke — Breast
+- Peder — Gay
+- Kum — Godfather, best man
+- Kuma — Godmother, maid of honor
+- Iskraditi se — To sneak out
+- Krijem se — Im hiding ----
+- širiti — to spread
+- mnogo\/vrlo\/veoma\/puno — many,very,very,a lot
+- naroda\/ljudi — people\(nation\),people\(group\)
+- napustiti — to leave,abandon
+- javno — public, openly
+- iz jednog razloga — for one reason
+- jednostavno — simply
+- opisati — to describe
+- car — emperor, zcar, king
+- na drogama — on drugs
+- pazite — attension, watch, look out
+- pojednostaviti — to simplify
+- prostor\/mesto — space, place
+- iznad svi — above all \(iznad - above\)
+- žrtvovati — to sacrifice
+- čak i — even \(and\)
+- tek — only just
+- radovati se — to look forward to, rejoice
+- razganičimo — demarcate, confine, mark off
+- izdati nekoga — to betray someone
+- iduće\/sledeće — following, next ----
+- zašto se dereš? — why are you shouting
+- naljutiti — to anger
+- cini me besnim — makes me furious
+- ozbilno — seriously
+- pačurka — mushroom
+- sakriti \(se\) — to hide
+- za par dana — in a few days
+- zaštiti — to protect \(perf\)\(reg\)
+- štiti — to protect \(imp\)\(reg\)
+- dopadati se — to please\/be liked \(just 3rd\)\(like to like\)\(SRB\)
+- dovesti\/dovoditi — to bring \(speciall meaning. not sure what tho\)
+- dokazati\/dokazivati — to prove \(dokaz\)
+- rešiti — to solve\/complete
+- većnica — city hall
+- naviknuti na nešto — to get used to something
+- grozno — awful\/ghastly
+- prsten — ring
+- haljina — dress \(Fem\)
+- još dobrih vesti — more good news!
+- dozvoliti — to allow\/permit\/authorize \(perf\)\(reg\)
+- dopustiti — to allow\/tolerate \(reg\)
+- čuvati se — to beware\/take care \(opasan pas\)
+- čuvati — to take care of something\/hold
+- ilegalan\/nezakonito — illegal or against the law
+- upasti u nevolju — to get into trouble ----
+- jednoglasno — unanimously
+- gathering the children of israel — okupljanje decu Izraela
+- ifwe go a few years — ako idemo nekoliko godina u prošlosti
+- to support — podržati
+- to vote — glasiti
+- election — izbori
+- sustaining — izdržavanje
+- college degree — višu diplomu
+- fisherman — ribar
+- prostitute — prostitutka
+- tax collector — poreski službenik
+- law of common consent — zakon opšte saglasnosti
+- strateška — strategy \(adj\)
+- bioluminiscentna — bioluminescent
+- međugalaktičkim — intergalactic
+- raskinuti — to break up \(raskinemo\)
+- zgnječićemo ih — we will squash them
+- zgnječiti — to squash
+- prdnuti — to fart
+- prdež — a fart
+- prdac — a fart \(slang\)
+- posetiti — to visit \(once, one single place\)
+- obići — to visit \(more than once, more than one place\)
+- kružni tok — round about
+- posetivati — to visit \(imp\)\(one place, more than once\)
+- langati se — to hang out, spend time at a place \(reg\)
+- pohoditi — to visit \(places of significance, historical, sacred\)
+- zabavljati se sa nekim — have fun with someone
+- ostaci — leftovers
+- patetičan — pathetic
+- prestati — stop \(pattern\/habit\)\(Angel\)
+- učtiviji — more polite
+- dabome — lets go, of course
+- zaboga! — God\'s sake!
+- uporni — persistent
+- radoznao — curious \(good\)
+- znatiželjno — curious \(more nosy, prying\)
+- naići — to come across \(-đem\)
+- grickalice — snacks Naišao sam na nešto o čemu sam hteo da
+- vas pitam — I came across something that I wanted to ask you about \(Harry\)
+- momče — boy \(vocative\)\(slight disrespect\)
+- sasvim si u pravu — you are quite right
+- dešnjak — right handed person
+- kladiti se — to bet
+- podseti — to remind \(of someone\)\(na+acc\)
+- Impresivno — impressive
+- Pouzdan — reliable
+- Izazovan — challenging
+- Oduševljen — delighted
+- Jedinstven — unique
+- slep — blind
+- gluv — deaf
+- sugerisati — to suggest
+- izvrsno — excellent \(Rengoku\)
+- bankrotirati — to go bankrupt
+- pomaziti — to pet
+- simpatija — crush \(girl said i was cute\)
+- jazbina — lair \(batman\) Bez muke nema nauke \(without suffering there\'s no learning\/no pain no gain\) proširenje domena beskonačna praznina
+- Sigurno je sigurno — what’s sure is sure\/stick with the tried and tested\/better safe than sorry
+- Postoji vrijeme i mjesto za sve — there’s a time and place for everything
+- Obećanje ludom radovanje — a promise makes a fool happy\/don\'t be fooled by empty promises\/there’s no such thing as a free lunch
+- uhoditi nekoga — to stalk someone
+- koja kurva! — what a whore!
+- koji kurac! — wtf\/wth!
+- миловати — to fondle, caress \(-ujem\)
+- boban, babika, savke — nicknames for Dragomir\/Savić
+- udomitelj — foster parent \[C\]
+- hranitelj — foster parent \[B,S\]
+- ocena — rating \(term used for grades in school as well\)
+- guziti — to f\*\*\*
+- guzerant — homosexsual
+- guzić — homosexsual
+- grupnjak — group s\*x
+- imati trojku — to have a thr\*\*some
+- одступањe — falling away
+- obrazac — pattern \(form\)
+- ručna izrada — hand made
+- уселити се — to move in
+- zanat — craft, trade
+- konkurs — competition, try-outs
+- konkurisati — To apply, compete \(-išite\)
+- tucati — beat, f\*\*\*, mash, crush
+- tucanje jajima — beating with eggs \(Vaskrs\)
+- maziti — cuddle
+- prilično — pretty much
+- dustpan — dustpan
+- topi se u ustima — it melts in your mouth
+- topiti se — to melt, thaw
+- став — attitude
+- приступити — access, approach
+- sudopera — kitchen sink
+- što mi ključa krv — that boils my blood
+- кључати — to boil \(blood\)
+- debil — moron
+- šašav — silly, crazy \(adj\)
+- kockarnica — casino
+- nàgrade — reward
+- starče — old man \(Voc.\)
+- zapečen — sealed \(baked?\)
+- kontrola — control
+- prilično — pretty much
+- misli samo na jedno — think of only one thing
+- starica — an old woman
+- trošica — a spendthrift
+- kockar — gambler
+- naivčina — someone who is naive, sucker
+- u hodu — while walking
+- dugovati — to owe \(dept\)
+- smisliti — come up with
+- uzalud — in vain
+- razočaran u + Acc — disappointed in you
+- zaostati — to fall behind
+- nadoknaditi — to reimburse \(perf\)
+- nadoknađivati — to reimburse \(imp\)
+- udruženje — association \[B,S\]
+- udruga — association \[C\]
+- ugroženi — endangered
+- košava — north wind?
+- sarađivati — to work with?
+- obrati pažnju — to pay attention
+- poluditi — to go crazy
+- svakako beži odavde — definitely run away from here
+- prošetati — take a walk
+- o — about, concerning \(prep. + Loc\)
+- oba — both \(num.\)
+- obala — shore, coast \(f\)
+- obalni — shore, coastal \(adj.\)
+- obasjavati — to cast light on, to
+- illuminate \(P\); obasjavam — I cast light on \(verb, 1st person singular present\)
+- obavestiti — to inform \(P\);
+- obavestavati — I inform \(verb, 1st person singular present\)
+- obaveza — obligation \(f\)
+- obavestiti — to inform \(P\);
+- obavljivati — to inform \(I\);
+- obavestavam — I inform \(verb, 1st person singular present\)
+- obe — both \(num.\)
+- obecanje — promise \(Noun\)
+- obecati — to promise \(P\);
+- obecavati — I promise \(verb, 1st person singular present\)
+- obezbediti — to secure, to provide \(P\);
+- obezbedjivati — I secure, I provide \(verb, 1st person singular present\)
+- obezbediti — to secure, to provide \(P\);
+- obezbedjivati — I secure, I provide \(verb, 1st person singular present\)
+- obicaj — custom \(m\)
+- obican — ordinary \(adj.\)
+- obici — to go from place to place, to tour; to stop in for a visit \(P\);
+- obilaziti — I go from place to place, I tour \(verb, 1st person singular present\)
+- obijanje — break-in, burglary \(Noun\)
+- obici — to go from place to place, to tour \(P\)
+- obilaziti — tour \(Noun\)
+- obitelj — family \(f\)
+- obiteljski — family, familial \(adj.\)
+- objasniti — to explain \(P\);
+- objasnjavati — I explain \(verb, 1st person singular present\)
+- objaviti — to declare, to announce; to publish \(P\)
+- objavljivanje — declaration, publication \(Noun\)
+- objavljivati — to publish \(verb, 1st person singular present\)
+- objaviti — to declare, to announce \(P\);
+- objavljivati — I declare, I announce \(verb, 1st person singular present\)
+- objavljivati — to publish \(verb, 1st person singular present\)
+- objekivan — objective \(adj.\)
+- oblak — cloud \(m\)
+- oblik — shape, form \(m\)
+- oblik — shape, form \(Noun\)
+- obliznji — nearby, proximate \(adj.\)
+- obnavljati — to renew \(verb, 1st person singular present\)
+- obnoviti — to renew \(P\);
+- obnavljati — I renew \(verb, 1st person singular present\)
+- oboljeti — to fall ill \(P\);
+- obolijevati — I fall ill \(verb, 1st person singular present\)
+- oboljeti — to fall ill \(P\);
+- obolijevati — I fall ill \(verb, 1st person singular present\)
+- obrada — process, to go through \(f\)
+- obraditi — to process, to go through
+- \(P\); obradjivati — I process, I go through \(verb, 1st person singular present\)
+- obradovati — to delight \(P\);
+- obradovati se — to be overjoyed \[at\] \(P\)
+- obrana — defense \(f\)
+- obratiti se — to address, to turn to
+- \(P\); obracati se — to address, to turn to \(I\)
+- obrada — process, to go through \(f\)
+- obrazac — form \(Noun\)
+- obrazlozenje — explanation \(Noun\)
+- obrazloziti — to explain \(P\);
+- obrazlozivati — I explain \(verb, 1st person singular present\)
+- obrazovati se — to educate oneself \(P\);
+- obrazovati — to educate \(I\)
+- obratiti — to address, to turn to \(P\);
+- obratiti se — to address, to turn to \(I\)
+- obrve — eyebrows \(f\)
+- obuci — to don, to put on \(P\);
+- oblaciti — I put on \(verb, 1st person singular present\)
+- obuci se — to be dressed, to wear \(P\);
+- oblaciti se — to be dressed, to wear \(I\)
+- za svaki slučaj — just in case
+- šta reče — what did he say? \(Aorist\)
+- povratiti — to throw up
+- preživeti — survive
+- negovati — nurture, harness
+- umri! — Die!
+- izbeći — to avoid
+- devetrepa lisica — 9 tailed fox
+- sukinja — skirt
+- dolina — valley
+- смола — resin \[B,C,S\]
+- ravnica — flatland, plains, prairie
+- ada ili ostrvo — island \[S\]
+- poluostrvo — peninsula \[S\]
+- otok — island \[C\]
+- poluotok — peninsula \[C\]
+- kopnene vode — inland waters
+- slap — waterfall \[C\]
+- livada — Meadow
+- poplava — flood
+- požar — wildfire
+- potres — earthwuake \[C\]
+- zemljotres — earthquake \[S\] Dodirnuti \(додирнути\): Brief or light physical contact. Dotaknuti \(дотакнути\): Slightly longer or deliberate touch. Opipati \(опипати\): Exploring texture or feeling with the hands. Opaziti \(опазити\): Noticing or perceiving through touch, often metaphorically.
+- вештачка интелигенција — artificial intelligence \[S\]
+- umjetna inteligencija — artifical intelligence \[B,C\]
+- krempita — cream pie
+- o čemu se radi — whats it about
+- po običaju — as usual
+- bez obzira na + Acc — regardless of ne dolazi u obzir
+- obzirom\/s obzirom na +Acc — regarding, in view of
+- prisluškivati — to wiretap
+- prisluškivan — wiretapped
+- insinuirati — to insinuate
+- Дежа Ву — Deja Vu
+- prometna nesreća — traffic accident \[C\]
+- saobraćajna nesreća — traffic accident \[B,S\]
+- iznuđivati — to extort someone bato
+- noćna mora — nightmare
+- porodično kućno veče — FHE \[S\] 我蒙耶穌基督的委派，奉父的，和子的，和聖靈的名， 為你施洗。阿們
+- partitivnost — partitiveness
+- rep — tail \(dog\)
+- uzrok — cause
+- namera — intention \[E\]
+- izuzimanje — exclusion
+- suprotnost — opposition
+- pokazivanje — showing
+- upozoravanje — warning
+- javljanje — reporting
+- neizravni — indirect
+- opòraviti se — to recover \(verb, first person singular: oporavim se\)
+- oporuka — testament, will \(Noun\)
+- opràštati — to forgive \(verb\)
+- òpravdati — to justify \(verb\)
+- opredèliti se — to opt for \(verb, first person singular: opredelim se\)
+- opredijèliti se — to opt for \(verb, first person singular: opredijelim se\)
+- oprema — equipment \(Noun\)
+- opròstiti — to forgive \(verb\)
+- opràštati se — to bid farewell \(verb\)
+- òpsednuti — to besiege, to obsess \(verb, first person singular: opsednem\)
+- òpsjednuti — to besiege, to obsess \(verb, first person singular: opsjednem\)
+- opšti — general \(adj\)
+- optèretiti — to burden \(verb, first person singular: opteretim\)
+- optimìzam — optimism \(Noun\)
+- optùžiti — to accuse \(verb, first person singular: optužim\)
+- opùstiti — to cause to relax \(verb\)
+- vlasnik — owner ----
+- žedan sam kao kreč — ime thirsty
+- krečnkja — limestone
+- kreč — ag lime \(for insects\)
+- okrečiti — to paint \(used kreč\)
+- žudeti — to yern for \[S\] \(za + instr.\)\(-im\)
+- čeznuti — to yern for \[C\] \(za + instr.\)\(-nem\)
+- sisanje — \"sucking\" \(blowjob\)\(psovka\)
+- pljačkati — to rob, plunder, loot \(reg\)
+- buraz — brother in law jeb\*m te u usta \(psovka\)
+- monitor je pod šifru — the monitor is encrypted
+- pretekne — to be enough and more, survive
+- čajnik — teamaker
+- sustina — Essence
+- privremeno — temporally
+- еpsilon — Y \(the letter\)
+- episkop — bishop \[S\]
+- sena — shadow \[E\] ----
+- zaroni — dive in! \(possible curse\)
+- napiti se — to get drunk
+- povraćati — to throw up \(imp\)
+- povratiti — to throw up \(perf\)
+- ćebe — blanket
+- čiko — uncle! ----
+- Solidarnost \(солидарност\) — Solidarity
+- Održivost \(одрживост\) — Sustainability
+- Efikasnost \(ефикасност\) — Efficiency
+- Inovacija \(иновација\) — Innovation
+- Integritet \(интегритет\) — Integrity ----
+- krilo — wing
+- Sloboda \(слобода\) — Freedom
+- Radoznalost \(радозналост\) — Curiosity
+- Poverenje \(поверење\) — Trust
+- Zadovoljstvo \(задовољство\) — Satisfaction
+- Iskustvo \(искуство\) — Experience ----
+- poštovati — respect
+- olakšati\/olakšavati — to make easy
+- Raznolikost \(разноликост\) — Variety
+- Prilagođavanje \(прилагођавање\) — Adaptation
+- Napredak \(напредак\) — Progress
+- Prognoza \(прогноза\) — Forecast
+- Poboljšanje \(побољшање\) — Improvement ----
+- Izvršenje \(извршење\) — Execution
+- Očekivanje \(очекивање\) — Expectation
+- Nepredvidiv \(непредвидив\) — Unpredictable
+- Ograničenje \(ограничење\) — Limitation
+- Podsticanje \(подстицање\) — Encouragement ----
+- buđ — mold
+- Obilazak \(обилазак\) — Tour
+- Odlučnost \(одлучност\) — Determination
+- Uspostavljanje \(успостављање\) — Establishment
+- Izazov \(изазов\) — Challenge
+- Svestran \(свестран\) — Versatile
+- počastiti — treat
+- poslužiti — serve, help yourself
+- mazati se — smudge
+- proslaviti se — to celebrate
+- lupati — throb
+- mahati — wave ----
+- svađati se — to quarrel, argue
+- pohađati — to attend \(school\)
+- rastavljati — to take apart
+- sastavljati — to put back together ----
+- valjati — to be worth something
+- šopingholičar — a shopaholic
+- zastupnik — representative
+- nekvalitetno — poor quality
+- bjesoholičari — madmen \(likes to complain\)
+- svađa — fight, argument, quarrel
+- ljutnja — anger
+- izraziti — express
+- zavisnici — addicts
+- kritikovati — to critisize
+- radoholičar — a workaholic
+- propasti — to collapse, go under, fail
+- ipak — yet, still, however
+- simptomi — symptoms
+- ovisnosti — addictions \[C\]
+- zavisnosti — addictions \[S\]
+- ma važi — #strong[disbelief] yeah sure buddy
+- ma idi — \*#emph[something being said is sarcastic]
+- ma nemoj — you dont say, oh really?
+- ma daj — no way, you\'re kidding me
+- okruženje — environment, surroundings
+- podstaknuti — to influnece, encourage
+- elokvencije — eloquence
+- prisluškivati — eavsdropping, listen in
+- превасходно — primarily
+- засновано — based
+- beži u kur#emph[c — go away into a d]ck
+- navršiti 21 godinu — ill be 21
+- napuniti 21 godinu — ill be 21
+- godište — Year you were born
+- Koje si godište? — what year were you born?
+- naslanjati se — to lean on\/back \(physically\)
+- oslanjati se — to lean on, rely on
+- vijača — jump rope
+- nastavnica — teacher
+- cigani — gypsies
+- ciganski — gypsie \(adj\)
+- prethodno — previous
+- одјекнути — to resonate
+- slabašan — flimsy \(adj\)
+- venac — wreath
+- obići — to visit, go around \(obiđem\)
+- kaiš — dress belt
+- sigurnosni pojas — seat belt
+- cigla — bricks?
+- rukovati se — shake hands?
+- kazniti — to punish
+- obratiti — to refer
+- priručnik — manual
+- sudbina — fate, destiny
+- okolnosti — circumstances
+- olovka za olovku — pencil lead
+- štapići za jelo — chopsticks ----
+- ukrcavati se — to board a train
+- dirati — to touch
+- dirnuti — to touch or move emotionally
+- dodirnuti — to touch lightly or make contact with something for a short time
+- dodirivati — to be touching, in contact with
+- dotaknuti — to deliberately touch, or be in contact with
+- pipati — to touch\/feel with hands \(feeling around for something\)
+- uzbuditi — to excite or arouse
+- pažnja — attention, caution
+- oprez — caution, care
+- izuzetno — exceptionally ----
+- Летње рачунање времена — daylight savings time
+- tragati — to search, quest
+- diskusija — discussion
+- on je pod pritiskom — he is under pressure
+- pritisak — pressure
+- Bošnjak — Bosnian Muslim male
+- Bošnjakinja — Bosnian Muslim female
+- kanađanin — Canadian man
+- kanađanka — Canadian woman
+- bilježnica — notebook \[C\]
+- sveska — notebook \[S\]
+- teka — notebook \[B\]
+- kamen spoticanja — stumbling blocks
+- Ne želim samo da označim polje — I dont want to just check the boz \(mark the field\)
+- raspoložen — moody
+- podneti — to bear something, submit
+- korpa — basket
+- napustiti — to leave, abandon
+- uobraziti — imagine, put an idea in someones head
+- ljubomorna — jealous
+- uvrediti — to offend
+- izuzetak — exception ----
+- čekič — hammer
+- krenimo — let\'s move
+- stani na put — get in the way
+- prilično — pretty much
+- ispričati — to tell a story
+- prijatelju! — friend!
+- nešto za jelo — something to eat
+- hrpa — a bunch
+- kolač — cake
+- sretnem se — i meet
+- poživeti — to live
+- preživeti — survive
+- ima li koga? — Is anyone there? \(is there anyone?\)
+- zarobljavanje — capture
+- statua — statue
+- tako ih je puno — there are so many of them
+- snašao je — he managed
+- ljubimac — a pet
+- za potregu — for the search
+- u sumrak — at dusk
+- ponižavati — to humiliate
+- lemur — lemur
+- maki majmun — lemur \(maki monkey\)
+- aktivirati — to activate
+- pribeti se — pull yourself together
+- u korenu — at the root
+- podigao je ruke — he raised his hands
+- podržavati — supoort, stand by
+- sramotno — shameful, disgraceful, embarrassing
+- ukusan — tasty, flavorful
+- ukus — flavor
+- okus — taste
+- spakovati — to pack
+- maleni — little one! ----
+- premašen — exceeded
+- ratnik — a warrior
+- odvedite njega! — take him away! \(фраза\)
+- pretpostavljam — I suppose
+- pobeći — to escape
+- izbeći — to escape
+- poleteti — to take off
+- uzlet — take off \(Noun\)
+- пешачити — to walk
+- poslužitelj — server, companion
+- prečica — shortcut \[S\]
+- bioluminiscentna — bioluminescent
+- što više, to veselije — the more the merrier! \(фраза\)
+- što dalje, to gore — the further one goes, the worse it gets \(фраза\)
+- treći put častiš — third time you celebrate \(third time is the charm\)
+- smrdeti — to stink \(-im\)
+- tikvice — zucchini
+- po čemu — by what, whereby
+- teren — ground, fields
+- toranj — tower, steeple
+- sm\(j\)eštene — located, placed
+- stol\(j\)eće — century
+- za razliku od njih — Unlike them
+- trenutačno — momentarily \[C\]
+- trenutno — now, momentarily \[B,S\]
+- izjava — statement, declaration
+- obrazovanje — education
+- školovanje — schooling
+- kupaći ogrtač — bath robe
+- haljina — robe \(dress\) ----
+- pedofil — pedophile
+- hronologija — chronology
+- ostati preko noći — stay the night
+- budemo realni — let\'s be realistic \(we\'ll be real\)
+- smaknuti — remove, move, stir \[C?\]
+- interaktovati — to interact
+- barem — at least
+- stup — pillar
+- kockati — to gamble, throw dice
+- kockanje — gambling
+- idealno — ideally
+- pojaviti se — appear
+- maksimalno — maximum
+- jednostavno — simply
+- lagano — easily, slowly, leisurely
+- položiti — lay down, set down
+- spustiti — lay down, set down
+- komad — piece, chunk
+- skužiti — find out, figure out
+- suvremeni — modern, contemporary
+- ovisnost — addiction? \[C\]
+- zavisnost — addiction ----
+- hvala na savetu — thanks for the advise
+- izvorni\/neizvorni — original\/non-original \(native\/nonnative\)
+- dvojezični — bilingual
+- niži srednji stupanj — lower middle level\/grade
+- pričekati — to wait for a certain something \(waiting on something with purpose \)
+- češljati\/počešljati — to comb hair
+- dobivati — to receive, obtain \(repeatedly\)
+- izgovarati — to pronounce
+- kupati se\/okupati se — to bathe \(oneself\)
+- skuhati — to cook \(boil\)
+- razvijati se — to develope
+- skidati — to remove, wipe off
+- umivati se — to wash ones face
+- zatvarati — to close \(imp\)
+- znanost — science
+- umetnost — art
+- Baš me briga za to — I don\'t really care about that
+- fućka mi se za to — I don\'t care about that
+- to mi je zadnja rupa na svirali — that\'s the last hole on my pipe \(idc\)
+- otpustiti — to dismiss
+- odbaciti — to reject, dismiss
+- sebičan — selfish
+- izražavanje — expression \(phrase\) ----
+- Dominikanska republika — Dominican Republic
+- rekcija — rection
+- glagoli — verbs
+- pridev — adjective
+- imenica — noun
+- zamjenica — pronoun
+- od malih nogu — from an early age
+- pogotovo — especially
+- katkad — sometimes
+- čileanac — Chilean
+- tipični — typical
+- srce mi kuca — my heart is beating
+- u dentinjstvu — in childhood
+- predmet — subject
+- tečno — fluently, smoothly
+- zapad — west
+- na sveučilištu — at the university \[C\]
+- oduvek — since forever, from the beginning
+- uz to — besides, along with that
+- osobito — especially \[C?\] ----
+- žlica — spoon \[C\]
+- kašika — spoon \[S\] ----
+- pravednosti — righteousness
+- bede — misery
+- večne namere — eternal intentions
+- pošto — since
+- zveri poljske — beasts of the field
+- ukratko — in short
+- bedan — miserable
+- beskorisno — useless
+- sažaljevati — to pity \(someone\)
+- črvuda — worm?
+- raskrsnica — intersection, crossroad
+- iskrsnuti — comr up, turn up
+- bezobrazan — rude
+- šupak mu je — it\' his a\*\*
+- jebo te krv — f\*\*\* you blood
+- jede govna — eat sh\*\*
+- pocepati — to tear \(reg\)
+- čubora — nickname for Vračar \(area where we live in BG\)
+- abortus — abortion
+- sposobnost — ability
+- above — iznad
+- uzdržljivost — abstinence
+- obilno — abundantly
+- zloupotreba — abuse
+- nesreća — accident
+- slaganje — accordance, aggreeing
+- odgovornost — accountability
+- prilagoditi\/prilagođavati — to adapt, adjust
+- poslužiti\/posluživati — to administer
+- upravnik — administrator
+- usvojen — adopted
+- odrasla osoba — adult
+- preljub — adultery
+- protivnik — adversary \(opponent\)
+- uplašen — afraid
+- losion za posle brijanja — aftershave
+- sloboda izbora — free choice \(agency\)
+- dogovor — agreement
+- prolaz — aisle
+- kornjača — turtle ---- \(eps 21\)
+- kakav gubitnik — what a loser
+- tebi pričam — im talking to you
+- ne možemo nastaviti ovako — we cant continue like this
+- pretvoriti — to convert
+- zaboravi na njega — forget about him
+- očigledno — obviously
+- barutva — ???
+- pravi si šmeker — you are a real player mogla bi se reći da je stvarno luda za mnom
+- proveriti — to check
+- ružna — ugly ----
+- ne može da bude bolje — couldnt be better
+- mali glupan — little fool \(little dumb\*ss\)
+- naslanjati se — to lean oneself on
+- ugovor — contract
+- drugih crkava — of other churches
+- na isti način — in the same way
+- zamolio bih — i would ask that
+- posuda — container
+- kontejner — container
+- pokvariti \(se\)? — to go bad \(food\)
+- užeglo ulje — rancid oil
+- Utovarivac — loader\(tractor\)
+- šuma — forest
+- šumica — little forest
+- graviranje — engraving ----
+- povezati\/povezovati — to bind
+- rastegljiv — stretchy
+- čvrst\/tvrd — firm
+- mek\/mekan — soft
+- jastučnica — pillow case
+- tabla\/ploča — whiteboard
+- okvir za sliku — picture frame
+- polica — shelf\/ledge
+- cevi — pipes
+- dupli dušek?? — twin mattres
+- ????? — night stand
+- naginjati se — lean out ----
+- neuspeh —
+- obezbediti — to provide
+- nek bude kako hoćeš ti — have it your way
+- neka bude tako — let it be so
+- poseta — visit
+- pokrivati — to cover \(material\)
+- prilagoditi se — to adapt
+- odeljci — sections
+- vlaga — humidity \(kinda\) Nove Reči ćale | \"dad\" or \"father\"; an informal, affectionate way to refer to one\'s father. hvala za rastu | \"thanks for the growth\"; \(if meant as \"hvala na rastu\"\). usreo se | \"he\/she met\" or \"he\/she encountered\"; past tense of \"usresti.\" gajbe | \"crates\" or \"boxes\"; plural form of \"gajba,\" referring to containers used for transporting goods. nisam kenjao | \"I wasn\'t joking\" or \"I wasn\'t kidding\"; slang expression emphasizing seriousness. hemoride | \"hemorrhoids\"; swollen veins in the rectum and anus causing discomfort. mišiče | \"muscle\"; refers to muscle tissue in the body. popravka | \"repair\"; the act of fixing something that is broken or damaged. kako me nervira | \"how it annoys me\"; used to express frustration or annoyance. smarati | \"to bore\" or \"to annoy\"; a verb used to describe something that is tedious or tiresome. nabaciti | \"to throw on\" or \"to toss\"; can also mean to casually mention something. pređemo na | \"let\'s move on to\"; used when transitioning to another topic or subject. pokvariti | \"to spoil\" or \"to break\"; refers to causing something to become damaged or ruined. sisanje | \"sucking\"; can refer to the act of sucking, often used informally in a derogatory context. razmišljam o bivšoj | \"I am thinking about my ex\"; used to express thoughts about a former partner. Druže | \"buddy\" or \"mate\"; an informal term used to address a friend or companion. Prekidaj | \"stop it\" or \"cut it out\"; an imperative form telling someone to cease their actions. Promoviše | \"he\/she promotes\"; third-person singular present tense of the verb \"promovisati,\" meaning to promote or advertise. Neka umreo deca | \"let the children die\"; a very harsh and severe statement, often used to express indifference. sklonište | \"shelter\"; a place that provides protection or refuge. Mi smo kao dugari | \"We are like buddies\"; implies a close friendship or camaraderie. okrećati se | \"to turn around\"; refers to the act of rotating or changing direction. Kradiš | \"you steal\"; second-person singular form of the verb \"krasti,\" meaning to steal. Što bacaš pare | \"Why are you throwing away money?\"; used to criticize someone for wasting money. zezalice | \"jokes\"; refers to playful or humorous statements or actions. Prošlao nam je | \"He passed us\"; can imply that someone moved by or disregarded the group. Skini sad | \"Take it off now\"; an imperative form instructing someone to remove something immediately. Prekomplikovan | \"overcomplicated\"; refers to something that is unnecessarily complex or intricate.
+]

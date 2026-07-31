@@ -61,5 +61,7 @@
 #include "chapters/phrases-and-sayings.typ"
 #include "chapters/flirting.typ"
 #include "chapters/psovke.typ"
+#include "chapters/daily-word-lists.typ"
 #include "chapters/resources.typ"
+#include "chapters/english-index.typ"
 #include "chapters/final-thoughts.typ"

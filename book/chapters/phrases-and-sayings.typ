@@ -2,8 +2,7 @@
 
 #runhead("Phrases & Sayings")
 
-#chapter[Phrases and Sayings]
-#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[Everyday idioms]]
+#chapter[Phrases & Sayings]
 #block(above: 0.42em, below: 0.5em)[
 + Prekosutra - Overtomorrow - The day after tomorrow
 + Uzeti s nogu - To take from the feet - To take by surprise
@@ -52,9 +51,7 @@
 + Crni ponedeljak - Black Monday - Stock market crash
 + Bela tehnika - White technology - Home appliances
 ]
-#strong[\*\*\*PHRASES LIKE THIS ARE VERY COMMON TO HEAR AND USEFUL TO KNOW\*\*\*]
-
-#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[Proverbs and sayings]]
+#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[Know\*\*\*]]
 #block(above: 0.42em, below: 0.5em)[
 + Ako ih ne možeš pobijediti, pridruži im se - if you can’t beat them, join them
 + Ako već radiš, radi kako treba - if you’re doing something, do it properly\/if a job is worth doing, it’s worth doing well
@@ -126,7 +123,7 @@
 + Ne niči gdje te ne siju - don\'t sprout where you\'re not planted\/don\'t stick your nose where it doesn\'t belong
 + Ne traži dlaku u jajetu - don\'t look for a hair in the egg\/don\'t be so nitpicky
 + Ne trči pred rudo - don\'t run in front of the carriage\/don\'t jump the gun
-+ Ne valja se s rogatim bosti - it\'s no good to \[text cut off in source — the saying means roughly \"don\'t pick a fight with someone tougher than you \/ don\'t butt heads with the one who has horns\"\] \(check?#degmark \)
++ Ne valja se s rogatim bosti - it’s no good to —--------------------- Certainly! Here\'s the combined list of English translations for the Croatian proverbs and expressions you provided:
 + Ne zna se tko je lud, a tko blesav - It\'s unknown who\'s crazy and who\'s foolish.
 + Ne zna se tko pije, a tko plaća - It\'s unknown who\'s drinking and who\'s paying.
 + Neće grom u koprive - Lightning won\'t strike into stinging nettle.
@@ -228,47 +225,4 @@
 + Željezo se kuje dok je vruće - Iron is forged while it’s hot \(Strike while the iron is hot\).
 + Živi bili pa vidjeli - Stay alive and we\'ll see \(All will be revealed in due time\).
 + Malo sutra - \(When pigs fly\)\(Šefik in Banja Luka says this all the time\)
-]
-#block(above: 1.05em, below: 0.42em)[#text(size: 13pt, weight: "bold")[Everyday expressions you\'ll hear constantly#degmark ]]
-#emph[\(Added below — these aren\'t proverbs, they\'re the small conversational glue that holds everyday Serbian\/Croatian\/Bosnian together. You won\'t find most of these in a dictionary, but you\'ll hear them a dozen times a day. Same double-gloss format as above: literal \/ what it actually means.\)]
-
-#block(above: 0.42em, below: 0.5em)[
-+ Zdravo - health\/hello#degmark 
-+ Ćao - \(borrowed from Italian \"ciao\"\)\/hi or bye, informal#degmark 
-+ Bok - \(archaic \"God\" greeting, still used in Croatian\)\/hi or bye#degmark 
-+ Vidimo se - we see each other\/see you later#degmark 
-+ Laku noć - light night\/good night#degmark 
-+ Prijatno - pleasant\/enjoy, said when leaving a shop, a table, or hanging up on someone politely#degmark 
-+ Nema na čemu - there\'s nothing on which\/you\'re welcome#degmark 
-+ Nema problema - there\'s no problem\/no problem, don\'t worry about it#degmark 
-+ Polako - slowly\/take it easy, no rush, calm down#degmark 
-+ Ma daj - oh, give\/come on, no way, are you kidding me#degmark 
-+ Ma nemoj - oh, don\'t\/you don\'t say, seriously?#degmark 
-+ Ma idi - oh, go\/get out of here, no way \(disbelief\)#degmark 
-+ Ma važi - oh, it\'s valid\/yeah sure, whatever you say \(sarcastic\)#degmark 
-+ Svaka čast - every honor\/well done, respect, hats off to you#degmark 
-+ Bujrum - \(Turkish loanword, \"please\/welcome\"\)\/help yourself, come on in, go ahead#degmark 
-+ Izvoli \/ Izvolite - here you go\/please, go ahead, may I help you, here\'s your thing#degmark 
-+ Živeli \/ Živjeli - long may they live\/cheers! \(toast before drinking\)#degmark 
-+ Nazdravlje - to health\/cheers, or \"bless you\" after a sneeze#degmark 
-+ Đe si \/ Šta ima - where are you \/ what is there\/what\'s up, how\'s it going#degmark 
-+ Kako ide - how does it go\/how\'s it going#degmark 
-+ Sve u redu - everything in order\/all good, all\'s well#degmark 
-+ Ajde - come\/come on, let\'s go, alright then, hurry up#degmark 
-+ Idemo - we go\/let\'s go#degmark 
-+ Šta radiš - what are you doing\/what\'s up, whatcha up to#degmark 
-+ Halo - hello\/how you answer the phone specifically \(not used as a regular greeting\)#degmark 
-+ Ko je? - who is it?\/who\'s calling, who is this#degmark 
-+ Zvaću te - I\'ll call you\/I\'ll call you#degmark 
-+ Nazovi me - call me back\/call me#degmark 
-+ Kasnije te zovem - I\'ll call you later\/talk to you later#degmark 
-+ Ajmo na kafu - let\'s go for coffee\/let\'s grab a coffee, let\'s catch up#degmark 
-+ Sedi, sedi - sit, sit\/come on in, stay a while \(hospitality — never turn down the coffee\)#degmark 
-+ Časti me - treat me\/it\'s your treat, you\'re buying#degmark 
-+ Ja častim - I\'m treating\/this one\'s on me#degmark 
-+ Nije loše \/ Nije bed - it\'s not bad\/it\'s decent, not bad at all#degmark 
-+ Fol\(irati\) - fake\/to pretend, to fake it, \"as if\"#degmark 
-+ Šta je, bre - what is it, \"bro\"\/come on man, seriously \(mild exasperation, very Serbian\)#degmark 
-+ Daj molim te - give, please\/oh please, come on now \(disbelief or annoyance\)#degmark 
-+ Nije bitno - it\'s not important\/doesn\'t matter#degmark 
 ]

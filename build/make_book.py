@@ -21,6 +21,7 @@ ORDER = [
     'psovke',
     'daily-word-lists',
     'resources',
+    'english-index',
     'final-thoughts',
 ]
 

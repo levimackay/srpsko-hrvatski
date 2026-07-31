@@ -546,6 +546,10 @@
   "gender": "(f)"
  },
  {
+  "id": 823,
+  "note": "verbs borrowed like this (-ovati / -isati / -irati) are usually biaspectual — the same form works as (Imp) and (Perf), so context tells you which one you're hearing. Same goes for most of the -ovati verbs in this letter."
+ },
+ {
   "id": 824,
   "gender": "(m)",
   "declension": "(a)"
@@ -665,6 +669,10 @@
   "stress": "dekora*TI*van"
  },
  {
+  "id": 851,
+  "note": "verbs borrowed like this (-ovati / -isati / -irati) are usually biaspectual — the same form works as (Imp) and (Perf), so context tells you which one you're hearing. Same goes for most of the -ovati verbs in this letter."
+ },
+ {
   "id": 852,
   "gender": "(m)",
   "declension": "(Inan)"
@@ -734,6 +742,10 @@
   "gender": "(f)"
  },
  {
+  "id": 870,
+  "note": "verbs borrowed like this (-ovati / -isati / -irati) are usually biaspectual — the same form works as (Imp) and (Perf), so context tells you which one you're hearing. Same goes for most of the -ovati verbs in this letter."
+ },
+ {
   "id": 871,
   "note": "[C] would say demobilizirati – demobiliziram."
  },
@@ -769,6 +781,14 @@
   "id": 878,
   "gender": "(m)",
   "declension": "(Anim)"
+ },
+ {
+  "id": 879,
+  "note": "verbs borrowed like this (-ovati / -isati / -irati) are usually biaspectual — the same form works as (Imp) and (Perf), so context tells you which one you're hearing. Same goes for most of the -ovati verbs in this letter. [S] also says demonstrovati."
+ },
+ {
+  "id": 880,
+  "note": "verbs borrowed like this (-ovati / -isati / -irati) are usually biaspectual — the same form works as (Imp) and (Perf), so context tells you which one you're hearing. Same goes for most of the -ovati verbs in this letter. [C] says demoralizirati."
  },
  {
   "id": 882,
@@ -920,6 +940,10 @@
   "id": 920,
   "stress": "deti*NJA*rija",
   "gender": "(f)"
+ },
+ {
+  "id": 921,
+  "example": "ne budi detinjast - don't be childish"
  },
  {
   "id": 922,
@@ -1595,6 +1619,10 @@
   "gender": "(f)"
  },
  {
+  "id": 1082,
+  "stress": "dog*MA*tičan"
+ },
+ {
   "id": 1083,
   "stress": "dogma*TI*zam",
   "gender": "(m)"
@@ -1943,6 +1971,14 @@
   "gender": "(Noun)"
  },
  {
+  "id": 1168,
+  "note": "you'll run into the negative far more than the positive — nedostižan, out of reach."
+ },
+ {
+  "id": 1169,
+  "note": "it takes the genitive after it: dostojan poštovanja, worthy of respect."
+ },
+ {
   "id": 1170,
   "note": "nothing tricky here despite the ??? — dostojanstven is just the adjective off dostojanstvo: carrying yourself with dignity."
  },
@@ -2123,9 +2159,17 @@
   "declension": "(Inan) (e)"
  },
  {
+  "id": 1220,
+  "stress": "*DREM*ljiv"
+ },
+ {
   "id": 1221,
   "gender": "(m)",
   "declension": "(Anim)"
+ },
+ {
+  "id": 1222,
+  "note": "verbs borrowed like this (-ovati / -isati / -irati) are usually biaspectual — the same form works as (Imp) and (Perf), so context tells you which one you're hearing. Same goes for most of the -ovati verbs in this letter."
  },
  {
   "id": 1223,

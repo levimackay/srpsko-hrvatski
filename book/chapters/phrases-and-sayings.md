@@ -1,6 +1,4 @@
-# Phrases and Sayings
-
-## Everyday idioms
+# Phrases & Sayings
 
 1. Prekosutra - Overtomorrow - The day after tomorrow
 2. Uzeti s nogu - To take from the feet - To take by surprise
@@ -49,9 +47,7 @@
 45. Crni ponedeljak - Black Monday - Stock market crash
 46. Bela tehnika - White technology - Home appliances
 
-**\*\*\*PHRASES LIKE THIS ARE VERY COMMON TO HEAR AND USEFUL TO KNOW\*\*\***
-
-## Proverbs and sayings
+## Know***
 
 1. Ako ih ne možeš pobijediti, pridruži im se - if you can’t beat them, join them
 2. Ako već radiš, radi kako treba - if you’re doing something, do it properly/if a job is worth doing, it’s worth doing well
@@ -123,7 +119,7 @@
 68. Ne niči gdje te ne siju - don't sprout where you're not planted/don't stick your nose where it doesn't belong
 69. Ne traži dlaku u jajetu - don't look for a hair in the egg/don't be so nitpicky
 70. Ne trči pred rudo - don't run in front of the carriage/don't jump the gun
-71. Ne valja se s rogatim bosti - it's no good to [text cut off in source — the saying means roughly "don't pick a fight with someone tougher than you / don't butt heads with the one who has horns"] (check?°)
+71. Ne valja se s rogatim bosti - it’s no good to —--------------------- Certainly! Here's the combined list of English translations for the Croatian proverbs and expressions you provided:
 72. Ne zna se tko je lud, a tko blesav - It's unknown who's crazy and who's foolish.
 73. Ne zna se tko pije, a tko plaća - It's unknown who's drinking and who's paying.
 74. Neće grom u koprive - Lightning won't strike into stinging nettle.
@@ -226,45 +222,3 @@
 171. Živi bili pa vidjeli - Stay alive and we'll see (All will be revealed in due time).
 172. Malo sutra - (When pigs fly)(Šefik in Banja Luka says this all the time)
 
-## Everyday expressions you'll hear constantly°
-
-*(Added below — these aren't proverbs, they're the small conversational glue that holds everyday Serbian/Croatian/Bosnian together. You won't find most of these in a dictionary, but you'll hear them a dozen times a day. Same double-gloss format as above: literal / what it actually means.)*
-
-1. Zdravo - health/hello°
-2. Ćao - (borrowed from Italian "ciao")/hi or bye, informal°
-3. Bok - (archaic "God" greeting, still used in Croatian)/hi or bye°
-4. Vidimo se - we see each other/see you later°
-5. Laku noć - light night/good night°
-6. Prijatno - pleasant/enjoy, said when leaving a shop, a table, or hanging up on someone politely°
-7. Nema na čemu - there's nothing on which/you're welcome°
-8. Nema problema - there's no problem/no problem, don't worry about it°
-9. Polako - slowly/take it easy, no rush, calm down°
-10. Ma daj - oh, give/come on, no way, are you kidding me°
-11. Ma nemoj - oh, don't/you don't say, seriously?°
-12. Ma idi - oh, go/get out of here, no way (disbelief)°
-13. Ma važi - oh, it's valid/yeah sure, whatever you say (sarcastic)°
-14. Svaka čast - every honor/well done, respect, hats off to you°
-15. Bujrum - (Turkish loanword, "please/welcome")/help yourself, come on in, go ahead°
-16. Izvoli / Izvolite - here you go/please, go ahead, may I help you, here's your thing°
-17. Živeli / Živjeli - long may they live/cheers! (toast before drinking)°
-18. Nazdravlje - to health/cheers, or "bless you" after a sneeze°
-19. Đe si / Šta ima - where are you / what is there/what's up, how's it going°
-20. Kako ide - how does it go/how's it going°
-21. Sve u redu - everything in order/all good, all's well°
-22. Ajde - come/come on, let's go, alright then, hurry up°
-23. Idemo - we go/let's go°
-24. Šta radiš - what are you doing/what's up, whatcha up to°
-25. Halo - hello/how you answer the phone specifically (not used as a regular greeting)°
-26. Ko je? - who is it?/who's calling, who is this°
-27. Zvaću te - I'll call you/I'll call you°
-28. Nazovi me - call me back/call me°
-29. Kasnije te zovem - I'll call you later/talk to you later°
-30. Ajmo na kafu - let's go for coffee/let's grab a coffee, let's catch up°
-31. Sedi, sedi - sit, sit/come on in, stay a while (hospitality — never turn down the coffee)°
-32. Časti me - treat me/it's your treat, you're buying°
-33. Ja častim - I'm treating/this one's on me°
-34. Nije loše / Nije bed - it's not bad/it's decent, not bad at all°
-35. Fol(irati) - fake/to pretend, to fake it, "as if"°
-36. Šta je, bre - what is it, "bro"/come on man, seriously (mild exasperation, very Serbian)°
-37. Daj molim te - give, please/oh please, come on now (disbelief or annoyance)°
-38. Nije bitno - it's not important/doesn't matter°

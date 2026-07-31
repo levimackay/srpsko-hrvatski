@@ -107,10 +107,16 @@ for e in entries:
     add = []
     if ex.get('stress') and not STRESS_RE.search(e['raw']):
         add.append(f'#g(stress("{ex["stress"]}"))')
+    # His "(Noun)" means neuter in the key but part-of-speech in the D-block,
+    # so pos and gender can both come back "(Noun)". Dedupe against his text
+    # and against each other.
+    seen_vals = set()
     for k in ('pos', 'gender', 'aspect', 'declension'):
-        v = ex.get(k)
-        if v and str(v).strip() and str(v) not in body_src:
-            add.append('#g(marker[' + esc(str(v)) + '])')
+        v = str(ex.get(k) or '').strip()
+        if not v or v in body_src or v in seen_vals:
+            continue
+        seen_vals.add(v)
+        add.append('#g(marker[' + esc(v) + '])')
     if ex:
         n_filled += 1
 
