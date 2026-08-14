@@ -2,3 +2,8 @@ book/_*.typ
 book/_*.pdf
 book/_*.png
 build/*.pdf
+
+# Working notes, kept local
+BRIEF.md
+FOR-LEVI.md
+RESUME.md

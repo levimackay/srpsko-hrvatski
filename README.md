@@ -78,8 +78,12 @@ The other scripts in `build/` each do one stage:
 
 ## Reading the output
 
-`FOR-LEVI.md` is the flag list: 873 notes, of which 86 look like real errors in the original. Bad glosses, swapped aspects, missing diacritics, duplicate headwords, and places where PDF extraction glued two entries together. Nothing on that list was changed in the book. It is a checklist, not a changelog.
+`make_errata.py` produces a flag list: 873 notes, of which 86 look like real errors in the original. Bad glosses, swapped aspects, missing diacritics, duplicate headwords, and places where PDF extraction glued two entries together. Nothing on that list is changed in the book. It is a checklist, not a changelog.
 
-`RESUME.md` is the build status and the ground rules that were held to.
+Every field filled in by the enrichment pass is marked with `°` in the book. Unmarked text is mine.
+
+## License
+
+The dictionary and the prose chapters are my own work, compiled in the field between July 2022 and July 2024. Copyright is retained and no license to reuse the content is granted. If you want to cite it or use part of it, open an issue and ask.
 
 **Last updated:** 2026-08-13 15:05 MDT
