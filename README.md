@@ -16,7 +16,7 @@ akuratan |aku*RA*tan|° exact, regular (adj)(m)°
          added                          added
 ```
 
-Nothing in the original was edited. Where something looked wrong it was flagged rather than fixed, including one stress mark that contradicts the book's own rule about final syllables. A blank field is honest; a confident wrong answer is not. `BRIEF.md` has the full ruleset, the notation reference, and the language constraints the build had to respect.
+Nothing in the original was edited. Where something looked wrong it was flagged rather than fixed, including one stress mark that contradicts the book's own rule about final syllables. A blank field is honest; a confident wrong answer is not. The notation itself, every marker and what it means, is documented inside the book, in the How to Read an Entry chapter (`book/chapters/how-to-use.md`).
 
 ## What is in the dictionary
 
@@ -86,4 +86,4 @@ Every field filled in by the enrichment pass is marked with `°` in the book. Un
 
 The dictionary and the prose chapters are my own work, compiled in the field between July 2022 and July 2024. Copyright is retained and no license to reuse the content is granted. If you want to cite it or use part of it, open an issue and ask.
 
-**Last updated:** 2026-08-13 15:05 MDT
+**Last updated:** 2026-08-13 20:26 MDT
