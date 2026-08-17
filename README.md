@@ -87,4 +87,3 @@ Every field filled in by the enrichment pass is marked with `°` in the book. Un
 The dictionary and the prose chapters are my own work, compiled in the field between July 2022 and July 2024. Copyright is retained and no license to reuse the content is granted. If you want to cite it or use part of it, open an issue and ask.
 
 **Last updated:** 2026-08-17 10:02 MDT
-
