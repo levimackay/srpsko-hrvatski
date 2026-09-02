@@ -23,7 +23,7 @@ Nothing in the original was edited. Where something looked wrong it was flagged 
 | | count |
 |---|---:|
 | Total entries | 5,709 |
-| From the original dictionary | 4,047 |
+| From the original dictionary | 4,092 |
 | Folded in from the daily word sheets | 1,608 |
 | Added to fill outright gaps (all marked °) | 54 |
 | Marked blue, "might need more love" | 2,350 |
