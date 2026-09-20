@@ -76,6 +76,8 @@ The other scripts in `build/` each do one stage:
 | `make_errata.py` | produces the flag list |
 | `restore_lists.py` | list restoration pass |
 
+Only `make_book.py` and Typst are needed to rebuild the book. `md2typ.py` needs the `mistune` package. `merge_daily.py` needs `pdfminer` and reads the original PDF from a hardcoded path in a Downloads folder that is not part of this repo, then rewrites `data/entries.json` in place. That merge is already applied to the committed data.
+
 ## Reading the output
 
 `make_errata.py` produces a flag list: 873 notes, of which 86 look like real errors in the original. Bad glosses, swapped aspects, missing diacritics, duplicate headwords, and places where PDF extraction glued two entries together. Nothing on that list is changed in the book. It is a checklist, not a changelog.
